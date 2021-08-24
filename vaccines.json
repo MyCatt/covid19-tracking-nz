@@ -1,0 +1,20 @@
+{
+    "size": 3,
+    "body": [
+        {
+            "Category": "First dose administered",
+            "Vaccinations yesterday": "44250",
+            "Cumulative total": "1824418"
+        },
+        {
+            "Category": "Second dose administered",
+            "Vaccinations yesterday": "19082",
+            "Cumulative total": "1026982"
+        },
+        {
+            "Category": "Total doses administered",
+            "Vaccinations yesterday": "63333",
+            "Cumulative total": "2851401"
+        }
+    ]
+}
