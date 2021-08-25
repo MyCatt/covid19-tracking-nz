@@ -1,7 +1,47 @@
 {
-    "size": 491,
-    "added": "2021-08-25 22:00:44.039372",
+    "size": 494,
+    "added": "2021-08-25 23:01:01.123525",
     "body": [
+        {
+            "Location name": "Whitaker Hall University of Auckland Grafton Campus",
+            "Address": "27 Whitaker Place, Grafton, Auckland 1010",
+            "Day": "Friday 13 August",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Residents and staff Isolate 14 days from last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline. Visitors monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you test negative.",
+            "Updated": "26 Aug 10:00 am"
+        },
+        {
+            "Location name": "City Fitness Wairau Park",
+            "Address": "170 Wairau Road, Wairau Valley, Auckland 0627",
+            "Day": "Tuesday 10 August",
+            "Times": "8:00 pm - 10:30 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 10:00 am"
+        },
+        {
+            "Location name": "Rugby game at De La Salle Mangere",
+            "Address": "81 Gray Avenue, Mangere, Auckland 2024",
+            "Day": "Saturday 14 August",
+            "Times": "9:00 am - 12:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 10:00 am"
+        },
+        {
+            "Location name": "Countdown Westgate Shopping Centre Massey",
+            "Address": "Corner Westgate and Fernhill Drive, Massey, Auckland 0614",
+            "Day": "Thursday 19 August",
+            "Times": "6:00 am - 2:30 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "26 Aug 10:00 am"
+        },
+        {
+            "Location name": "Countdown Westgate Shopping Centre Massey",
+            "Address": "Cnr Westgate &, Fernhill Drive, Massey, Auckland 0614",
+            "Day": "Saturday 21 August",
+            "Times": "6:00 am - 11:30 am",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "26 Aug 10:00 am"
+        },
         {
             "Location name": "Manukau Super Strike Bowling Auckland",
             "Address": "573 Great South Road, Manukau, Auckland 2104",
@@ -447,14 +487,6 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 10 August",
             "Times": "10:45 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 4:00 pm"
-        },
-        {
-            "Location name": "City Fitness Wairau Park",
-            "Address": "170 Wairau Road, Wairau Valley, Auckland 0627",
-            "Day": "Tuesday 10 August",
-            "Times": "8:00 pm - 10:30 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "25 Aug 4:00 pm"
         },
@@ -2720,14 +2752,6 @@
             "Day": "Friday 13 August",
             "Times": "4:30 pm - 4:50 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "Whitaker Hall University of Auckland Grafton Campus",
-            "Address": "27 Whitaker Place, Grafton, Auckland 1010",
-            "Day": "Friday 13 August",
-            "Times": "12:00 am - 11:59 pm",
-            "What to do": "Residents and staff Isolate 14 days from last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline. Visitors monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you test negative.",
             "Updated": "22 Aug 9:00 am"
         },
         {
