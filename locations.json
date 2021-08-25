@@ -1,7 +1,31 @@
 {
     "size": 491,
-    "added": "2021-08-25 20:00:50.968756",
+    "added": "2021-08-25 21:00:49.204224",
     "body": [
+        {
+            "Location name": "Manukau Super Strike Bowling Auckland",
+            "Address": "573 Great South Road, Manukau, Auckland 2104",
+            "Day": "Saturday 14 August",
+            "Times": "2:00 pm - 4:30 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 8:00 am"
+        },
+        {
+            "Location name": "Gangnam Style Korean BBQ Buffet Manukau Auckland",
+            "Address": "726 Great South Road, Manukau, Auckland 2104",
+            "Day": "Saturday 14 August",
+            "Times": "7:15 pm - 8:45 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 8:00 am"
+        },
+        {
+            "Location name": "McAuley High School Otahuhu",
+            "Address": "26 High Street, Otahuhu, Auckland 1062",
+            "Day": "Tuesday 17 August",
+            "Times": "8:15 am - 3:45 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 8:00 am"
+        },
         {
             "Location name": "McAuley High School Otahuhu",
             "Address": "26 High Street, Otahuhu, Auckland 1062",
@@ -223,14 +247,6 @@
             "Address": "108 Great South Road, Takanini, Auckland 2112",
             "Day": "Saturday 14 August",
             "Times": "9:00 am - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 6:00 pm"
-        },
-        {
-            "Location name": "McAuley High School Otahuhu",
-            "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
-            "Day": "Tuesday 17 August",
-            "Times": "8:15 am - 3:45 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "25 Aug 6:00 pm"
         },
@@ -2515,14 +2531,6 @@
             "Updated": "22 Aug 9:00 am"
         },
         {
-            "Location name": "Gangnam Style Korean BBQ Buffet Manakau Auckland",
-            "Address": "726 Great South Road, Manukau, Auckland 2104",
-            "Day": "Saturday 14 August",
-            "Times": "7:15 pm - 8:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
             "Location name": "BP Gas Station Coromandel",
             "Address": "50 Tiki Road, Coromandel 3056",
             "Day": "Saturday 14 August",
@@ -2967,14 +2975,6 @@
             "Address": "4/255 Browns Road, Manurewa, Auckland 2103",
             "Day": "Sunday 15 August",
             "Times": "1:00 pm - 1:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "21 Aug 9:00 am"
-        },
-        {
-            "Location name": "Manakau Super Strike Bowling Auckland",
-            "Address": "573 Great South Road, Manukau, Auckland 2104",
-            "Day": "Saturday 14 August",
-            "Times": "2:00 pm - 4:30 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "21 Aug 9:00 am"
         },
