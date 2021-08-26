@@ -1,7 +1,47 @@
 {
-    "size": 495,
-    "added": "2021-08-26 02:01:15.807422",
+    "size": 496,
+    "added": "2021-08-26 03:01:09.754489",
     "body": [
+        {
+            "Location name": "University of Auckland, STATS101: Building 260 Room 115 OGGB Fisher and Paykel lecture theatre City Campus",
+            "Address": "12 Grafton Road, Auckland Central, Auckland 1010",
+            "Day": "Friday 13 August",
+            "Times": "12:00 pm - 2:00 pm",
+            "What to do": "All at Statistics 101; Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 2:00 pm"
+        },
+        {
+            "Location name": "University of Auckland OPTOM 272B Building 503 Room 124 Grafton Campus",
+            "Address": "85 Park Road, Grafton, Auckland 1023",
+            "Day": "Monday 16 August",
+            "Times": "9:00 am - 11:00 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Otahuhu College",
+            "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
+            "Day": "Tuesday 17 August",
+            "Times": "8:30 am - 3:15 pm",
+            "What to do": "Isolation at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
+            "Updated": "26 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Otahuhu College",
+            "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
+            "Day": "Monday 16 August",
+            "Times": "8:30 am - 4:00 pm",
+            "What to do": "Isolation at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
+            "Updated": "26 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Greenlane Clinical Centre Epsom",
+            "Address": "214 Green Lane West, Epsom, Auckland 1051",
+            "Day": "Tuesday 17 August",
+            "Times": "11:00 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days from date of last exposure.If symptoms develop, get test and stay at home until you get a negative test result & until 24hrs after symptoms resolve.If contacted by ADHB, MOH or PHU please follow their advice.",
+            "Updated": "26 Aug 2:00 pm"
+        },
         {
             "Location name": "McAuley High School Otahuhu",
             "Address": "26 High Street, Otahuhu, Auckland 1062",
@@ -128,22 +168,6 @@
             "Day": "Friday 13 August",
             "Times": "6:00 pm - 9:45 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Otahuhu College",
-            "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
-            "Day": "Tuesday 17 August",
-            "Times": "8:30 am - 3:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
-            "Updated": "25 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Otahuhu College",
-            "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
-            "Day": "Monday 16 August",
-            "Times": "8:30 am - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
             "Updated": "25 Aug 8:00 pm"
         },
         {
@@ -591,14 +615,6 @@
             "Address": "Westfield Street, St Lukes, Mt Albert, Auckland",
             "Day": "Tuesday 17 August",
             "Times": "2:15 pm - 3:10 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 2:00 pm"
-        },
-        {
-            "Location name": "University of Auckland OPTOM 272B Building 503 Room 124 Grafton Campus",
-            "Address": "85 Park Road, Grafton, Auckland 1023",
-            "Day": "Monday 16 August",
-            "Times": "9:00 am - 11:00 am",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "25 Aug 2:00 pm"
         },
@@ -2776,14 +2792,6 @@
             "Day": "Friday 13 August",
             "Times": "11:43 pm - 1:13 am",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "University of Auckland, STATS101: Building 260 Room 115 OGGB Fisher and Paykel lecture theatre City Campus",
-            "Address": "12 Grafton Road, Auckland Central, Auckland 1010",
-            "Day": "Friday 13 August",
-            "Times": "12:00 pm - 2:00 pm",
-            "What to do": "All at Statistics 101; Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "22 Aug 9:00 am"
         },
         {
