@@ -1,7 +1,119 @@
 {
-    "size": 497,
-    "added": "2021-08-26 06:08:21.397442",
+    "size": 499,
+    "added": "2021-08-26 06:20:20.933562",
     "body": [
+        {
+            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
+            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Caltex Blockhouse Bay",
+            "Address": "505 Blockhouse Bay Road, Blockhouse Bay, Auckland 0600",
+            "Day": "Thursday 19 August",
+            "Times": "11:00 pm - 12:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Otahuhu College",
+            "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
+            "Day": "Tuesday 17 August",
+            "Times": "8:30 am - 3:15 pm",
+            "What to do": "Isolation at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Rugby game at De La Salle Mangere",
+            "Address": "81 Gray Avenue, Mangere, Auckland 2024",
+            "Day": "Saturday 14 August",
+            "Times": "9:00 am - 12:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
+            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
+            "Day": "Saturday 14 August",
+            "Times": "4:30 pm - 5:15 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
+            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
+            "Day": "Friday 13 August",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Waiparuru Dining Hall University of Auckland Grafton Campus",
+            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
+            "Day": "Monday 16 August",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
+            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
+            "Day": "Sunday 15 August",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Farro Grey Lynn",
+            "Address": "34 Westmoreland Street West, Grey Lynn, Auckland 1021",
+            "Day": "Wednesday 18 August",
+            "Times": "4:33 pm - 4:45 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
+            "Address": "Auckland",
+            "Day": "Tuesday 17 August",
+            "Times": "10:05 am - 10:25 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Wellesley St to Constellation Drive",
+            "Address": "Auckland",
+            "Day": "Friday 13 August",
+            "Times": "4:25 pm - 4:50 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Unichem Bairds Pharmacy Otara",
+            "Address": "3 Watford Street, Otara, Auckland 2023",
+            "Day": "Tuesday 17 August",
+            "Times": "1:45 pm - 3:40 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on day 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Kowhai Superette Otahuhu",
+            "Address": "89 Princes Street, Otahuhu, Auckland 1062",
+            "Day": "Tuesday 17 August",
+            "Times": "9:30 am - 9:45 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
+        {
+            "Location name": "Turuki Healthcare Mangere",
+            "Address": "2/32 Canning Crescent, Mangere, Auckland 2022",
+            "Day": "Monday 16 August",
+            "Times": "10:30 am - 12:30 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "26 Aug 6:00 pm"
+        },
         {
             "Location name": "The Cosmetic Clinic, West City, Henderson",
             "Address": "7 Catherine Street, Henderson, Auckland 0612",
@@ -32,14 +144,6 @@
             "Day": "Tuesday 17 August",
             "Times": "11:00 am - 1:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days from date of last exposure.If symptoms develop, get test and stay at home until you get a negative test result & until 24hrs after symptoms resolve.If contacted by ADHB, MOH or PHU please follow their advice.",
-            "Updated": "26 Aug 4:00 pm"
-        },
-        {
-            "Location name": "Farro Grey Lynn",
-            "Address": "34 Westmoreland Street West, Grey Lynn, Auckland 1021",
-            "Day": "Wednesday 18 August",
-            "Times": "4:33 pm - 4:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -123,22 +227,6 @@
             "Updated": "26 Aug 4:00 pm"
         },
         {
-            "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
-            "Address": "Auckland",
-            "Day": "Tuesday 17 August",
-            "Times": "10:05 am - 10:25 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "26 Aug 4:00 pm"
-        },
-        {
-            "Location name": "Bus NX2 Wellesley St to Constellation Drive",
-            "Address": "Auckland",
-            "Day": "Friday 13 August",
-            "Times": "4:25 pm - 4:50 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "26 Aug 4:00 pm"
-        },
-        {
             "Location name": "Bus NX2 Wellesley St to Constellation Drive",
             "Address": "Auckland",
             "Day": "Wednesday 11 August",
@@ -152,14 +240,6 @@
             "Day": "Tuesday 17 August",
             "Times": "6:13 pm - 7:41 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "26 Aug 4:00 pm"
-        },
-        {
-            "Location name": "Unichem Bairds Pharmacy Otara",
-            "Address": "3 Watford Street, Otara, Auckland 2023",
-            "Day": "Tuesday 17 August",
-            "Times": "2:30 pm - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on day 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -211,14 +291,6 @@
             "Updated": "26 Aug 2:00 pm"
         },
         {
-            "Location name": "Otahuhu College",
-            "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
-            "Day": "Tuesday 17 August",
-            "Times": "8:30 am - 3:15 pm",
-            "What to do": "Isolation at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
-            "Updated": "26 Aug 2:00 pm"
-        },
-        {
             "Location name": "The Warehouse West City Waitakere",
             "Address": "7 Catherine Street, Henderson, Auckland 0612",
             "Day": "Friday 13 August",
@@ -231,14 +303,6 @@
             "Address": "170 Wairau Road, Wairau Valley, Auckland 0627",
             "Day": "Tuesday 10 August",
             "Times": "8:00 pm - 10:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "26 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Rugby game at De La Salle Mangere",
-            "Address": "81 Gray Avenue, Mangere, Auckland 2024",
-            "Day": "Saturday 14 August",
-            "Times": "9:00 am - 12:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "26 Aug 12:00 pm"
         },
@@ -1403,14 +1467,6 @@
             "Updated": "23 Aug 8:00 pm"
         },
         {
-            "Location name": "Caltex Blockhouse Bay",
-            "Address": "505 Blockhouse Bay Road, Blockhouse Bay, Auckland 0600",
-            "Day": "Thursday 19 August",
-            "Times": "11:15 pm - 11:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "23 Aug 8:00 pm"
-        },
-        {
             "Location name": "Bus 001 McAuley School to Robertson Road Favona",
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
@@ -2059,22 +2115,6 @@
             "Updated": "22 Aug 1:00 pm"
         },
         {
-            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
-            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
-            "Day": "Sunday 15 August",
-            "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 1:00 pm"
-        },
-        {
-            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
-            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
-            "Day": "Tuesday 17 August",
-            "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 1:00 pm"
-        },
-        {
             "Location name": "Pukekohe High School",
             "Address": "14 Harris Street, Pukekohe, Pukekohe 2120",
             "Day": "Tuesday 17 August",
@@ -2087,30 +2127,6 @@
             "Address": "14 Harris Street, Pukekohe, Pukekohe 2120",
             "Day": "Monday 16 August",
             "Times": "8:00 am - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 1:00 pm"
-        },
-        {
-            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
-            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
-            "Day": "Saturday 14 August",
-            "Times": "4:30 pm - 5:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 1:00 pm"
-        },
-        {
-            "Location name": "Waiparuru Dining Hall Grafton Campus University of Auckland",
-            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
-            "Day": "Friday 13 August",
-            "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 1:00 pm"
-        },
-        {
-            "Location name": "Waiparuru Dining Hall University of Auckland Grafton Campus",
-            "Address": "35 Whitaker Place, Grafton, Auckland 1010",
-            "Day": "Monday 16 August",
-            "Times": "6:00 pm - 7:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "22 Aug 1:00 pm"
         },
