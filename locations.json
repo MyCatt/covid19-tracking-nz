@@ -1,21 +1,45 @@
 {
     "size": 504,
-    "added": "2021-08-27 02:20:23.222874",
+    "added": "2021-08-27 02:40:16.586691",
     "body": [
+        {
+            "Location name": "De La Salle College",
+            "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
+            "Day": "Monday 16 August",
+            "Times": "8:00 am - 3:30 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "27 Aug 2:00 pm"
+        },
+        {
+            "Location name": "De La Salle College",
+            "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
+            "Day": "Tuesday 17 August",
+            "Times": "8:00 am - 3:30 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "27 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Silverdale Clinic Pharmacy",
+            "Address": "7 Polarity Rise, Silverdale 0932",
+            "Day": "Thursday 19 August",
+            "Times": "12:20 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Wholesale Meats Direct Otara",
+            "Address": "257 East Tamaki Road, Otara, Auckland 2023",
+            "Day": "Saturday 21 August",
+            "Times": "10:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Aug 2:00 pm"
+        },
         {
             "Location name": "Shop and Save Mangere",
             "Address": "18 Mangere Town Square, Mangere, Auckland 2022",
             "Day": "Tuesday 24 August",
             "Times": "6:00 pm - 6:30 pm",
             "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
-            "Updated": "27 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Wholesale Meats Direct",
-            "Address": "257 East Tamaki Road, Otara, Auckland 2023",
-            "Day": "Saturday 21 August",
-            "Times": "10:00 am - 12:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Aug 12:00 pm"
         },
         {
@@ -139,14 +163,6 @@
             "Updated": "26 Aug 8:00 pm"
         },
         {
-            "Location name": "De La Salle College",
-            "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
-            "Day": "Tuesday 17 August",
-            "Times": "8:00 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, if not already tested. Household members to isolate until negative test received",
-            "Updated": "26 Aug 8:00 pm"
-        },
-        {
             "Location name": "Katsubi West City",
             "Address": "7 Catherine Street, Henderson, Auckland 0612",
             "Day": "Friday 13 August",
@@ -195,14 +211,6 @@
             "Updated": "26 Aug 8:00 pm"
         },
         {
-            "Location name": "De La Salle College",
-            "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
-            "Day": "Monday 16 August",
-            "Times": "8:00 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, if not already tested. Household members to isolate until negative test received",
-            "Updated": "26 Aug 8:00 pm"
-        },
-        {
             "Location name": "AUT City Campus WS Building Room WS416",
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
@@ -232,14 +240,6 @@
             "Day": "Monday 16 August",
             "Times": "4:30 pm - 9:45 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
-            "Updated": "26 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Unichem Pharmacy Silverdale",
-            "Address": "25/61 Silverdale Street, Silverdale 0932",
-            "Day": "Thursday 19 August",
-            "Times": "12:20 pm - 1:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
