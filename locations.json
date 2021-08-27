@@ -1,7 +1,55 @@
 {
-    "size": 498,
-    "added": "2021-08-27 00:01:42.181305",
+    "size": 504,
+    "added": "2021-08-27 00:20:36.646858",
     "body": [
+        {
+            "Location name": "Shop and Save Mangere",
+            "Address": "18 Mangere Town Square, Mangere, Auckland 2022",
+            "Day": "Tuesday 24 August",
+            "Times": "6:00 pm - 6:30 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "27 Aug 12:00 pm"
+        },
+        {
+            "Location name": "Wholesale Meats Direct",
+            "Address": "257 East Tamaki Road, Otara, Auckland 2023",
+            "Day": "Saturday 21 August",
+            "Times": "10:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Aug 12:00 pm"
+        },
+        {
+            "Location name": "Pacific Advance Secondary School Otahuhu",
+            "Address": "42 Atkinson Avenue, Otahuhu, Auckland 1062",
+            "Day": "Tuesday 17 August",
+            "Times": "8:00 am - 3:15 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "27 Aug 12:00 pm"
+        },
+        {
+            "Location name": "University of Auckland Department of Mathematics City Campus",
+            "Address": "38 Princes Street, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "9:22 am - 5:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "27 Aug 12:00 pm"
+        },
+        {
+            "Location name": "Mascot Ave Dairy Mangere",
+            "Address": "51 Mascot Avenue, Mangere, Auckland 2022",
+            "Day": "Tuesday 24 August",
+            "Times": "6:30 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Aug 12:00 pm"
+        },
+        {
+            "Location name": "Pacific Fresh Mangere",
+            "Address": "423 Roscommon Road, Clendon Park, Auckland 2103",
+            "Day": "Saturday 21 August",
+            "Times": "2:00 pm - 2:30 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "27 Aug 12:00 pm"
+        },
         {
             "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
             "Address": "Auckland",
