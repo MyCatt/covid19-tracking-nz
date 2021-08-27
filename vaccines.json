@@ -1,24 +1,24 @@
 {
     "size": 3,
-    "added": "2021-08-27 01:40:21.003973",
+    "added": "2021-08-27 02:01:16.473039",
     "body": [
         {
             "Category": "First dose administered",
-            "Vaccinations yesterday": "61,755",
-            "Cumulative total": "1,945,595",
-            "Cumulative doses\n\t\t\tper 1000 people": "462"
+            "Vaccinations yesterday": "65,541",
+            "Cumulative total": "2,012,766",
+            "Cumulative doses\n\t\t\tper 1000 people": "478"
         },
         {
             "Category": "Second dose administered",
-            "Vaccinations yesterday": "26,217",
-            "Cumulative total": "1,076,761",
-            "Cumulative doses\n\t\t\tper 1000 people": "256"
+            "Vaccinations yesterday": "25,216",
+            "Cumulative total": "1,102,158",
+            "Cumulative doses\n\t\t\tper 1000 people": "262"
         },
         {
             "Category": "Total doses administered",
-            "Vaccinations yesterday": "87,972",
-            "Cumulative total": "3,022,357",
-            "Cumulative doses\n\t\t\tper 1000 people": "718"
+            "Vaccinations yesterday": "90,757",
+            "Cumulative total": "3,114,925",
+            "Cumulative doses\n\t\t\tper 1000 people": "740"
         }
     ]
 }
