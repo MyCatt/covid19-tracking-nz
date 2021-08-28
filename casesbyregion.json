@@ -1,14 +1,14 @@
 {
     "size": 22,
-    "added": "2021-08-27 03:20:24.908348",
+    "added": "2021-08-28 18:21:37.174580",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "75",
+            "Active": "94",
             "Recovered": "225",
             "Deceased": "1",
-            "Total": "301",
-            "Change in last 24 hours": "15"
+            "Total": "320",
+            "Change in last 24 hours": "19"
         },
         {
             "Location": "Bay of Plenty",
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "171",
+            "Active": "219",
             "Recovered": "231",
             "Deceased": "1",
-            "Total": "403",
-            "Change in last 24 hours": "41"
+            "Total": "451",
+            "Change in last 24 hours": "48"
         },
         {
             "Location": "Hawke's Bay",
@@ -140,11 +140,11 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "87",
+            "Active": "102",
             "Recovered": "296",
             "Deceased": "4",
-            "Total": "387",
-            "Change in last 24 hours": "14"
+            "Total": "402",
+            "Change in last 24 hours": "15"
         },
         {
             "Location": "West Coast",
@@ -164,19 +164,19 @@
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "37",
+            "Active": "38",
             "Recovered": "1177",
             "Deceased": "1",
-            "Total": "1215",
-            "Change in last 24 hours": "0"
+            "Total": "1216",
+            "Change in last 24 hours": "1"
         },
         {
             "Location": "Total",
-            "Active": "384",
+            "Active": "467",
             "Recovered": "2887",
             "Deceased": "26",
-            "Total": "3297",
-            "Change in last 24 hours": "70"
+            "Total": "3380",
+            "Change in last 24 hours": "83"
         }
     ]
 }
