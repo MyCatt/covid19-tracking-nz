@@ -1,7 +1,23 @@
 {
-    "size": 493,
-    "added": "2021-08-28 08:00:56.833804",
+    "size": 495,
+    "added": "2021-08-28 08:20:23.480187",
     "body": [
+        {
+            "Location name": "Northcote College",
+            "Address": "1 Kauri Glen Road, Northcote, Auckland 0627",
+            "Day": "Tuesday 17 August",
+            "Times": "8:30 am - 2:30 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 8:00 pm"
+        },
+        {
+            "Location name": "Strategic dynamics Class in WH125 AUT Campus Wellesley Street East",
+            "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "9:30 am - 3:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 8:00 pm"
+        },
         {
             "Location name": "NZ School of Tourism",
             "Address": "360 Queen Street, Auckland Central, Auckland 1010",
