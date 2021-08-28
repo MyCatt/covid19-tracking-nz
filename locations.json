@@ -1,7 +1,231 @@
 {
-    "size": 504,
-    "added": "2021-08-27 03:20:20.913832",
+    "size": 493,
+    "added": "2021-08-28 18:21:30.686513",
     "body": [
+        {
+            "Location name": "NZ School of Tourism",
+            "Address": "360 Queen Street, Auckland Central, Auckland 1010",
+            "Day": "Friday 13 August",
+            "Times": "9:00 am - 3:00 pm",
+            "What to do": "All on level 7 & 8 isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline. All others, monitor for symptoms for 14 days. Get a test & isolate until you test negative if symptomatic",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "Bus NX1 Britomart (Lower Albert St) To Albany Station",
+            "Address": "Auckland",
+            "Day": "Thursday 12 August",
+            "Times": "2:59 pm - 3:59 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "All About Children Manurewa",
+            "Address": "51 Mahia Road, Manurewa, Auckland 2102",
+            "Day": "Monday 16 August",
+            "Times": "2:45 pm - 3:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Albany Station to Auckland Universities via Wellesley St",
+            "Address": "Auckland",
+            "Day": "Wednesday 11 August",
+            "Times": "10:09 am - 11:09 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Auckland Universities to Albany Station via Wellesley St",
+            "Address": "Auckland",
+            "Day": "Friday 13 August",
+            "Times": "4:50 pm - 5:50 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Auckland Universities to Albany Station via Wellesley St",
+            "Address": "Auckland",
+            "Day": "Friday 13 August",
+            "Times": "10:06 am - 11:06 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Auckland Universities to Albany Station via Wellesley St",
+            "Address": "Auckland",
+            "Day": "Monday 16 August",
+            "Times": "4:21 pm - 5:21 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Auckland Universities to Albany Station via Wellesley St",
+            "Address": "Auckland",
+            "Day": "Tuesday 17 August",
+            "Times": "10:25 am - 11:25 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 4:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
+            "Address": "Auckland",
+            "Day": "Wednesday 11 August",
+            "Times": "9:42 am - 10:09 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Vmart Diray",
+            "Address": "79 Wakefield Street, Auckland Central, Auckland 1010",
+            "Day": "Thursday 19 August",
+            "Times": "5:29 pm - 5:35 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Level 4 Library University of Auckland",
+            "Address": "Building 109, Auckland CBD, Auckland 1010",
+            "Day": "Monday 16 August",
+            "Times": "8:00 pm - 10:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Manukau Super Clinic outpatients Module 1 and 2 and Radiology",
+            "Address": "901 Great South Road, Wiri, Auckland 2104",
+            "Day": "Tuesday 17 August",
+            "Times": "10:00 am - 11:00 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "All About Children Manurewa",
+            "Address": "51 Mahia Road, Manurewa, Auckland 2102",
+            "Day": "Tuesday 17 August",
+            "Times": "7:45 am - 8:00 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "All About Children Manurewa",
+            "Address": "51 Mahia Road, Manurewa, Auckland 2102",
+            "Day": "Monday 16 August",
+            "Times": "7:45 am - 8:00 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
+            "Address": "Auckland",
+            "Day": "Tuesday 17 August",
+            "Times": "10:05 am - 10:25 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Wellesley St to Constellation Drive",
+            "Address": "Auckland",
+            "Day": "Friday 13 August",
+            "Times": "4:25 pm - 4:50 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Wellesley St to Constellation Drive",
+            "Address": "Auckland",
+            "Day": "Monday 16 August",
+            "Times": "3:57 pm - 4:21 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Bus NX1 Lower Britomart to Constellation Drive",
+            "Address": "Auckland",
+            "Day": "Thursday 12 August",
+            "Times": "2:31 pm - 2:59 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Bus NX2 Constellation Drive to St Paul's Church",
+            "Address": "Auckland",
+            "Day": "Friday 13 August",
+            "Times": "9:40 am - 10:06 am",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Pacific Fresh Clendon Park",
+            "Address": "423 Roscommon Road, Clendon Park, Auckland 2103",
+            "Day": "Saturday 21 August",
+            "Times": "2:00 pm - 2:30 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "28 Aug 12:00 pm"
+        },
+        {
+            "Location name": "Residence Mount Terrace Apartments",
+            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Monday 16 August",
+            "Times": "6:50 pm - 9:30 am",
+            "What to do": "All those on level 3, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 12:00 pm"
+        },
+        {
+            "Location name": "AUT City Campus Library levels 4, 5, 6 and 7",
+            "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "12:30 pm - 2:40 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 10:00 am"
+        },
+        {
+            "Location name": "All About Children Manurewa",
+            "Address": "51 Mahia Road, Manurewa, Auckland 2102",
+            "Day": "Tuesday 17 August",
+            "Times": "2:45 pm - 3:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 10:00 am"
+        },
+        {
+            "Location name": "AUT City Campus WZ Building L7 all public spaces",
+            "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "10:00 am - 1:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 10:00 am"
+        },
+        {
+            "Location name": "AUT City Campus Student Lounge WC203",
+            "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "12:30 pm - 1:50 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 10:00 am"
+        },
+        {
+            "Location name": "AUT City Campus WH building L1 all public spaces",
+            "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "2:00 pm - 4:10 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "28 Aug 10:00 am"
+        },
+        {
+            "Location name": "Level 1 2 and basement Building 303(East) University of Auckland City Campus",
+            "Address": "38 Princes Street, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "9:22 am - 5:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "27 Aug 8:00 pm"
+        },
+        {
+            "Location name": "The U shop Wairau Junction Wairau Valley",
+            "Address": "10/54 View Road, Wairau Valley, Auckland 0627",
+            "Day": "Monday 16 August",
+            "Times": "2:30 pm - 3:45 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "27 Aug 8:00 pm"
+        },
         {
             "Location name": "De La Salle College",
             "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
@@ -51,60 +275,12 @@
             "Updated": "27 Aug 12:00 pm"
         },
         {
-            "Location name": "University of Auckland Department of Mathematics City Campus",
-            "Address": "38 Princes Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 17 August",
-            "Times": "9:22 am - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "27 Aug 12:00 pm"
-        },
-        {
             "Location name": "Mascot Ave Dairy Mangere",
             "Address": "51 Mascot Avenue, Mangere, Auckland 2022",
             "Day": "Tuesday 24 August",
             "Times": "6:30 pm - 6:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Pacific Fresh Mangere",
-            "Address": "423 Roscommon Road, Clendon Park, Auckland 2103",
-            "Day": "Saturday 21 August",
-            "Times": "2:00 pm - 2:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
-            "Updated": "27 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
-            "Address": "Auckland",
-            "Day": "Wednesday 11 August",
-            "Times": "9:42 am - 10:09 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "27 Aug 8:00 am"
-        },
-        {
-            "Location name": "Bus NX2 Wellesley St to Constellation Drive",
-            "Address": "Auckland",
-            "Day": "Tuesday 10 August",
-            "Times": "5:28 pm - 6:01 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "27 Aug 8:00 am"
-        },
-        {
-            "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
-            "Address": "Auckland",
-            "Day": "Tuesday 10 August",
-            "Times": "9:58 am - 11:21 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "27 Aug 8:00 am"
-        },
-        {
-            "Location name": "Bus NX1 Lower Britomart to Constellation Drive",
-            "Address": "Auckland",
-            "Day": "Thursday 12 August",
-            "Times": "2:31 pm - 2:59 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "27 Aug 8:00 am"
         },
         {
             "Location name": "Bus NX2 Wellesley St to Constellation Drive",
@@ -119,14 +295,6 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "6:13 pm - 7:41 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "27 Aug 8:00 am"
-        },
-        {
-            "Location name": "Bus NX2 Constellation Drive to Wellesley St",
-            "Address": "Auckland",
-            "Day": "Friday 13 August",
-            "Times": "9:40 am - 10:06 am",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "27 Aug 8:00 am"
         },
@@ -315,22 +483,6 @@
             "Updated": "26 Aug 6:00 pm"
         },
         {
-            "Location name": "Bus NX2 Sunnynook Bus Station to Wellesley St",
-            "Address": "Auckland",
-            "Day": "Tuesday 17 August",
-            "Times": "10:05 am - 10:25 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "26 Aug 6:00 pm"
-        },
-        {
-            "Location name": "Bus NX2 Wellesley St to Constellation Drive",
-            "Address": "Auckland",
-            "Day": "Friday 13 August",
-            "Times": "4:25 pm - 4:50 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "26 Aug 6:00 pm"
-        },
-        {
             "Location name": "Unichem Bairds Pharmacy Otara",
             "Address": "3 Watford Street, Otara, Auckland 2023",
             "Day": "Tuesday 17 August",
@@ -368,14 +520,6 @@
             "Day": "Tuesday 17 August",
             "Times": "11:00 am - 1:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days from date of last exposure.If symptoms develop, get test and stay at home until you get a negative test result & until 24hrs after symptoms resolve.If contacted by ADHB, MOH or PHU please follow their advice.",
-            "Updated": "26 Aug 4:00 pm"
-        },
-        {
-            "Location name": "NZ School of Tourism",
-            "Address": "360 Queen Street, Auckland Central, Auckland 1010",
-            "Day": "Thursday 12 August",
-            "Times": "9:00 am - 4:00 pm",
-            "What to do": "All on level 7 & 8 isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline. All others, monitor for symptoms for 14 days. Get a test & isolate until you test negative if symptomatic",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -423,14 +567,6 @@
             "Address": "7 Catherine Street, Henderson, Auckland 0612",
             "Day": "Friday 13 August",
             "Times": "6:45 pm - 8:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "26 Aug 12:00 pm"
-        },
-        {
-            "Location name": "City Fitness Wairau Park",
-            "Address": "170 Wairau Road, Wairau Valley, Auckland 0627",
-            "Day": "Tuesday 10 August",
-            "Times": "8:00 pm - 10:30 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "26 Aug 12:00 pm"
         },
@@ -495,14 +631,6 @@
             "Address": "219 Don McKinnon Drive, Albany, Auckland 0632",
             "Day": "Friday 13 August",
             "Times": "6:00 pm - 9:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Level 4 Library University of Auckland,18/8/21",
-            "Address": "Building 109, Auckland CBD, Auckland 1010",
-            "Day": "Monday 16 August",
-            "Times": "8:00 pm - 10:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "25 Aug 8:00 pm"
         },
@@ -763,27 +891,11 @@
             "Updated": "25 Aug 6:00 pm"
         },
         {
-            "Location name": "Starbucks Auckland CBD",
-            "Address": "220 Queen Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "12:45 pm - 1:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 6:00 pm"
-        },
-        {
             "Location name": "Portmans Shore City Mall Takapuna",
             "Address": "52-56 Anzac Street, Takapuna, Auckland 0622",
             "Day": "Thursday 12 August",
             "Times": "6:00 pm - 11:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 6:00 pm"
-        },
-        {
-            "Location name": "McDonald's Wairau Valley",
-            "Address": "142 Wairau Road, Wairau Valley, Auckland 0627",
-            "Day": "Tuesday 10 August",
-            "Times": "9:35 pm - 9:40 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -811,42 +923,10 @@
             "Updated": "25 Aug 6:00 pm"
         },
         {
-            "Location name": "Taco Bell Auckland CBD",
-            "Address": "3 Shortland Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "12:30 pm - 1:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 6:00 pm"
-        },
-        {
-            "Location name": "Lynn Mall Shopping Centre New Lynn",
-            "Address": "3058 Great North Road, New Lynn, Auckland 0600",
-            "Day": "Tuesday 10 August",
-            "Times": "3:00 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 6:00 pm"
-        },
-        {
-            "Location name": "Chamate Restaurant Auckland CBD",
-            "Address": "17 Swanson Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "11:45 am - 12:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 6:00 pm"
-        },
-        {
             "Location name": "Crave Cafe",
             "Address": "6 Morningside Drive, Morningside, Auckland 1025",
             "Day": "Sunday 15 August",
             "Times": "9:30 am - 11:45 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 4:00 pm"
-        },
-        {
-            "Location name": "Level 3 Library AUT City Campus",
-            "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "10:45 am - 7:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "25 Aug 4:00 pm"
         },
@@ -1107,27 +1187,11 @@
             "Updated": "25 Aug 12:00 pm"
         },
         {
-            "Location name": "McDonalds New Lynn",
-            "Address": "1 Memorial Drive, New Lynn, Auckland 0600",
-            "Day": "Tuesday 10 August",
-            "Times": "3:00 pm - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 12:00 pm"
-        },
-        {
             "Location name": "Contemporary Dance class TAPAC The Auckland Performing Arts Centre Western Springs",
             "Address": "100 Motions Road, Western Springs, Auckland 1022",
             "Day": "Friday 13 August",
             "Times": "5:00 pm - 7:00 pm",
             "What to do": "All at Contemporary Dance class: Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "25 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Bus 18 Auckland CBD to New Lynn",
-            "Address": "Auckland",
-            "Day": "Tuesday 10 August",
-            "Times": "1:45 pm - 2:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1259,14 +1323,6 @@
             "Updated": "24 Aug 6:00 pm"
         },
         {
-            "Location name": "Vmart Diray 79 Wakefield Street, City, Auckland 1010",
-            "Address": "79 Wakefield Street, Auckland Central, Auckland 1010",
-            "Day": "Thursday 19 August",
-            "Times": "5:29 pm - 5:35 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
-            "Updated": "24 Aug 6:00 pm"
-        },
-        {
             "Location name": "Bus NB2118 84 Wakefield Street stop to 510 Dominion Road stop",
             "Address": "Auckland",
             "Day": "Saturday 21 August",
@@ -1343,14 +1399,6 @@
             "Address": "220 Queen St, Auckland CBD, Auckland 1010",
             "Day": "Friday 13 August",
             "Times": "12:00 pm - 1:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "24 Aug 4:00 pm"
-        },
-        {
-            "Location name": "24/7 Breaktime Symonds Street",
-            "Address": "43 Symonds Street, Grafton, Auckland 1010, Grafton, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "1:00 pm - 2:10 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "24 Aug 4:00 pm"
         },
@@ -1707,14 +1755,6 @@
             "Updated": "23 Aug 8:00 pm"
         },
         {
-            "Location name": "Bus 18 New Lynn to CBD",
-            "Address": "Auckland",
-            "Day": "Tuesday 10 August",
-            "Times": "8:30 am - 11:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "23 Aug 8:00 pm"
-        },
-        {
             "Location name": "Green Bay High School",
             "Address": "143 - 161 Godley Road, Green Bay, Auckland",
             "Day": "Thursday 12 August",
@@ -1735,22 +1775,6 @@
             "Address": "143 - 161 Godley Road, Green Bay, Auckland",
             "Day": "Tuesday 17 August",
             "Times": "8:15 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "23 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Bus NX1 Lower Britomart to Constellation St",
-            "Address": "Auckland",
-            "Day": "Thursday 12 August",
-            "Times": "2:31 pm - 3:59 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "23 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Bus NX2 Wellesley St to Constellation Drive",
-            "Address": "Auckland",
-            "Day": "Monday 16 August",
-            "Times": "3:57 pm - 4:21 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "23 Aug 8:00 pm"
         },
@@ -1893,14 +1917,6 @@
         {
             "Location name": "Bus 007 Glen Eden to Green Bay",
             "Address": "Auckland",
-            "Day": "Wednesday 11 August",
-            "Times": "7:45 am - 8:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "23 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Bus 007 Glen Eden to Green Bay",
-            "Address": "Auckland",
             "Day": "Friday 13 August",
             "Times": "7:45 am - 8:30 am",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
@@ -1983,14 +1999,6 @@
             "Address": "Victoria Street & Federal Street, Auckland CBD, Auckland 1010",
             "Day": "Friday 13 August",
             "Times": "7:59 pm - 8:59 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "23 Aug 10:00 am"
-        },
-        {
-            "Location name": "McDonalds Auckland CBD",
-            "Address": "268 Queen Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "1:00 pm - 2:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "23 Aug 10:00 am"
         },
@@ -2419,14 +2427,6 @@
             "Updated": "22 Aug 9:00 am"
         },
         {
-            "Location name": "Remuera Exchange Auckland",
-            "Address": "2A Dilworth Avenue, Remuera, Auckland 1050",
-            "Day": "Tuesday 17 August",
-            "Times": "1:22 pm - 1:37 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
             "Location name": "KFC Botany Downs",
             "Address": "452 Ti Rakau Drive, Botany Downs, Auckland 2013",
             "Day": "Tuesday 17 August",
@@ -2503,14 +2503,6 @@
             "Address": "26 High Street, Otahuhu, Auckland 1062",
             "Day": "Monday 16 August",
             "Times": "8:30 am - 3:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "Remuera Exchange Auckland",
-            "Address": "2A Dilworth Avenue, Remuera, Auckland 1050",
-            "Day": "Monday 16 August",
-            "Times": "6:40 am - 7:17 am",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "22 Aug 9:00 am"
         },
@@ -2971,38 +2963,6 @@
             "Updated": "22 Aug 9:00 am"
         },
         {
-            "Location name": "St Pierre's Sushi Auckland CBD",
-            "Address": "G14/20 Elliott Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "11:30 am - 1:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "Blockhouse Bay Community",
-            "Address": "524 Blockhouse Bay Road, Blockhouse Bay, Auckland 0600",
-            "Day": "Tuesday 10 August",
-            "Times": "5:00 pm - 10:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "Gongcha Bubble Tea Auckland CBD",
-            "Address": "164 Queen Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "1:45 pm - 1:55 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "J. A. Russell Ltd Mt Wellington",
-            "Address": "Unit D/68 Carbine Road, Mount Wellington, Auckland 1062",
-            "Day": "Tuesday 10 August",
-            "Times": "10:30 am - 10:51 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
             "Location name": "Countdown Newtown",
             "Address": "3 John Street, Mount Cook, Wellington 6021",
             "Day": "Friday 20 August",
@@ -3347,14 +3307,6 @@
             "Updated": "20 Aug 9:00 am"
         },
         {
-            "Location name": "Blockhouse Bay Christian Kindergarten",
-            "Address": "76 Dundale Avenue, Blockhouse Bay, Auckland 0600",
-            "Day": "Tuesday 10 August",
-            "Times": "9:00 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "20 Aug 9:00 am"
-        },
-        {
             "Location name": "Passion Bakery Birkdale",
             "Address": "34 Birkdale Road, Birkdale, Auckland 0626",
             "Day": "Tuesday 17 August",
@@ -3659,22 +3611,6 @@
             "Updated": "19 Aug 9:00 am"
         },
         {
-            "Location name": "Bus 25B City Centre to Blockhouse Bay",
-            "Address": "Auckland",
-            "Day": "Tuesday 10 August",
-            "Times": "2:15 pm - 2:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "19 Aug 9:00 am"
-        },
-        {
-            "Location name": "Unistrut Mt Wellington",
-            "Address": "6 Arthur Brown Place, Mount Wellington, Auckland 1060",
-            "Day": "Tuesday 10 August",
-            "Times": "10:00 am - 10:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "19 Aug 9:00 am"
-        },
-        {
             "Location name": "Unichem Pharmacy Birkenhead",
             "Address": "Birkenhead Avenue Shop 28, Highbury Shopping Centre, Birkenhead, Auckland 0626",
             "Day": "Tuesday 17 August",
@@ -3943,30 +3879,6 @@
             "Address": "Level 3/291-297 Queen Street, Auckland Central, Auckland 1010",
             "Day": "Wednesday 11 August",
             "Times": "12:00 pm - 2:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "18 Aug 9:00 am"
-        },
-        {
-            "Location name": "Bus 97B Birkdale to Auckland CBD",
-            "Address": "Auckland",
-            "Day": "Tuesday 10 August",
-            "Times": "11:30 am - 12:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "18 Aug 9:00 am"
-        },
-        {
-            "Location name": "The Warehouse Auckland CBD",
-            "Address": "21 Elliott Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "1:15 pm - 1:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "18 Aug 9:00 am"
-        },
-        {
-            "Location name": "Event Cinemas Queen Street Auckland",
-            "Address": "1/291 Queen Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 10 August",
-            "Times": "1:30 pm - 4:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "18 Aug 9:00 am"
         },
