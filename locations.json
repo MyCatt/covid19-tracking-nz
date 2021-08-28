@@ -1,20 +1,60 @@
 {
-    "size": 471,
-    "added": "2021-08-28 22:00:47.949375",
+    "size": 475,
+    "added": "2021-08-28 22:20:22.422104",
     "body": [
         {
-            "Location name": "Northcote College",
-            "Address": "1 Kauri Glen Road, Northcote, Auckland 0627",
-            "Day": "Tuesday 17 August",
-            "Times": "8:30 am - 2:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "28 Aug 8:00 pm"
+            "Location name": "Residence Mount Terrace Apartments",
+            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Monday 16 August",
+            "Times": "6:50 pm - 11:59 pm",
+            "What to do": "All those on level 3, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "29 Aug 10:00 am"
+        },
+        {
+            "Location name": "Residence Mount Terrace Apartments",
+            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Thursday 19 August",
+            "Times": "12:00 am - 5:30 pm",
+            "What to do": "All those on level 3, level 5 and basement level, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "29 Aug 10:00 am"
+        },
+        {
+            "Location name": "Residence Mount Terrace Apartments",
+            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Wednesday 18 August",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "All those on level 3, level 5 and basement level, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "29 Aug 10:00 am"
         },
         {
             "Location name": "Strategic dynamics Class in WH125 AUT Campus Wellesley Street East",
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
-            "Times": "9:30 am - 3:00 pm",
+            "Times": "2:00 pm - 4:10 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "29 Aug 10:00 am"
+        },
+        {
+            "Location name": "Residence Mount Terrace Apartments",
+            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "12:00 am - 9:30 am",
+            "What to do": "All those on level 3, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "29 Aug 10:00 am"
+        },
+        {
+            "Location name": "Residence Mount Terrace Apartments",
+            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "4:50 pm - 11:59 pm",
+            "What to do": "All those on level 3, level 5 and basement level, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "29 Aug 10:00 am"
+        },
+        {
+            "Location name": "Northcote College",
+            "Address": "1 Kauri Glen Road, Northcote, Auckland 0627",
+            "Day": "Tuesday 17 August",
+            "Times": "8:30 am - 2:30 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "28 Aug 8:00 pm"
         },
@@ -160,14 +200,6 @@
             "Day": "Saturday 21 August",
             "Times": "2:00 pm - 2:30 pm",
             "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
-            "Updated": "28 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Residence Mount Terrace Apartments",
-            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
-            "Day": "Monday 16 August",
-            "Times": "6:50 pm - 9:30 am",
-            "What to do": "All those on level 3, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "28 Aug 12:00 pm"
         },
         {
