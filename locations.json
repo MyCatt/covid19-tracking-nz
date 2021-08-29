@@ -1,7 +1,31 @@
 {
-    "size": 444,
-    "added": "2021-08-29 22:00:46.111657",
+    "size": 447,
+    "added": "2021-08-29 22:20:23.015095",
     "body": [
+        {
+            "Location name": "Tasi Market",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Saturday 28 August",
+            "Times": "7:30 am - 3:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
+            "Updated": "30 Aug 10:00 am"
+        },
+        {
+            "Location name": "Tasi Market",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Friday 27 August",
+            "Times": "7:30 am - 6:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
+            "Updated": "30 Aug 10:00 am"
+        },
+        {
+            "Location name": "Tasi Market",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Thursday 26 August",
+            "Times": "7:30 am - 6:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
+            "Updated": "30 Aug 10:00 am"
+        },
         {
             "Location name": "Headquarters Bar",
             "Address": "115 Customs Street West, Auckland Central, Auckland 1010",
