@@ -1,7 +1,55 @@
 {
-    "size": 450,
-    "added": "2021-08-30 04:01:08.960285",
+    "size": 456,
+    "added": "2021-08-30 04:20:24.922032",
     "body": [
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Friday 27 August",
+            "Times": "1:00 pm - 5:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
+            "Updated": "30 Aug 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 24 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Everyone on Level 5 during exposure event considered potential close contact. Isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure.",
+            "Updated": "30 Aug 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Thursday 19 August",
+            "Times": "3:00 pm - 5:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure",
+            "Updated": "30 Aug 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Thursday 26 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Everyone on Level 5 during exposure event considered potential close contact. Isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure.",
+            "Updated": "30 Aug 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Monday 23 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
+            "Updated": "30 Aug 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Wednesday 25 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Everyone on Level 5 during exposure event considered potential close contact. Isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure.",
+            "Updated": "30 Aug 4:00 pm"
+        },
         {
             "Location name": "Headquarters Bar",
             "Address": "115 Customs Street West, Auckland Central, Auckland 1010",
