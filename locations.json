@@ -1,7 +1,31 @@
 {
-    "size": 448,
-    "added": "2021-08-30 02:20:26.194130",
+    "size": 450,
+    "added": "2021-08-30 02:40:17.310253",
     "body": [
+        {
+            "Location name": "Headquarters Bar",
+            "Address": "115 Customs Street West, Auckland Central, Auckland 1010",
+            "Day": "Saturday 14 August",
+            "Times": "11:30 pm - 1:30 am",
+            "What to do": "Anyone who hasn?t already been tested should self-isolate and call Healthline on 0800 358 5453 for advice on testing.",
+            "Updated": "30 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Elliott Stables Auckland CBD",
+            "Address": "39/41 Elliott Street, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "3:25 pm - 10:15 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
+            "Updated": "30 Aug 2:00 pm"
+        },
+        {
+            "Location name": "Tasi Market, Massey",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Wednesday 25 August",
+            "Times": "7:30 am - 6:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
+            "Updated": "30 Aug 2:00 pm"
+        },
         {
             "Location name": "Newton Pharmacy Sport and Health",
             "Address": "283 Karangahape Road, Auckland Central, Auckland 1010",
@@ -33,14 +57,6 @@
             "Times": "7:30 am - 6:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
             "Updated": "30 Aug 10:00 am"
-        },
-        {
-            "Location name": "Headquarters Bar",
-            "Address": "115 Customs Street West, Auckland Central, Auckland 1010",
-            "Day": "Saturday 14 August",
-            "Times": "11:30 pm - 1:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "29 Aug 6:00 pm"
         },
         {
             "Location name": "Residence Mount Terrace Apartments",
