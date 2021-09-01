@@ -1,21 +1,37 @@
 {
-    "size": 366,
-    "added": "2021-09-01 08:00:47.824319",
+    "size": 367,
+    "added": "2021-09-01 08:20:25.515064",
     "body": [
+        {
+            "Location name": "Tasi Market Massey",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Saturday 28 August",
+            "Times": "7:30 am - 7:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 8:00 pm"
+        },
+        {
+            "Location name": "Lavengro Dairy Papatoetoe",
+            "Address": "165 Puhinui Road, Papatoetoe, Auckland 2104",
+            "Day": "Friday 20 August",
+            "Times": "12:00 pm - 2:00 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 8:00 pm"
+        },
+        {
+            "Location name": "Tasi Market Massey",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Monday 23 August",
+            "Times": "7:30 am - 7:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 8:00 pm"
+        },
         {
             "Location name": "Tasi Market Massey",
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Thursday 26 August",
             "Times": "7:30 am - 6:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "1 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Puhinui Road Dairy Papatoetoe",
-            "Address": "165 Puhinui Road, Papatoetoe, Auckland 2104",
-            "Day": "Friday 20 August",
-            "Times": "12:00 pm - 2:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -30,14 +46,6 @@
             "Location name": "Tasi Market Massey",
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Sunday 29 August",
-            "Times": "7:30 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
-            "Updated": "1 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Tasi Market",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Saturday 28 August",
             "Times": "7:30 am - 7:00 pm",
             "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "1 Sep 6:00 pm"
