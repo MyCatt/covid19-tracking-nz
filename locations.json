@@ -1,7 +1,15 @@
 {
     "size": 344,
-    "added": "2021-09-01 02:01:33.761000",
+    "added": "2021-09-01 02:20:29.241638",
     "body": [
+        {
+            "Location name": "Crystal Laundromat Manurewa",
+            "Address": "",
+            "Day": "Thursday 1 January",
+            "Times": "12:00 pm - 11:45 am",
+            "What to do": "24/08/2021, 2:00 pm",
+            "Updated": "1 Sep 2:00 pm"
+        },
         {
             "Location name": "Crystal Laundromat East Tamaki",
             "Address": "186 Te Irirangi Drive, Clover Park, Auckland 2023, Clover Park, Auckland 2023",
@@ -89,14 +97,6 @@
             "Times": "12:00 pm - 2:00 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Crystal Laundromat Manurewa",
-            "Address": "4/439 Roscommon Road, Clendon Park, Auckland 2103",
-            "Day": "Tuesday 24 August",
-            "Times": "11:45 am - 2:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "31 Aug 4:00 pm"
         },
         {
             "Location name": "The Met Apartments",
