@@ -1,7 +1,367 @@
 {
-    "size": 344,
-    "added": "2021-09-01 04:20:27.775065",
+    "size": 366,
+    "added": "2021-09-01 04:40:20.168043",
     "body": [
+        {
+            "Location name": "Riverside Dairy Point England",
+            "Address": "104 Point England Road, Point England, Auckland 1072",
+            "Day": "Monday 23 August",
+            "Times": "6:24 pm - 6:34 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Puhinui Road Dairy Papatoetoe",
+            "Address": "161 Puhinui Road, Papatoetoe, Auckland 2104",
+            "Day": "Friday 20 August",
+            "Times": "12:00 pm - 2:00 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Tasi Market Massey",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Sunday 22 August",
+            "Times": "8:00 am - 2:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Fresh and Save Glen Innes",
+            "Address": "284 Apirana Avenue, Glen Innes, Auckland 1072",
+            "Day": "Friday 27 August",
+            "Times": "9:06 am - 9:16 am",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Super Value Supermarket Limited Glen Innes",
+            "Address": "131 Line Road, Glen Innes, Auckland 1072",
+            "Day": "Wednesday 25 August",
+            "Times": "8:21 am - 9:30 am",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Crystal Laundromat East Tamaki",
+            "Address": "186 Te Irirangi Drive, Clover Park, Auckland 2023, Clover Park, Auckland 2023",
+            "Day": "Saturday 28 August",
+            "Times": "11:00 am - 2:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Finlayson Superette & Lotto Clendon Park",
+            "Address": "150 Finlayson Avenue, Clendon Park, Auckland 2103",
+            "Day": "Friday 20 August",
+            "Times": "4:35 pm - 5:40 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Mascot Dairy Mangere",
+            "Address": "51 Mascot Avenue, Mangere, Auckland 2022",
+            "Day": "Thursday 19 August",
+            "Times": "2:30 pm - 3:35 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Ronwood Centre Papatoetoe",
+            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
+            "Day": "Sunday 29 August",
+            "Times": "1:00 pm - 2:00 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "A Spice Bazaar. Indian Takeaway & Groceries Flat Bush",
+            "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
+            "Day": "Sunday 29 August",
+            "Times": "4:00 pm - 4:30 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Monday 23 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Wednesday 25 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Everyone on Level 5 isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Friday 27 August",
+            "Times": "1:00 pm - 5:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "A Spice Bazaar. Indian Takeaway & Groceries Flat Bush",
+            "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
+            "Day": "Monday 23 August",
+            "Times": "2:00 pm - 2:30 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Tasi Market",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Thursday 26 August",
+            "Times": "7:30 am - 6:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 24 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Everyone on Level 5 isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Thursday 19 August",
+            "Times": "3:00 pm - 5:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "The Met Apartments",
+            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
+            "Day": "Thursday 26 August",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Everyone on Level 5 isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Tasi Market",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Saturday 28 August",
+            "Times": "7:30 am - 3:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Tasi Market",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Friday 27 August",
+            "Times": "7:30 am - 6:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Elliott Stables Auckland CBD",
+            "Address": "39/41 Elliott Street, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 17 August",
+            "Times": "3:25 pm - 10:15 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Tasi Market, Massey",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Wednesday 25 August",
+            "Times": "7:30 am - 6:00 pm",
+            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Newton Pharmacy Sport and Health",
+            "Address": "283 Karangahape Road, Auckland Central, Auckland 1010",
+            "Day": "Friday 27 August",
+            "Times": "3:15 pm - 3:50 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Farro Fresh Grey Lynn",
+            "Address": "34 Westmoreland Street, Grey Lynn, Auckland 1021",
+            "Day": "Thursday 26 August",
+            "Times": "1:45 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Ponsonby",
+            "Address": "4 Williamson Avenue, Grey Lynn, Auckland 1021",
+            "Day": "Thursday 26 August",
+            "Times": "12:57 pm - 1:57 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Ponsonby",
+            "Address": "4 Williamson Avenue, Grey Lynn, Auckland 1021",
+            "Day": "Sunday 22 August",
+            "Times": "12:42 pm - 1:42 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Warkworth",
+            "Address": "26 Neville Street, Warkworth, Warkworth 0910",
+            "Day": "Thursday 26 August",
+            "Times": "6:33 pm - 7:17 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSav, Mangere",
+            "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
+            "Day": "Sunday 29 August",
+            "Times": "8:00 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Sylvia Park",
+            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Friday 27 August",
+            "Times": "1:00 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Mt Roskill",
+            "Address": "112 Stoddard Road, Mount Roskill, Auckland 1041",
+            "Day": "Saturday 28 August",
+            "Times": "5:15 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Three Kings",
+            "Address": "532 Mount Albert Road, Three Kings, Auckland 1042",
+            "Day": "Tuesday 24 August",
+            "Times": "5:26 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "New World Papatoetoe",
+            "Address": "65 St George Street, Papatoetoe, Auckland 2025",
+            "Day": "Sunday 29 August",
+            "Times": "2:09 pm - 2:39 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Clendon",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Friday 20 August",
+            "Times": "5:30 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave  Clendon",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Saturday 21 August",
+            "Times": "12:45 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pacific Fresh Manurewa",
+            "Address": "423 Roscommon Road, Manurewa, Auckland 2103",
+            "Day": "Tuesday 24 August",
+            "Times": "11:30 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Tasi Market Massey",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Sunday 29 August",
+            "Times": "8:00 am - 10:30 am",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Sylvia Park",
+            "Address": "Sylvia Park, 286 Mount Wellington Highway,, Mt Wellington, Auckland 1060",
+            "Day": "Thursday 26 August",
+            "Times": "3:30 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Clendon Clendon Park",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Thursday 19 August",
+            "Times": "5:30 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Papatoetoe",
+            "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
+            "Day": "Saturday 28 August",
+            "Times": "8:00 pm - 8:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Thursday 19 August",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Sunday 22 August",
+            "Times": "11:00 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Thursday 26 August",
+            "Times": "8:15 pm - 8:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave  Sylvia Park",
+            "Address": "286 Mount Wellington Highway, Auckland 1060",
+            "Day": "Wednesday 25 August",
+            "Times": "2:48 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "New World Southmall Manurewa",
+            "Address": "185 Great South Road, Manurewa, Auckland 2102",
+            "Day": "Friday 27 August",
+            "Times": "3:00 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere East",
+            "Address": "359 Massey Road, Mangere East, Auckland 2024",
+            "Day": "Sunday 29 August",
+            "Times": "1:00 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Sep 4:00 pm"
+        },
         {
             "Location name": "Crystal Laundromat Manurewa",
             "Address": "4/439 Roscommon Road, Clendon Park, Auckland 2103",
@@ -11,196 +371,12 @@
             "Updated": "1 Sep 2:00 pm"
         },
         {
-            "Location name": "Crystal Laundromat East Tamaki",
-            "Address": "186 Te Irirangi Drive, Clover Park, Auckland 2023, Clover Park, Auckland 2023",
-            "Day": "Saturday 28 August",
-            "Times": "11:00 am - 2:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
-            "Updated": "1 Sep 8:00 am"
-        },
-        {
-            "Location name": "Tasi Market Massey",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Sunday 22 August",
-            "Times": "8:00 am - 2:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Fresh and Save Glen Innes",
-            "Address": "284 Apirana Avenue, Glen Innes, Auckland 1072",
-            "Day": "Friday 27 August",
-            "Times": "9:06 am - 9:16 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Super Value Supermarket Limited Glen Innes",
-            "Address": "131 Line Road, Glen Innes, Auckland 1072",
-            "Day": "Wednesday 25 August",
-            "Times": "8:21 am - 9:30 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Riverside Dairy Point England",
-            "Address": "104 Point England Road, Point England, Auckland 1072",
-            "Day": "Monday 23 August",
-            "Times": "6:24 pm - 6:34 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "A Spice Bazaar. Indian Takeaway & Groceries Flat Bush",
-            "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
-            "Day": "Monday 23 August",
-            "Times": "2:00 pm - 2:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Finlayson Superette & Lotto Clendon Park",
-            "Address": "150 Finlayson Avenue, Clendon Park, Auckland 2103",
-            "Day": "Friday 20 August",
-            "Times": "4:35 pm - 5:40 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Mascot Dairy Mangere",
-            "Address": "51 Mascot Avenue, Mangere, Auckland 2022",
-            "Day": "Thursday 19 August",
-            "Times": "2:30 pm - 3:35 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Chemist Warehouse Ronwood Centre Papatoetoe",
-            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
-            "Day": "Sunday 29 August",
-            "Times": "1:00 pm - 2:00 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "A Spice Bazaar. Indian Takeaway & Groceries Flat Bush",
-            "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
-            "Day": "Sunday 29 August",
-            "Times": "4:00 pm - 4:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "Puhinui Road Dairy Papatoetoe",
-            "Address": "161 Puhinui Road, Papatoetoe, Auckland 2104",
-            "Day": "Friday 20 August",
-            "Times": "12:00 pm - 2:00 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "31 Aug 8:00 pm"
-        },
-        {
-            "Location name": "The Met Apartments",
-            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
-            "Day": "Friday 27 August",
-            "Times": "1:00 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "30 Aug 4:00 pm"
-        },
-        {
-            "Location name": "The Met Apartments",
-            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 24 August",
-            "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Everyone on Level 5 during exposure event considered potential close contact. Isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure.",
-            "Updated": "30 Aug 4:00 pm"
-        },
-        {
-            "Location name": "The Met Apartments",
-            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
-            "Day": "Thursday 19 August",
-            "Times": "3:00 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure",
-            "Updated": "30 Aug 4:00 pm"
-        },
-        {
-            "Location name": "The Met Apartments",
-            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
-            "Day": "Thursday 26 August",
-            "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Everyone on Level 5 during exposure event considered potential close contact. Isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure.",
-            "Updated": "30 Aug 4:00 pm"
-        },
-        {
-            "Location name": "The Met Apartments",
-            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
-            "Day": "Monday 23 August",
-            "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "30 Aug 4:00 pm"
-        },
-        {
-            "Location name": "The Met Apartments",
-            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
-            "Day": "Wednesday 25 August",
-            "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Everyone on Level 5 during exposure event considered potential close contact. Isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure.",
-            "Updated": "30 Aug 4:00 pm"
-        },
-        {
             "Location name": "Headquarters Bar",
             "Address": "115 Customs Street West, Auckland Central, Auckland 1010",
             "Day": "Saturday 14 August",
             "Times": "11:30 pm - 1:30 am",
             "What to do": "Anyone who has not already been tested should self-isolate and call Healthline on 0800 358 5453 for advice on testing.",
             "Updated": "30 Aug 2:00 pm"
-        },
-        {
-            "Location name": "Elliott Stables Auckland CBD",
-            "Address": "39/41 Elliott Street, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 17 August",
-            "Times": "3:25 pm - 10:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "30 Aug 2:00 pm"
-        },
-        {
-            "Location name": "Tasi Market, Massey",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Wednesday 25 August",
-            "Times": "7:30 am - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "30 Aug 2:00 pm"
-        },
-        {
-            "Location name": "Newton Pharmacy Sport and Health",
-            "Address": "283 Karangahape Road, Auckland Central, Auckland 1010",
-            "Day": "Friday 27 August",
-            "Times": "3:15 pm - 3:50 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "30 Aug 12:00 pm"
-        },
-        {
-            "Location name": "Tasi Market",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Saturday 28 August",
-            "Times": "7:30 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "30 Aug 10:00 am"
-        },
-        {
-            "Location name": "Tasi Market",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Friday 27 August",
-            "Times": "7:30 am - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "30 Aug 10:00 am"
-        },
-        {
-            "Location name": "Tasi Market",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Thursday 26 August",
-            "Times": "7:30 am - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.",
-            "Updated": "30 Aug 10:00 am"
         },
         {
             "Location name": "Residence Mount Terrace Apartments",
