@@ -1,24 +1,33 @@
 {
     "size": 3,
-    "added": "2021-08-31 01:01:32.998766",
+    "added": "2021-09-01 22:21:38.332913",
     "body": [
         {
-            "Category": "First dose administered",
-            "Vaccinations yesterday": "36,476",
-            "Cumulative total": "2,176,375",
-            "Cumulative doses\n\t\t\tper 1000 people": "517"
+            "Category": "F",
+            "Vaccinations yesterday": "i",
+            "Cumulative total": "r",
+            "% Eligible Pop'n Vaccinated": "s",
+            "% Total Pop'n Vaccinated": "t",
+            "Vaccinated or Booked": " ",
+            "% Eligible Vaccinated or Booked": "d"
         },
         {
-            "Category": "Second dose administered",
-            "Vaccinations yesterday": "11,421",
-            "Cumulative total": "1,160,700",
-            "Cumulative doses\n\t\t\tper 1000 people": "276"
+            "Category": "S",
+            "Vaccinations yesterday": "e",
+            "Cumulative total": "c",
+            "% Eligible Pop'n Vaccinated": "o",
+            "% Total Pop'n Vaccinated": "n",
+            "Vaccinated or Booked": "d",
+            "% Eligible Vaccinated or Booked": " "
         },
         {
-            "Category": "Total doses administered",
-            "Vaccinations yesterday": "47,897",
-            "Cumulative total": "3,337,075",
-            "Cumulative doses\n\t\t\tper 1000 people": "793"
+            "Category": "T",
+            "Vaccinations yesterday": "o",
+            "Cumulative total": "t",
+            "% Eligible Pop'n Vaccinated": "a",
+            "% Total Pop'n Vaccinated": "l",
+            "Vaccinated or Booked": " ",
+            "% Eligible Vaccinated or Booked": "d"
         }
     ]
 }
