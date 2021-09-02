@@ -1,7 +1,95 @@
 {
-    "size": 308,
-    "added": "2021-09-02 00:20:35.923956",
+    "size": 319,
+    "added": "2021-09-02 00:40:16.196221",
     "body": [
+        {
+            "Location name": "Pak'nSave Mt Albert",
+            "Address": "1167 New North Road, Mount Albert, Auckland 1025",
+            "Day": "Sunday 29 August",
+            "Times": "10:45 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Manukau",
+            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
+            "Day": "Saturday 28 August",
+            "Times": "5:50 pm - 6:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Massey",
+            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Thursday 26 August",
+            "Times": "7:59 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Manukau Mall",
+            "Address": "Shop 99 Wiri Station Road Corner, Great South Road, Manukau City Centre, Auckland 2104",
+            "Day": "Friday 27 August",
+            "Times": "11:15 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "New World Papatoetoe",
+            "Address": "65 Saint George Street, Papatoetoe, Auckland 2025",
+            "Day": "Tuesday 24 August",
+            "Times": "4:00 pm - 4:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "19 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Tuesday 24 August",
+            "Times": "5:34 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Auckland Airport",
+            "Address": "Cnr George Bolt Memorial, John Goulter Drive, Mangere, Auckland",
+            "Day": "Tuesday 31 August",
+            "Times": "1:00 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "New World Papatoetoe",
+            "Address": "63 St George Street, Papatoetoe, Auckland 2025",
+            "Day": "Friday 20 August",
+            "Times": "11:30 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Manukau",
+            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
+            "Day": "Monday 30 August",
+            "Times": "10:45 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Fresh Choice M?ngere Bridge",
+            "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
+            "Day": "Saturday 28 August",
+            "Times": "7:00 pm - 8:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Fresh N Save Otahuhu",
+            "Address": "424 Great South Road, Otahuhu, Auckland 1062",
+            "Day": "Friday 27 August",
+            "Times": "9:00 am - 9:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 12:00 pm"
+        },
         {
             "Location name": "Tasi Market Massey",
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
