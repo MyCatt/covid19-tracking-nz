@@ -1,7 +1,31 @@
 {
-    "size": 319,
-    "added": "2021-09-02 02:01:26.645005",
+    "size": 320,
+    "added": "2021-09-02 02:20:27.514326",
     "body": [
+        {
+            "Location name": "Fresh Choice Mangere Bridge",
+            "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
+            "Day": "Saturday 28 August",
+            "Times": "7:00 pm - 8:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Thursday 26 August",
+            "Times": "7:59 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Kingsland Pharmacy Kingsland",
+            "Address": "491 New North Road, Kingsland, Auckland 1021",
+            "Day": "Friday 27 August",
+            "Times": "11:20 am - 12:00 pm",
+            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "Updated": "2 Sep 2:00 pm"
+        },
         {
             "Location name": "Pak'nSave Mt Albert",
             "Address": "1167 New North Road, Mount Albert, Auckland 1025",
@@ -15,14 +39,6 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Saturday 28 August",
             "Times": "5:50 pm - 6:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Massey",
-            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
-            "Day": "Thursday 26 August",
-            "Times": "7:59 pm - 8:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
@@ -71,14 +87,6 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Monday 30 August",
             "Times": "10:45 am - 11:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Fresh Choice Mangere Bridge",
-            "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
-            "Day": "Saturday 28 August",
-            "Times": "7:00 pm - 8:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
@@ -1155,6 +1163,14 @@
             "Updated": "25 Aug 2:00 pm"
         },
         {
+            "Location name": "AUT South Campus",
+            "Address": "640 Great South Road, Manukau, Auckland 2025",
+            "Day": "Tuesday 17 August",
+            "Times": "11:00 am - 2:15 pm",
+            "What to do": "All at Library MA Building 11am - 1pm & Student Hub MB Building 12.45-2.10pm Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "Updated": "25 Aug 12:00 pm"
+        },
+        {
             "Location name": "Countdown Auckland Victoria Street West",
             "Address": "19-25 Victoria Street West, Auckland CBD, Auckland 1010",
             "Day": "Tuesday 17 August",
@@ -1192,14 +1208,6 @@
             "Day": "Saturday 21 August",
             "Times": "3:30 pm - 5:00 pm",
             "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
-            "Updated": "25 Aug 12:00 pm"
-        },
-        {
-            "Location name": "AUT South Campus",
-            "Address": "640 Great South Road, Manukau, Auckland 2025",
-            "Day": "Tuesday 17 August",
-            "Times": "11:00 am - 2:10 pm",
-            "What to do": "All at Library MA Building 11am ? 1pm & Student Hub MB Building 12.45-2.10pm Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
