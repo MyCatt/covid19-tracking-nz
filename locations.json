@@ -1,13 +1,13 @@
 {
     "size": 320,
-    "added": "2021-09-02 04:20:25.114352",
+    "added": "2021-09-02 04:40:18.713438",
     "body": [
         {
             "Location name": "Fresh Choice Mangere Bridge",
             "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
             "Day": "Saturday 28 August",
-            "Times": "7:00 pm - 8:35 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Times": "7:00 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 2:00 pm"
         },
         {
@@ -15,7 +15,7 @@
             "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
             "Day": "Thursday 26 August",
             "Times": "7:59 pm - 8:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 2:00 pm"
         },
         {
@@ -23,7 +23,7 @@
             "Address": "491 New North Road, Kingsland, Auckland 1021",
             "Day": "Friday 27 August",
             "Times": "11:20 am - 12:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "2 Sep 2:00 pm"
         },
         {
@@ -31,7 +31,7 @@
             "Address": "1167 New North Road, Mount Albert, Auckland 1025",
             "Day": "Sunday 29 August",
             "Times": "10:45 am - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -39,7 +39,7 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Saturday 28 August",
             "Times": "5:50 pm - 6:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -47,7 +47,7 @@
             "Address": "Shop 99 Wiri Station Road Corner, Great South Road, Manukau City Centre, Auckland 2104",
             "Day": "Friday 27 August",
             "Times": "11:15 am - 11:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -55,7 +55,7 @@
             "Address": "65 Saint George Street, Papatoetoe, Auckland 2025",
             "Day": "Tuesday 24 August",
             "Times": "4:00 pm - 4:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -63,7 +63,7 @@
             "Address": "19 Fred Taylor Drive, Westgate, Auckland 0814",
             "Day": "Tuesday 24 August",
             "Times": "5:34 pm - 6:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -71,7 +71,7 @@
             "Address": "Cnr George Bolt Memorial, John Goulter Drive, Mangere, Auckland",
             "Day": "Tuesday 31 August",
             "Times": "1:00 pm - 2:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -79,7 +79,7 @@
             "Address": "63 St George Street, Papatoetoe, Auckland 2025",
             "Day": "Friday 20 August",
             "Times": "11:30 am - 12:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -87,7 +87,7 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Monday 30 August",
             "Times": "10:45 am - 11:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -95,7 +95,7 @@
             "Address": "424 Great South Road, Otahuhu, Auckland 1062",
             "Day": "Friday 27 August",
             "Times": "9:00 am - 9:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
         {
@@ -103,7 +103,7 @@
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Saturday 28 August",
             "Times": "7:30 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 8:00 pm"
         },
         {
@@ -111,7 +111,7 @@
             "Address": "165 Puhinui Road, Papatoetoe, Auckland 2104",
             "Day": "Friday 20 August",
             "Times": "12:00 pm - 2:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 8:00 pm"
         },
         {
@@ -119,7 +119,7 @@
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Monday 23 August",
             "Times": "7:30 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 8:00 pm"
         },
         {
@@ -127,7 +127,7 @@
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Thursday 26 August",
             "Times": "7:30 am - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -135,7 +135,7 @@
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Sunday 22 August",
             "Times": "7:00 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -143,7 +143,7 @@
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Sunday 29 August",
             "Times": "7:30 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -151,7 +151,7 @@
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Friday 27 August",
             "Times": "7:30 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -159,7 +159,7 @@
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Wednesday 25 August",
             "Times": "7:30 am - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -167,7 +167,7 @@
             "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
             "Day": "Thursday 19 August",
             "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -175,7 +175,7 @@
             "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
             "Day": "Sunday 22 August",
             "Times": "11:00 am - 11:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -183,7 +183,7 @@
             "Address": "104 Point England Road, Point England, Auckland 1072",
             "Day": "Monday 23 August",
             "Times": "6:24 pm - 6:34 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -191,7 +191,7 @@
             "Address": "284 Apirana Avenue, Glen Innes, Auckland 1072",
             "Day": "Friday 27 August",
             "Times": "9:06 am - 9:16 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -199,7 +199,7 @@
             "Address": "131 Line Road, Glen Innes, Auckland 1072",
             "Day": "Wednesday 25 August",
             "Times": "8:21 am - 9:30 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -207,7 +207,7 @@
             "Address": "186 Te Irirangi Drive, Clover Park, Auckland 2023, Clover Park, Auckland 2023",
             "Day": "Saturday 28 August",
             "Times": "11:00 am - 2:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -215,7 +215,7 @@
             "Address": "150 Finlayson Avenue, Clendon Park, Auckland 2103",
             "Day": "Friday 20 August",
             "Times": "4:35 pm - 5:40 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -223,7 +223,7 @@
             "Address": "51 Mascot Avenue, Mangere, Auckland 2022",
             "Day": "Thursday 19 August",
             "Times": "2:30 pm - 3:35 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -231,7 +231,7 @@
             "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
             "Day": "Sunday 29 August",
             "Times": "1:00 pm - 2:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -239,7 +239,7 @@
             "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
             "Day": "Sunday 29 August",
             "Times": "4:00 pm - 4:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -247,7 +247,7 @@
             "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
             "Day": "Monday 23 August",
             "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -255,7 +255,7 @@
             "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
             "Day": "Wednesday 25 August",
             "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Everyone on Level 5 isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure. Call Healthline for what to do next.",
+            "What to do": "Everyone on Level 5 isolate for 14 days after you were exposed at this location of interest, get at test immediately and on Day 5 and Day 12 after exposure.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -263,7 +263,7 @@
             "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
             "Day": "Friday 27 August",
             "Times": "1:00 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -271,7 +271,7 @@
             "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
             "Day": "Monday 23 August",
             "Times": "2:00 pm - 2:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -279,7 +279,7 @@
             "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 24 August",
             "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Everyone on Level 5 isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure. Call Healthline for what to do next.",
+            "What to do": "Everyone on Level 5 isolate for 14 days after you were exposed at this location of interest, get at test immediately and on Day 5 and Day 12 after exposure.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -287,7 +287,7 @@
             "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
             "Day": "Thursday 19 August",
             "Times": "3:00 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -295,7 +295,7 @@
             "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
             "Day": "Thursday 26 August",
             "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Everyone on Level 5 isolate for 14 days, get at test immediately and on Day 5 and Day 12 after exposure. Call Healthline for what to do next.",
+            "What to do": "Everyone on Level 5 isolate for 14 days after you were exposed at this location of interest, get at test immediately and on Day 5 and Day 12 after exposure.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -303,7 +303,7 @@
             "Address": "39/41 Elliott Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "3:25 pm - 10:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -311,7 +311,7 @@
             "Address": "283 Karangahape Road, Auckland Central, Auckland 1010",
             "Day": "Friday 27 August",
             "Times": "3:15 pm - 3:50 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -335,7 +335,7 @@
             "Address": "4 Williamson Avenue, Grey Lynn, Auckland 1021",
             "Day": "Sunday 22 August",
             "Times": "12:42 pm - 1:42 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -347,7 +347,7 @@
             "Updated": "1 Sep 4:00 pm"
         },
         {
-            "Location name": "Pak'nSav, Mangere",
+            "Location name": "Pak'nSave, Mangere",
             "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
             "Day": "Sunday 29 August",
             "Times": "8:00 pm - 9:00 pm",
@@ -367,7 +367,7 @@
             "Address": "112 Stoddard Road, Mount Roskill, Auckland 1041",
             "Day": "Saturday 28 August",
             "Times": "5:15 pm - 5:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -423,7 +423,7 @@
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
             "Day": "Thursday 19 August",
             "Times": "5:30 pm - 8:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -447,7 +447,7 @@
             "Address": "286 Mount Wellington Highway, Auckland 1060",
             "Day": "Wednesday 25 August",
             "Times": "2:48 pm - 3:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -455,7 +455,7 @@
             "Address": "185 Great South Road, Manurewa, Auckland 2102",
             "Day": "Friday 27 August",
             "Times": "3:00 pm - 3:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -463,7 +463,7 @@
             "Address": "359 Massey Road, Mangere East, Auckland 2024",
             "Day": "Sunday 29 August",
             "Times": "1:00 pm - 1:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
@@ -479,7 +479,7 @@
             "Address": "33 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "6:50 pm - 11:59 pm",
-            "What to do": "All those on level 3, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "All those on level 3, Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "29 Aug 10:00 am"
         },
         {
@@ -487,7 +487,7 @@
             "Address": "33 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Thursday 19 August",
             "Times": "12:00 am - 5:30 pm",
-            "What to do": "All those on level 3, level 5 and basement level, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "All those on level 3, level 5 and basement level, Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "29 Aug 10:00 am"
         },
         {
@@ -495,7 +495,7 @@
             "Address": "33 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Wednesday 18 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "All those on level 3, level 5 and basement level, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "All those on level 3, level 5 and basement level, Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "29 Aug 10:00 am"
         },
         {
@@ -503,7 +503,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "2:00 pm - 4:10 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "29 Aug 10:00 am"
         },
         {
@@ -511,7 +511,7 @@
             "Address": "33 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "12:00 am - 9:30 am",
-            "What to do": "All those on level 3, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "All those on level 3, Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "29 Aug 10:00 am"
         },
         {
@@ -519,7 +519,7 @@
             "Address": "33 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "4:50 pm - 11:59 pm",
-            "What to do": "All those on level 3, level 5 and basement level, isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "All those on level 3, level 5 and basement level, Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "29 Aug 10:00 am"
         },
         {
@@ -527,7 +527,7 @@
             "Address": "1 Kauri Glen Road, Northcote, Auckland 0627",
             "Day": "Tuesday 17 August",
             "Times": "8:30 am - 2:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 8:00 pm"
         },
         {
@@ -535,7 +535,7 @@
             "Address": "51 Mahia Road, Manurewa, Auckland 2102",
             "Day": "Monday 16 August",
             "Times": "2:45 pm - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 4:00 pm"
         },
         {
@@ -543,7 +543,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "4:21 pm - 5:21 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 4:00 pm"
         },
         {
@@ -551,7 +551,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "10:25 am - 11:25 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 4:00 pm"
         },
         {
@@ -559,7 +559,7 @@
             "Address": "79 Wakefield Street, Auckland Central, Auckland 1010",
             "Day": "Thursday 19 August",
             "Times": "5:29 pm - 5:35 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "28 Aug 2:00 pm"
         },
         {
@@ -567,7 +567,7 @@
             "Address": "Building 109, Auckland CBD, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "8:00 pm - 10:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 2:00 pm"
         },
         {
@@ -575,7 +575,7 @@
             "Address": "901 Great South Road, Wiri, Auckland 2104",
             "Day": "Tuesday 17 August",
             "Times": "10:00 am - 11:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 2:00 pm"
         },
         {
@@ -583,7 +583,7 @@
             "Address": "51 Mahia Road, Manurewa, Auckland 2102",
             "Day": "Tuesday 17 August",
             "Times": "7:45 am - 8:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 2:00 pm"
         },
         {
@@ -591,7 +591,7 @@
             "Address": "51 Mahia Road, Manurewa, Auckland 2102",
             "Day": "Monday 16 August",
             "Times": "7:45 am - 8:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 2:00 pm"
         },
         {
@@ -599,7 +599,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "10:05 am - 10:25 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 2:00 pm"
         },
         {
@@ -607,7 +607,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "3:57 pm - 4:21 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 2:00 pm"
         },
         {
@@ -615,7 +615,7 @@
             "Address": "423 Roscommon Road, Clendon Park, Auckland 2103",
             "Day": "Saturday 21 August",
             "Times": "2:00 pm - 2:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "28 Aug 12:00 pm"
         },
         {
@@ -623,7 +623,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "12:30 pm - 2:40 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 10:00 am"
         },
         {
@@ -631,7 +631,7 @@
             "Address": "51 Mahia Road, Manurewa, Auckland 2102",
             "Day": "Tuesday 17 August",
             "Times": "2:45 pm - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 10:00 am"
         },
         {
@@ -639,7 +639,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "10:00 am - 1:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 10:00 am"
         },
         {
@@ -647,7 +647,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "12:30 pm - 1:50 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 10:00 am"
         },
         {
@@ -655,7 +655,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "2:00 pm - 4:10 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "28 Aug 10:00 am"
         },
         {
@@ -663,7 +663,7 @@
             "Address": "38 Princes Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "9:22 am - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "27 Aug 8:00 pm"
         },
         {
@@ -671,7 +671,7 @@
             "Address": "10/54 View Road, Wairau Valley, Auckland 0627",
             "Day": "Monday 16 August",
             "Times": "2:30 pm - 3:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "27 Aug 8:00 pm"
         },
         {
@@ -679,7 +679,7 @@
             "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
             "Day": "Monday 16 August",
             "Times": "8:00 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "27 Aug 2:00 pm"
         },
         {
@@ -687,7 +687,7 @@
             "Address": "81 Gray Avenue, Mangere East, Auckland 2024",
             "Day": "Tuesday 17 August",
             "Times": "8:00 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "27 Aug 2:00 pm"
         },
         {
@@ -695,7 +695,7 @@
             "Address": "7 Polarity Rise, Silverdale 0932",
             "Day": "Thursday 19 August",
             "Times": "12:20 pm - 1:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Aug 2:00 pm"
         },
         {
@@ -703,7 +703,7 @@
             "Address": "257 East Tamaki Road, Otara, Auckland 2023",
             "Day": "Saturday 21 August",
             "Times": "10:00 am - 12:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Aug 2:00 pm"
         },
         {
@@ -711,7 +711,7 @@
             "Address": "18 Mangere Town Square, Mangere, Auckland 2022",
             "Day": "Tuesday 24 August",
             "Times": "6:00 pm - 6:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "27 Aug 12:00 pm"
         },
         {
@@ -719,7 +719,7 @@
             "Address": "42 Atkinson Avenue, Otahuhu, Auckland 1062",
             "Day": "Tuesday 17 August",
             "Times": "8:00 am - 3:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "27 Aug 12:00 pm"
         },
         {
@@ -727,7 +727,7 @@
             "Address": "51 Mascot Avenue, Mangere, Auckland 2022",
             "Day": "Tuesday 24 August",
             "Times": "6:30 pm - 6:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Aug 12:00 pm"
         },
         {
@@ -735,7 +735,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "6:13 pm - 7:41 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "27 Aug 8:00 am"
         },
         {
@@ -743,7 +743,7 @@
             "Address": "Corner Westgate and Fernhill Drive, Massey, Auckland 0614",
             "Day": "Thursday 19 August",
             "Times": "6:00 am - 2:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -751,7 +751,7 @@
             "Address": "Cnr Westgate &, Fernhill Drive, Massey, Auckland 0614",
             "Day": "Saturday 21 August",
             "Times": "6:00 am - 11:30 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -759,7 +759,7 @@
             "Address": "505 Blockhouse Bay Road, Blockhouse Bay, Auckland 0600",
             "Day": "Thursday 19 August",
             "Times": "11:00 pm - 12:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -767,7 +767,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "9:58 am - 11:18 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -775,7 +775,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "2:30 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
+            "What to do": "Isolate at home for 14 days after you were exposed at this location of interest Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -783,7 +783,7 @@
             "Address": "44 Palmers Road, Clendon Park, Auckland 2103",
             "Day": "Monday 16 August",
             "Times": "9:00 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately. All household members to isolate until contact has returned negative test.",
+            "What to do": "Isolate at home for 14 days after you were exposed at this location of interest Test immediately. All household members to isolate until contact has returned negative test.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -791,7 +791,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "2:00 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
+            "What to do": "Isolate at home for 14 days after you were exposed at this location of interest Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -799,7 +799,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "4:30 pm - 9:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
+            "What to do": "Isolate at home for 14 days after you were exposed at this location of interest Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -807,7 +807,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "12:15 pm - 2:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
+            "What to do": "Isolate at home for 14 days after you were exposed at this location of interest Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -815,7 +815,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "2:10 pm - 2:25 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
+            "What to do": "Isolate at home for 14 days after you were exposed at this location of interest Test immediately & on day 12. All household members to isolate until contact has returned negative test.",
             "Updated": "26 Aug 8:00 pm"
         },
         {
@@ -823,7 +823,7 @@
             "Address": "35 Whitaker Place, Grafton, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 6:00 pm"
         },
         {
@@ -831,7 +831,7 @@
             "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
             "Day": "Tuesday 17 August",
             "Times": "8:30 am - 3:15 pm",
-            "What to do": "Isolation at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
+            "What to do": "Isolation at home for 14 days after you were exposed at this location of interest Test immediately. Household to isolate until negative test is received.",
             "Updated": "26 Aug 6:00 pm"
         },
         {
@@ -839,7 +839,7 @@
             "Address": "35 Whitaker Place, Grafton, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 6:00 pm"
         },
         {
@@ -847,7 +847,7 @@
             "Address": "34 Westmoreland Street West, Grey Lynn, Auckland 1021",
             "Day": "Wednesday 18 August",
             "Times": "4:33 pm - 4:45 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "26 Aug 6:00 pm"
         },
         {
@@ -855,7 +855,7 @@
             "Address": "3 Watford Street, Otara, Auckland 2023",
             "Day": "Tuesday 17 August",
             "Times": "1:45 pm - 3:40 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on day 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Isolate at home for 14 days after you were exposed at this location of interest Test immediately, and on day 12 after this exposure.",
             "Updated": "26 Aug 6:00 pm"
         },
         {
@@ -863,7 +863,7 @@
             "Address": "89 Princes Street, Otahuhu, Auckland 1062",
             "Day": "Tuesday 17 August",
             "Times": "9:30 am - 9:45 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 6:00 pm"
         },
         {
@@ -871,7 +871,7 @@
             "Address": "2/32 Canning Crescent, Mangere, Auckland 2022",
             "Day": "Monday 16 August",
             "Times": "10:30 am - 12:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 6:00 pm"
         },
         {
@@ -879,7 +879,7 @@
             "Address": "74 -78 Mangere Road, Otahuhu, Auckland 1062",
             "Day": "Monday 16 August",
             "Times": "8:30 am - 4:00 pm",
-            "What to do": "Isolation at home for 14 days from date of last exposure. Test immediately. Household to isolate until negative test is received.",
+            "What to do": "Isolation at home for 14 days after you were exposed at this location of interest Test immediately. Household to isolate until negative test is received.",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -887,7 +887,7 @@
             "Address": "214 Green Lane West, Epsom, Auckland 1051",
             "Day": "Tuesday 17 August",
             "Times": "11:00 am - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days from date of last exposure.If symptoms develop, get test and stay at home until you get a negative test result & until 24hrs after symptoms resolve.If contacted by ADHB, MOH or PHU please follow their advice.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get test and stay at home until you get a negative test result & until 24hrs after symptoms resolve.",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -895,7 +895,7 @@
             "Address": "1 Memorial Drive, New Lynn, Auckland 0600",
             "Day": "Monday 16 August",
             "Times": "3:00 pm - 11:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -903,7 +903,7 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Saturday 21 August",
             "Times": "2:00 pm - 3:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -911,7 +911,7 @@
             "Address": "1 Memorial Drive, New Lynn, Auckland 0600",
             "Day": "Tuesday 17 August",
             "Times": "5:15 am - 11:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 4:00 pm"
         },
         {
@@ -919,7 +919,7 @@
             "Address": "85 Park Road, Grafton, Auckland 1023",
             "Day": "Monday 16 August",
             "Times": "9:00 am - 11:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 2:00 pm"
         },
         {
@@ -927,7 +927,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "10:15 am - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "26 Aug 12:00 pm"
         },
         {
@@ -935,7 +935,7 @@
             "Address": "140 Don McKinnon Drive, Albany, Auckland 0632",
             "Day": "Monday 16 August",
             "Times": "5:45 pm - 7:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -943,7 +943,7 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -951,7 +951,7 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Thursday 19 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -959,7 +959,7 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Friday 20 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -967,7 +967,7 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Saturday 21 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -975,7 +975,7 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Sunday 22 August",
             "Times": "12:00 am - 7:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -983,7 +983,7 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Wednesday 18 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -991,7 +991,7 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -999,7 +999,7 @@
             "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
             "Day": "Wednesday 18 August",
             "Times": "7:25 am - 7:40 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1007,7 +1007,7 @@
             "Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
             "Day": "Thursday 19 August",
             "Times": "3:30 pm - 4:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1015,7 +1015,7 @@
             "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
             "Day": "Thursday 19 August",
             "Times": "12:10 pm - 12:25 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1023,7 +1023,7 @@
             "Address": "3/2021 Great North Road, Avondale, Auckland 1026",
             "Day": "Tuesday 17 August",
             "Times": "5:00 pm - 6:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1031,7 +1031,7 @@
             "Address": "1/44 Orly Avenue, Mangere, Auckland 2022",
             "Day": "Tuesday 17 August",
             "Times": "6:00 pm - 6:20 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1039,7 +1039,7 @@
             "Address": "32 Main Road, Tokoroa 3420",
             "Day": "Monday 16 August",
             "Times": "3:00 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1047,7 +1047,7 @@
             "Address": "11 Symonds Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "2:00 pm - 2:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1055,7 +1055,7 @@
             "Address": "3 Watford Street, Otara, Auckland 2023",
             "Day": "Tuesday 17 August",
             "Times": "2:15 pm - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1063,7 +1063,7 @@
             "Address": "Cnr Roscommon & Palmer Road, Clendon Park, Auckland",
             "Day": "Tuesday 17 August",
             "Times": "9:00 am - 11:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1071,7 +1071,7 @@
             "Address": "326 Great South Road, Greenlane, Auckland 1051",
             "Day": "Tuesday 17 August",
             "Times": "8:27 pm - 8:50 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 6:00 pm"
         },
         {
@@ -1079,7 +1079,7 @@
             "Address": "14A Otara Road, Otara, Auckland 2023",
             "Day": "Monday 16 August",
             "Times": "9:00 am - 2:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 4:00 pm"
         },
         {
@@ -1087,7 +1087,7 @@
             "Address": "6/1 Prictor Street, Papakura, Papakura 2110",
             "Day": "Thursday 19 August",
             "Times": "9:30 am - 10:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 4:00 pm"
         },
         {
@@ -1095,7 +1095,7 @@
             "Address": "1167 New North Road, Mount Albert, Auckland 1025",
             "Day": "Wednesday 18 August",
             "Times": "8:00 pm - 8:15 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1103,7 +1103,7 @@
             "Address": "Auckland",
             "Day": "Sunday 22 August",
             "Times": "7:00 am - 7:15 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1111,7 +1111,7 @@
             "Address": "Auckland",
             "Day": "Sunday 22 August",
             "Times": "9:10 am - 9:25 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1119,7 +1119,7 @@
             "Address": "Westfield Street, St Lukes, Mt Albert, Auckland",
             "Day": "Tuesday 17 August",
             "Times": "2:15 pm - 3:10 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1127,7 +1127,7 @@
             "Address": "22 Stoddard Road, Wesley, Auckland 1041",
             "Day": "Monday 16 August",
             "Times": "9:00 pm - 11:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1135,7 +1135,7 @@
             "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
             "Day": "Friday 20 August",
             "Times": "11:00 am - 1:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1143,7 +1143,7 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Wednesday 18 August",
             "Times": "8:00 pm - 8:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1151,7 +1151,7 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Thursday 19 August",
             "Times": "1:39 pm - 2:10 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1159,7 +1159,7 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Thursday 19 August",
             "Times": "4:00 pm - 4:45 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 2:00 pm"
         },
         {
@@ -1167,7 +1167,7 @@
             "Address": "640 Great South Road, Manukau, Auckland 2025",
             "Day": "Tuesday 17 August",
             "Times": "11:00 am - 2:15 pm",
-            "What to do": "All at Library MA Building 11am - 1pm & Student Hub MB Building 12.45-2.10pm Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "All at Library MA Building 11am - 1pm & Student Hub MB Building 12.45-2.10pm Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1175,7 +1175,7 @@
             "Address": "19-25 Victoria Street West, Auckland CBD, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "3:47 pm - 5:05 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1183,7 +1183,7 @@
             "Address": "7 Fred Taylor Drive, Massey, Auckland 0814",
             "Day": "Wednesday 18 August",
             "Times": "3:30 pm - 4:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1191,7 +1191,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "1:30 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1199,7 +1199,7 @@
             "Address": "20 Symonds Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "6:00 pm - 6:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1207,7 +1207,7 @@
             "Address": "7 Fred Taylor Drive, Westgate, Auckland 0814",
             "Day": "Saturday 21 August",
             "Times": "3:30 pm - 5:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1215,7 +1215,7 @@
             "Address": "1 Town Centre Drive, East Tamaki, Auckland 2016",
             "Day": "Monday 16 August",
             "Times": "12:00 pm - 12:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 12:00 pm"
         },
         {
@@ -1223,7 +1223,7 @@
             "Address": "9 Symonds Street, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "12:30 pm - 1:30 pm",
-            "What to do": "L3 EastWing/Symonds St Information Commons Computer Lab & Study Space:Isolate 14 days from last exposure Immediate test & day 12 post last exposure Call Healthline.All other levels;monitor for symptoms get test if symptomatic & isolate until negative test",
+            "What to do": "L3 EastWing/Symonds St Information Commons Computer Lab & Study Space:Isolate 14 days from this exposure Immediate test & day 12 post this exposure. All other levels;monitor for symptoms get test if symptomatic & isolate until negative test",
             "Updated": "25 Aug 10:00 am"
         },
         {
@@ -1231,7 +1231,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "3:15 pm - 3:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 10:00 am"
         },
         {
@@ -1239,7 +1239,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "3:15 pm - 3:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 10:00 am"
         },
         {
@@ -1247,7 +1247,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "10:34 am - 11:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 10:00 am"
         },
         {
@@ -1255,7 +1255,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "7:30 am - 8:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 10:00 am"
         },
         {
@@ -1263,7 +1263,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "4:30 pm - 5:35 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "25 Aug 10:00 am"
         },
         {
@@ -1271,7 +1271,7 @@
             "Address": "2 Crown Lynn Place, New Lynn, Auckland 0600",
             "Day": "Saturday 21 August",
             "Times": "8:53 pm - 9:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "24 Aug 8:00 pm"
         },
         {
@@ -1279,7 +1279,7 @@
             "Address": "3044 Great North Road, New Lynn, Auckland 0600",
             "Day": "Saturday 21 August",
             "Times": "9:33 pm - 9:45 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "24 Aug 8:00 pm"
         },
         {
@@ -1287,7 +1287,7 @@
             "Address": "Auckland",
             "Day": "Saturday 21 August",
             "Times": "3:41 pm - 3:54 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "24 Aug 6:00 pm"
         },
         {
@@ -1295,7 +1295,7 @@
             "Address": "43 Symonds Street, Grafton, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "4:00 pm - 5:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 6:00 pm"
         },
         {
@@ -1303,7 +1303,7 @@
             "Address": "Auckland",
             "Day": "Saturday 21 August",
             "Times": "3:11 pm - 3:24 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "24 Aug 6:00 pm"
         },
         {
@@ -1311,7 +1311,7 @@
             "Address": "25 Symonds Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "4:00 pm - 5:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 6:00 pm"
         },
         {
@@ -1319,7 +1319,7 @@
             "Address": "256 Rosebank Road, Avondale, Auckland 1026",
             "Day": "Tuesday 17 August",
             "Times": "2:30 pm - 2:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 6:00 pm"
         },
         {
@@ -1327,7 +1327,7 @@
             "Address": "Pakuranga Town Centre, Pakuranga, Auckland 2013",
             "Day": "Friday 20 August",
             "Times": "12:36 pm - 1:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "24 Aug 6:00 pm"
         },
         {
@@ -1335,7 +1335,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "6:25 pm - 7:50 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 6:00 pm"
         },
         {
@@ -1343,7 +1343,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "7:40 am - 9:02 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 4:00 pm"
         },
         {
@@ -1351,7 +1351,7 @@
             "Address": "27 Whitaker Place, Grafton, Auckland 1010",
             "Day": "Thursday 19 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Residents & staff isolate 14 days from last exposure. Test immediately & on days 5 & 12 after last exposure and call Healthline. Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
+            "What to do": "Residents & staff isolate 14 days from this exposure. Test immediately & on days 5 & 12 after this exposure and Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
             "Updated": "24 Aug 4:00 pm"
         },
         {
@@ -1359,7 +1359,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "10:45 am - 7:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 2:00 pm"
         },
         {
@@ -1367,7 +1367,7 @@
             "Address": "691 Manukau Road, Royal Oak, Auckland 1023",
             "Day": "Wednesday 18 August",
             "Times": "6:45 pm - 8:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1375,7 +1375,7 @@
             "Address": "8 Saint Johns Road,, Meadowbank, Auckland 1072",
             "Day": "Tuesday 17 August",
             "Times": "1:00 pm - 1:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1383,7 +1383,7 @@
             "Address": "543 Remuera Road, Remuera, Auckland 1050",
             "Day": "Tuesday 17 August",
             "Times": "10:00 am - 10:15 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1391,7 +1391,7 @@
             "Address": "282 Penrose Road, Mount Wellington, Auckland 1060",
             "Day": "Tuesday 17 August",
             "Times": "7:00 pm - 7:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1399,7 +1399,7 @@
             "Address": "545 Remuera Road, Remuera, Auckland 1050",
             "Day": "Monday 16 August",
             "Times": "5:30 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1407,7 +1407,7 @@
             "Address": "350 Saint Heliers Bay Road, Kohimarama, Auckland 1071",
             "Day": "Monday 16 August",
             "Times": "6:00 am - 6:15 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1415,7 +1415,7 @@
             "Address": "3041 Great North Road, New Lynn, Auckland 0600",
             "Day": "Saturday 21 August",
             "Times": "3:45 pm - 4:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1423,7 +1423,7 @@
             "Address": "25 Symonds Street, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "12:00 pm - 12:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1431,7 +1431,7 @@
             "Address": "545 Remuera Road, Remuera, Auckland 1050",
             "Day": "Tuesday 17 August",
             "Times": "5:30 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1439,7 +1439,7 @@
             "Address": "29 Maskell Street, St Heliers, Auckland 1071",
             "Day": "Tuesday 17 August",
             "Times": "6:30 pm - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1447,7 +1447,7 @@
             "Address": "Sylvia Park, 286 Mount Wellington Highway, Mt Wellington, Auckland 1060",
             "Day": "Thursday 19 August",
             "Times": "12:00 pm - 12:15 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "24 Aug 12:00 pm"
         },
         {
@@ -1455,7 +1455,7 @@
             "Address": "100 Motions Road, Western Springs, Auckland 1022",
             "Day": "Tuesday 17 August",
             "Times": "8:30 am - 10:30 am",
-            "What to do": "Those required to isolate and test have been identified and contacted by Public Health. All others, monitor symptoms for 14 days post exposure, if they become unwell have a test, isolate and call Healthline for advice.",
+            "What to do": "Those required to isolate and test have been identified and contacted by Public Health. All others, monitor symptoms for 14 days post exposure, if they become unwell have a test, isolate.",
             "Updated": "24 Aug 10:00 am"
         },
         {
@@ -1463,7 +1463,7 @@
             "Address": "1 Disraeli Street, Johnsonville, Wellington 6037",
             "Day": "Tuesday 17 August",
             "Times": "5:00 pm - 9:15 pm",
-            "What to do": "All staff & downstairs patrons isolate 14 days from last exposure. Test immediately, and on days 5 & 12 after last exposure, and call Healthline. Upstairs patrons self-monitor symptoms for 14 days. If symptomatic, test and stay home until a negative test.",
+            "What to do": "All staff & downstairs patrons isolate 14 days from this exposure. Test immediately, and on days 5 & 12 after this exposure. Upstairs patrons self-monitor symptoms for 14 days. If symptomatic, test and stay home until a negative test.",
             "Updated": "24 Aug 9:00 am"
         },
         {
@@ -1471,7 +1471,7 @@
             "Address": "Bader Drive, Mangere, Auckland 2022",
             "Day": "Tuesday 17 August",
             "Times": "5:15 pm - 5:19 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1479,7 +1479,7 @@
             "Address": "359 Massey Road, Mangere East, Auckland 2024",
             "Day": "Saturday 21 August",
             "Times": "12:00 pm - 12:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1487,7 +1487,7 @@
             "Address": "58 Godley Road, Green Bay, Auckland 0604",
             "Day": "Tuesday 17 August",
             "Times": "6:00 pm - 6:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1495,7 +1495,7 @@
             "Address": "9/2 Lansford Crescent, Avondale, Auckland 0600",
             "Day": "Tuesday 17 August",
             "Times": "6:15 pm - 6:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1503,7 +1503,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "3:15 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1511,7 +1511,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "7:30 am - 9:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1519,7 +1519,7 @@
             "Address": "37 Symonds Street, Grafton, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "1:10 pm - 3:20 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1527,7 +1527,7 @@
             "Address": "326 Great South Road, Greenlane, Auckland 1051",
             "Day": "Saturday 21 August",
             "Times": "12:30 pm - 1:15 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1535,7 +1535,7 @@
             "Address": "3B/33 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "12:40 pm - 2:10 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1543,7 +1543,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "3:00 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1551,7 +1551,7 @@
             "Address": "51 Victor Street, Avondale, Auckland 1026",
             "Day": "Monday 16 August",
             "Times": "8:40 am - 3:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1559,7 +1559,7 @@
             "Address": "2021 Great North Road, Avondale, Auckland 1026",
             "Day": "Tuesday 17 August",
             "Times": "5:15 pm - 5:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1567,7 +1567,7 @@
             "Address": "Bader Drive, Mangere, Auckland 2022",
             "Day": "Friday 20 August",
             "Times": "8:00 pm - 8:45 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1575,7 +1575,7 @@
             "Address": "747 Massey Road, Mangere, Auckland 2022",
             "Day": "Tuesday 17 August",
             "Times": "11:00 am - 11:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1583,7 +1583,7 @@
             "Address": "51 Victor Street, Avondale, Auckland 1026",
             "Day": "Tuesday 17 August",
             "Times": "8:45 am - 3:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1591,7 +1591,7 @@
             "Address": "1 Alfriston Road, Manurewa, Auckland 2102",
             "Day": "Tuesday 17 August",
             "Times": "8:00 am - 8:15 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1599,7 +1599,7 @@
             "Address": "Mangere Town Centre, Bader Dve,, Mangere, Auckland 2022",
             "Day": "Tuesday 17 August",
             "Times": "12:30 pm - 1:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1607,7 +1607,7 @@
             "Address": "143 - 161 Godley Road, Green Bay, Auckland",
             "Day": "Monday 16 August",
             "Times": "8:15 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1615,7 +1615,7 @@
             "Address": "185 Great South Road, Manurewa, Auckland 2102",
             "Day": "Saturday 21 August",
             "Times": "3:00 pm - 3:15 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1623,7 +1623,7 @@
             "Address": "143 - 161 Godley Road, Green Bay, Auckland",
             "Day": "Tuesday 17 August",
             "Times": "8:15 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 pm"
         },
         {
@@ -1631,7 +1631,7 @@
             "Address": "22 Stoddard Road, Mount Roskill, Auckland 1041",
             "Day": "Tuesday 17 August",
             "Times": "5:45 pm - 5:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "23 Aug 6:00 pm"
         },
         {
@@ -1639,7 +1639,7 @@
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
             "Day": "Sunday 22 August",
             "Times": "10:30 am - 11:45 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "23 Aug 6:00 pm"
         },
         {
@@ -1647,7 +1647,7 @@
             "Address": "3 Watford Street, Otara, Auckland 2023",
             "Day": "Tuesday 17 August",
             "Times": "9:45 am - 11:45 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 6:00 pm"
         },
         {
@@ -1655,7 +1655,7 @@
             "Address": "425 Tamaki Drive, St Heliers, Auckland 1071",
             "Day": "Monday 16 August",
             "Times": "5:45 pm - 8:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 6:00 pm"
         },
         {
@@ -1663,7 +1663,7 @@
             "Address": "217 Rosebank Road, Avondale, Auckland 1026",
             "Day": "Tuesday 17 August",
             "Times": "9:00 am - 3:00 pm",
-            "What to do": "Those required to isolate and test have been identified and contacted by Public Health. All others, monitor symptoms for 14 days post exposure, if they become unwell have a test, isolate and call Healthline for advice.",
+            "What to do": "Those required to isolate and test have been identified and contacted by Public Health. All others, monitor symptoms for 14 days post exposure, if they become unwell have a test, isolate.",
             "Updated": "23 Aug 6:00 pm"
         },
         {
@@ -1671,7 +1671,7 @@
             "Address": "4 Johnsonville Road, Johnsonville, Wellington 6037",
             "Day": "Tuesday 17 August",
             "Times": "8:20 pm - 8:35 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "23 Aug 2:00 pm"
         },
         {
@@ -1679,7 +1679,7 @@
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
             "Day": "Monday 16 August",
             "Times": "7:00 pm - 7:30 pm",
-            "What to do": "Customers at or around the entrance: Isolate, test immediately and on or around day 5 after last exposure and continue to isolate until negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Customers at or around the entrance: Isolate, test immediately and on or around day 5 after this exposure and continue to isolate until negative day 5 test result.",
             "Updated": "23 Aug 2:00 pm"
         },
         {
@@ -1687,7 +1687,7 @@
             "Address": "469 Roscommon Road, Clendon Park, Auckland 2103",
             "Day": "Tuesday 17 August",
             "Times": "11:30 am - 12:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 2:00 pm"
         },
         {
@@ -1695,7 +1695,7 @@
             "Address": "55 Wellesley Street East, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "11:40 am - 5:00 pm",
-            "What to do": "All at AUT City Campus, Tech Central, WA4 11.40am-3pm or in Paper PSYC781, Lecture Theatre WG801/802 2-5pm Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure.Call Healthline for what to do next",
+            "What to do": "All at AUT City Campus, Tech Central, WA4 11.40am-3pm or in Paper PSYC781, Lecture Theatre WG801/802 2-5pm Isolate at home for 14 days from when you were exposed at this location of interest. Test immediately, and on days 5 & 12 after this exposure.",
             "Updated": "23 Aug 12:00 pm"
         },
         {
@@ -1703,7 +1703,7 @@
             "Address": "90 Akoranga Drive, Northcote, Auckland 0627",
             "Day": "Monday 16 August",
             "Times": "10:40 am - 4:00 pm",
-            "What to do": "All at AUT North Campus, AL computer lab 10.40am-3pm or in Paper PSYC706, Lecture Theatre AA234 2.10pm-4pm Isolate at home for 14 days from date of last exposure. Test immediately,and on days 5 & 12 after last exposure.Call Healthline for what to do next.",
+            "What to do": "All at AUT North Campus, AL computer lab 10.40am-3pm or in Paper PSYC706, Lecture Theatre AA234 2.10pm-4pm Isolate at home from when you were exposed at this location of interest. Test immediately, and on days 5 & 12 after this exposure.",
             "Updated": "23 Aug 12:00 pm"
         },
         {
@@ -1711,7 +1711,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "7:30 am - 8:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 12:00 pm"
         },
         {
@@ -1719,7 +1719,7 @@
             "Address": "3119 Great North Road, New Lynn, Auckland 0600",
             "Day": "Tuesday 17 August",
             "Times": "7:30 pm - 7:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "23 Aug 10:00 am"
         },
         {
@@ -1727,7 +1727,7 @@
             "Address": "9/217 Great South Road, Otahuhu, Auckland 1062",
             "Day": "Monday 16 August",
             "Times": "12:00 pm - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 am"
         },
         {
@@ -1735,7 +1735,7 @@
             "Address": "228 Great South Road, Takanini, Auckland 2112",
             "Day": "Monday 16 August",
             "Times": "10:00 am - 10:10 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 am"
         },
         {
@@ -1743,7 +1743,7 @@
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
             "Day": "Tuesday 17 August",
             "Times": "9:00 am - 11:00 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 am"
         },
         {
@@ -1751,7 +1751,7 @@
             "Address": "227 Browns Road, Manurewa, Auckland 2102",
             "Day": "Monday 16 August",
             "Times": "12:00 pm - 12:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "23 Aug 8:00 am"
         },
         {
@@ -1759,7 +1759,7 @@
             "Address": "3 Watford Street, Otara, Auckland 2023",
             "Day": "Tuesday 17 August",
             "Times": "10:45 am - 3:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1767,7 +1767,7 @@
             "Address": "262 Blockhouse Bay Road, Avondale, Auckland 0600",
             "Day": "Tuesday 17 August",
             "Times": "10:30 pm - 11:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1775,7 +1775,7 @@
             "Address": "1 Burton Street, Grafton, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "12:00 pm - 12:20 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1783,7 +1783,7 @@
             "Address": "314 Ponsonby Road, Ponsonby, Auckland 1011",
             "Day": "Monday 16 August",
             "Times": "6:30 pm - 7:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1791,7 +1791,7 @@
             "Address": "9/217 Great South Road, Otahuhu, Auckland 1062",
             "Day": "Tuesday 17 August",
             "Times": "12:00 pm - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1799,7 +1799,7 @@
             "Address": "186 Queen Street, Auckland Central, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "1:00 pm - 2:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1807,7 +1807,7 @@
             "Address": "223D Green Lane West, Epsom, Auckland 1051",
             "Day": "Tuesday 17 August",
             "Times": "6:38 pm - 8:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1815,7 +1815,7 @@
             "Address": "228 Great South Road, Takanini, Takanini 2112",
             "Day": "Thursday 19 August",
             "Times": "7:00 am - 7:10 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1823,7 +1823,7 @@
             "Address": "3/24 Henderson Valley Road, Henderson, Auckland 0612",
             "Day": "Monday 16 August",
             "Times": "11:00 am - 1:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1831,7 +1831,7 @@
             "Address": "Cnr Westgate &, Fernhill Drive, Massey, Auckland 0614",
             "Day": "Monday 16 August",
             "Times": "5:00 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 7:00 pm"
         },
         {
@@ -1839,7 +1839,7 @@
             "Address": "72 St Lukes Road, Mount Albert, Auckland 1025",
             "Day": "Tuesday 17 August",
             "Times": "8:45 pm - 9:05 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 3:00 pm"
         },
         {
@@ -1847,7 +1847,7 @@
             "Address": "271 Richmond Road, Grey Lynn, Auckland 1022",
             "Day": "Wednesday 18 August",
             "Times": "4:55 pm - 5:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "22 Aug 3:00 pm"
         },
         {
@@ -1855,7 +1855,7 @@
             "Address": "34 Westmoreland Street West, Grey Lynn, Auckland 1021",
             "Day": "Tuesday 17 August",
             "Times": "6:37 pm - 6:50 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 3:00 pm"
         },
         {
@@ -1863,7 +1863,7 @@
             "Address": "271 Richmond Road, Grey Lynn, Auckland 1022",
             "Day": "Tuesday 17 August",
             "Times": "6:52 pm - 7:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 3:00 pm"
         },
         {
@@ -1871,7 +1871,7 @@
             "Address": "63 St George Street, Papatoetoe, Auckland 2025",
             "Day": "Thursday 19 August",
             "Times": "9:53 am - 10:30 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "22 Aug 1:00 pm"
         },
         {
@@ -1879,7 +1879,7 @@
             "Address": "14 Harris Street, Pukekohe, Pukekohe 2120",
             "Day": "Tuesday 17 August",
             "Times": "8:00 am - 4:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 1:00 pm"
         },
         {
@@ -1887,7 +1887,7 @@
             "Address": "14 Harris Street, Pukekohe, Pukekohe 2120",
             "Day": "Monday 16 August",
             "Times": "8:00 am - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 1:00 pm"
         },
         {
@@ -1895,7 +1895,7 @@
             "Address": "77s Wymondley Road, Otara, Auckland 2025",
             "Day": "Tuesday 17 August",
             "Times": "8:50 am - 9:10 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 11:00 am"
         },
         {
@@ -1903,7 +1903,7 @@
             "Address": "122 East Tamaki Road, Otara, Manukau 2023",
             "Day": "Friday 20 August",
             "Times": "10:50 am - 10:55 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1911,7 +1911,7 @@
             "Address": "359 Massey Road, Mangere East, Auckland 2024",
             "Day": "Friday 20 August",
             "Times": "9:50 am - 10:15 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1919,7 +1919,7 @@
             "Address": "652 Great South Road, Manukau, Auckland 2104",
             "Day": "Thursday 19 August",
             "Times": "4:53 pm - 5:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1927,7 +1927,7 @@
             "Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
             "Day": "Thursday 19 August",
             "Times": "5:30 pm - 6:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1935,7 +1935,7 @@
             "Address": "Auckland",
             "Day": "Wednesday 18 August",
             "Times": "9:30 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1943,7 +1943,7 @@
             "Address": "5A Wanstead Way, Mangere, Auckland 2022",
             "Day": "Thursday 19 August",
             "Times": "2:19 pm - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1951,7 +1951,7 @@
             "Address": "27 Whitaker Place, Grafton, Auckland 1010",
             "Day": "Wednesday 18 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Residents & staff isolate 14 days from last exposure. Test immediately & on days 5 & 12 after last exposure and call Healthline. Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
+            "What to do": "Residents & staff isolate 14 days from this exposure. Test immediately & on days 5 & 12 after this exposure and Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1959,7 +1959,7 @@
             "Address": "138/142 East Tamaki Road, Otara, Auckland 2023",
             "Day": "Wednesday 18 August",
             "Times": "5:30 pm - 5:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1967,7 +1967,7 @@
             "Address": "191 White Swan Road, Mount Roskill, Auckland 1041",
             "Day": "Tuesday 17 August",
             "Times": "8:45 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1975,7 +1975,7 @@
             "Address": "17 Clark Street, New Lynn, Auckland 0600",
             "Day": "Tuesday 17 August",
             "Times": "9:00 am - 9:40 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1983,7 +1983,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "9:30 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1991,7 +1991,7 @@
             "Address": "26 High Street, Otahuhu, Auckland 1062",
             "Day": "Tuesday 17 August",
             "Times": "8:30 am - 3:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -1999,7 +1999,7 @@
             "Address": "2 Ronwood Avenue, Manukau, Auckland 2104",
             "Day": "Tuesday 17 August",
             "Times": "6:30 pm - 7:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2007,7 +2007,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "7:30 am - 8:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2015,7 +2015,7 @@
             "Address": "2 Wymondley Road, Otara, Auckland 2025",
             "Day": "Tuesday 17 August",
             "Times": "7:40 pm - 7:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2023,7 +2023,7 @@
             "Address": "Unit A/174 Mokoia Rd, Birkenhead, Auckland 0626",
             "Day": "Tuesday 17 August",
             "Times": "5:30 pm - 5:40 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2031,7 +2031,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "3:45 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2039,7 +2039,7 @@
             "Address": "85 Park Road, Grafton, Auckland 1023",
             "Day": "Tuesday 17 August",
             "Times": "4:00 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2047,7 +2047,7 @@
             "Address": "3/28 Bairds Road, Papatoetoe, Auckland 2025",
             "Day": "Tuesday 17 August",
             "Times": "4:27 pm - 4:37 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2055,7 +2055,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "2:30 pm - 3:20 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2063,7 +2063,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "3:30 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2071,7 +2071,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "11:30 am - 11:50 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2079,7 +2079,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "11:50 am - 12:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2087,7 +2087,7 @@
             "Address": "27 Whitaker Place, Grafton, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Residents & staff isolate 14 days from last exposure. Test immediately & on days 5 & 12 after last exposure and call Healthline. Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
+            "What to do": "Residents & staff isolate 14 days from this exposure. Test immediately & on days 5 & 12 after this exposure and Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2095,7 +2095,7 @@
             "Address": "452 Ti Rakau Drive, Botany Downs, Auckland 2013",
             "Day": "Tuesday 17 August",
             "Times": "10:30 am - 10:40 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2103,7 +2103,7 @@
             "Address": "19A Queen Street, Otahuhu, Auckland 1062",
             "Day": "Monday 16 August",
             "Times": "8:45 am - 10:45 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2111,7 +2111,7 @@
             "Address": "12 Grafton Road, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "1:00 pm - 2:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2119,7 +2119,7 @@
             "Address": "76 Dundale Avenue, Blockhouse Bay, Auckland 0600",
             "Day": "Monday 16 August",
             "Times": "9:00 am - 12:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2127,7 +2127,7 @@
             "Address": "1 Kauri Glen Rd, Northcote, Auckland 0627",
             "Day": "Monday 16 August",
             "Times": "9:00 am - 3:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2135,7 +2135,7 @@
             "Address": "28 Coronation Road, Mangere Bridge, Auckland 2022",
             "Day": "Monday 16 August",
             "Times": "9:20 am - 9:45 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2143,7 +2143,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "9:30 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2151,7 +2151,7 @@
             "Address": "71 Mokoia Road, Birkenhead, Auckland 0626",
             "Day": "Monday 16 August",
             "Times": "8:10 am - 8:20 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2159,7 +2159,7 @@
             "Address": "71 Mokoia Road, Birkenhead, Auckland 0626",
             "Day": "Monday 16 August",
             "Times": "8:20 am - 8:25 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2167,7 +2167,7 @@
             "Address": "26 High Street, Otahuhu, Auckland 1062",
             "Day": "Monday 16 August",
             "Times": "8:30 am - 3:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2175,7 +2175,7 @@
             "Address": "53 May Road, Mt Roskill, Auckland 1041",
             "Day": "Monday 16 August",
             "Times": "7:00 pm - 7:20 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2183,7 +2183,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "7:30 am - 8:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2191,7 +2191,7 @@
             "Address": "30 Mason Avenue, Otahuhu, Auckland 1062",
             "Day": "Monday 16 August",
             "Times": "4:00 pm - 6:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2199,7 +2199,7 @@
             "Address": "2A Wymondley Road, Otara, Auckland 2025",
             "Day": "Monday 16 August",
             "Times": "2:00 pm - 2:10 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2207,7 +2207,7 @@
             "Address": "2 Carr Road, Three Kings, Auckland 1042",
             "Day": "Monday 16 August",
             "Times": "10:00 am - 10:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2215,7 +2215,7 @@
             "Address": "27 Whitaker Place, Grafton, Auckland 1010",
             "Day": "Monday 16 August",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Residents & staff isolate 14 days from last exposure. Test immediately & on days 5 & 12 after last exposure and call Healthline. Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
+            "What to do": "Residents & staff isolate 14 days from this exposure. Test immediately & on days 5 & 12 after this exposure and Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2223,7 +2223,7 @@
             "Address": "142 Harris Road, East Tamaki, Auckland 2013",
             "Day": "Monday 16 August",
             "Times": "12:00 pm - 12:10 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2231,7 +2231,7 @@
             "Address": "122 East Tamaki Road, Otara, Auckland 2023",
             "Day": "Monday 16 August",
             "Times": "1:15 pm - 1:20 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "22 Aug 9:00 am"
         },
         {
@@ -2239,7 +2239,7 @@
             "Address": "3 John Street, Mount Cook, Wellington 6021",
             "Day": "Friday 20 August",
             "Times": "8:05 am - 9:45 am",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2247,7 +2247,7 @@
             "Address": "",
             "Day": "Thursday 19 August",
             "Times": "4:30 pm - 5:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2255,7 +2255,7 @@
             "Address": "3/7 Mahora Street, Kilbirnie, Wellington 6022",
             "Day": "Thursday 19 August",
             "Times": "4:45 pm - 6:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2263,7 +2263,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "7:45 am - 9:15 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2271,7 +2271,7 @@
             "Address": "418 Glenfield Road, Glenfield, Auckland 0629",
             "Day": "Tuesday 17 August",
             "Times": "2:50 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2279,7 +2279,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "3:00 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2287,7 +2287,7 @@
             "Address": "87 Mangere Road, Otahuhu, Auckland 1062",
             "Day": "Monday 16 August",
             "Times": "9:30 am - 9:45 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2295,7 +2295,7 @@
             "Address": "94 Bridge Street, Bulls 4818",
             "Day": "Monday 16 August",
             "Times": "9:30 pm - 10:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2303,7 +2303,7 @@
             "Address": "191 White Swan Road, Mount Roskill, Auckland 1041",
             "Day": "Monday 16 August",
             "Times": "8:45 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2311,7 +2311,7 @@
             "Address": "11 State Highway 1, Waiouru 4825",
             "Day": "Monday 16 August",
             "Times": "6:30 pm - 7:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2319,7 +2319,7 @@
             "Address": "15 State Highway 1, Waiouru 4825",
             "Day": "Monday 16 August",
             "Times": "6:30 pm - 7:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2327,7 +2327,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "3:00 pm - 4:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "21 Aug 9:00 am"
         },
         {
@@ -2335,7 +2335,7 @@
             "Address": "2 Trafalgar Street, Johnsonville, Wellington 6037",
             "Day": "Wednesday 18 August",
             "Times": "4:15 pm - 4:45 pm",
-            "What to do": "Staff isolate 14 days from last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline. Customers isolate, test immediately and on day 5 after last exposure and continue to isolate until a negative day 5 test. Call Healthline.",
+            "What to do": "Staff isolate 14 days after you were exposed at this location of interest. Test immediately, and on days 5 & 12 after this exposure. Customers isolate, test immediately and on day 5 after this exposure and continue to isolate until a negative day 5 test.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2343,7 +2343,7 @@
             "Address": "31 Johnsonville Road, Johnsonville, Wellington 6037",
             "Day": "Wednesday 18 August",
             "Times": "4:30 pm - 5:00 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2351,7 +2351,7 @@
             "Address": "76 Dundale Avenue, Blockhouse Bay, Auckland 0600",
             "Day": "Tuesday 17 August",
             "Times": "9:00 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2359,7 +2359,7 @@
             "Address": "Johnsonville Shopping Centre, 34 Johnsonville Road, Johnsonville, Wellington 6037",
             "Day": "Tuesday 17 August",
             "Times": "5:15 pm - 5:30 pm",
-            "What to do": "Staff isolate 14 days from last exposure. Test immediately, and on days 5 & 12 after last exposure, and call Healthline. Johnsonville Mall customers self-monitor symptoms for 14 days. If symptomatic, test and stay home until a negative test result.",
+            "What to do": "Staff isolate 14 days after you were exposed at this location of interest,test immediately, and on days 5 & 12 after this exposure. Johnsonville Mall customers self-monitor symptoms for 14 days. If symptomatic, test and isolate until a negative test.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2367,7 +2367,7 @@
             "Address": "5 Johnsonville Road, Johnsonville, Wellington 6037",
             "Day": "Tuesday 17 August",
             "Times": "5:30 pm - 5:45 pm",
-            "What to do": "Staff isolate 14 days from last exposure. Test immediately, and on days 5 & 12 after last exposure, and call Healthline. Customers self-monitor symptoms for 14 days. If symptomatic, test and stay home until a negative test result.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2375,7 +2375,7 @@
             "Address": "10 Serlby Place, Porirua City Centre, Porirua 5022",
             "Day": "Tuesday 17 August",
             "Times": "6:15 pm - 6:30 pm",
-            "What to do": "Staff isolate 14 days from last exposure. Test immediately, and on days 5 & 12 after last exposure, and call Healthline. Customers self-monitor symptoms for 14 days. If symptomatic, test and stay home until a negative test result.",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2383,7 +2383,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "3:30 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2391,7 +2391,7 @@
             "Address": "3 Watford Street, Otara, Auckland 2023",
             "Day": "Tuesday 17 August",
             "Times": "4:21 pm - 8:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2399,7 +2399,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "4:30 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2407,7 +2407,7 @@
             "Address": "38 Portage Road, New Lynn, Auckland 0600",
             "Day": "Tuesday 17 August",
             "Times": "11:00 am - 3:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2415,7 +2415,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "4:30 pm - 6:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2423,7 +2423,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "3:30 pm - 3:50 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2431,7 +2431,7 @@
             "Address": "Auckland",
             "Day": "Monday 16 August",
             "Times": "3:30 pm - 5:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "20 Aug 9:00 am"
         },
         {
@@ -2439,7 +2439,7 @@
             "Address": "34 Birkdale Road, Birkdale, Auckland 0626",
             "Day": "Tuesday 17 August",
             "Times": "8:30 am - 9:45 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "19 Aug 9:00 am"
         },
         {
@@ -2447,7 +2447,7 @@
             "Address": "64 Godley Road, Green Bay, Auckland 0604",
             "Day": "Tuesday 17 August",
             "Times": "7:00 pm - 8:00 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "19 Aug 9:00 am"
         },
         {
@@ -2455,7 +2455,7 @@
             "Address": "151 Arthur Street, Onehunga, Auckland 1061",
             "Day": "Tuesday 17 August",
             "Times": "12:30 pm - 1:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "19 Aug 9:00 am"
         },
         {
@@ -2463,7 +2463,7 @@
             "Address": "Cnr Te Irirangi Drive &, Ti Rakau Drive, Botany Downs, Auckland 2023",
             "Day": "Tuesday 17 August",
             "Times": "10:20 am - 10:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "19 Aug 9:00 am"
         },
         {
@@ -2471,7 +2471,7 @@
             "Address": "151 Arthur Street, Onehunga, Auckland 1061",
             "Day": "Monday 16 August",
             "Times": "12:30 pm - 1:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "19 Aug 9:00 am"
         },
         {
@@ -2479,7 +2479,7 @@
             "Address": "Point Chevalier Road, Point Chevalier, Auckland 1022",
             "Day": "Monday 16 August",
             "Times": "2:00 pm - 2:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "19 Aug 9:00 am"
         },
         {
@@ -2487,7 +2487,7 @@
             "Address": "Birkenhead Avenue Shop 28, Highbury Shopping Centre, Birkenhead, Auckland 0626",
             "Day": "Tuesday 17 August",
             "Times": "9:15 am - 9:30 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2495,7 +2495,7 @@
             "Address": "2 Governor Fitzroy Place, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "11:30 am - 3:45 pm",
-            "What to do": "Staff & students at lecture theatre WG403 or the level 4 foyer outside will be sent information on isolation and testing by AUT.  Students and staff elsewhere on the city campus need to follow Level 4 instructions and call Healthline if symptoms develop.",
+            "What to do": "Staff & students at lecture theatre WG403 or the level 4 foyer outside will be sent information on isolation and testing by AUT.  Students and staff elsewhere on the city campus need to follow Level 4 instructions and monitor symptoms.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2503,7 +2503,7 @@
             "Address": "Auckland",
             "Day": "Tuesday 17 August",
             "Times": "1:45 pm - 2:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2511,7 +2511,7 @@
             "Address": "50 Kitchener Street, Auckland Central, Auckland 1010",
             "Day": "Tuesday 17 August",
             "Times": "1:15 pm - 1:30 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2519,7 +2519,7 @@
             "Address": "Cnr Highbury Pass & Birkenhead Ave, Birkenhead, Auckland 0626",
             "Day": "Monday 16 August",
             "Times": "7:00 am - 7:15 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2527,7 +2527,7 @@
             "Address": "7/13 Rata Street, New Lynn, Auckland 0600",
             "Day": "Monday 16 August",
             "Times": "7:45 am - 8:15 am",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2535,7 +2535,7 @@
             "Address": "56B Godley Road, Green Bay, Auckland 0604",
             "Day": "Monday 16 August",
             "Times": "4:00 pm - 4:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2543,7 +2543,7 @@
             "Address": "34 Birkdale Road, Birkdale, Auckland 0626",
             "Day": "Monday 16 August",
             "Times": "12:45 pm - 1:15 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2551,7 +2551,7 @@
             "Address": "Cnr Highbury Pass & Birkenhead Ave, Birkenhead, Auckland 0626",
             "Day": "Monday 16 August",
             "Times": "12:30 pm - 12:45 pm",
-            "What to do": "Isolate at home for 14 days from date of last exposure. Test immediately, and on days 5 & 12 after last exposure. Call Healthline for what to do next.",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.",
             "Updated": "18 Aug 9:00 am"
         },
         {
@@ -2559,7 +2559,7 @@
             "Address": "33 Victoria Road, Devonport, Auckland 0624",
             "Day": "Monday 16 August",
             "Times": "2:15 pm - 2:30 pm",
-            "What to do": "Stay at home, test immediately and on or around day 5 after last exposure and continue to stay at home until you receive a negative day 5 test result. Call Healthline for what to do next.",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "17 Aug 9:00 am"
         }
     ]
