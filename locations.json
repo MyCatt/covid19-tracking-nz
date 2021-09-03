@@ -1,7 +1,55 @@
 {
-    "size": 144,
-    "added": "2021-09-03 22:20:30.690845",
+    "size": 143,
+    "added": "2021-09-03 22:40:15.864673",
     "body": [
+        {
+            "Location name": "Pak N Save Kilbirnie",
+            "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
+            "Day": "Wednesday 18 August",
+            "Times": "7:25 am - 7:40 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "4 Sep 10:00 am"
+        },
+        {
+            "Location name": "Pak N Save Kilbirnie",
+            "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
+            "Day": "Thursday 19 August",
+            "Times": "12:10 pm - 12:25 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "4 Sep 10:00 am"
+        },
+        {
+            "Location name": "PAK'nSAVE Royal Oak",
+            "Address": "691 Manukau Road, Royal Oak, Auckland 1023",
+            "Day": "Wednesday 18 August",
+            "Times": "6:45 pm - 8:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "4 Sep 10:00 am"
+        },
+        {
+            "Location name": "Pak n Save Mt Albert",
+            "Address": "1167 New North Road, Mount Albert, Auckland 1025",
+            "Day": "Wednesday 18 August",
+            "Times": "8:00 pm - 8:15 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "4 Sep 10:00 am"
+        },
+        {
+            "Location name": "Pak n Save Manukau",
+            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
+            "Day": "Wednesday 18 August",
+            "Times": "8:00 pm - 8:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "4 Sep 10:00 am"
+        },
+        {
+            "Location name": "Mayfair Supermarket",
+            "Address": "29 Mayfair Place, Glen Innes, Auckland 1072",
+            "Day": "Saturday 28 August",
+            "Times": "2:46 pm - 4:05 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 10:00 am"
+        },
         {
             "Location name": "Pak'nSave Westgate",
             "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
@@ -27,34 +75,10 @@
             "Updated": "4 Sep 8:00 am"
         },
         {
-            "Location name": "Pak'nSave Royal Oak",
-            "Address": "691 Manukau Road, Royal Oak, Auckland 1023",
-            "Day": "Wednesday 18 August",
-            "Times": "6:45 pm - 8:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 8:00 am"
-        },
-        {
             "Location name": "Pak'nSave Manukau",
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Saturday 21 August",
             "Times": "2:00 pm - 3:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 8:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Mt Albert",
-            "Address": "1167 New North Road, Mount Albert, Auckland 1025",
-            "Day": "Wednesday 18 August",
-            "Times": "8:00 pm - 8:15 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 8:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Manukau",
-            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
-            "Day": "Wednesday 18 August",
-            "Times": "8:00 pm - 8:30 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "4 Sep 8:00 am"
         },
@@ -71,22 +95,6 @@
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Thursday 19 August",
             "Times": "4:00 pm - 4:45 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 8:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Kilbirnie",
-            "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
-            "Day": "Wednesday 18 August",
-            "Times": "7:25 am - 7:40 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 8:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Kilbirnie",
-            "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
-            "Day": "Thursday 19 August",
-            "Times": "12:10 pm - 12:25 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "4 Sep 8:00 am"
         },
@@ -937,22 +945,6 @@
             "Times": "3:30 pm - 5:00 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "25 Aug 12:00 pm"
-        },
-        {
-            "Location name": "New World New Lynn",
-            "Address": "2 Crown Lynn Place, New Lynn, Auckland 0600",
-            "Day": "Saturday 21 August",
-            "Times": "8:53 pm - 9:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "24 Aug 8:00 pm"
-        },
-        {
-            "Location name": "West Liquor New Lynn Central",
-            "Address": "3044 Great North Road, New Lynn, Auckland 0600",
-            "Day": "Saturday 21 August",
-            "Times": "9:33 pm - 9:45 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "24 Aug 8:00 pm"
         },
         {
             "Location name": "Bus NB5021 487 Dominion Road to 37 Symonds Street",
