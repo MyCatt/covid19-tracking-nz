@@ -1,20 +1,76 @@
 {
     "size": 261,
-    "added": "2021-09-03 00:01:57.585737",
+    "added": "2021-09-03 00:20:43.768078",
     "body": [
+        {
+            "Location name": "Mobil Walmsley Road",
+            "Address": "101 Walmsley Road, Favona, Auckland 2024",
+            "Day": "Friday 27 August",
+            "Times": "11:59 pm - 12:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Hoyts Cinema Ormiston Flat Bush",
+            "Address": "226 Ormiston Road, Flat Bush, Auckland 2019",
+            "Day": "Tuesday 17 August",
+            "Times": "3:30 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Platypus Ormiston Flat Bush",
+            "Address": "Ormiston Town Centre, 240 Ormiston Road, Flat Bush, Auckland 2019",
+            "Day": "Tuesday 17 August",
+            "Times": "3:20 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 12:00 pm"
+        },
+        {
+            "Location name": "AUT South Campus",
+            "Address": "640 Great South Road, Manukau, Auckland 2025",
+            "Day": "Tuesday 17 August",
+            "Times": "11:00 am - 2:10 pm",
+            "What to do": "All at Library MA Building 11am-1pm & Student Hub MB Building 12.45-2.10pm Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "3 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Fresh Choice Mangere Bridge",
+            "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
+            "Day": "Saturday 28 August",
+            "Times": "7:00 pm - 8:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Kevin's Laundromat Papatoetoe",
+            "Address": "17D RANFURLY ROAD, PAPATOETOE, AUCKLAND 2104",
+            "Day": "Monday 30 August",
+            "Times": "5:40 pm - 6:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Kevin's Laundromat Papatoetoe",
+            "Address": "17D RANFURLY ROAD, PAPATOETOE, AUCKLAND 2104",
+            "Day": "Monday 30 August",
+            "Times": "6:29 pm - 7:04 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Mobil Titirangi New Lynn",
+            "Address": "26/28 Titirangi Road,, New Lynn,, Auckland 0600",
+            "Day": "Wednesday 25 August",
+            "Times": "6:30 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 12:00 pm"
+        },
         {
             "Location name": "Pak'nSave Sylvia Park",
             "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
             "Day": "Tuesday 31 August",
             "Times": "8:00 pm - 9:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 10:00 am"
-        },
-        {
-            "Location name": "Mobil New Lynn",
-            "Address": "26/28 Titirangi Road,, New Lynn,, Auckland 0600",
-            "Day": "Wednesday 25 August",
-            "Times": "6:30 pm - 7:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Sep 10:00 am"
         },
@@ -39,22 +95,6 @@
             "Address": "246 Mount Smart Road, Onehunga, Auckland 1061",
             "Day": "Monday 30 August",
             "Times": "5:00 pm - 6:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 10:00 am"
-        },
-        {
-            "Location name": "Kevin's Laundromat Papatoetoe",
-            "Address": "17D RANFURLY ROAD, PAPATOETOE, AUCKLAND 2104",
-            "Day": "Monday 30 August",
-            "Times": "5:40 pm - 6:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 10:00 am"
-        },
-        {
-            "Location name": "Kevin's Laundromat Papatoetoe",
-            "Address": "17D RANFURLY ROAD, PAPATOETOE, AUCKLAND 2104",
-            "Day": "Monday 30 August",
-            "Times": "6:29 pm - 7:04 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Sep 10:00 am"
         },
@@ -95,14 +135,6 @@
             "Address": "63 St George Street, Papatoetoe, Auckland 2025",
             "Day": "Thursday 26 August",
             "Times": "3:04 pm - 3:34 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Hoyts Cinema Flat Bush",
-            "Address": "226 Ormiston Road, Flat Bush, Auckland 2019",
-            "Day": "Tuesday 17 August",
-            "Times": "3:30 pm - 7:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 6:00 pm"
         },
@@ -159,38 +191,6 @@
             "Address": "97 Mascot Avenue, Mangere, Auckland 2022",
             "Day": "Saturday 28 August",
             "Times": "11:38 am - 11:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Mobil Walmsley Road",
-            "Address": "101 Walmsley Road, Favona, Auckland 2024",
-            "Day": "Friday 27 August",
-            "Times": "11:59 pm - 12:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 6:00 pm"
-        },
-        {
-            "Location name": "AUT South Campus",
-            "Address": "640 Great South Road, Manukau, Auckland 2025",
-            "Day": "Tuesday 17 August",
-            "Times": "11:00 am - 2:15 pm",
-            "What to do": "All at Library MA Building 11am-1pm & Student Hub MB Building 12.45-2.10pm Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "2 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Fresh Choice Mangere Bridge",
-            "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
-            "Day": "Saturday 28 August",
-            "Times": "7:00 pm - 8:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Platypus Ormiston Town Centre Flat Bush",
-            "Address": "240 Ormiston Road, Flat Bush, Auckland 2019",
-            "Day": "Tuesday 17 August",
-            "Times": "3:20 pm - 3:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 6:00 pm"
         },
