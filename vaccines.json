@@ -1,33 +1,33 @@
 {
     "size": 3,
-    "added": "2021-09-03 00:40:32.650897",
+    "added": "2021-09-03 01:01:15.931008",
     "body": [
         {
             "Category": "2",
             "Vaccinations yesterday": ",",
-            "Cumulative total": "3",
-            "% Eligible Pop'n Vaccinated": "5",
-            "% Total Pop'n Vaccinated": "4",
+            "Cumulative total": "4",
+            "% Eligible Pop'n Vaccinated": "1",
+            "% Total Pop'n Vaccinated": "9",
             "Vaccinated or Booked": ",",
-            "% Eligible Vaccinated or Booked": "3"
+            "% Eligible Vaccinated or Booked": "9"
         },
         {
             "Category": "1",
             "Vaccinations yesterday": ",",
             "Cumulative total": "2",
-            "% Eligible Pop'n Vaccinated": "3",
-            "% Total Pop'n Vaccinated": "9",
+            "% Eligible Pop'n Vaccinated": "6",
+            "% Total Pop'n Vaccinated": "4",
             "Vaccinated or Booked": ",",
-            "% Eligible Vaccinated or Booked": "3"
+            "% Eligible Vaccinated or Booked": "6"
         },
         {
             "Category": "3",
             "Vaccinations yesterday": ",",
-            "Cumulative total": "5",
-            "% Eligible Pop'n Vaccinated": "9",
-            "% Total Pop'n Vaccinated": "3",
+            "Cumulative total": "6",
+            "% Eligible Pop'n Vaccinated": "8",
+            "% Total Pop'n Vaccinated": "4",
             "Vaccinated or Booked": ",",
-            "% Eligible Vaccinated or Booked": "7"
+            "% Eligible Vaccinated or Booked": "5"
         }
     ]
 }
