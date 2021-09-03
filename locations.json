@@ -1,7 +1,15 @@
 {
     "size": 263,
-    "added": "2021-09-03 06:40:17.093755",
+    "added": "2021-09-03 07:00:51.935324",
     "body": [
+        {
+            "Location name": "Waitangi Road Laundromat",
+            "Address": "22 Waitangi Road, Onehunga, Auckland 1061",
+            "Day": "Monday 30 August",
+            "Times": "5:00 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 6:00 pm"
+        },
         {
             "Location name": "Supa Value Supermarket Glen Innes",
             "Address": "131 Line Road, Glen Innes, Auckland 1072",
@@ -111,14 +119,6 @@
             "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
             "Day": "Wednesday 1 September",
             "Times": "12:15 pm - 1:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 10:00 am"
-        },
-        {
-            "Location name": "Mount Smart Ezy Laundromat Onehunga",
-            "Address": "246 Mount Smart Road, Onehunga, Auckland 1061",
-            "Day": "Monday 30 August",
-            "Times": "5:00 pm - 6:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Sep 10:00 am"
         },
