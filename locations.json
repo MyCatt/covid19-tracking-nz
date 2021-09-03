@@ -1,7 +1,39 @@
 {
-    "size": 262,
-    "added": "2021-09-03 04:01:21.830719",
+    "size": 263,
+    "added": "2021-09-03 04:20:26.533368",
     "body": [
+        {
+            "Location name": "Supa Value Supermarket Glen Innes",
+            "Address": "131 Line Road, Glen Innes, Auckland 1072",
+            "Day": "Wednesday 25 August",
+            "Times": "8:21 am - 9:30 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "3 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Kevin's Laundromat Papatoetoe",
+            "Address": "17D Ranfurly Rd, Papatoetoe, Auckland 2104",
+            "Day": "Monday 30 August",
+            "Times": "5:40 pm - 6:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Kevin's Laundromat Papatoetoe",
+            "Address": "17D Ranfurly Rd, Papatoetoe, Auckland 2104",
+            "Day": "Monday 30 August",
+            "Times": "6:29 pm - 7:04 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Skinny Point England Superette Point England",
+            "Address": "127 Elstree Avenue, Point England, Auckland 1072",
+            "Day": "Wednesday 25 August",
+            "Times": "8:15 am - 8:45 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "3 Sep 4:00 pm"
+        },
         {
             "Location name": "Tasi Market Massey",
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
@@ -47,22 +79,6 @@
             "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
             "Day": "Saturday 28 August",
             "Times": "7:00 pm - 8:35 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Kevin's Laundromat Papatoetoe",
-            "Address": "17D RANFURLY ROAD, PAPATOETOE, AUCKLAND 2104",
-            "Day": "Monday 30 August",
-            "Times": "5:40 pm - 6:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Kevin's Laundromat Papatoetoe",
-            "Address": "17D RANFURLY ROAD, PAPATOETOE, AUCKLAND 2104",
-            "Day": "Monday 30 August",
-            "Times": "6:29 pm - 7:04 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Sep 12:00 pm"
         },
@@ -383,14 +399,6 @@
             "Address": "284 Apirana Avenue, Glen Innes, Auckland 1072",
             "Day": "Friday 27 August",
             "Times": "9:06 am - 9:16 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 4:00 pm"
-        },
-        {
-            "Location name": "Super Value Supermarket Limited Glen Innes",
-            "Address": "131 Line Road, Glen Innes, Auckland 1072",
-            "Day": "Wednesday 25 August",
-            "Times": "8:21 am - 9:30 am",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "1 Sep 4:00 pm"
         },
