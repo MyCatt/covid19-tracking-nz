@@ -1,7 +1,31 @@
 {
-    "size": 133,
-    "added": "2021-09-04 22:20:21.486232",
+    "size": 136,
+    "added": "2021-09-04 22:40:24.122950",
     "body": [
+        {
+            "Location name": "Countdown Northcote",
+            "Address": "Pearn Crescent, Northcote, Auckland 0627",
+            "Day": "Tuesday 31 August",
+            "Times": "10:30 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Sep 10:00 am"
+        },
+        {
+            "Location name": "Village Foodmart 322 Great South Road, Papatoetoe, Auckland 2025",
+            "Address": "322 Great South Road, Papatoetoe, Auckland 2025",
+            "Day": "Friday 20 August",
+            "Times": "12:15 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Sep 10:00 am"
+        },
+        {
+            "Location name": "Family Food Mart Otahuhu",
+            "Address": "40 Water Street, Otahuhu, Auckland 1062",
+            "Day": "Wednesday 1 September",
+            "Times": "11:45 am - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Sep 10:00 am"
+        },
         {
             "Location name": "Pak'nSave Westgate",
             "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
