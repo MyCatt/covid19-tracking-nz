@@ -1,7 +1,15 @@
 {
     "size": 144,
-    "added": "2021-09-04 02:01:40.983896",
+    "added": "2021-09-04 02:20:24.044836",
     "body": [
+        {
+            "Location name": "Countdown Hunters Plaza Papatoetoe",
+            "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
+            "Day": "Thursday 26 August",
+            "Times": "11:00 am - 11:59 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 2:00 pm"
+        },
         {
             "Location name": "Countdown Roselands",
             "Address": "90 Great South Road, papakura, Papakura 2110",
@@ -247,14 +255,6 @@
             "Address": "218 Great South Road, Manurewa, Auckland 2102",
             "Day": "Sunday 29 August",
             "Times": "1:30 pm - 2:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 8:00 am"
-        },
-        {
-            "Location name": "Countdown Hunters Plaza Papatoetoe",
-            "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
-            "Day": "Thursday 26 August",
-            "Times": "12:00 pm - 1:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Sep 8:00 am"
         },
