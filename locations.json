@@ -1,7 +1,79 @@
 {
-    "size": 146,
-    "added": "2021-09-04 06:01:00.491779",
+    "size": 148,
+    "added": "2021-09-04 06:20:24.298121",
     "body": [
+        {
+            "Location name": "Pak'nSave  Westgate",
+            "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Sunday 22 August",
+            "Times": "11:00 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Thursday 26 August",
+            "Times": "8:15 pm - 8:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Thursday 26 August",
+            "Times": "7:59 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Tuesday 24 August",
+            "Times": "5:34 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Tasi Market Massey",
+            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Thursday 26 August",
+            "Times": "7:30 am - 7:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave  Westgate",
+            "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Thursday 19 August",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Hunters Plaza Papatoetoe",
+            "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
+            "Day": "Thursday 26 August",
+            "Times": "11:00 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Clendon",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Tuesday 31 August",
+            "Times": "10:00 am - 10:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Roselands Papakura",
+            "Address": "96 Great South Road, Papakura, Papakura 2110",
+            "Day": "Saturday 28 August",
+            "Times": "2:32 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 6:00 pm"
+        },
         {
             "Location name": "Mascot Dairy Mangere",
             "Address": "51 Mascot Avenue, Mangere, Auckland 2022",
@@ -17,14 +89,6 @@
             "Times": "10:19 am - 11:20 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "4 Sep 3:00 pm"
-        },
-        {
-            "Location name": "Countdown Hunters Plaza Papatoetoe",
-            "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
-            "Day": "Thursday 26 August",
-            "Times": "11:00 am - 11:59 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "4 Sep 2:00 pm"
         },
         {
             "Location name": "Countdown Roselands",
@@ -339,14 +403,6 @@
             "Updated": "2 Sep 6:00 pm"
         },
         {
-            "Location name": "Pak'nSave Westgate",
-            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
-            "Day": "Thursday 26 August",
-            "Times": "7:59 pm - 8:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 2:00 pm"
-        },
-        {
             "Location name": "Kingsland Pharmacy Kingsland",
             "Address": "491 New North Road, Kingsland, Auckland 1021",
             "Day": "Friday 27 August",
@@ -383,14 +439,6 @@
             "Address": "65 Saint George Street, Papatoetoe, Auckland 2025",
             "Day": "Tuesday 24 August",
             "Times": "4:00 pm - 4:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Westgate",
-            "Address": "19 Fred Taylor Drive, Westgate, Auckland 0814",
-            "Day": "Tuesday 24 August",
-            "Times": "5:34 pm - 6:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
         },
@@ -453,14 +501,6 @@
         {
             "Location name": "Tasi Market Massey",
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Thursday 26 August",
-            "Times": "7:30 am - 6:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Tasi Market Massey",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Sunday 22 August",
             "Times": "7:00 am - 7:00 pm",
             "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
@@ -488,22 +528,6 @@
             "Day": "Wednesday 25 August",
             "Times": "7:30 am - 7:00 pm",
             "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave  Westgate",
-            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
-            "Day": "Thursday 19 August",
-            "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "1 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave  Westgate",
-            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
-            "Day": "Sunday 22 August",
-            "Times": "11:00 am - 11:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 6:00 pm"
         },
         {
@@ -743,14 +767,6 @@
             "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
             "Day": "Saturday 28 August",
             "Times": "8:00 pm - 8:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "1 Sep 4:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Westgate",
-            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
-            "Day": "Thursday 26 August",
-            "Times": "8:15 pm - 8:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Sep 4:00 pm"
         },
