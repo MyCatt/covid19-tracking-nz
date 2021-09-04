@@ -1,7 +1,15 @@
 {
-    "size": 148,
-    "added": "2021-09-04 20:01:00.303306",
+    "size": 133,
+    "added": "2021-09-04 20:20:22.395997",
     "body": [
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Friday 20 August",
+            "Times": "11:00 am - 1:00 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 8:00 am"
+        },
         {
             "Location name": "Pak'nSave  Westgate",
             "Address": "17/19 Fred Taylor Drive, Westgate, Auckland 0814",
@@ -101,40 +109,8 @@
         {
             "Location name": "Pak N Save Kilbirnie",
             "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
-            "Day": "Wednesday 18 August",
-            "Times": "7:25 am - 7:40 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 10:00 am"
-        },
-        {
-            "Location name": "Pak N Save Kilbirnie",
-            "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
             "Day": "Thursday 19 August",
             "Times": "12:10 pm - 12:25 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 10:00 am"
-        },
-        {
-            "Location name": "PAK'nSAVE Royal Oak",
-            "Address": "691 Manukau Road, Royal Oak, Auckland 1023",
-            "Day": "Wednesday 18 August",
-            "Times": "6:45 pm - 8:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 10:00 am"
-        },
-        {
-            "Location name": "Pak n Save Mt Albert",
-            "Address": "1167 New North Road, Mount Albert, Auckland 1025",
-            "Day": "Wednesday 18 August",
-            "Times": "8:00 pm - 8:15 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 10:00 am"
-        },
-        {
-            "Location name": "Pak n Save Manukau",
-            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
-            "Day": "Wednesday 18 August",
-            "Times": "8:00 pm - 8:30 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "4 Sep 10:00 am"
         },
@@ -145,14 +121,6 @@
             "Times": "2:46 pm - 4:05 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "4 Sep 10:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Westgate",
-            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
-            "Day": "Friday 20 August",
-            "Times": "11:00 am - 1:00 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "4 Sep 8:00 am"
         },
         {
             "Location name": "Pak'nSave Clendon",
@@ -343,14 +311,6 @@
             "Address": "63 St George Street, Papatoetoe, Auckland 2025",
             "Day": "Thursday 26 August",
             "Times": "3:04 pm - 3:34 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 6:00 pm"
-        },
-        {
-            "Location name": "New World Papatoetoe",
-            "Address": "63 St George Street, Papatoetoe, Auckland 2025",
-            "Day": "Wednesday 18 August",
-            "Times": "3:04 pm - 4:04 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 6:00 pm"
         },
@@ -811,14 +771,6 @@
             "Updated": "29 Aug 10:00 am"
         },
         {
-            "Location name": "Residence Mount Terrace Apartments",
-            "Address": "33 Mount Street, Auckland Central, Auckland 1010",
-            "Day": "Wednesday 18 August",
-            "Times": "12:00 am - 11:59 pm",
-            "What to do": "All those on level 3, level 5 and basement level, Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "29 Aug 10:00 am"
-        },
-        {
             "Location name": "Vmart Diray",
             "Address": "79 Wakefield Street, Auckland Central, Auckland 1010",
             "Day": "Thursday 19 August",
@@ -891,14 +843,6 @@
             "Updated": "26 Aug 8:00 pm"
         },
         {
-            "Location name": "Farro Grey Lynn",
-            "Address": "34 Westmoreland Street West, Grey Lynn, Auckland 1021",
-            "Day": "Wednesday 18 August",
-            "Times": "4:33 pm - 4:45 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "26 Aug 6:00 pm"
-        },
-        {
             "Location name": "Wellesley Student Accommodation",
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Thursday 19 August",
@@ -927,14 +871,6 @@
             "Address": "8 Mount Street, Auckland Central, Auckland 1010",
             "Day": "Sunday 22 August",
             "Times": "12:00 am - 7:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Aug 6:00 pm"
-        },
-        {
-            "Location name": "Wellesley Student Accommodation",
-            "Address": "8 Mount Street, Auckland Central, Auckland 1010",
-            "Day": "Wednesday 18 August",
-            "Times": "12:00 am - 11:59 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Aug 6:00 pm"
         },
@@ -969,14 +905,6 @@
             "Times": "9:10 am - 9:25 am",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "25 Aug 2:00 pm"
-        },
-        {
-            "Location name": "Countdown Northwest Massey",
-            "Address": "7 Fred Taylor Drive, Massey, Auckland 0814",
-            "Day": "Wednesday 18 August",
-            "Times": "3:30 pm - 4:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "25 Aug 12:00 pm"
         },
         {
             "Location name": "Countdown Northwest Massey",
@@ -1067,14 +995,6 @@
             "Updated": "22 Aug 7:00 pm"
         },
         {
-            "Location name": "Countdown Grey Lynn",
-            "Address": "271 Richmond Road, Grey Lynn, Auckland 1022",
-            "Day": "Wednesday 18 August",
-            "Times": "4:55 pm - 5:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "22 Aug 3:00 pm"
-        },
-        {
             "Location name": "New World Papatoetoe",
             "Address": "63 St George Street, Papatoetoe, Auckland 2025",
             "Day": "Thursday 19 August",
@@ -1115,34 +1035,10 @@
             "Updated": "22 Aug 9:00 am"
         },
         {
-            "Location name": "Bus 32 Mangere Town Centre to Sylvia Park",
-            "Address": "Auckland",
-            "Day": "Wednesday 18 August",
-            "Times": "9:30 am - 3:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
             "Location name": "Chatters Laundromat Mangere",
             "Address": "5A Wanstead Way, Mangere, Auckland 2022",
             "Day": "Thursday 19 August",
             "Times": "2:19 pm - 3:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "Whitaker Hall University of Auckland  Grafton Campus",
-            "Address": "27 Whitaker Place, Grafton, Auckland 1010",
-            "Day": "Wednesday 18 August",
-            "Times": "12:00 am - 11:59 pm",
-            "What to do": "Residents & staff isolate 14 days from this exposure. Test immediately & on days 5 & 12 after this exposure and Visitors self-monitor for symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative testRecord your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "22 Aug 9:00 am"
-        },
-        {
-            "Location name": "Mobil Petrol Station Otara",
-            "Address": "138/142 East Tamaki Road, Otara, Auckland 2023",
-            "Day": "Wednesday 18 August",
-            "Times": "5:30 pm - 5:45 pm",
             "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "22 Aug 9:00 am"
         },
@@ -1169,22 +1065,6 @@
             "Times": "4:45 pm - 6:00 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "21 Aug 9:00 am"
-        },
-        {
-            "Location name": "Johnsonville Medical Centre Pharmacy Wellington",
-            "Address": "2 Trafalgar Street, Johnsonville, Wellington 6037",
-            "Day": "Wednesday 18 August",
-            "Times": "4:15 pm - 4:45 pm",
-            "What to do": "Staff isolate 14 days after you were exposed at this location of interest. Test immediately, and on days 5 & 12 after this exposure. Customers isolate, test immediately and on day 5 after this exposure and continue to isolate until a negative day 5 test.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "20 Aug 9:00 am"
-        },
-        {
-            "Location name": "Countdown Johnsonville Road Wellington",
-            "Address": "31 Johnsonville Road, Johnsonville, Wellington 6037",
-            "Day": "Wednesday 18 August",
-            "Times": "4:30 pm - 5:00 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "20 Aug 9:00 am"
         }
     ]
 }
