@@ -1,7 +1,15 @@
 {
-    "size": 143,
-    "added": "2021-09-04 00:20:25.919922",
+    "size": 144,
+    "added": "2021-09-04 00:40:18.884182",
     "body": [
+        {
+            "Location name": "Countdown Roselands",
+            "Address": "90 Great South Road, papakura, Papakura 2110",
+            "Day": "Friday 27 August",
+            "Times": "10:15 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Sep 12:00 pm"
+        },
         {
             "Location name": "Pak N Save Kilbirnie",
             "Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
