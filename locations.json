@@ -1,7 +1,79 @@
 {
-    "size": 136,
-    "added": "2021-09-05 04:01:18.355420",
+    "size": 145,
+    "added": "2021-09-05 04:20:23.772393",
     "body": [
+        {
+            "Location name": "Public Bus 323 Mt Wellington to Otahuhu",
+            "Address": "3 Niall Burgess Road, Mount Wellington, Auckland 1060",
+            "Day": "Friday 27 August",
+            "Times": "1:45 pm - 2:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Public Bus 325 Mangere East to Mangere Town Hall",
+            "Address": "268 Massey Road, Mangere East, Auckland 2024",
+            "Day": "Saturday 28 August",
+            "Times": "12:20 pm - 12:40 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Public Bus 325 Mangere Town Hall to Mangere East",
+            "Address": "",
+            "Day": "Saturday 28 August",
+            "Times": "1:40 pm - 2:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Bus Ride 361 Manukau Bus station to Otara",
+            "Address": "12 Putney Way, Manukau, Auckland 2104",
+            "Day": "Wednesday 25 August",
+            "Times": "9:15 am - 9:45 am",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Waterview Superette and Lotto",
+            "Address": "1481 Great North Road, Waterview, Auckland 1026",
+            "Day": "Tuesday 24 August",
+            "Times": "8:15 am - 8:30 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Waterview Superette and Lotto",
+            "Address": "1481 Great North Road, Waterview, Auckland 1026",
+            "Day": "Sunday 22 August",
+            "Times": "11:00 am - 11:15 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Clendon",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Saturday 21 August",
+            "Times": "1:00 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Public Bus 325 Otahuhu to Massey Rd",
+            "Address": "124 Mangere Road, Otahuhu, Auckland 1062",
+            "Day": "Wednesday 25 August",
+            "Times": "1:55 pm - 2:15 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Public Bus 323",
+            "Address": "3 Niall Burgess Road, Mount Wellington, Auckland 1060",
+            "Day": "Thursday 26 August",
+            "Times": "1:45 pm - 2:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Sep 4:00 pm"
+        },
         {
             "Location name": "Countdown Northcote",
             "Address": "Pearn Crescent, Northcote, Auckland 0627",
