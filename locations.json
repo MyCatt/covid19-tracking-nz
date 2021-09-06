@@ -1,7 +1,39 @@
 {
-    "size": 122,
-    "added": "2021-09-06 00:02:09.371081",
+    "size": 126,
+    "added": "2021-09-06 00:20:46.282603",
     "body": [
+        {
+            "Location name": "Puhinui Pharmacy Papatoetoe",
+            "Address": "258 Puhinui Road, Papatoetoe, Auckland 2025",
+            "Day": "Friday 27 August",
+            "Times": "12:00 pm - 1:00 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "6 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Pharmacy Mangere East",
+            "Address": "359 Massey Road, Mangere East, Auckland 2024",
+            "Day": "Wednesday 1 September",
+            "Times": "11:00 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Whenuapai Gardens & Orchard Otahuhu",
+            "Address": "76 Atkinson Avenue, Otahuhu, Auckland 1062",
+            "Day": "Sunday 29 August",
+            "Times": "1:30 pm - 1:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Richmond Road Chemist Grey Lynn",
+            "Address": "446 Richmond Road, Grey Lynn, Auckland 1021",
+            "Day": "Monday 30 August",
+            "Times": "1:45 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Sep 12:00 pm"
+        },
         {
             "Location name": "Public Bus 323 Mt Wellington to Otahuhu",
             "Address": "Auckland",
