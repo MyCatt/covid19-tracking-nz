@@ -1,33 +1,33 @@
 {
     "size": 3,
-    "added": "2021-09-06 01:02:23.647742",
+    "added": "2021-09-06 01:20:41.055361",
     "body": [
         {
             "Category": "2",
             "Vaccinations yesterday": ",",
-            "Cumulative total": "4",
-            "% Eligible Pop'n Vaccinated": "1",
-            "% Total Pop'n Vaccinated": "9",
-            "Vaccinated or Booked": ",",
-            "% Eligible Vaccinated or Booked": "9"
+            "Cumulative total": "5",
+            "Eligible population vaccinated %": "6",
+            "Total population vaccinated %": "4",
+            "Vaccinated or booked": ",",
+            "Eligible vaccinated or booked %": "9"
         },
         {
             "Category": "1",
             "Vaccinations yesterday": ",",
-            "Cumulative total": "2",
-            "% Eligible Pop'n Vaccinated": "6",
-            "% Total Pop'n Vaccinated": "4",
-            "Vaccinated or Booked": ",",
-            "% Eligible Vaccinated or Booked": "6"
+            "Cumulative total": "3",
+            "Eligible population vaccinated %": "2",
+            "Total population vaccinated %": "5",
+            "Vaccinated or booked": ",",
+            "Eligible vaccinated or booked %": "2"
         },
         {
             "Category": "3",
             "Vaccinations yesterday": ",",
-            "Cumulative total": "6",
-            "% Eligible Pop'n Vaccinated": "8",
-            "% Total Pop'n Vaccinated": "4",
-            "Vaccinated or Booked": ",",
-            "% Eligible Vaccinated or Booked": "5"
+            "Cumulative total": "8",
+            "Eligible population vaccinated %": "9",
+            "Total population vaccinated %": "0",
+            "Vaccinated or booked": ",",
+            "Eligible vaccinated or booked %": "1"
         }
     ]
 }
