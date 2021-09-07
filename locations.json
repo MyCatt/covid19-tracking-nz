@@ -1,7 +1,23 @@
 {
-    "size": 127,
-    "added": "2021-09-07 02:01:38.850971",
+    "size": 128,
+    "added": "2021-09-07 02:20:26.240962",
     "body": [
+        {
+            "Location name": "Pak'nSave Sylvia Park",
+            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Sunday 29 August",
+            "Times": "11:00 am - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Mojo's Superette Mangere Bridge",
+            "Address": "25 Wallace Road, Mangere Bridge, Auckland 2022",
+            "Day": "Saturday 28 August",
+            "Times": "7:45 pm - 9:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "7 Sep 2:00 pm"
+        },
         {
             "Location name": "Z Manurewa",
             "Address": "1 Alfriston Road, Manurewa, Auckland 2102",
@@ -47,14 +63,6 @@
             "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
             "Day": "Tuesday 24 August",
             "Times": "9:00 am - 11:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Sylvia Park",
-            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
-            "Day": "Sunday 29 August",
-            "Times": "12:00 pm - 4:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "7 Sep 12:00 pm"
         },
