@@ -1,7 +1,39 @@
 {
-    "size": 136,
-    "added": "2021-09-07 06:00:53.312882",
+    "size": 138,
+    "added": "2021-09-07 06:20:27.402195",
     "body": [
+        {
+            "Location name": "New World Mt Roskill",
+            "Address": "53 May Road, Mount Roskill, Auckland 1041",
+            "Day": "Friday 27 August",
+            "Times": "1:45 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Mt Roskill",
+            "Address": "112 Stoddard Road, Wesley, Auckland 1041",
+            "Day": "Wednesday 25 August",
+            "Times": "12:30 am - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Sep 6:00 pm"
+        },
+        {
+            "Location name": "SuperValue Palomino Henderson",
+            "Address": "4/138 Sturges Road, Henderson, Auckland 0612",
+            "Day": "Friday 27 August",
+            "Times": "1:40 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Whenuapai Gardens & Orchard Manukau",
+            "Address": "533 Great South Road, Manukau, Auckland 2025",
+            "Day": "Saturday 28 August",
+            "Times": "1:30 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Sep 6:00 pm"
+        },
         {
             "Location name": "Pak'nSave Sylvia Park",
             "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
@@ -39,14 +71,6 @@
             "Address": "Cnr George Bolt Memorial, John Goulter Drive, Mangere, Auckland",
             "Day": "Wednesday 1 September",
             "Times": "12:45 pm - 1:20 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Sep 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Mt Roskill",
-            "Address": "112 Stoddard Road, Wesley, Auckland 1041",
-            "Day": "Wednesday 25 August",
-            "Times": "12:30 pm - 1:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "7 Sep 4:00 pm"
         },
@@ -127,14 +151,6 @@
             "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
             "Day": "Tuesday 24 August",
             "Times": "9:00 am - 11:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Sep 12:00 pm"
-        },
-        {
-            "Location name": "New World Mt Roskill",
-            "Address": "53 May Road, Mount Roskill, Auckland 1041",
-            "Day": "Friday 27 August",
-            "Times": "2:45 pm - 3:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "7 Sep 12:00 pm"
         },
