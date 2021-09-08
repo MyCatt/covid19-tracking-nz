@@ -1,20 +1,20 @@
 {
     "size": 122,
-    "added": "2021-09-08 22:01:05.010932",
+    "added": "2021-09-08 22:20:27.006720",
     "body": [
+        {
+            "Location name": "Mobil Walmsley Road",
+            "Address": "101 Walmsley Road, Favona, Auckland 2024",
+            "Day": "Friday 27 August",
+            "Times": "11:59 pm - 12:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Sep 10:00 am"
+        },
         {
             "Location name": "Pak'nSave Mangere",
             "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
             "Day": "Sunday 29 August",
             "Times": "8:00 pm - 9:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "9 Sep 8:00 am"
-        },
-        {
-            "Location name": "Mobil Walmsley Road",
-            "Address": "101 Walmsley Road, Favona, Auckland 2024",
-            "Day": "Friday 27 August",
-            "Times": "11:59 am - 12:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "9 Sep 8:00 am"
         },
