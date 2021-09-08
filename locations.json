@@ -1,7 +1,15 @@
 {
-    "size": 126,
-    "added": "2021-09-08 02:01:37.614894",
+    "size": 127,
+    "added": "2021-09-08 02:20:28.377667",
     "body": [
+        {
+            "Location name": "Chemist Warehouse Ronwood Centre",
+            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
+            "Day": "Saturday 4 September",
+            "Times": "10:43 am - 11:00 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "8 Sep 2:00 pm"
+        },
         {
             "Location name": "Countdown Mt Roskill",
             "Address": "112 Stoddard Road, Wesley, Auckland 1041",
