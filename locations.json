@@ -1,7 +1,15 @@
 {
     "size": 126,
-    "added": "2021-09-08 00:40:31.021794",
+    "added": "2021-09-08 01:01:51.088439",
     "body": [
+        {
+            "Location name": "Countdown Mt Roskill",
+            "Address": "112 Stoddard Road, Wesley, Auckland 1041",
+            "Day": "Wednesday 25 August",
+            "Times": "12:30 pm - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Sep 12:00 pm"
+        },
         {
             "Location name": "McKinnon Street Superette",
             "Address": "2 McKinnon Street, Mount Roskill, Auckland 1041",
@@ -39,14 +47,6 @@
             "Address": "53 May Road, Mount Roskill, Auckland 1041",
             "Day": "Friday 27 August",
             "Times": "1:45 pm - 3:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Mt Roskill",
-            "Address": "112 Stoddard Road, Wesley, Auckland 1041",
-            "Day": "Wednesday 25 August",
-            "Times": "12:30 am - 1:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "7 Sep 6:00 pm"
         },
