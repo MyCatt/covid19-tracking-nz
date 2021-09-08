@@ -1,7 +1,23 @@
 {
-    "size": 128,
-    "added": "2021-09-08 06:01:00.646022",
+    "size": 130,
+    "added": "2021-09-08 06:20:25.178470",
     "body": [
+        {
+            "Location name": "Kwality mini bazaar",
+            "Address": "5/2 Bishop Dunn Place, Flat Bush, Auckland 2013",
+            "Day": "Thursday 26 August",
+            "Times": "2:30 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Galaxie Dairy Mt Eden",
+            "Address": "40 View Road, Mount Eden, Auckland 1024",
+            "Day": "Saturday 4 September",
+            "Times": "2:09 pm - 2:12 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "8 Sep 6:00 pm"
+        },
         {
             "Location name": "Unichem Pharmacy Mangere East",
             "Address": "7a/359 Massey Road, Mangere East, Auckland 2024",
