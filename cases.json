@@ -1,13 +1,13 @@
 {
     "size": 1,
-    "added": "2021-09-08 01:20:34.279430",
+    "added": "2021-09-08 01:40:26.901759",
     "body": [
         {
-            "New cases reported during the past 24 hours": "22*",
-            "At the border": "25",
-            "In the community": "694",
-            "Under investigation/other": "1**",
-            "Total": "720"
+            "New cases reported during the past 24 hours": "16",
+            "At the border": "21",
+            "In the community": "636",
+            "Under investigation/other": "1*",
+            "Total": "658"
         }
     ]
 }
