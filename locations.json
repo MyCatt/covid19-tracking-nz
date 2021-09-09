@@ -1,7 +1,23 @@
 {
-    "size": 131,
-    "added": "2021-09-09 20:01:06.427207",
+    "size": 127,
+    "added": "2021-09-09 20:20:23.625321",
     "body": [
+        {
+            "Location name": "Countdown Manurewa",
+            "Address": "227 Browns Road, Manurewa, Auckland 2102",
+            "Day": "Thursday 9 September",
+            "Times": "12:00 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Sep 8:00 am"
+        },
+        {
+            "Location name": "Countdown Manurewa",
+            "Address": "227 Browns Road, Manurewa, Auckland 2102",
+            "Day": "Tuesday 7 September",
+            "Times": "12:30 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Sep 8:00 am"
+        },
         {
             "Location name": "Countdown Papatoetoe",
             "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
@@ -291,14 +307,6 @@
             "Updated": "7 Sep 12:00 pm"
         },
         {
-            "Location name": "Pak'nSave Manukau",
-            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
-            "Day": "Monday 23 August",
-            "Times": "12:00 pm - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Sep 12:00 pm"
-        },
-        {
             "Location name": "Pak'nSave Mangere",
             "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
             "Day": "Tuesday 24 August",
@@ -319,14 +327,6 @@
             "Address": "331 Great South Road, Takanini 2112",
             "Day": "Thursday 26 August",
             "Times": "2:00 pm - 3:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Gilmours Mt Roskill",
-            "Address": "103-105 May Road, Mount Roskill, Auckland 1041",
-            "Day": "Monday 23 August",
-            "Times": "12:30 pm - 1:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "7 Sep 12:00 pm"
         },
@@ -797,14 +797,6 @@
         {
             "Location name": "Tasi Market Massey",
             "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Monday 23 August",
-            "Times": "7:30 am - 7:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 8:00 pm"
-        },
-        {
-            "Location name": "Tasi Market Massey",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
             "Day": "Sunday 29 August",
             "Times": "7:30 am - 7:00 pm",
             "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
@@ -825,14 +817,6 @@
             "Times": "7:30 am - 7:00 pm",
             "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "1 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Riverside Dairy Point England",
-            "Address": "104 Point England Road, Point England, Auckland 1072",
-            "Day": "Monday 23 August",
-            "Times": "6:24 pm - 6:34 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 4:00 pm"
         },
         {
             "Location name": "Fresh and Save Glen Innes",
@@ -869,14 +853,6 @@
         {
             "Location name": "The Met Apartments",
             "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
-            "Day": "Monday 23 August",
-            "Times": "2:00 pm - 4:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 4:00 pm"
-        },
-        {
-            "Location name": "The Met Apartments",
-            "Address": "11 Durham Street East, Auckland Central, Auckland 1010",
             "Day": "Wednesday 25 August",
             "Times": "2:00 pm - 4:00 pm",
             "What to do": "Everyone on Level 5 isolate for 14 days after you were exposed at this location of interest, get at test immediately and on Day 5 and Day 12 after exposure.Record your visit online or call Healthline so our contact tracers can get in touch.",
@@ -888,14 +864,6 @@
             "Day": "Friday 27 August",
             "Times": "1:00 pm - 5:00 pm",
             "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 4:00 pm"
-        },
-        {
-            "Location name": "A Spice Bazaar. Indian Takeaway & Groceries Flat Bush",
-            "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
-            "Day": "Monday 23 August",
-            "Times": "2:00 pm - 2:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "1 Sep 4:00 pm"
         },
         {
