@@ -1,7 +1,47 @@
 {
-    "size": 122,
-    "added": "2021-09-09 00:40:26.717163",
+    "size": 126,
+    "added": "2021-09-09 01:01:19.644917",
     "body": [
+        {
+            "Location name": "Galaxie Dairy Mt Eden",
+            "Address": "40 View Road, Mount Eden, Auckland 1024",
+            "Day": "Saturday 4 September",
+            "Times": "2:09 pm - 2:45 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "9 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Skinny Handy Dairy Papatoetoe",
+            "Address": "22 Huia Rd, Papatoetoe, Auckland 2025",
+            "Day": "Sunday 5 September",
+            "Times": "11:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Snowhite & Bone-Dry Laundromat  PM",
+            "Address": "354 Great South Road, Papatoetoe, Auckland 2025",
+            "Day": "Saturday 4 September",
+            "Times": "3:30 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Snowhite & Bone-Dry Laundromat AM",
+            "Address": "354 Great South Road, Papatoetoe, Auckland 2025",
+            "Day": "Saturday 4 September",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Sep 12:00 pm"
+        },
+        {
+            "Location name": "SupaSave Supermarket",
+            "Address": "5 Kew Lane, Otara, Auckland 2023",
+            "Day": "Saturday 4 September",
+            "Times": "5:00 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Sep 12:00 pm"
+        },
         {
             "Location name": "Mobil Walmsley Road",
             "Address": "101 Walmsley Road, Favona, Auckland 2024",
@@ -24,14 +64,6 @@
             "Day": "Thursday 26 August",
             "Times": "2:30 pm - 4:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "8 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Galaxie Dairy Mt Eden",
-            "Address": "40 View Road, Mount Eden, Auckland 1024",
-            "Day": "Saturday 4 September",
-            "Times": "2:09 pm - 2:12 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "8 Sep 6:00 pm"
         },
         {
