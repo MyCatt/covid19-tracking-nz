@@ -1,7 +1,31 @@
 {
-    "size": 126,
-    "added": "2021-09-09 02:02:00.028818",
+    "size": 128,
+    "added": "2021-09-09 02:20:25.257817",
     "body": [
+        {
+            "Location name": "SupaSave Supermarket Otara",
+            "Address": "5 Kew Lane, Otara, Auckland 2023",
+            "Day": "Saturday 4 September",
+            "Times": "5:00 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Bargain Chemist Manukau retail store only",
+            "Address": "26/72 Cavendish Drive, Papatoetoe, Auckland 2104",
+            "Day": "Saturday 4 September",
+            "Times": "10:33 am - 10:40 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "9 Sep 2:00 pm"
+        },
+        {
+            "Location name": "ASB ATM next to Papatoetoe Countdown",
+            "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
+            "Day": "Thursday 2 September",
+            "Times": "10:45 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Sep 2:00 pm"
+        },
         {
             "Location name": "Galaxie Dairy Mt Eden",
             "Address": "40 View Road, Mount Eden, Auckland 1024",
@@ -31,14 +55,6 @@
             "Address": "354 Great South Road, Papatoetoe, Auckland 2025",
             "Day": "Saturday 4 September",
             "Times": "9:00 am - 10:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "9 Sep 12:00 pm"
-        },
-        {
-            "Location name": "SupaSave Supermarket",
-            "Address": "5 Kew Lane, Otara, Auckland 2023",
-            "Day": "Saturday 4 September",
-            "Times": "5:00 pm - 5:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "9 Sep 12:00 pm"
         },
