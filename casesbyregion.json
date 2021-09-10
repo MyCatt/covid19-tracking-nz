@@ -1,14 +1,14 @@
 {
     "size": 22,
-    "added": "2021-09-10 01:01:31.490197",
+    "added": "2021-09-10 01:20:35.072366",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "111",
-            "Recovered": "283",
+            "Active": "105",
+            "Recovered": "290",
             "Deceased": "1",
-            "Total": "395",
-            "Change in last 24 hours": "4"
+            "Total": "396",
+            "Change in last 24 hours": "1"
         },
         {
             "Location": "Bay of Plenty",
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "358",
-            "Recovered": "356",
+            "Active": "352",
+            "Recovered": "372",
             "Deceased": "1",
-            "Total": "715",
-            "Change in last 24 hours": "2"
+            "Total": "725",
+            "Change in last 24 hours": "10"
         },
         {
             "Location": "Hawke's Bay",
@@ -140,11 +140,11 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "126",
-            "Recovered": "368",
+            "Active": "125",
+            "Recovered": "369",
             "Deceased": "5",
             "Total": "499",
-            "Change in last 24 hours": "6"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "West Coast",
@@ -164,19 +164,19 @@
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "22",
-            "Recovered": "1221",
+            "Active": "27",
+            "Recovered": "1224",
             "Deceased": "1",
-            "Total": "1244",
-            "Change in last 24 hours": "6"
+            "Total": "1252",
+            "Change in last 24 hours": "8"
         },
         {
             "Location": "Total",
-            "Active": "625",
-            "Recovered": "3195",
+            "Active": "617",
+            "Recovered": "3222",
             "Deceased": "27",
-            "Total": "3847",
-            "Change in last 24 hours": "18"
+            "Total": "3866",
+            "Change in last 24 hours": "19"
         }
     ]
 }
