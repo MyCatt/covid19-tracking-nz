@@ -1,13 +1,13 @@
 {
     "size": 22,
-    "added": "2021-09-12 01:01:09.790930",
+    "added": "2021-09-12 01:20:30.515651",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "106",
-            "Recovered": "290",
+            "Active": "98",
+            "Recovered": "299",
             "Deceased": "1",
-            "Total": "397",
+            "Total": "398",
             "Change in last 24 hours": "1"
         },
         {
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "373",
-            "Recovered": "372",
+            "Active": "350",
+            "Recovered": "413",
             "Deceased": "1",
-            "Total": "746",
-            "Change in last 24 hours": "21"
+            "Total": "764",
+            "Change in last 24 hours": "18"
         },
         {
             "Location": "Hawke's Bay",
@@ -140,10 +140,10 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "126",
-            "Recovered": "369",
+            "Active": "114",
+            "Recovered": "382",
             "Deceased": "5",
-            "Total": "500",
+            "Total": "501",
             "Change in last 24 hours": "1"
         },
         {
@@ -164,19 +164,19 @@
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "28",
-            "Recovered": "1224",
+            "Active": "30",
+            "Recovered": "1225",
             "Deceased": "1",
-            "Total": "1253",
-            "Change in last 24 hours": "1"
+            "Total": "1256",
+            "Change in last 24 hours": "3"
         },
         {
             "Location": "Total",
-            "Active": "640",
-            "Recovered": "3223",
+            "Active": "599",
+            "Recovered": "3287",
             "Deceased": "27",
-            "Total": "3890",
-            "Change in last 24 hours": "24"
+            "Total": "3913",
+            "Change in last 24 hours": "23"
         }
     ]
 }
