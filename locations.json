@@ -1,7 +1,15 @@
 {
-    "size": 138,
-    "added": "2021-09-15 20:20:24.107978",
+    "size": 129,
+    "added": "2021-09-15 20:40:19.455707",
     "body": [
+        {
+            "Location name": "Mayfield Superette Otara",
+            "Address": "15 Johnstones Road, Otara, Auckland 2023",
+            "Day": "Friday 10 September",
+            "Times": "6:00 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Sep 8:00 am"
+        },
         {
             "Location name": "Unichem Pharmacy Papakura",
             "Address": "287 Great South Road, Papakura, Auckland 2110",
@@ -779,14 +787,6 @@
             "Updated": "9 Sep 12:00 pm"
         },
         {
-            "Location name": "Pak'nSave Mangere",
-            "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
-            "Day": "Sunday 29 August",
-            "Times": "8:00 pm - 9:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "9 Sep 8:00 am"
-        },
-        {
             "Location name": "Unichem Pharmacy Mangere East",
             "Address": "7a/359 Massey Road, Mangere East, Auckland 2024",
             "Day": "Wednesday 1 September",
@@ -825,14 +825,6 @@
             "Times": "7:30 am - 8:40 am",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "8 Sep 8:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Sylvia Park",
-            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
-            "Day": "Sunday 29 August",
-            "Times": "12:00 pm - 4:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Sep 4:00 pm"
         },
         {
             "Location name": "Countdown Auckland Airport",
@@ -913,14 +905,6 @@
             "Times": "1:45 pm - 2:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "6 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Whenuapai Gardens & Orchard Otahuhu",
-            "Address": "76 Atkinson Avenue, Otahuhu, Auckland 1062",
-            "Day": "Sunday 29 August",
-            "Times": "1:30 pm - 1:40 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "6 Sep 12:00 pm"
         },
         {
             "Location name": "Countdown Northcote",
@@ -1011,14 +995,6 @@
             "Updated": "3 Sep 10:00 am"
         },
         {
-            "Location name": "Round The Clock Superette Manurewa",
-            "Address": "218 Great South Road, Manurewa, Auckland 2102",
-            "Day": "Sunday 29 August",
-            "Times": "1:30 pm - 2:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Sep 8:00 am"
-        },
-        {
             "Location name": "Countdown Manukau",
             "Address": "652 Great South Road, Manukau, Auckland 2104",
             "Day": "Monday 30 August",
@@ -1043,14 +1019,6 @@
             "Updated": "2 Sep 6:00 pm"
         },
         {
-            "Location name": "Pak'nSave Mt Albert",
-            "Address": "1167 New North Road, Mount Albert, Auckland 1025",
-            "Day": "Sunday 29 August",
-            "Times": "10:45 am - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Sep 12:00 pm"
-        },
-        {
             "Location name": "Countdown Auckland Airport",
             "Address": "Cnr George Bolt Memorial, John Goulter Drive, Mangere, Auckland",
             "Day": "Tuesday 31 August",
@@ -1065,46 +1033,6 @@
             "Times": "10:45 am - 11:30 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Tasi Market Massey",
-            "Address": "1/2 Triangle Road, Massey, Auckland 0614",
-            "Day": "Sunday 29 August",
-            "Times": "7:30 am - 7:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Chemist Warehouse Ronwood Centre Papatoetoe",
-            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
-            "Day": "Sunday 29 August",
-            "Times": "1:00 pm - 2:00 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 4:00 pm"
-        },
-        {
-            "Location name": "A Spice Bazaar. Indian Takeaway & Groceries Flat Bush",
-            "Address": "2/345 Chapel Road, Flat Bush, Auckland 2016",
-            "Day": "Sunday 29 August",
-            "Times": "4:00 pm - 4:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "1 Sep 4:00 pm"
-        },
-        {
-            "Location name": "New World Papatoetoe",
-            "Address": "65 St George Street, Papatoetoe, Auckland 2025",
-            "Day": "Sunday 29 August",
-            "Times": "2:09 pm - 2:39 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "1 Sep 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Mangere East",
-            "Address": "359 Massey Road, Mangere East, Auckland 2024",
-            "Day": "Sunday 29 August",
-            "Times": "1:00 pm - 1:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "1 Sep 4:00 pm"
         }
     ]
 }
