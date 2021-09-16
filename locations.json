@@ -1,14 +1,62 @@
 {
-    "size": 131,
-    "added": "2021-09-16 06:01:03.709687",
+    "size": 137,
+    "added": "2021-09-16 06:20:25.195979",
     "body": [
         {
             "Location name": "Saveway Asian Supermarket Papakura",
             "Address": "303 Great South Road, Papakura, Papakura 2110",
             "Day": "Tuesday 7 September",
-            "Times": "4:30 pm - 5:00 pm",
+            "Times": "4:00 pm - 5:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "16 Sep 2:00 pm"
+            "Updated": "16 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Z Bombay",
+            "Address": "1998 Great South Road, RD 1, Bombay 2675",
+            "Day": "Saturday 11 September",
+            "Times": "5:35 am - 6:35 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Sep 6:00 pm"
+        },
+        {
+            "Location name": "SuperValue Flatbush Clover Park",
+            "Address": "8/130 Dawson Road, Clover Park, Auckland 2023",
+            "Day": "Thursday 9 September",
+            "Times": "4:45 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Z Te Irirangi Dr Clover Park",
+            "Address": "136 Dawson Road, Clover Park, Auckland 2023",
+            "Day": "Monday 13 September",
+            "Times": "7:45 am - 8:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere Mall Mangere",
+            "Address": "Mangere Town Centre, Bader Drive, Auckland, Auckland 2022",
+            "Day": "Sunday 12 September",
+            "Times": "12:55 pm - 1:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Manuroa Superette Takanini",
+            "Address": "1/15 Princess Street, Takanini, Auckland 2112",
+            "Day": "Monday 13 September",
+            "Times": "1:41 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Sep 6:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Mangere Bridge",
+            "Address": "40 Coronation Road, Mangere Bridge, Auckland 2022",
+            "Day": "Sunday 12 September",
+            "Times": "12:40 pm - 1:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Sep 6:00 pm"
         },
         {
             "Location name": "Mascot Dairy Mangere",
