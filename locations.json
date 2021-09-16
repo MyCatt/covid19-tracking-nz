@@ -1,7 +1,31 @@
 {
-    "size": 132,
-    "added": "2021-09-16 22:01:12.681921",
+    "size": 135,
+    "added": "2021-09-16 22:20:23.211899",
     "body": [
+        {
+            "Location name": "Dawson Road Foodmarket Flatbush",
+            "Address": "112C Dawson Road, Clover Park, Auckland 2023",
+            "Day": "Thursday 9 September",
+            "Times": "8:30 am - 10:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 10:00 am"
+        },
+        {
+            "Location name": "Dawson Road Foodmarket Flatbush",
+            "Address": "112C Dawson Road, Clover Park, Auckland 2023",
+            "Day": "Tuesday 14 September",
+            "Times": "8:30 am - 10:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 10:00 am"
+        },
+        {
+            "Location name": "Dawson Road Foodmarket Flatbush",
+            "Address": "112C Dawson Road, Clover Park, Auckland 2023",
+            "Day": "Friday 10 September",
+            "Times": "8:30 am - 10:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 10:00 am"
+        },
         {
             "Location name": "Uppercrust Bakery Mount Maunganui",
             "Address": "504 Maunganui Road, Mount Maunganui 3116",
