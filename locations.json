@@ -1,20 +1,84 @@
 {
-    "size": 140,
-    "added": "2021-09-17 02:20:31.968979",
+    "size": 146,
+    "added": "2021-09-17 02:40:22.153261",
     "body": [
         {
-            "Location name": "Z Bombay",
-            "Address": "Cnr Mill Road & Great South Road, RD 1, Bombay 2675",
+            "Location name": "BP Service Station Building Tauriko",
+            "Address": "1 Taurikura Drive, Tauriko, Tauranga 3110",
             "Day": "Saturday 11 September",
-            "Times": "5:35 am - 6:35 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Sep 12:00 pm"
+            "Times": "7:45 am - 9:15 am",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "17 Sep 2:00 pm"
         },
         {
             "Location name": "Z Hautapu Cambridge",
             "Address": "167 Victoria Road, RD 1, Cambridge 3493",
             "Day": "Friday 10 September",
-            "Times": "9:40 am - 9:42 am",
+            "Times": "9:30 am - 10:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "GAS Paeroa",
+            "Address": "25 Puke Road, Paeroa 3600",
+            "Day": "Thursday 9 September",
+            "Times": "11:10 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Mangere",
+            "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
+            "Day": "Saturday 11 September",
+            "Times": "2:55 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "BP Forecourt Only Tauriko",
+            "Address": "1 Taurikura Drive, Tauriko, Tauranga 3110",
+            "Day": "Saturday 11 September",
+            "Times": "7:45 am - 9:15 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Ormiston",
+            "Address": "1 Bellingham Road, Flat Bush, Auckland 2019",
+            "Day": "Wednesday 15 September",
+            "Times": "1:56 pm - 4:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Pukekohe",
+            "Address": "Cnr Queen and Harris Street, Pukekohe Hill, Auckland 2120",
+            "Day": "Friday 10 September",
+            "Times": "9:15 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Mangere",
+            "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
+            "Day": "Sunday 12 September",
+            "Times": "3:15 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "PAK'nSAVE Ormiston",
+            "Address": "1 Bellingham Road, Flat Bush, Auckland 2019",
+            "Day": "Monday 13 September",
+            "Times": "4:30 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 2:00 pm"
+        },
+        {
+            "Location name": "Z Bombay",
+            "Address": "Cnr Mill Road & Great South Road, RD 1, Bombay 2675",
+            "Day": "Saturday 11 September",
+            "Times": "5:35 am - 6:35 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Sep 12:00 pm"
         },
@@ -39,14 +103,6 @@
             "Address": "18 Albert Street, Cambridge, Cambridge 3434",
             "Day": "Wednesday 15 September",
             "Times": "8:50 am - 10:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Sep 12:00 pm"
-        },
-        {
-            "Location name": "GAS Paeroa",
-            "Address": "25 Puke Road, Paeroa 3600",
-            "Day": "Thursday 9 September",
-            "Times": "11:20 am - 11:28 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Sep 12:00 pm"
         },
@@ -87,14 +143,6 @@
             "Address": "504 Maunganui Road, Mount Maunganui 3116",
             "Day": "Saturday 11 September",
             "Times": "10:10 am - 12:05 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "17 Sep 8:00 am"
-        },
-        {
-            "Location name": "BP Tauriko",
-            "Address": "1 Taurikura Drive, Tauriko, Tauranga 3110",
-            "Day": "Saturday 11 September",
-            "Times": "7:45 am - 9:15 am",
             "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "17 Sep 8:00 am"
         },
