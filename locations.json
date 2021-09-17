@@ -1,7 +1,55 @@
 {
-    "size": 135,
-    "added": "2021-09-17 00:01:53.510364",
+    "size": 140,
+    "added": "2021-09-17 00:21:14.753128",
     "body": [
+        {
+            "Location name": "Z Bombay",
+            "Address": "Cnr Mill Road & Great South Road, RD 1, Bombay 2675",
+            "Day": "Saturday 11 September",
+            "Times": "5:35 am - 6:35 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Z Hautapu Cambridge",
+            "Address": "167 Victoria Road, RD 1, Cambridge 3493",
+            "Day": "Friday 10 September",
+            "Times": "9:40 am - 9:42 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Maramarua General Store",
+            "Address": "2286 State Highway 2, RD 1, Maramarua 2471",
+            "Day": "Saturday 11 September",
+            "Times": "1:25 pm - 2:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Ngatea Lotto & Foodmart Ngatea",
+            "Address": "16 Orchard West Road, Ngatea 3503",
+            "Day": "Thursday 9 September",
+            "Times": "12:10 pm - 1:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Tuck Shop Cambridge",
+            "Address": "18 Albert Street, Cambridge, Cambridge 3434",
+            "Day": "Wednesday 15 September",
+            "Times": "8:50 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 12:00 pm"
+        },
+        {
+            "Location name": "GAS Paeroa",
+            "Address": "25 Puke Road, Paeroa 3600",
+            "Day": "Thursday 9 September",
+            "Times": "11:20 am - 11:28 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Sep 12:00 pm"
+        },
         {
             "Location name": "Dawson Road Foodmarket Flatbush",
             "Address": "112C Dawson Road, Clover Park, Auckland 2023",
@@ -63,14 +111,6 @@
             "Address": "303 Great South Road, Papakura, Papakura 2110",
             "Day": "Tuesday 7 September",
             "Times": "4:00 pm - 5:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "16 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Z Bombay",
-            "Address": "1998 Great South Road, RD 1, Bombay 2675",
-            "Day": "Saturday 11 September",
-            "Times": "5:35 am - 6:35 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "16 Sep 6:00 pm"
         },
