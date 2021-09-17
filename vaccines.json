@@ -1,33 +1,33 @@
 {
     "size": 3,
-    "added": "2021-09-17 02:20:32.934765",
+    "added": "2021-09-17 02:40:23.511359",
     "body": [
         {
-            "Category": "2",
+            "Category": "3",
             "Vaccinations yesterday": ",",
-            "Cumulative total": "9",
-            "Eligible population vaccinated %": "7",
-            "Total population vaccinated %": "8",
+            "Cumulative total": "0",
+            "Eligible population vaccinated %": "1",
+            "Total population vaccinated %": "5",
             "Vaccinated or booked": ",",
-            "Eligible vaccinated or booked %": "1"
+            "Eligible vaccinated or booked %": "3"
         },
         {
             "Category": "1",
             "Vaccinations yesterday": ",",
             "Cumulative total": "5",
-            "Eligible population vaccinated %": "2",
-            "Total population vaccinated %": "9",
+            "Eligible population vaccinated %": "5",
+            "Total population vaccinated %": "3",
             "Vaccinated or booked": ",",
-            "Eligible vaccinated or booked %": "8"
+            "Eligible vaccinated or booked %": "9"
         },
         {
             "Category": "4",
             "Vaccinations yesterday": ",",
             "Cumulative total": "5",
-            "Eligible population vaccinated %": "0",
-            "Total population vaccinated %": "7",
+            "Eligible population vaccinated %": "6",
+            "Total population vaccinated %": "9",
             "Vaccinated or booked": ",",
-            "Eligible vaccinated or booked %": "9"
+            "Eligible vaccinated or booked %": "2"
         }
     ]
 }
