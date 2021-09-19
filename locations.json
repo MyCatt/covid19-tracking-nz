@@ -1,6 +1,6 @@
 {
-    "size": 136,
-    "added": "2021-09-19 06:01:09.803015",
+    "size": 138,
+    "added": "2021-09-19 06:20:28.249790",
     "body": [
         {
             "Location name": "PAK'nSAVE Botany",
@@ -8,7 +8,7 @@
             "Day": "Tuesday 14 September",
             "Times": "5:45 pm - 7:50 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "19 Sep 4:00 pm"
+            "Updated": "19 Sep 6:00 pm"
         },
         {
             "Location name": "PAK'nSAVE Botany",
@@ -16,7 +16,23 @@
             "Day": "Wednesday 15 September",
             "Times": "5:15 pm - 7:20 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "19 Sep 4:00 pm"
+            "Updated": "19 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere Mall",
+            "Address": "Mangere Town Centre - Bader Drive, Mangere, Auckland 2022",
+            "Day": "Tuesday 14 September",
+            "Times": "8:30 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Auckland Airport",
+            "Address": "1 John Goulter Drive, Mangere, Auckland 2022",
+            "Day": "Tuesday 14 September",
+            "Times": "12:30 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Sep 6:00 pm"
         },
         {
             "Location name": "Countdown Mangere Mall Mangere",
