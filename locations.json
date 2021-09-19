@@ -1,7 +1,23 @@
 {
-    "size": 134,
-    "added": "2021-09-19 04:40:21.710826",
+    "size": 136,
+    "added": "2021-09-19 05:01:03.392530",
     "body": [
+        {
+            "Location name": "PAK'nSAVE Botany",
+            "Address": "501 Ti Rakau Drive, Northpark, Auckland 2013",
+            "Day": "Tuesday 14 September",
+            "Times": "5:45 pm - 7:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Sep 4:00 pm"
+        },
+        {
+            "Location name": "PAK'nSAVE Botany",
+            "Address": "501 Ti Rakau Drive, Northpark, Auckland 2013",
+            "Day": "Wednesday 15 September",
+            "Times": "5:15 pm - 7:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Sep 4:00 pm"
+        },
         {
             "Location name": "Countdown Mangere Mall Mangere",
             "Address": "Mangere Town Centre, Bader Drive, Auckland, Auckland 2022",
