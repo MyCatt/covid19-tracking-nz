@@ -1,14 +1,14 @@
 {
-    "size": 136,
-    "added": "2021-09-20 22:00:59.976529",
+    "size": 135,
+    "added": "2021-09-20 22:20:32.848867",
     "body": [
         {
             "Location name": "Countdown Botany Downs",
             "Address": "Corner Te Irirangi & Ti Rakau Drives, Botany Downs, Auckland 2023",
             "Day": "Sunday 19 September",
-            "Times": "1:00 pm - 2:00 pm",
+            "Times": "12:30 pm - 2:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "21 Sep 8:00 am"
+            "Updated": "21 Sep 10:00 am"
         },
         {
             "Location name": "GAS Mascot Avenue M\u0101ngere",
@@ -127,14 +127,6 @@
             "Address": "1 John Goulter Drive, Mangere, Auckland 2022",
             "Day": "Tuesday 14 September",
             "Times": "12:30 pm - 3:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "20 Sep 8:00 am"
-        },
-        {
-            "Location name": "Mangere Health Centre Doctors",
-            "Address": "6 Waddon Place, Mangere, Auckland 2022",
-            "Day": "Tuesday 14 September",
-            "Times": "10:30 am - 11:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "20 Sep 8:00 am"
         },
