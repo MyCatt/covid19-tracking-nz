@@ -1,7 +1,15 @@
 {
-    "size": 135,
-    "added": "2021-09-21 00:02:13.700816",
+    "size": 136,
+    "added": "2021-09-21 00:20:41.851876",
     "body": [
+        {
+            "Location name": "Countdown Mt Wellington",
+            "Address": "Cnr Penrose Rd & Mt Wellington Hway, Mt Wellington, Auckland 1060",
+            "Day": "Wednesday 15 September",
+            "Times": "12:15 pm - 12:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve",
+            "Updated": "21 Sep 12:00 pm"
+        },
         {
             "Location name": "Countdown Botany Downs",
             "Address": "Corner Te Irirangi & Ti Rakau Drives, Botany Downs, Auckland 2023",
