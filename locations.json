@@ -1,7 +1,15 @@
 {
-    "size": 140,
-    "added": "2021-09-22 20:20:23.928678",
+    "size": 132,
+    "added": "2021-09-22 20:40:19.563865",
     "body": [
+        {
+            "Location name": "Pak'nSave Clendon Park",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Sunday 12 September",
+            "Times": "4:15 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 8:00 am"
+        },
         {
             "Location name": "PJ's Laundromat Clover Park",
             "Address": "31 Othello Drive, Clover Park, Auckland 2023",
@@ -547,14 +555,6 @@
             "Updated": "15 Sep 4:00 pm"
         },
         {
-            "Location name": "Dayspring Laundromat Papatoetoe",
-            "Address": "8/258 Puhinui Road, Papatoetoe, Auckland 2025",
-            "Day": "Sunday 5 September",
-            "Times": "4:00 pm - 5:00 pm",
-            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "15 Sep 2:00 pm"
-        },
-        {
             "Location name": "Bus 325 Fleet 5406 Preston Road to Dawson Road",
             "Address": "Auckland",
             "Day": "Thursday 9 September",
@@ -875,14 +875,6 @@
             "Updated": "12 Sep 6:00 pm"
         },
         {
-            "Location name": "Pak'nSave Mangere",
-            "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
-            "Day": "Sunday 5 September",
-            "Times": "10:00 am - 11:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Sep 6:00 pm"
-        },
-        {
             "Location name": "Pak'nSave Manukau",
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Friday 10 September",
@@ -903,14 +895,6 @@
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
             "Day": "Tuesday 7 September",
             "Times": "9:55 am - 11:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Sep 10:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Clendon Park",
-            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
-            "Day": "Sunday 5 September",
-            "Times": "3:25 pm - 4:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "12 Sep 10:00 am"
         },
@@ -964,26 +948,10 @@
         },
         {
             "Location name": "Countdown Manukau City Mall",
-            "Address": "Shop 99 Manukau City Centre, Cnr Great South & Wiri Station Rds Manukau, Manukau City Centre, Auckland 2104",
-            "Day": "Sunday 5 September",
-            "Times": "9:00 am - 11:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Sep 2:00 pm"
-        },
-        {
-            "Location name": "Countdown Manukau City Mall",
             "Address": "Shop 99, Manukau City Centre, Corner Great South & Wiri Station Roads, Manukau, Auckland 2104",
             "Day": "Tuesday 7 September",
             "Times": "7:57 am - 9:05 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Sep 2:00 pm"
-        },
-        {
-            "Location name": "PAK'nSAVE Manukau",
-            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
-            "Day": "Sunday 5 September",
-            "Times": "10:30 am - 12:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "11 Sep 2:00 pm"
         },
         {
@@ -1083,43 +1051,11 @@
             "Updated": "10 Sep 8:00 am"
         },
         {
-            "Location name": "Countdown Papatoetoe",
-            "Address": "217 Great South Road, Papatoetoe, Auckland 2025",
-            "Day": "Sunday 5 September",
-            "Times": "8:45 am - 10:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "9 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Skinny Handy Dairy Papatoetoe",
-            "Address": "22 Huia Rd, Papatoetoe, Auckland 2025",
-            "Day": "Sunday 5 September",
-            "Times": "11:00 am - 12:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "9 Sep 12:00 pm"
-        },
-        {
             "Location name": "Unichem Mangere East Pharmacy",
             "Address": "7A/359 Massey Road, Mangere East, Auckland 2024",
             "Day": "Monday 6 September",
             "Times": "3:18 pm - 3:23 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "8 Sep 8:00 am"
-        },
-        {
-            "Location name": "GAS Mascot Ave",
-            "Address": "97 Mascot Avenue, Mangere, Auckland 2022",
-            "Day": "Sunday 5 September",
-            "Times": "7:45 am - 8:50 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "8 Sep 8:00 am"
-        },
-        {
-            "Location name": "Orly Avenue Superette",
-            "Address": "49 Orly Avenue, Mangere, Auckland 2022",
-            "Day": "Sunday 5 September",
-            "Times": "7:30 am - 8:40 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "8 Sep 8:00 am"
         }
     ]
