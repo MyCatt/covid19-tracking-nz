@@ -1,7 +1,31 @@
 {
-    "size": 137,
-    "added": "2021-09-22 05:40:18.427952",
+    "size": 140,
+    "added": "2021-09-22 06:01:17.217916",
     "body": [
+        {
+            "Location name": "PJ's Laundromat Clover Park",
+            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
+            "Day": "Sunday 19 September",
+            "Times": "8:15 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 6:00 pm"
+        },
+        {
+            "Location name": "PJ's Laundromat Clover Park",
+            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
+            "Day": "Saturday 18 September",
+            "Times": "8:15 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Mountfort Park Manurewa Sports Centre Steps",
+            "Address": "180 Weymouth Road, Manurewa, Auckland 2102",
+            "Day": "Monday 20 September",
+            "Times": "5:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 6:00 pm"
+        },
         {
             "Location name": "Othello Superette",
             "Address": "31 Othello Drive, Clover Park, Auckland 2023",
