@@ -1,7 +1,31 @@
 {
-    "size": 134,
-    "added": "2021-09-22 04:01:30.924069",
+    "size": 137,
+    "added": "2021-09-22 04:20:29.133897",
     "body": [
+        {
+            "Location name": "Othello Superette",
+            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
+            "Day": "Saturday 18 September",
+            "Times": "8:45 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Othello Superette",
+            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
+            "Day": "Sunday 19 September",
+            "Times": "8:45 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 4:00 pm"
+        },
+        {
+            "Location name": "BP Connect Flatbush",
+            "Address": "300 Te Irirangi Drive, Flat Bush, Auckland 2013",
+            "Day": "Saturday 18 September",
+            "Times": "8:19 am - 8:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 4:00 pm"
+        },
         {
             "Location name": "Pak'nSave Clendon Park",
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
