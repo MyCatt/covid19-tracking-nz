@@ -1,7 +1,39 @@
 {
-    "size": 132,
-    "added": "2021-09-22 22:40:19.006045",
+    "size": 136,
+    "added": "2021-09-22 23:01:32.896938",
     "body": [
+        {
+            "Location name": "Sharland Ave Superette Manurewa",
+            "Address": "42 Sharland Avenue, Manurewa, Auckland 2102",
+            "Day": "Tuesday 14 September",
+            "Times": "12:45 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 10:00 am"
+        },
+        {
+            "Location name": "Weymouth Road Dairy Manurewa",
+            "Address": "1/29 Weymouth Road, Manurewa, Auckland 2102",
+            "Day": "Wednesday 15 September",
+            "Times": "3:02 pm - 3:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 10:00 am"
+        },
+        {
+            "Location name": "Favona FoodMarket Favona",
+            "Address": "113 Favona Road, Favona, Auckland 2024",
+            "Day": "Wednesday 15 September",
+            "Times": "12:00 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 10:00 am"
+        },
+        {
+            "Location name": "Sharland Ave Superette Manurewa",
+            "Address": "42 Sharland Avenue, Manurewa, Auckland 2102",
+            "Day": "Sunday 12 September",
+            "Times": "8:00 am - 9:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 10:00 am"
+        },
         {
             "Location name": "Pak'nSave Clendon Park",
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
