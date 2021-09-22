@@ -1,7 +1,31 @@
 {
-    "size": 126,
-    "added": "2021-09-22 00:01:30.922701",
+    "size": 129,
+    "added": "2021-09-22 00:20:41.986327",
     "body": [
+        {
+            "Location name": "Pak'nSave Mangere",
+            "Address": "Cnr Bader Drive and Orly Avenue, Mangere, Auckland 2022",
+            "Day": "Wednesday 15 September",
+            "Times": "10:30 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Crystal Laundromat Manurewa",
+            "Address": "4/439 Roscommon Road, Clendon Park, Auckland 2103",
+            "Day": "Wednesday 15 September",
+            "Times": "3:05 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Clendon foodmarket Clendon Park",
+            "Address": "2/439 Roscommon Road, Clendon Park, Auckland 2103",
+            "Day": "Wednesday 15 September",
+            "Times": "3:38 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Sep 12:00 pm"
+        },
         {
             "Location name": "Countdown Mangere Mall",
             "Address": "Bader Drive, Mangere, Auckland 2022",
