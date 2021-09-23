@@ -1,7 +1,15 @@
 {
     "size": 136,
-    "added": "2021-09-23 00:02:13.577227",
+    "added": "2021-09-23 00:20:45.909121",
     "body": [
+        {
+            "Location name": "GAS Mascot Avenue Mangere",
+            "Address": "97 Mascot Avenue, Mangere, Auckland 2022",
+            "Day": "Monday 13 September",
+            "Times": "9:00 pm - 10:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 12:00 pm"
+        },
         {
             "Location name": "Sharland Ave Superette Manurewa",
             "Address": "42 Sharland Avenue, Manurewa, Auckland 2102",
@@ -185,14 +193,6 @@
             "Times": "12:30 pm - 2:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "21 Sep 10:00 am"
-        },
-        {
-            "Location name": "GAS Mascot Avenue M\u0101ngere",
-            "Address": "97 Mascot Avenue, Mangere, Auckland 2022",
-            "Day": "Tuesday 14 September",
-            "Times": "12:15 am - 12:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "20 Sep 2:00 pm"
         },
         {
             "Location name": "Pak'nSave Sylvia Park",
