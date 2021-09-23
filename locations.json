@@ -1,7 +1,47 @@
 {
-    "size": 135,
-    "added": "2021-09-23 22:01:10.307521",
+    "size": 140,
+    "added": "2021-09-23 22:20:28.329597",
     "body": [
+        {
+            "Location name": "Tai Ping Asian Supermarket Flatbush",
+            "Address": "16 Bishop Dunn Place, Flat Bush, Auckland 2013",
+            "Day": "Sunday 19 September",
+            "Times": "10:30 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 10:00 am"
+        },
+        {
+            "Location name": "Fresh Vege Mart Mangere East",
+            "Address": "6 Yates Road, Mangere East, Auckland 2024",
+            "Day": "Monday 20 September",
+            "Times": "9:00 am - 12:00 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Sep 10:00 am"
+        },
+        {
+            "Location name": "Pak'nSave Mangere",
+            "Address": "Corner Bader Drive and Orly Avenue, Mangere, Auckland 2022",
+            "Day": "Monday 13 September",
+            "Times": "10:00 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 10:00 am"
+        },
+        {
+            "Location name": "Unichem Mangere Pharmacy",
+            "Address": "12 Waddon Place, Mangere, Auckland 2022",
+            "Day": "Tuesday 21 September",
+            "Times": "9:15 am - 10:00 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Sep 10:00 am"
+        },
+        {
+            "Location name": "Pak'nSave Ormiston",
+            "Address": "1 Bellingham Road, Flat Bush, Auckland 2019",
+            "Day": "Tuesday 21 September",
+            "Times": "1:00 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 10:00 am"
+        },
         {
             "Location name": "Othello Superette, Clover Park",
             "Address": "31 Othello Drive, Clover Park, Auckland 2023",
