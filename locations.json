@@ -1,6 +1,6 @@
 {
-    "size": 137,
-    "added": "2021-09-23 20:01:15.481086",
+    "size": 135,
+    "added": "2021-09-23 20:20:26.960369",
     "body": [
         {
             "Location name": "Othello Superette, Clover Park",
@@ -971,14 +971,6 @@
             "Updated": "12 Sep 10:00 am"
         },
         {
-            "Location name": "Countdown Howick",
-            "Address": "35 Cook Street, Howick, Auckland 2014",
-            "Day": "Monday 6 September",
-            "Times": "11:30 am - 11:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Sep 6:00 pm"
-        },
-        {
             "Location name": "Countdown Manurewa",
             "Address": "227 Browns Road, Manurewa, Auckland 2102",
             "Day": "Thursday 9 September",
@@ -1089,14 +1081,6 @@
             "Times": "12:30 pm - 1:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "10 Sep 8:00 am"
-        },
-        {
-            "Location name": "Unichem Mangere East Pharmacy",
-            "Address": "7A/359 Massey Road, Mangere East, Auckland 2024",
-            "Day": "Monday 6 September",
-            "Times": "3:18 pm - 3:23 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "8 Sep 8:00 am"
         }
     ]
 }
