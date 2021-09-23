@@ -1,7 +1,31 @@
 {
-    "size": 136,
-    "added": "2021-09-23 06:01:15.803981",
+    "size": 137,
+    "added": "2021-09-23 06:20:28.683058",
     "body": [
+        {
+            "Location name": "Othello Superette, Clover Park",
+            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
+            "Day": "Saturday 18 September",
+            "Times": "8:45 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Othello Superette, Clover Park",
+            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
+            "Day": "Sunday 19 September",
+            "Times": "8:45 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Sylvia Park",
+            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Thursday 16 September",
+            "Times": "12:45 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Sep 6:00 pm"
+        },
         {
             "Location name": "GAS Mascot Avenue Mangere",
             "Address": "97 Mascot Avenue, Mangere, Auckland 2022",
@@ -73,22 +97,6 @@
             "Times": "5:00 pm - 8:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "22 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Othello Superette",
-            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
-            "Day": "Saturday 18 September",
-            "Times": "8:45 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "22 Sep 4:00 pm"
-        },
-        {
-            "Location name": "Othello Superette",
-            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
-            "Day": "Sunday 19 September",
-            "Times": "8:45 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "22 Sep 4:00 pm"
         },
         {
             "Location name": "BP Connect Flatbush",
