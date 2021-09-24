@@ -1,14 +1,14 @@
 {
     "size": 22,
-    "added": "2021-09-24 01:01:34.250278",
+    "added": "2021-09-24 01:20:34.322033",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "37",
-            "Recovered": "386",
+            "Active": "36",
+            "Recovered": "387",
             "Deceased": "1",
             "Total": "424",
-            "Change in last 24 hours": "5"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "Bay of Plenty",
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "199",
-            "Recovered": "729",
+            "Active": "181",
+            "Recovered": "755",
             "Deceased": "1",
-            "Total": "929",
-            "Change in last 24 hours": "9"
+            "Total": "937",
+            "Change in last 24 hours": "8"
         },
         {
             "Location": "Hawke's Bay",
@@ -140,11 +140,11 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "25",
-            "Recovered": "481",
+            "Active": "11",
+            "Recovered": "495",
             "Deceased": "5",
             "Total": "511",
-            "Change in last 24 hours": "1"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "West Coast",
@@ -165,18 +165,18 @@
         {
             "Location": "Managed Isolation & Quarantine",
             "Active": "28",
-            "Recovered": "1248",
+            "Recovered": "1249",
             "Deceased": "1",
-            "Total": "1277",
+            "Total": "1278",
             "Change in last 24 hours": "1"
         },
         {
             "Location": "Total",
-            "Active": "289",
-            "Recovered": "3819",
+            "Active": "256",
+            "Recovered": "3861",
             "Deceased": "27",
-            "Total": "4135",
-            "Change in last 24 hours": "16*"
+            "Total": "4144",
+            "Change in last 24 hours": "9"
         }
     ]
 }
