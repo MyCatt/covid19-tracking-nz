@@ -1,7 +1,23 @@
 {
-    "size": 140,
-    "added": "2021-09-24 00:01:51.227029",
+    "size": 142,
+    "added": "2021-09-24 00:20:43.828072",
     "body": [
+        {
+            "Location name": "Pak'nSave Mangere",
+            "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
+            "Day": "Tuesday 21 September",
+            "Times": "7:45 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere East",
+            "Address": "359 Massey Road, Mangere East, Auckland 2024",
+            "Day": "Wednesday 22 September",
+            "Times": "9:00 am - 9:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 12:00 pm"
+        },
         {
             "Location name": "Tai Ping Asian Supermarket Flatbush",
             "Address": "16 Bishop Dunn Place, Flat Bush, Auckland 2013",
