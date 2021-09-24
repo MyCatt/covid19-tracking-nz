@@ -1,7 +1,79 @@
 {
-    "size": 143,
-    "added": "2021-09-24 06:01:01.917148",
+    "size": 152,
+    "added": "2021-09-24 06:20:26.599428",
     "body": [
+        {
+            "Location name": "BP Connect Weymouth Manurewa",
+            "Address": "199 Weymouth Road, Manurewa, Auckland 2102",
+            "Day": "Thursday 23 September",
+            "Times": "10:29 am - 10:39 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Kainga Ora Apartments Parnell",
+            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
+            "Day": "Sunday 19 September",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Kainga Ora Apartments Parnell",
+            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
+            "Day": "Saturday 18 September",
+            "Times": "8:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Kainga Ora Apartments Parnell",
+            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
+            "Day": "Monday 20 September",
+            "Times": "12:00 am - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Botany Downs",
+            "Address": "Cnr Te Irirangi and Ti Rakau Drives, Botany Downs, Auckland 2010",
+            "Day": "Saturday 18 September",
+            "Times": "4:15 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere Mall",
+            "Address": "Bader Drive, Mangere, Auckland 2024",
+            "Day": "Friday 17 September",
+            "Times": "11:00 am - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Ormiston",
+            "Address": "1 Bellingham Road, Flat Bush, Auckland 2019",
+            "Day": "Monday 13 September",
+            "Times": "8:45 am - 10:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "BP Connect Weymouth Manurewa",
+            "Address": "199 Weymouth Road, Manurewa, Auckland 2102",
+            "Day": "Wednesday 22 September",
+            "Times": "7:21 am - 7:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
+        {
+            "Location name": "BP Connect Weymouth Manurewa",
+            "Address": "199 Weymouth Road, Manurewa, Auckland 2102",
+            "Day": "Wednesday 22 September",
+            "Times": "8:13 am - 8:23 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Sep 6:00 pm"
+        },
         {
             "Location name": "Countdown Mt Eden",
             "Address": "Corner Valley Road and Dominion Road, Mt Eden, Auckland 1024",
