@@ -1,30 +1,38 @@
 {
-    "size": 134,
-    "added": "2021-09-25 00:01:54.543658",
+    "size": 135,
+    "added": "2021-09-25 00:20:39.532110",
     "body": [
         {
             "Location name": "Kainga Ora Apartments Parnell",
-            "Address": "12/9 Cracroft Street, Parnell, Auckland 1052",
+            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
             "Day": "Sunday 19 September",
             "Times": "12:00 am - 11:59 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Sep 8:00 am"
+            "Updated": "25 Sep 12:00 pm"
         },
         {
             "Location name": "Kainga Ora Apartments Parnell",
-            "Address": "12/9 Cracroft Street, Parnell, Auckland 1052",
+            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
             "Day": "Saturday 18 September",
             "Times": "8:00 am - 11:59 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Sep 8:00 am"
+            "Updated": "25 Sep 12:00 pm"
         },
         {
             "Location name": "Kainga Ora Apartments Parnell",
-            "Address": "12/9 Cracroft Street, Parnell, Auckland 1052",
+            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
             "Day": "Monday 20 September",
             "Times": "12:00 am - 8:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Sep 8:00 am"
+            "Updated": "25 Sep 12:00 pm"
+        },
+        {
+            "Location name": "Tai Ping Asian Supermarket Flatbush",
+            "Address": "16 Bishop Dunn Place, Flat Bush, Auckland 2013",
+            "Day": "Thursday 16 September",
+            "Times": "2:00 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Sep 12:00 pm"
         },
         {
             "Location name": "BP Connect Weymouth Manurewa",
