@@ -1,7 +1,23 @@
 {
-    "size": 137,
-    "added": "2021-09-26 03:01:27.128579",
+    "size": 139,
+    "added": "2021-09-26 03:20:23.492002",
     "body": [
+        {
+            "Location name": "Countdown Manukau City Mall Manukau",
+            "Address": "Shop 99, Manukau City CentreCorner Great South & Wiri Station Roads, Manukau, Auckland 2104",
+            "Day": "Thursday 23 September",
+            "Times": "3:23 pm - 3:43 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Sep 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere Mall Mangere",
+            "Address": "Mangere Town Centre, Bader Drive, Mangere, Auckland 2022",
+            "Day": "Friday 24 September",
+            "Times": "11:58 am - 12:18 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Sep 4:00 pm"
+        },
         {
             "Location name": "Unichem Otara Pharmacy Otara",
             "Address": "1/120 East Tamaki Road, Otara, Auckland 2023",
