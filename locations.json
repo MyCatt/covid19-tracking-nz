@@ -1,6 +1,6 @@
 {
-    "size": 118,
-    "added": "2021-09-27 19:01:09.230337",
+    "size": 108,
+    "added": "2021-09-27 19:20:29.827659",
     "body": [
         {
             "Location name": "77 Convenience Store Victoria Street",
@@ -659,26 +659,10 @@
             "Updated": "17 Sep 4:00 pm"
         },
         {
-            "Location name": "Z Hautapu Cambridge",
-            "Address": "167 Victoria Road, RD 1, Cambridge 3493",
-            "Day": "Friday 10 September",
-            "Times": "9:30 am - 10:40 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Sep 2:00 pm"
-        },
-        {
             "Location name": "Pak'nSave Ormiston",
             "Address": "1 Bellingham Road, Flat Bush, Auckland 2019",
             "Day": "Wednesday 15 September",
             "Times": "1:56 pm - 4:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Sep 2:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Pukekohe",
-            "Address": "Cnr Queen and Harris Street, Pukekohe Hill, Auckland 2120",
-            "Day": "Friday 10 September",
-            "Times": "9:15 am - 11:00 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Sep 2:00 pm"
         },
@@ -726,14 +710,6 @@
             "Location name": "Dawson Road Foodmarket Flatbush",
             "Address": "112C Dawson Road, Clover Park, Auckland 2023",
             "Day": "Tuesday 14 September",
-            "Times": "8:30 am - 10:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Sep 10:00 am"
-        },
-        {
-            "Location name": "Dawson Road Foodmarket Flatbush",
-            "Address": "112C Dawson Road, Clover Park, Auckland 2023",
-            "Day": "Friday 10 September",
             "Times": "8:30 am - 10:30 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Sep 10:00 am"
@@ -795,14 +771,6 @@
             "Updated": "16 Sep 1:00 pm"
         },
         {
-            "Location name": "Mayfield Superette Otara",
-            "Address": "15 Johnstones Road, Otara, Auckland 2023",
-            "Day": "Friday 10 September",
-            "Times": "6:00 pm - 6:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "16 Sep 8:00 am"
-        },
-        {
             "Location name": "Gilmours Manukau",
             "Address": "77 Cavendish Drive, Manukau, Auckland 2104",
             "Day": "Saturday 11 September",
@@ -815,14 +783,6 @@
             "Address": "112N Dawson Road, Clover Park, Auckland 2023",
             "Day": "Saturday 11 September",
             "Times": "5:45 am - 6:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "15 Sep 2:00 pm"
-        },
-        {
-            "Location name": "Supavalue Supermarket Clover Park",
-            "Address": "112N Dawson Road, Clover Park, Auckland 2023",
-            "Day": "Friday 10 September",
-            "Times": "5:00 am - 5:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "15 Sep 2:00 pm"
         },
@@ -883,22 +843,6 @@
             "Updated": "13 Sep 6:00 pm"
         },
         {
-            "Location name": "Western Train Line Fruitvale Road to Grafton",
-            "Address": "Auckland",
-            "Day": "Friday 10 September",
-            "Times": "9:26 pm - 9:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Western Train Line Grafton to Fruitvale Road",
-            "Address": "Auckland",
-            "Day": "Friday 10 September",
-            "Times": "8:27 am - 8:50 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Sep 6:00 pm"
-        },
-        {
             "Location name": "Western Train Line, Fruitvale Road to Grafton",
             "Address": "Auckland",
             "Day": "Saturday 11 September",
@@ -915,36 +859,12 @@
             "Updated": "13 Sep 6:00 pm"
         },
         {
-            "Location name": "Dawson Road Pharmacy Clover Park",
-            "Address": "124 Dawson Road, Clover Park, Auckland 2023",
-            "Day": "Friday 10 September",
-            "Times": "4:45 pm - 5:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Sep 6:00 pm"
-        },
-        {
             "Location name": "Western Line Train Grafton station to Fruitvale station",
             "Address": "Auckland",
             "Day": "Saturday 11 September",
             "Times": "8:47 am - 9:10 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "13 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Portage Road Superette Papatoetoe",
-            "Address": "49 Portage Road, Papatoetoe, Auckland 2025",
-            "Day": "Friday 10 September",
-            "Times": "3:45 pm - 5:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "12 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Manukau",
-            "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
-            "Day": "Friday 10 September",
-            "Times": "10:00 am - 10:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Sep 6:00 pm"
         }
     ]
 }
