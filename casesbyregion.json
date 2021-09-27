@@ -1,14 +1,14 @@
 {
     "size": 22,
-    "added": "2021-09-27 00:03:19.458568",
+    "added": "2021-09-27 00:21:53.636874",
     "body": [
         {
             "Location": "Auckland",
             "Active": "30",
-            "Recovered": "397",
+            "Recovered": "398",
             "Deceased": "1",
-            "Total": "428",
-            "Change in last 24 hours": "3"
+            "Total": "429",
+            "Change in last 24 hours": "1"
         },
         {
             "Location": "Bay of Plenty",
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "168",
-            "Recovered": "791",
+            "Active": "166",
+            "Recovered": "804",
             "Deceased": "1",
-            "Total": "960",
-            "Change in last 24 hours": "9"
+            "Total": "971",
+            "Change in last 24 hours": "11"
         },
         {
             "Location": "Hawke's Bay",
@@ -144,7 +144,7 @@
             "Recovered": "499",
             "Deceased": "5",
             "Total": "519",
-            "Change in last 24 hours": "6"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "West Coast",
@@ -164,19 +164,19 @@
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "12",
+            "Active": "11",
             "Recovered": "1269",
             "Deceased": "1",
-            "Total": "1282",
-            "Change in last 24 hours": "3"
+            "Total": "1281",
+            "Change in last 24 hours": "-1"
         },
         {
             "Location": "Total",
-            "Active": "225",
-            "Recovered": "3931",
+            "Active": "222",
+            "Recovered": "3945",
             "Deceased": "27",
-            "Total": "4183",
-            "Change in last 24 hours": "21"
+            "Total": "4194",
+            "Change in last 24 hours": "11"
         }
     ]
 }
