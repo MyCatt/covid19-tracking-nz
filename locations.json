@@ -1,7 +1,23 @@
 {
     "size": 103,
-    "added": "2021-09-30 23:01:23.176274",
+    "added": "2021-09-30 23:20:32.649309",
     "body": [
+        {
+            "Location name": "Z Beach Rd Auckland CBD",
+            "Address": "150 Beach Road, Auckland Central, Auckland 1010",
+            "Day": "Saturday 25 September",
+            "Times": "5:15 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sensational Chicken Mount St Auckland CBD",
+            "Address": "11A Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Friday 24 September",
+            "Times": "7:22 pm - 8:02 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Oct 12:00 pm"
+        },
         {
             "Location name": "Meat World Onehunga",
             "Address": "14 Waiapu Lane, Onehunga, Auckland 1061",
@@ -27,26 +43,10 @@
             "Updated": "30 Sep 6:00 pm"
         },
         {
-            "Location name": "Sensational Chicken Auckland CBD",
-            "Address": "11A Mount Street, Auckland Central, Auckland 1010",
-            "Day": "Friday 24 September",
-            "Times": "7:37 pm - 7:47 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "30 Sep 6:00 pm"
-        },
-        {
             "Location name": "Hillsborough Dairy Hillsborough",
             "Address": "180 Hillsborough Road, Hillsborough, Auckland 1042",
             "Day": "Sunday 26 September",
             "Times": "2:15 pm - 2:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "30 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Z Beach Rd",
-            "Address": "150 Beach Road, Parnell, Auckland 1010",
-            "Day": "Saturday 25 September",
-            "Times": "5:15 pm - 5:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "30 Sep 6:00 pm"
         },
