@@ -1,7 +1,71 @@
 {
-    "size": 101,
-    "added": "2021-09-30 05:01:32.671115",
+    "size": 109,
+    "added": "2021-09-30 05:20:32.837229",
     "body": [
+        {
+            "Location name": "Valley Fresh Panmure",
+            "Address": "22E Jellicoe Road, Panmure, Auckland 1072",
+            "Day": "Thursday 23 September",
+            "Times": "4:00 pm - 5:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "30 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Glen Innes",
+            "Address": "182 Apirana Avenue, Glen Innes, Auckland 1072",
+            "Day": "Friday 24 September",
+            "Times": "4:45 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Sensational Chicken Auckland CBD",
+            "Address": "11A Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Friday 24 September",
+            "Times": "7:37 pm - 7:47 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Hillsborough Dairy Hillsborough",
+            "Address": "180 Hillsborough Road, Hillsborough, Auckland 1042",
+            "Day": "Sunday 26 September",
+            "Times": "2:15 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Z Beach Rd",
+            "Address": "150 Beach Road, Parnell, Auckland 1010",
+            "Day": "Saturday 25 September",
+            "Times": "5:15 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Mt Albert",
+            "Address": "1173 New North Road, Mount Albert, Auckland 1025",
+            "Day": "Sunday 26 September",
+            "Times": "3:51 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Sep 6:00 pm"
+        },
+        {
+            "Location name": "Lotus Supermarket Mt Roskill",
+            "Address": "64 Stoddard Road, Wesley, Auckland 1041",
+            "Day": "Sunday 26 September",
+            "Times": "4:30 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Sep 6:00 pm"
+        },
+        {
+            "Location name": "New World Mt Roskill",
+            "Address": "53 May Road, Mt Roskill, Auckland 1041",
+            "Day": "Sunday 26 September",
+            "Times": "5:36 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Sep 6:00 pm"
+        },
         {
             "Location name": "Cedar Park Superette Wattle Downs",
             "Address": "99 Tington Avenue, Wattle Downs, Auckland 2103",
