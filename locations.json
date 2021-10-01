@@ -1,21 +1,37 @@
 {
-    "size": 105,
-    "added": "2021-10-01 05:01:40.584593",
+    "size": 107,
+    "added": "2021-10-01 05:20:35.188645",
     "body": [
+        {
+            "Location name": "Fresho Mount Roskill",
+            "Address": "926 Dominion Road, Mount Roskill, Auckland 1041",
+            "Day": "Saturday 25 September",
+            "Times": "12:15 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Kelvin Fruit and Veg Manukau",
+            "Address": "12H Puhinui Road, Manukau, Auckland 2104",
+            "Day": "Wednesday 29 September",
+            "Times": "10:30 am - 10:35 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve",
+            "Updated": "1 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Kawakawa Bay Supertte 1561 Clevedon Kawakawa Bay",
+            "Address": "1561 Clevedon-Kawakawa Road, Papakura, Auckland 2585",
+            "Day": "Sunday 26 September",
+            "Times": "12:45 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Oct 6:00 pm"
+        },
         {
             "Location name": "Countdown Victoria Street West",
             "Address": "19 Victoria Street West, Auckland Central, Auckland 1010",
             "Day": "Tuesday 28 September",
             "Times": "1:30 pm - 3:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve",
-            "Updated": "1 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Fresho Mount Roskill",
-            "Address": "926 Dominion Road, Mount Roskill, Auckland 1041",
-            "Day": "Saturday 25 September",
-            "Times": "12:15 pm - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Oct 4:00 pm"
         },
         {
