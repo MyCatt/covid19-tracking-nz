@@ -1,7 +1,23 @@
 {
-    "size": 103,
-    "added": "2021-10-01 03:01:42.485521",
+    "size": 105,
+    "added": "2021-10-01 03:20:28.078035",
     "body": [
+        {
+            "Location name": "Countdown Victoria Street West",
+            "Address": "19 Victoria Street West, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 28 September",
+            "Times": "1:30 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve",
+            "Updated": "1 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Fresho Mount Roskill",
+            "Address": "926 Dominion Road, Mount Roskill, Auckland 1041",
+            "Day": "Saturday 25 September",
+            "Times": "12:15 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Oct 4:00 pm"
+        },
         {
             "Location name": "Z Beach Rd Auckland CBD",
             "Address": "150 Beach Road, Auckland Central, Auckland 1010",
