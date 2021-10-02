@@ -1,7 +1,111 @@
 {
-    "size": 101,
-    "added": "2021-10-02 08:41:25.541615",
+    "size": 114,
+    "added": "2021-10-02 09:01:43.447404",
     "body": [
+        {
+            "Location name": "BP Taupiri",
+            "Address": "2189 Gordonton Road, RD 1, Taupiri 3791",
+            "Day": "Friday 1 October",
+            "Times": "4:45 am - 6:00 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "BP 2Go Hunterville",
+            "Address": "3625 State Highway 1, Hunterville 4730",
+            "Day": "Saturday 2 October",
+            "Times": "7:10 am - 8:30 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "Countdown Mt Wellington",
+            "Address": "Cnr of Penrose Rd and Mt Wellington Hwy, Mt Wellington, Auckland 1060",
+            "Day": "Sunday 26 September",
+            "Times": "12:00 pm - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "Burger King Rangitikei St",
+            "Address": "395 Rangitikei Street, Palmerston North, Palmerston North 4410",
+            "Day": "Tuesday 28 September",
+            "Times": "4:00 pm - 5:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "BP Taupiri",
+            "Address": "2189 Gordonton Road, RD 1, Taupiri 3791",
+            "Day": "Thursday 30 September",
+            "Times": "1:00 am - 2:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "BP Putaruru Truckstop",
+            "Address": "31 Taupo Street, Putaruru 3411",
+            "Day": "Tuesday 28 September",
+            "Times": "11:28 pm - 12:58 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "St Pierres Sushi + Bento Bowl",
+            "Address": "1/652 Great South Road, Manukau, Auckland 2104",
+            "Day": "Wednesday 29 September",
+            "Times": "9:25 am - 10:45 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "Challenge Longburn",
+            "Address": "56 State Highway 56, Longburn, Palmerston North 4412",
+            "Day": "Tuesday 28 September",
+            "Times": "10:00 am - 11:30 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "BP Connect Taihape",
+            "Address": "80 Hautapu Street, Taihape, Taihape 4720",
+            "Day": "Thursday 30 September",
+            "Times": "6:37 am - 7:45 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "BP Taupiri",
+            "Address": "2189 Gordonton Road, RD 1, Taupiri 3791",
+            "Day": "Saturday 2 October",
+            "Times": "1:00 am - 2:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "Countdown Three Kings",
+            "Address": "532 Mount Albert Road, Three Kings, Auckland 1042",
+            "Day": "Monday 27 September",
+            "Times": "10:15 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "Burger King Rangitikei St",
+            "Address": "395 Rangitikei Street, Palmerston North, Palmerston North 4410",
+            "Day": "Thursday 30 September",
+            "Times": "5:58 pm - 7:15 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Oct 9:00 pm"
+        },
+        {
+            "Location name": "BP Tokoroa Truckstop",
+            "Address": "Main Road, State Highway 1, Tokoroa 3420",
+            "Day": "Tuesday 28 September",
+            "Times": "2:00 am - 3:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Oct 9:00 pm"
+        },
         {
             "Location name": "Cascade Superette Pakuranga",
             "Address": "123 Cascades Road, Pakuranga Heights, Auckland 2010",
