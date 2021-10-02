@@ -1,7 +1,15 @@
 {
-    "size": 98,
-    "added": "2021-10-02 01:01:29.109394",
+    "size": 99,
+    "added": "2021-10-02 01:20:36.484243",
     "body": [
+        {
+            "Location name": "Pak'nSave Ormiston",
+            "Address": "1 Bellingham Road, Flat Bush, Auckland 2019",
+            "Day": "Sunday 26 September",
+            "Times": "2:19 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Oct 2:00 pm"
+        },
         {
             "Location name": "Pak'nSave Mount Albert",
             "Address": "1167 New North Road, Mount Albert, Auckland 1025",
@@ -83,18 +91,18 @@
             "Updated": "1 Oct 4:00 pm"
         },
         {
-            "Location name": "Sensational Chicken Mount St Auckland CBD",
-            "Address": "11A Mount Street, Auckland Central, Auckland 1010",
-            "Day": "Friday 24 September",
-            "Times": "7:22 pm - 8:02 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "1 Oct 12:00 pm"
-        },
-        {
             "Location name": "Z Beach Rd Auckland CBD",
             "Address": "150 Beach Road, Auckland Central, Auckland 1010",
             "Day": "Saturday 25 September",
             "Times": "5:15 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sensational Chicken Mount St Auckland CBD",
+            "Address": "11A Mount Street, Auckland Central, Auckland 1010",
+            "Day": "Friday 24 September",
+            "Times": "7:22 pm - 8:02 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Oct 12:00 pm"
         },
