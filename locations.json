@@ -1,7 +1,15 @@
 {
     "size": 138,
-    "added": "2021-10-03 23:01:09.150219",
+    "added": "2021-10-03 23:20:30.205641",
     "body": [
+        {
+            "Location name": "FreshChoice Otahuhu",
+            "Address": "33 Hall Avenue, Otahuhu, Auckland 1062",
+            "Day": "Tuesday 28 September",
+            "Times": "10:00 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 12:00 pm"
+        },
         {
             "Location name": "McDonald's Wairau Road",
             "Address": "142 Wairau Road, Wairau Valley, Auckland 0627",
@@ -87,14 +95,6 @@
             "Address": "329 Albany Highway, Albany, Auckland 0632",
             "Day": "Friday 24 September",
             "Times": "8:15 pm - 8:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Oct 9:00 pm"
-        },
-        {
-            "Location name": "FreshChoice Otahuhu",
-            "Address": "29 Hall Avenue, Otahuhu, Auckland 1062",
-            "Day": "Tuesday 28 September",
-            "Times": "10:00 am - 11:30 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Oct 9:00 pm"
         },
