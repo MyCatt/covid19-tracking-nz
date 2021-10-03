@@ -1,7 +1,23 @@
 {
-    "size": 136,
-    "added": "2021-10-03 21:40:21.907231",
+    "size": 138,
+    "added": "2021-10-03 22:01:18.284583",
     "body": [
+        {
+            "Location name": "McDonald's Wairau Road",
+            "Address": "142 Wairau Road, Wairau Valley, Auckland 0627",
+            "Day": "Saturday 2 October",
+            "Times": "6:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 10:00 am"
+        },
+        {
+            "Location name": "View Road Dairy Wairau Valley",
+            "Address": "7/1 View Road Wairau Valley, Wairau Valley, Auckland 0627",
+            "Day": "Sunday 3 October",
+            "Times": "12:30 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 10:00 am"
+        },
         {
             "Location name": "Z Albany Service Station",
             "Address": "287 Oteha Valley Road, Albany, Auckland 0632",
