@@ -1,7 +1,95 @@
 {
-    "size": 111,
-    "added": "2021-10-03 05:01:16.931067",
+    "size": 122,
+    "added": "2021-10-03 05:20:35.729861",
     "body": [
+        {
+            "Location name": "Coronation Superette Hillcrest",
+            "Address": "6 Coronation Road, Glenfield, Auckland 0627",
+            "Day": "Thursday 30 September",
+            "Times": "12:45 pm - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Beach Haven Bakery",
+            "Address": "205-213 Beach Haven Road, Beach haven, Auckland 0626",
+            "Day": "Tuesday 28 September",
+            "Times": "6:20 am - 6:25 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Albany",
+            "Address": "Don McKinnon Drive, Albany, Auckland 0632",
+            "Day": "Monday 20 September",
+            "Times": "8:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Farro Mt Eden",
+            "Address": "422 Dominion Road, Mount Eden, Auckland 1024",
+            "Day": "Saturday 25 September",
+            "Times": "12:00 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Z Petrol Station Papatoetoe",
+            "Address": "72 East Tamaki Road, Papatoetoe, Auckland 2025",
+            "Day": "Thursday 30 September",
+            "Times": "7:50 pm - 7:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Tasty Bites Lunch Bar East Tamaki",
+            "Address": "29 Neilpark Drive, East Tamaki, Auckland 2013",
+            "Day": "Wednesday 29 September",
+            "Times": "9:45 am - 9:55 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Coronation Superette Hillcrest",
+            "Address": "6 Coronation Road, Glenfield, Auckland 0627",
+            "Day": "Friday 1 October",
+            "Times": "12:45 pm - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Manukau",
+            "Address": "67 Cavendish Drive, Papatoetoe, Auckland 2104",
+            "Day": "Tuesday 28 September",
+            "Times": "1:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "GAS Albany Heights",
+            "Address": "533 State Highway 17, Lucas Heights, Auckland 0792",
+            "Day": "Saturday 2 October",
+            "Times": "12:15 pm - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Albany",
+            "Address": "Don McKinnon Drive, Albany, Auckland 0632",
+            "Day": "Thursday 30 September",
+            "Times": "8:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Dominos Beach Haven",
+            "Address": "104 Beach Haven Road, Beach Haven, Auckland 0626",
+            "Day": "Thursday 30 September",
+            "Times": "9:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 6:00 pm"
+        },
         {
             "Location name": "Cascade Superette",
             "Address": "123 Cascades Road, Pakuranga Heights, Auckland 2010",
