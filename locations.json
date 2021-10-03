@@ -1,7 +1,15 @@
 {
-    "size": 102,
-    "added": "2021-10-03 01:01:39.341051",
+    "size": 103,
+    "added": "2021-10-03 01:20:32.571708",
     "body": [
+        {
+            "Location name": "Fruit World New Lynn",
+            "Address": "10 Margan Avenue, New Lynn, Auckland 0600",
+            "Day": "Wednesday 29 September",
+            "Times": "3:00 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Oct 2:00 pm"
+        },
         {
             "Location name": "Countdown Manurewa",
             "Address": "227 Browns Road, Manurewa, Auckland 2102",
