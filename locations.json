@@ -1,7 +1,15 @@
 {
-    "size": 138,
-    "added": "2021-10-04 01:01:57.452696",
+    "size": 139,
+    "added": "2021-10-04 01:20:38.978684",
     "body": [
+        {
+            "Location name": "Farro Mt Eden",
+            "Address": "422 Dominion Road, Mount Eden, Auckland 1024",
+            "Day": "Saturday 2 October",
+            "Times": "10:30 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 2:00 pm"
+        },
         {
             "Location name": "FreshChoice Otahuhu",
             "Address": "33 Hall Avenue, Otahuhu, Auckland 1062",
