@@ -1,6 +1,6 @@
 {
-    "size": 146,
-    "added": "2021-10-04 19:01:19.769034",
+    "size": 141,
+    "added": "2021-10-04 19:20:34.244677",
     "body": [
         {
             "Location name": "Zest apartments",
@@ -941,14 +941,6 @@
         {
             "Location name": "Othello Superette",
             "Address": "31 Othello Drive, Clover Park, Auckland 2023",
-            "Day": "Friday 17 September",
-            "Times": "6:00 pm - 6:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Othello Superette",
-            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
             "Day": "Monday 20 September",
             "Times": "5:30 pm - 5:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
@@ -999,14 +991,6 @@
             "Address": "Cnr Te Irirangi and Ti Rakau Drives, Botany Downs, Auckland 2010",
             "Day": "Saturday 18 September",
             "Times": "4:15 pm - 6:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Mangere Mall",
-            "Address": "Bader Drive, Mangere, Auckland 2024",
-            "Day": "Friday 17 September",
-            "Times": "11:00 am - 3:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "24 Sep 6:00 pm"
         },
@@ -1131,36 +1115,12 @@
             "Updated": "22 Sep 4:00 pm"
         },
         {
-            "Location name": "Pak'nSave Clendon Park",
-            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
-            "Day": "Friday 17 September",
-            "Times": "5:29 pm - 6:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "22 Sep 2:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Sylvia Park",
-            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
-            "Day": "Friday 17 September",
-            "Times": "9:30 am - 11:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "21 Sep 6:00 pm"
-        },
-        {
             "Location name": "Countdown Botany Downs",
             "Address": "Corner Te Irirangi & Ti Rakau Drives, Botany Downs, Auckland 2023",
             "Day": "Sunday 19 September",
             "Times": "12:30 pm - 2:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "21 Sep 10:00 am"
-        },
-        {
-            "Location name": "Dawson's Road Dairy Superette Flatbush",
-            "Address": "130G Dawson Road, Flat Bush, Auckland 2016",
-            "Day": "Friday 17 September",
-            "Times": "3:15 pm - 3:20 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "20 Sep 10:00 am"
         },
         {
             "Location name": "Palm Super Mart",
