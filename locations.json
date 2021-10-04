@@ -1,7 +1,15 @@
 {
-    "size": 149,
-    "added": "2021-10-04 23:01:27.749682",
+    "size": 150,
+    "added": "2021-10-04 23:20:33.340696",
     "body": [
+        {
+            "Location name": "Bus# NB2155 Victoria St West to Triangle Road",
+            "Address": "Auckland",
+            "Day": "Tuesday 28 September",
+            "Times": "4:44 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Oct 12:00 pm"
+        },
         {
             "Location name": "Raglan Liquor",
             "Address": "35 Bow Street, Raglan 3225",
