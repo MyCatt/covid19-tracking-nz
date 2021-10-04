@@ -1,7 +1,63 @@
 {
-    "size": 139,
-    "added": "2021-10-04 05:01:27.040929",
+    "size": 146,
+    "added": "2021-10-04 05:20:34.921252",
     "body": [
+        {
+            "Location name": "Zest apartments",
+            "Address": "72 Nelson Street, Auckland Central, Auckland 1010",
+            "Day": "Thursday 30 September",
+            "Times": "1:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Zest apartments",
+            "Address": "72 Nelson Street, Auckland Central, Auckland 1010",
+            "Day": "Saturday 2 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Paknsave Lincoln Road Henderson",
+            "Address": "202 Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Wednesday 29 September",
+            "Times": "5:21 pm - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Manukau",
+            "Address": "652 Great South Road, Manukau, Auckland 2104",
+            "Day": "Sunday 3 October",
+            "Times": "7:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Zest apartments",
+            "Address": "72 Nelson Street, Auckland Central, Auckland 1010",
+            "Day": "Monday 4 October",
+            "Times": "12:00 am - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Zest apartments",
+            "Address": "72 Nelson Street, Auckland Central, Auckland 1010",
+            "Day": "Sunday 3 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Zest apartments",
+            "Address": "72 Nelson Street, Auckland Central, Auckland 1010",
+            "Day": "Friday 1 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Oct 6:00 pm"
+        },
         {
             "Location name": "Farro Mt Eden",
             "Address": "422 Dominion Road, Mount Eden, Auckland 1024",
