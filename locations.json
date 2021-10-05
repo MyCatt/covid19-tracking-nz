@@ -1,7 +1,15 @@
 {
     "size": 150,
-    "added": "2021-10-05 01:20:39.051783",
+    "added": "2021-10-05 01:40:28.699597",
     "body": [
+        {
+            "Location name": "McDonald's Wairau Road Wairau Valley",
+            "Address": "142 Wairau Road, Wairau Valley, Auckland 0627",
+            "Day": "Saturday 2 October",
+            "Times": "6:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Oct 2:00 pm"
+        },
         {
             "Location name": "Bus# NB2155 Victoria St West to Triangle Road",
             "Address": "Auckland",
@@ -145,14 +153,6 @@
             "Times": "10:00 am - 11:30 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "4 Oct 12:00 pm"
-        },
-        {
-            "Location name": "McDonald's Wairau Road",
-            "Address": "142 Wairau Road, Wairau Valley, Auckland 0627",
-            "Day": "Saturday 2 October",
-            "Times": "6:00 pm - 8:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "4 Oct 10:00 am"
         },
         {
             "Location name": "View Road Dairy Wairau Valley",
