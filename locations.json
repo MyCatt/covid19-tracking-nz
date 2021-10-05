@@ -1,6 +1,6 @@
 {
-    "size": 161,
-    "added": "2021-10-05 19:01:30.849769",
+    "size": 155,
+    "added": "2021-10-05 19:20:33.296395",
     "body": [
         {
             "Location name": "Daily Cafe and Bakery Otara",
@@ -1125,14 +1125,6 @@
         {
             "Location name": "Kainga Ora Apartments Parnell",
             "Address": "9 Cracroft Street, Parnell, Auckland 1052",
-            "Day": "Saturday 18 September",
-            "Times": "8:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Kainga Ora Apartments Parnell",
-            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
             "Day": "Monday 20 September",
             "Times": "12:00 am - 8:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
@@ -1143,14 +1135,6 @@
             "Address": "199 Weymouth Road, Manurewa, Auckland 2102",
             "Day": "Thursday 23 September",
             "Times": "10:29 am - 10:39 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Botany Downs",
-            "Address": "Cnr Te Irirangi and Ti Rakau Drives, Botany Downs, Auckland 2010",
-            "Day": "Saturday 18 September",
-            "Times": "4:15 pm - 6:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "24 Sep 6:00 pm"
         },
@@ -1229,14 +1213,6 @@
         {
             "Location name": "Othello Superette, Clover Park",
             "Address": "31 Othello Drive, Clover Park, Auckland 2023",
-            "Day": "Saturday 18 September",
-            "Times": "8:45 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "23 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Othello Superette, Clover Park",
-            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
             "Day": "Sunday 19 September",
             "Times": "8:45 am - 9:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
@@ -1246,14 +1222,6 @@
             "Location name": "PJ's Laundromat Clover Park",
             "Address": "31 Othello Drive, Clover Park, Auckland 2023",
             "Day": "Sunday 19 September",
-            "Times": "8:15 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "22 Sep 6:00 pm"
-        },
-        {
-            "Location name": "PJ's Laundromat Clover Park",
-            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
-            "Day": "Saturday 18 September",
             "Times": "8:15 am - 9:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "22 Sep 6:00 pm"
@@ -1267,28 +1235,12 @@
             "Updated": "22 Sep 6:00 pm"
         },
         {
-            "Location name": "BP Connect Flatbush",
-            "Address": "300 Te Irirangi Drive, Flat Bush, Auckland 2013",
-            "Day": "Saturday 18 September",
-            "Times": "8:19 am - 8:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "22 Sep 4:00 pm"
-        },
-        {
             "Location name": "Countdown Botany Downs",
             "Address": "Corner Te Irirangi & Ti Rakau Drives, Botany Downs, Auckland 2023",
             "Day": "Sunday 19 September",
             "Times": "12:30 pm - 2:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "21 Sep 10:00 am"
-        },
-        {
-            "Location name": "Palm Super Mart",
-            "Address": "226B Russell Road, Manurewa, Auckland 2102",
-            "Day": "Saturday 18 September",
-            "Times": "11:30 am - 1:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "20 Sep 8:00 am"
         }
     ]
 }
