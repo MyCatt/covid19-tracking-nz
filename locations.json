@@ -1,7 +1,47 @@
 {
-    "size": 155,
-    "added": "2021-10-05 21:01:00.510814",
+    "size": 160,
+    "added": "2021-10-05 21:20:30.163820",
     "body": [
+        {
+            "Location name": "Four Square Hobsonvile",
+            "Address": "4 Clark Road, Hobsonville, Auckland 0616",
+            "Day": "Saturday 2 October",
+            "Times": "8:55 am - 9:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 10:00 am"
+        },
+        {
+            "Location name": "Aroha Sushi Raglan",
+            "Address": "4 Wallis Street, Raglan 3225",
+            "Day": "Friday 1 October",
+            "Times": "8:00 am - 5:15 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "6 Oct 10:00 am"
+        },
+        {
+            "Location name": "Aroha Sushi Raglan",
+            "Address": "4 Wallis Street, Raglan 3225",
+            "Day": "Wednesday 29 September",
+            "Times": "8:00 am - 2:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "6 Oct 10:00 am"
+        },
+        {
+            "Location name": "New World New Lynn",
+            "Address": "2 Crown Lynn Place, New Lynn, Auckland 0600",
+            "Day": "Saturday 2 October",
+            "Times": "8:09 am - 8:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 10:00 am"
+        },
+        {
+            "Location name": "Raglan Laundromat",
+            "Address": "2 Wainui Road, Raglan 3225",
+            "Day": "Friday 1 October",
+            "Times": "3:30 pm - 5:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "6 Oct 10:00 am"
+        },
         {
             "Location name": "Daily Cafe and Bakery Otara",
             "Address": "287 East Tamaki Road, Otara, Auckland 2013",
