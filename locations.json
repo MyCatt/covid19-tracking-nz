@@ -1,7 +1,23 @@
 {
-    "size": 160,
-    "added": "2021-10-05 23:01:04.448833",
+    "size": 162,
+    "added": "2021-10-05 23:20:33.678031",
     "body": [
+        {
+            "Location name": "Keymens Corner Lunch Bar",
+            "Address": "4 Allright Place, Mount Wellington, Auckland 1060",
+            "Day": "Friday 1 October",
+            "Times": "7:30 am - 7:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 12:00 pm"
+        },
+        {
+            "Location name": "BP Connect Khyber Pass",
+            "Address": "433 Khyber Pass Road, Newmarket, Auckland 1023",
+            "Day": "Monday 4 October",
+            "Times": "11:00 pm - 12:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 12:00 pm"
+        },
         {
             "Location name": "Four Square Hobsonvile",
             "Address": "4 Clark Road, Hobsonville, Auckland 0616",
