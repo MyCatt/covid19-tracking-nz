@@ -1,22 +1,46 @@
 {
-    "size": 158,
-    "added": "2021-10-05 05:01:26.628165",
+    "size": 161,
+    "added": "2021-10-05 05:20:36.554227",
     "body": [
         {
-            "Location name": "Daily Cafe and Bakery",
+            "Location name": "Daily Cafe and Bakery Otara",
             "Address": "287 East Tamaki Road, Otara, Auckland 2013",
             "Day": "Friday 1 October",
             "Times": "8:31 am - 9:40 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "5 Oct 4:00 pm"
+            "Updated": "5 Oct 6:00 pm"
         },
         {
-            "Location name": "Golden Dragon Takeaways",
+            "Location name": "Golden Dragon Takeaways Clover Park",
             "Address": "4/130 Dawson Road, Clover Park, Auckland 2023",
             "Day": "Saturday 2 October",
             "Times": "5:57 pm - 7:10 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "5 Oct 4:00 pm"
+            "Updated": "5 Oct 6:00 pm"
+        },
+        {
+            "Location name": "BP Raglan",
+            "Address": "2 Main Road, Raglan 3225",
+            "Day": "Saturday 2 October",
+            "Times": "5:45 pm - 6:15 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Ali's Turkish Kebabs Raglan",
+            "Address": "29 Bow Street, Raglan 3225",
+            "Day": "Saturday 2 October",
+            "Times": "5:35 pm - 6:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Oct 6:00 pm"
+        },
+        {
+            "Location name": "West Liquor Westside Henderson",
+            "Address": "264 Swanson Road, Henderson, Auckland 0610",
+            "Day": "Friday 1 October",
+            "Times": "4:00 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Oct 6:00 pm"
         },
         {
             "Location name": "SuperValue Flat Bush",
