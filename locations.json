@@ -1,7 +1,23 @@
 {
-    "size": 181,
-    "added": "2021-10-06 22:01:24.820364",
+    "size": 183,
+    "added": "2021-10-06 22:20:36.782681",
     "body": [
+        {
+            "Location name": "Royal Bakehouse Onehunga",
+            "Address": "150E Mount Smart Road, Onehunga, Auckland 1061",
+            "Day": "Tuesday 28 September",
+            "Times": "10:30 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 11:00 am"
+        },
+        {
+            "Location name": "BP Connect Glendene",
+            "Address": "Cnr Norcross Avenue & Te Atatu Road, Henderson, Auckland 0610",
+            "Day": "Wednesday 29 September",
+            "Times": "8:00 pm - 8:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 11:00 am"
+        },
         {
             "Location name": "Z Sylvia Park Service Station Mount Wellington",
             "Address": "510 Mount Wellington Highway, Mount Wellington, Auckland 1060",
