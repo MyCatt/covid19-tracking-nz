@@ -1,7 +1,95 @@
 {
-    "size": 166,
-    "added": "2021-10-06 03:01:45.705179",
+    "size": 177,
+    "added": "2021-10-06 03:20:32.435057",
     "body": [
+        {
+            "Location name": "Four Square Lancaster",
+            "Address": "209 Beach Haven Road, Beach Haven, Auckland 0626",
+            "Day": "Saturday 2 October",
+            "Times": "8:00 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Kingston Foodcentre",
+            "Address": "58 Everitt Road, Otara, Auckland 2023",
+            "Day": "Monday 4 October",
+            "Times": "10:00 am - 11:05 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Kingston Foodcentre",
+            "Address": "58 Everitt Road, Otara, Auckland 2023",
+            "Day": "Sunday 3 October",
+            "Times": "5:30 pm - 6:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Dinsdale",
+            "Address": "47 Whatawhata Road, Dinsdale, Hamilton 3204",
+            "Day": "Friday 1 October",
+            "Times": "10:15 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "ED Reception Waikato Hospital",
+            "Address": "183 Pembroke Street, Waikato Hospital, Hamilton 3204",
+            "Day": "Friday 1 October",
+            "Times": "10:30 pm - 11:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Royal Bakehouse Onehunga",
+            "Address": "150E Mount Smart Road, Onehunga, Auckland 1061",
+            "Day": "Tuesday 28 September",
+            "Times": "10:30 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Archers Road Sushi & Donburi Glenfield",
+            "Address": "165 Archers Road, Hillcrest, Auckland 0629",
+            "Day": "Thursday 30 September",
+            "Times": "10:35 am - 10:50 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "BP garage Takapuna",
+            "Address": "64 Taharoto Road, Takapuna, Auckland 0622",
+            "Day": "Friday 1 October",
+            "Times": "6:00 am - 6:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Royal Laundromat Henderson",
+            "Address": "131C Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Sunday 3 October",
+            "Times": "1:30 pm - 1:45 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Royal Laundromat Henderson",
+            "Address": "131C Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Sunday 3 October",
+            "Times": "2:20 pm - 2:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "6 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Royal Laundromat Henderson",
+            "Address": "131C Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Sunday 3 October",
+            "Times": "1:00 pm - 1:10 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "6 Oct 4:00 pm"
+        },
         {
             "Location name": "BP Connect Glendene",
             "Address": "Cnr Norcross Avenue & Te Atatu Road, Henderson, Auckland 0610",
