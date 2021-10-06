@@ -1,14 +1,46 @@
 {
-    "size": 183,
-    "added": "2021-10-06 19:01:26.110198",
+    "size": 181,
+    "added": "2021-10-06 19:20:36.996625",
     "body": [
         {
-            "Location name": "Z - Sylvia Park Service Station",
+            "Location name": "Z Sylvia Park Service Station Mount Wellington",
             "Address": "510 Mount Wellington Highway, Mount Wellington, Auckland 1060",
             "Day": "Saturday 2 October",
             "Times": "11:45 am - 12:47 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "6 Oct 6:00 pm"
+            "Updated": "7 Oct 8:00 am"
+        },
+        {
+            "Location name": "Four Square Raglan",
+            "Address": "3 Bankart Street, Raglan 3225",
+            "Day": "Saturday 2 October",
+            "Times": "9:45 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 8:00 am"
+        },
+        {
+            "Location name": "Tasty Hot Bread Bakery Manukau",
+            "Address": "533 Great South Road, Manukau, Auckland 2025",
+            "Day": "Friday 1 October",
+            "Times": "11:20 am - 11:25 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 8:00 am"
+        },
+        {
+            "Location name": "Swaffield Road Dairy Papatoetoe",
+            "Address": "26 Swaffield Road, Papatoetoe, Auckland 2025",
+            "Day": "Friday 1 October",
+            "Times": "5:30 pm - 5:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 8:00 am"
+        },
+        {
+            "Location name": "Four Square Heaphy Terrace Fairfield",
+            "Address": "1030 Heaphy Terrace, Fairfield, Hamilton 3214",
+            "Day": "Monday 4 October",
+            "Times": "6:50 pm - 7:25 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 8:00 am"
         },
         {
             "Location name": "Spencer on Byron Takapuna",
@@ -1341,14 +1373,6 @@
         {
             "Location name": "Kainga Ora Apartments Parnell",
             "Address": "9 Cracroft Street, Parnell, Auckland 1052",
-            "Day": "Sunday 19 September",
-            "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Kainga Ora Apartments Parnell",
-            "Address": "9 Cracroft Street, Parnell, Auckland 1052",
             "Day": "Monday 20 September",
             "Times": "12:00 am - 8:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
@@ -1379,14 +1403,6 @@
             "Updated": "24 Sep 6:00 pm"
         },
         {
-            "Location name": "Countdown Mt Eden",
-            "Address": "Corner Valley Road and Dominion Road, Mt Eden, Auckland 1024",
-            "Day": "Sunday 19 September",
-            "Times": "12:00 pm - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Sep 4:00 pm"
-        },
-        {
             "Location name": "Pak'nSave Mangere",
             "Address": "Corner of Bader Drive and Orly Avenue, Mangere, Auckland 2022",
             "Day": "Tuesday 21 September",
@@ -1401,14 +1417,6 @@
             "Times": "9:00 am - 9:45 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "24 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Tai Ping Asian Supermarket Flatbush",
-            "Address": "16 Bishop Dunn Place, Flat Bush, Auckland 2013",
-            "Day": "Sunday 19 September",
-            "Times": "10:30 am - 12:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Sep 10:00 am"
         },
         {
             "Location name": "Fresh Vege Mart Mangere East",
@@ -1435,36 +1443,12 @@
             "Updated": "24 Sep 10:00 am"
         },
         {
-            "Location name": "Othello Superette, Clover Park",
-            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
-            "Day": "Sunday 19 September",
-            "Times": "8:45 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "23 Sep 6:00 pm"
-        },
-        {
-            "Location name": "PJ's Laundromat Clover Park",
-            "Address": "31 Othello Drive, Clover Park, Auckland 2023",
-            "Day": "Sunday 19 September",
-            "Times": "8:15 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "22 Sep 6:00 pm"
-        },
-        {
             "Location name": "Mountfort Park Manurewa Sports Centre Steps",
             "Address": "180 Weymouth Road, Manurewa, Auckland 2102",
             "Day": "Monday 20 September",
             "Times": "5:00 pm - 8:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "22 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Botany Downs",
-            "Address": "Corner Te Irirangi & Ti Rakau Drives, Botany Downs, Auckland 2023",
-            "Day": "Sunday 19 September",
-            "Times": "12:30 pm - 2:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "21 Sep 10:00 am"
         }
     ]
 }
