@@ -1,7 +1,39 @@
 {
-    "size": 162,
-    "added": "2021-10-06 01:01:32.018621",
+    "size": 166,
+    "added": "2021-10-06 01:20:38.205357",
     "body": [
+        {
+            "Location name": "BP Connect Glendene",
+            "Address": "Cnr Norcross Avenue & Te Atatu Road, Henderson, Auckland 0610",
+            "Day": "Wednesday 29 September",
+            "Times": "8:00 pm - 8:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Auckland City Hospital Grafton",
+            "Address": "2 Park Road, Grafton, Auckland 1023",
+            "Day": "Thursday 30 September",
+            "Times": "7:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Auckland City Hospital Grafton",
+            "Address": "2 Park Road, Grafton, Auckland 1023",
+            "Day": "Saturday 2 October",
+            "Times": "2:30 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Auckland City Hospital Grafton",
+            "Address": "2 Park Road, Grafton, Auckland 1023",
+            "Day": "Friday 1 October",
+            "Times": "4:00 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Oct 2:00 pm"
+        },
         {
             "Location name": "Keymens Corner Lunch Bar",
             "Address": "4 Allright Place, Mount Wellington, Auckland 1060",
