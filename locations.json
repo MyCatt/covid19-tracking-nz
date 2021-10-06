@@ -1,7 +1,31 @@
 {
-    "size": 183,
-    "added": "2021-10-06 23:01:28.020650",
+    "size": 186,
+    "added": "2021-10-06 23:20:33.010244",
     "body": [
+        {
+            "Location name": "Wainui Foodmarket",
+            "Address": "2 Wainui Road, Raglan 3225",
+            "Day": "Saturday 2 October",
+            "Times": "5:20 pm - 5:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Auckland City Mission",
+            "Address": "23 Union Street, Auckland Central, Auckland 1010",
+            "Day": "Monday 4 October",
+            "Times": "9:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 12:00 pm"
+        },
+        {
+            "Location name": "BP Connect Glendene",
+            "Address": "14 Te Atatu Road, Te Atatu South, Auckland 0610",
+            "Day": "Sunday 3 October",
+            "Times": "4:26 pm - 4:31 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 12:00 pm"
+        },
         {
             "Location name": "Royal Bakehouse Onehunga",
             "Address": "150E Mount Smart Road, Onehunga, Auckland 1061",
