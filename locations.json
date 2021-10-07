@@ -1,7 +1,39 @@
 {
-    "size": 189,
-    "added": "2021-10-07 03:20:35.181215",
+    "size": 193,
+    "added": "2021-10-07 03:40:24.389308",
     "body": [
+        {
+            "Location name": "Four Square Parakai",
+            "Address": "137 Parkhurst Road, Parakai, Parakai 0830",
+            "Day": "Monday 4 October",
+            "Times": "6:15 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 4:00 pm"
+        },
+        {
+            "Location name": "New World Kumeu",
+            "Address": "110 Main Road, Kumeu, Kumeu 0810",
+            "Day": "Monday 4 October",
+            "Times": "5:15 pm - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Alfriston Road Superette Manurewa",
+            "Address": "44 Alfriston Road, Manurewa East, Auckland 2102",
+            "Day": "Thursday 30 September",
+            "Times": "11:44 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Southgate Superette",
+            "Address": "17/230 Great South Road, Takanini, Auckland 2112",
+            "Day": "Friday 1 October",
+            "Times": "6:05 pm - 7:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 4:00 pm"
+        },
         {
             "Location name": "Lim Chhour Supermarket Manukau",
             "Address": "6 Lakewood Court, Manukau, Auckland 2104",
