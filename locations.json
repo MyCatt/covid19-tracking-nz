@@ -1,7 +1,47 @@
 {
-    "size": 186,
-    "added": "2021-10-07 01:02:04.780423",
+    "size": 189,
+    "added": "2021-10-07 01:20:41.291134",
     "body": [
+        {
+            "Location name": "Lim Chhour Supermarket Manukau",
+            "Address": "6 Lakewood Court, Manukau, Auckland 2104",
+            "Day": "Friday 1 October",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Persia Kebabs Wairau Valley",
+            "Address": "168E Wairau Road, Wairau Valley, Auckland 0627",
+            "Day": "Monday 4 October",
+            "Times": "12:00 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 2:00 pm"
+        },
+        {
+            "Location name": "That Cafe Takapuna",
+            "Address": "5 Byron Avenue, Takapuna, Auckland 0622",
+            "Day": "Thursday 30 September",
+            "Times": "9:16 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Lim Chhour Supermarket Manukau Auckland",
+            "Address": "6 Lakewood Court, Manukau, Auckland 2104",
+            "Day": "Thursday 30 September",
+            "Times": "4:12 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Friday 1 October",
+            "Times": "5:30 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 2:00 pm"
+        },
         {
             "Location name": "Wainui Foodmarket",
             "Address": "2 Wainui Road, Raglan 3225",
@@ -25,22 +65,6 @@
             "Times": "4:26 pm - 4:31 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "7 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Royal Bakehouse Onehunga",
-            "Address": "150E Mount Smart Road, Onehunga, Auckland 1061",
-            "Day": "Tuesday 28 September",
-            "Times": "10:30 am - 10:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Oct 11:00 am"
-        },
-        {
-            "Location name": "BP Connect Glendene",
-            "Address": "Cnr Norcross Avenue & Te Atatu Road, Henderson, Auckland 0610",
-            "Day": "Wednesday 29 September",
-            "Times": "8:00 pm - 8:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Oct 11:00 am"
         },
         {
             "Location name": "Z Sylvia Park Service Station Mount Wellington",
