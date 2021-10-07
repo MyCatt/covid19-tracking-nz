@@ -1,7 +1,15 @@
 {
-    "size": 206,
-    "added": "2021-10-07 23:01:37.762256",
+    "size": 207,
+    "added": "2021-10-07 23:20:33.028951",
     "body": [
+        {
+            "Location name": "The Sushi House Te Rapa",
+            "Address": "557 Te Rapa Road, Te Rapa, Hamilton 3200",
+            "Day": "Friday 1 October",
+            "Times": "12:00 pm - 12:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Oct 12:00 pm"
+        },
         {
             "Location name": "Countdown Manukau",
             "Address": "652 Great South Road, Manukau, Auckland 2104",
