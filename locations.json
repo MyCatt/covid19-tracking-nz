@@ -1,7 +1,71 @@
 {
-    "size": 193,
-    "added": "2021-10-07 05:01:12.035808",
+    "size": 201,
+    "added": "2021-10-07 05:20:39.866212",
     "body": [
+        {
+            "Location name": "Countdown Manuka",
+            "Address": "652 Great South Road, Manukau, Auckland 2104",
+            "Day": "Monday 4 October",
+            "Times": "9:00 am - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Victoria Street West",
+            "Address": "19 Victoria Street West, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 5 October",
+            "Times": "9:45 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
+        {
+            "Location name": "ASB Kelston Shopping Centre ATM Kelston",
+            "Address": "Corner West Coast and Great North Road, Kelston, Auckland 0602",
+            "Day": "Wednesday 29 September",
+            "Times": "11:00 pm - 11:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
+        {
+            "Location name": "ATM - Bank of New Zealand (BNZ) Waitakere",
+            "Address": "18 West Coast Road, Glen Eden, Auckland 0602",
+            "Day": "Wednesday 29 September",
+            "Times": "11:00 pm - 11:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Super Liquor Mount Wellington",
+            "Address": "14/295 Penrose Road, Mount Wellington, Auckland 1060",
+            "Day": "Wednesday 6 October",
+            "Times": "12:15 pm - 1:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Super Liquor Mt Wellington",
+            "Address": "14/295 Penrose Road, Mount Wellington, Auckland 1060",
+            "Day": "Saturday 2 October",
+            "Times": "1:15 pm - 2:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Z Manurewa",
+            "Address": "1 Alfriston Road, Manurewa, Auckland 2102",
+            "Day": "Thursday 30 September",
+            "Times": "11:38 am - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Lincoln Road Countdown Henderson",
+            "Address": "185 Universal Drive, Henderson, Auckland 0610",
+            "Day": "Friday 1 October",
+            "Times": "2:00 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Oct 6:00 pm"
+        },
         {
             "Location name": "Four Square Parakai",
             "Address": "137 Parkhurst Road, Parakai, Parakai 0830",
