@@ -1,7 +1,15 @@
 {
     "size": 206,
-    "added": "2021-10-07 21:01:35.659132",
+    "added": "2021-10-07 21:20:33.282865",
     "body": [
+        {
+            "Location name": "Countdown Manukau",
+            "Address": "652 Great South Road, Manukau, Auckland 2104",
+            "Day": "Monday 4 October",
+            "Times": "9:00 am - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Oct 10:00 am"
+        },
         {
             "Location name": "Super Liquor Mt Wellington",
             "Address": "14/295 Penrose Road, Mount Wellington, Auckland 1060",
@@ -97,14 +105,6 @@
             "Times": "11:25 am - 12:25 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "8 Oct 8:00 am"
-        },
-        {
-            "Location name": "Countdown Manuka",
-            "Address": "652 Great South Road, Manukau, Auckland 2104",
-            "Day": "Monday 4 October",
-            "Times": "9:00 am - 4:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "7 Oct 6:00 pm"
         },
         {
             "Location name": "Countdown Victoria Street West",
