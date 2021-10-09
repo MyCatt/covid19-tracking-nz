@@ -1,7 +1,71 @@
 {
-    "size": 316,
-    "added": "2021-10-09 21:20:33.232280",
+    "size": 324,
+    "added": "2021-10-09 21:40:22.333713",
     "body": [
+        {
+            "Location name": "Seoul Trading House Dairy Grafton",
+            "Address": "6 Park Road, Grafton, Auckland 1023",
+            "Day": "Wednesday 6 October",
+            "Times": "9:25 am - 9:35 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 10:00 am"
+        },
+        {
+            "Location name": "Z Station Ngatea",
+            "Address": "77 Orchard West Road, Ngatea, Ngatea 3503",
+            "Day": "Friday 8 October",
+            "Times": "6:15 am - 7:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 10:00 am"
+        },
+        {
+            "Location name": "Seoul Trading House Dairy Grafton",
+            "Address": "6 Park Road, Grafton, Auckland 1023",
+            "Day": "Thursday 7 October",
+            "Times": "9:25 am - 9:35 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 10:00 am"
+        },
+        {
+            "Location name": "Harbour View Hotel Raglan",
+            "Address": "14 Bow Street, Raglan 3225",
+            "Day": "Sunday 3 October",
+            "Times": "9:00 am - 11:45 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposedRecord your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 10:00 am"
+        },
+        {
+            "Location name": "The Bottle-O Katikati",
+            "Address": "74 Main Road, katikati, Katikati 3129",
+            "Day": "Friday 8 October",
+            "Times": "7:15 pm - 8:45 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 10:00 am"
+        },
+        {
+            "Location name": "Mural Town Traders Ltd Katikati",
+            "Address": "10 Main Road, Katikati 3129",
+            "Day": "Thursday 7 October",
+            "Times": "10:55 am - 12:20 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 10:00 am"
+        },
+        {
+            "Location name": "Katikati Antiques and Interiors Katikati",
+            "Address": "22 Main Road, Katikati 3129",
+            "Day": "Thursday 7 October",
+            "Times": "10:45 am - 12:15 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 10:00 am"
+        },
+        {
+            "Location name": "Seoul Trading House Dairy Grafton",
+            "Address": "6 Park Road, Grafton, Auckland 1023",
+            "Day": "Tuesday 5 October",
+            "Times": "9:25 am - 9:35 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 10:00 am"
+        },
         {
             "Location name": "Good Life Opportunity Shop Katikati",
             "Address": "12 Main Road, Katikati 3129",
