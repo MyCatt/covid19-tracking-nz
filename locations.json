@@ -1,7 +1,31 @@
 {
-    "size": 317,
-    "added": "2021-10-09 20:01:31.809101",
+    "size": 316,
+    "added": "2021-10-09 20:20:34.501226",
     "body": [
+        {
+            "Location name": "Good Life Opportunity Shop Katikati",
+            "Address": "12 Main Road, Katikati 3129",
+            "Day": "Thursday 7 October",
+            "Times": "11:05 am - 12:25 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 9:00 am"
+        },
+        {
+            "Location name": "Hammer Hardware Katikati",
+            "Address": "58F Main Road, Katikati 3129",
+            "Day": "Thursday 7 October",
+            "Times": "10:00 am - 12:00 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 9:00 am"
+        },
+        {
+            "Location name": "Waipuna Hospice Shop Katikati",
+            "Address": "17 Main Road, Katikati, Katikati 3129",
+            "Day": "Thursday 7 October",
+            "Times": "11:15 am - 12:50 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 9:00 am"
+        },
         {
             "Location name": "Countdown Manukau City Mall Manukau",
             "Address": "Shop 99, Manukau City Centre Corner Great South & Wiri Station Roads, Manukau, Auckland 2104",
@@ -2491,14 +2515,6 @@
             "Updated": "26 Sep 9:00 am"
         },
         {
-            "Location name": "Farro Epsom",
-            "Address": "446 Manukau Road, Epsom, Auckland 1023",
-            "Day": "Wednesday 22 September",
-            "Times": "1:00 pm - 2:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "26 Sep 9:00 am"
-        },
-        {
             "Location name": "Chemist Warehouse Westfield Manukau",
             "Address": "5 Putney Way, Manukau, Auckland 2104",
             "Day": "Thursday 23 September",
@@ -2513,30 +2529,6 @@
             "Times": "10:29 am - 10:39 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "24 Sep 6:00 pm"
-        },
-        {
-            "Location name": "BP Connect Weymouth Manurewa",
-            "Address": "199 Weymouth Road, Manurewa, Auckland 2102",
-            "Day": "Wednesday 22 September",
-            "Times": "7:21 am - 7:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Sep 6:00 pm"
-        },
-        {
-            "Location name": "BP Connect Weymouth Manurewa",
-            "Address": "199 Weymouth Road, Manurewa, Auckland 2102",
-            "Day": "Wednesday 22 September",
-            "Times": "8:13 am - 8:23 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Mangere East",
-            "Address": "359 Massey Road, Mangere East, Auckland 2024",
-            "Day": "Wednesday 22 September",
-            "Times": "9:00 am - 9:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Sep 12:00 pm"
         }
     ]
 }
