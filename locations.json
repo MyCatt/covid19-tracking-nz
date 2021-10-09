@@ -1,20 +1,116 @@
 {
-    "size": 273,
-    "added": "2021-10-09 01:01:35.222672",
+    "size": 284,
+    "added": "2021-10-09 01:20:31.966473",
     "body": [
+        {
+            "Location name": "DOC Uretiti Campsite Waipu",
+            "Address": "3149 State Highway 1, RD 2, Waipu 0582",
+            "Day": "Monday 4 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "McDonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Thursday 30 September",
+            "Times": "12:00 am - 8:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Comfort Hotel Flames Whangarei",
+            "Address": "8 Waverley Street, Onerahi, Whangarei 0110",
+            "Day": "Sunday 3 October",
+            "Times": "12:00 am - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "DOC Uretiti Campsite Waipu",
+            "Address": "3149 State Highway 1, RD 2, Waipu 0582",
+            "Day": "Tuesday 5 October",
+            "Times": "12:00 am - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "McDonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Monday 4 October",
+            "Times": "12:00 am - 7:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "DOC Uretiti Campsite Waipu",
+            "Address": "3149 State Highway 1, RD 2, Waipu 0582",
+            "Day": "Sunday 3 October",
+            "Times": "6:30 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "McDonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Friday 1 October",
+            "Times": "12:00 am - 7:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Comfort Hotel Flames Whangarei",
+            "Address": "8 Waverley Street, Onerahi, Whangarei 0110",
+            "Day": "Saturday 2 October",
+            "Times": "6:00 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Orphans Aid OpShop Frankton",
+            "Address": "117 Commerce Street, Frankton, Hamilton 3204",
+            "Day": "Thursday 30 September",
+            "Times": "10:15 am - 10:50 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "McDonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Thursday 30 September",
+            "Times": "10:00 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Milford",
+            "Address": "143 Kitchener Road, Milford, Auckland 0620",
+            "Day": "Sunday 3 October",
+            "Times": "4:42 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "McDonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Wednesday 29 September",
+            "Times": "8:00 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
+        {
+            "Location name": "BP Cavendish Papatoetoe",
+            "Address": "116 Cavendish Drive, Papatoetoe, Auckland 2104",
+            "Day": "Thursday 7 October",
+            "Times": "7:15 am - 7:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 2:00 pm"
+        },
         {
             "Location name": "Kingsford Home Bakery & More Mangere East",
             "Address": "57 Raglan Street, Mangere East, Auckland 2024",
             "Day": "Wednesday 6 October",
             "Times": "10:30 am - 11:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "9 Oct 12:00 pm"
-        },
-        {
-            "Location name": "DOC Uretiti Campsite Whangarei",
-            "Address": "3149 State Highway 1, RD 2, Waipu 0582",
-            "Day": "Sunday 3 October",
-            "Times": "6:30 pm - 5:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "9 Oct 12:00 pm"
         },
@@ -40,14 +136,6 @@
             "Day": "Tuesday 5 October",
             "Times": "12:00 pm - 12:15 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "9 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Comfort Hotel Flames Whangarei",
-            "Address": "8 Waverley Street, Onerahi, Whangarei 0110",
-            "Day": "Saturday 2 October",
-            "Times": "6:00 pm - 6:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "9 Oct 12:00 pm"
         },
         {
