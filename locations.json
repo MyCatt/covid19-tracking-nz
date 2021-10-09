@@ -1,7 +1,95 @@
 {
-    "size": 326,
-    "added": "2021-10-09 23:01:38.915786",
+    "size": 337,
+    "added": "2021-10-09 23:20:35.249244",
     "body": [
+        {
+            "Location name": "Bus 392 Pukekohe to Countdown Seddon Road",
+            "Address": "Auckland",
+            "Day": "Thursday 7 October",
+            "Times": "7:40 pm - 7:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Train, Southern Line, Papakura to Pukekohe",
+            "Address": "Auckland",
+            "Day": "Monday 4 October",
+            "Times": "8:59 pm - 9:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Devonport Pharmacy",
+            "Address": "33 Victoria Road, Devonport, Auckland 0624",
+            "Day": "Tuesday 5 October",
+            "Times": "9:01 am - 9:11 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Z Service Station Ngatea",
+            "Address": "77 Orchard West Road, Ngatea 3503",
+            "Day": "Saturday 9 October",
+            "Times": "10:50 am - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Puke Hire",
+            "Address": "200 Manukau Road, Pukekohe, Pukekohe 2120",
+            "Day": "Friday 8 October",
+            "Times": "7:50 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Puke Hire",
+            "Address": "200 Manukau Road, Pukekohe, Pukekohe 2120",
+            "Day": "Saturday 9 October",
+            "Times": "7:45 am - 9:10 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Daily Bread Belmont",
+            "Address": "43 Eversleigh Road, Belmont, Auckland 0622",
+            "Day": "Saturday 2 October",
+            "Times": "9:10 am - 9:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "McDonald's Wairau Road Wairau Valley",
+            "Address": "142 Wairau Road, Wairau Valley, Auckland 0627",
+            "Day": "Saturday 2 October",
+            "Times": "4:38 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Harvey Norman Wairua Park",
+            "Address": "10 Croftfield Lane, Wairau Valley, Auckland 0627",
+            "Day": "Tuesday 5 October",
+            "Times": "1:00 pm - 1:05 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Train, Southern Line, Papakura to Pukekohe",
+            "Address": "Auckland",
+            "Day": "Thursday 7 October",
+            "Times": "7:14 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
+        {
+            "Location name": "McDonald's Akoranga Drive Northcote",
+            "Address": "3 Akoranga Drive, Northcote, Auckland 0627",
+            "Day": "Wednesday 6 October",
+            "Times": "11:13 am - 11:35 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 12:00 pm"
+        },
         {
             "Location name": "Z Ngatea",
             "Address": "77 Orchard West Road, Ngatea, Ngatea 3503",
