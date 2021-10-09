@@ -1,7 +1,87 @@
 {
-    "size": 284,
-    "added": "2021-10-09 03:20:37.537684",
+    "size": 294,
+    "added": "2021-10-09 03:40:22.613510",
     "body": [
+        {
+            "Location name": "Glass Sushi Boutique Takapuna",
+            "Address": "5/40 Hurstmere Road, Takapuna, Auckland 0622",
+            "Day": "Wednesday 6 October",
+            "Times": "11:57 am - 12:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "New World Devonport",
+            "Address": "35 Bartley Terrace, Devonport, Auckland 0624",
+            "Day": "Tuesday 5 October",
+            "Times": "9:51 am - 10:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "McDonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Sunday 3 October",
+            "Times": "10:00 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mcdonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Tuesday 5 October",
+            "Times": "12:00 am - 6:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mobil Avondale",
+            "Address": "2060 Great North Road, Avondale, Auckland 0600",
+            "Day": "Thursday 7 October",
+            "Times": "11:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Grateful Op Shop",
+            "Address": "92 Commerce Street, Frankton, Hamilton 3204",
+            "Day": "Thursday 30 September",
+            "Times": "10:45 am - 11:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mcdonald's Westgate",
+            "Address": "4 Asti Lane, Westgate, Auckland 0614",
+            "Day": "Monday 4 October",
+            "Times": "9:58 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Hollywood Bakery Avondale",
+            "Address": "1784 Great North Road, Avondale, Auckland 1026",
+            "Day": "Wednesday 6 October",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "BP Waterview",
+            "Address": "1356 Great North Road, Waterview, Auckland 1026",
+            "Day": "Wednesday 6 October",
+            "Times": "8:30 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Hollywood Bakery Avondale",
+            "Address": "1784 Great North Road, Avondale, Auckland 1026",
+            "Day": "Tuesday 5 October",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "9 Oct 4:00 pm"
+        },
         {
             "Location name": "DOC Uretiti Campsite Waipu",
             "Address": "3149 State Highway 1, RD 2, Waipu 0582",
