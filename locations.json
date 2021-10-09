@@ -1,21 +1,37 @@
 {
-    "size": 324,
-    "added": "2021-10-09 22:01:20.603555",
+    "size": 326,
+    "added": "2021-10-09 22:20:33.442838",
     "body": [
+        {
+            "Location name": "Z Ngatea",
+            "Address": "77 Orchard West Road, Ngatea, Ngatea 3503",
+            "Day": "Friday 8 October",
+            "Times": "6:15 am - 7:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 11:00 am"
+        },
+        {
+            "Location name": "Train Southern Line Middlemore to Papakura",
+            "Address": "Auckland",
+            "Day": "Monday 4 October",
+            "Times": "8:27 pm - 8:48 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 11:00 am"
+        },
+        {
+            "Location name": "Train Southern Line Middlemore to Papakura",
+            "Address": "Auckland",
+            "Day": "Thursday 7 October",
+            "Times": "6:47 pm - 7:08 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 11:00 am"
+        },
         {
             "Location name": "Seoul Trading House Dairy Grafton",
             "Address": "6 Park Road, Grafton, Auckland 1023",
             "Day": "Wednesday 6 October",
             "Times": "9:25 am - 9:35 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 10:00 am"
-        },
-        {
-            "Location name": "Z Station Ngatea",
-            "Address": "77 Orchard West Road, Ngatea, Ngatea 3503",
-            "Day": "Friday 8 October",
-            "Times": "6:15 am - 7:20 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "10 Oct 10:00 am"
         },
         {
