@@ -1,7 +1,55 @@
 {
-    "size": 356,
-    "added": "2021-10-10 21:20:36.364495",
+    "size": 362,
+    "added": "2021-10-10 21:40:21.739607",
     "body": [
+        {
+            "Location name": "Countdown Mt Roskill",
+            "Address": "112 Stoddard Road, Wesley, Auckland 1041",
+            "Day": "Tuesday 5 October",
+            "Times": "6:03 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 10:00 am"
+        },
+        {
+            "Location name": "Opaheke Supermarket Papakura",
+            "Address": "37 Opaheke Road, Opaheke, Papakura 2113",
+            "Day": "Monday 4 October",
+            "Times": "1:40 pm - 1:43 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Northcote",
+            "Address": "Pearn Crescent, Northcote, Auckland 0627",
+            "Day": "Friday 8 October",
+            "Times": "8:53 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Northcote",
+            "Address": "Pearn Crescent, Northcote, Auckland 0627",
+            "Day": "Wednesday 6 October",
+            "Times": "4:54 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 10:00 am"
+        },
+        {
+            "Location name": "Kingswood Manor Motel Whangarei",
+            "Address": "260 Kamo Road, Whau Valley, Whangarei 0112",
+            "Day": "Sunday 3 October",
+            "Times": "9:00 pm - 10:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 10:00 am"
+        },
+        {
+            "Location name": "3 Kings Plaza Pharmacy Three Kings",
+            "Address": "536 Mt Albert Road, Three Kings, Auckland, Auckland 1042",
+            "Day": "Wednesday 6 October",
+            "Times": "2:51 pm - 3:01 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 10:00 am"
+        },
         {
             "Location name": "Mobil Wiri",
             "Address": "62 Wiri Station Road, Wiri, Auckland 2104",
