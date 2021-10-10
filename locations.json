@@ -1,7 +1,79 @@
 {
-    "size": 342,
-    "added": "2021-10-10 03:01:56.560655",
+    "size": 351,
+    "added": "2021-10-10 03:20:33.476295",
     "body": [
+        {
+            "Location name": "Mobil Royal Heights",
+            "Address": "130 Royal Road, Massey, Auckland 0614",
+            "Day": "Thursday 7 October",
+            "Times": "12:21 pm - 12:26 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mitre 10 MEGA Ruakura",
+            "Address": "41 Ruakura Road, Hamilton East, Hamilton 3216",
+            "Day": "Saturday 2 October",
+            "Times": "1:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Z Karaka",
+            "Address": "47 Harbourside Drive, Karaka, Auckland 2113",
+            "Day": "Tuesday 5 October",
+            "Times": "10:57 am - 11:07 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Gull Pukekohe",
+            "Address": "50 Manukau Road, Pukekohe 2120",
+            "Day": "Saturday 9 October",
+            "Times": "6:50 am - 8:05 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "National Storage Pukekohe",
+            "Address": "518 Buckland Road, RD 2, Pukekohe 2677",
+            "Day": "Saturday 9 October",
+            "Times": "7:30 am - 9:00 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Streetwise Coffee Pukekohe",
+            "Address": "149 Manukau Road, Pukekohe, Pukekohe 2120",
+            "Day": "Saturday 9 October",
+            "Times": "7:00 am - 8:30 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Westside Superette Pukekohe",
+            "Address": "7 West Street, Pukekohe 2120",
+            "Day": "Friday 8 October",
+            "Times": "1:15 pm - 2:40 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Challenge Massey",
+            "Address": "5/2 Triangle Road, Massey, Auckland 0614",
+            "Day": "Tuesday 5 October",
+            "Times": "9:58 am - 10:08 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Z Karaka",
+            "Address": "47 Harbourside Drive, Karaka, Papakura 2113",
+            "Day": "Monday 4 October",
+            "Times": "9:29 am - 9:39 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Oct 4:00 pm"
+        },
         {
             "Location name": "Pak n Save Mount Albert",
             "Address": "1167/1177 New North Road, Mount Albert, Auckland 1025",
