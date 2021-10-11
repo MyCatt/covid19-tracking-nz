@@ -1,7 +1,31 @@
 {
-    "size": 356,
-    "added": "2021-10-11 21:01:27.252741",
+    "size": 357,
+    "added": "2021-10-11 21:20:33.173217",
     "body": [
+        {
+            "Location name": "Z Petrol Station Harris Road",
+            "Address": "142 Harris Road, East Tamaki, Auckland 2013",
+            "Day": "Wednesday 29 September",
+            "Times": "5:40 pm - 6:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 10:00 am"
+        },
+        {
+            "Location name": "Vinnies Clothing Frankton",
+            "Address": "224 Commerce Street, Frankton, Hamilton 3204",
+            "Day": "Thursday 30 September",
+            "Times": "10:30 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 10:00 am"
+        },
+        {
+            "Location name": "Thornlow Road Laundromat Glendene",
+            "Address": "3/1 Thornlow Street, Glendene, Auckland 0602",
+            "Day": "Friday 8 October",
+            "Times": "12:00 am - 2:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 10:00 am"
+        },
         {
             "Location name": "Pak'nSave Royal Oak",
             "Address": "691 Manukau Road, Royal Oak, Auckland 1023",
@@ -671,14 +695,6 @@
             "Address": "220 Commerce Street, Frankton, Hamilton 3204",
             "Day": "Thursday 30 September",
             "Times": "10:30 am - 11:20 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "9 Oct 6:00 pm"
-        },
-        {
-            "Location name": "Vinnes Clothing Frankton",
-            "Address": "224 Commerce Street, Frankton, Hamilton 3204",
-            "Day": "Thursday 30 September",
-            "Times": "10:30 am - 11:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "9 Oct 6:00 pm"
         },
@@ -2639,14 +2655,6 @@
             "Address": "Ormiston Town Centre, Tenancy M38/220 Ormiston Road, Flat Bush, Auckland 2016",
             "Day": "Sunday 26 September",
             "Times": "2:15 pm - 2:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Oct 10:00 am"
-        },
-        {
-            "Location name": "Z Petrol Station Harris Road 29/09",
-            "Address": "142 Harris Road, East Tamaki, Auckland 2013",
-            "Day": "Wednesday 29 September",
-            "Times": "5:40 pm - 6:10 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Oct 10:00 am"
         },
