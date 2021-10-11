@@ -1,14 +1,14 @@
 {
     "size": 22,
-    "added": "2021-10-11 00:03:38.050636",
+    "added": "2021-10-11 00:21:41.486733",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "87",
-            "Recovered": "427",
+            "Active": "93",
+            "Recovered": "428",
             "Deceased": "1",
-            "Total": "515",
-            "Change in last 24 hours": "13"
+            "Total": "522",
+            "Change in last 24 hours": "7"
         },
         {
             "Location": "Bay of Plenty",
@@ -16,7 +16,7 @@
             "Recovered": "48",
             "Deceased": "0",
             "Total": "49",
-            "Change in last 24 hours": "1"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "Canterbury",
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "227",
-            "Recovered": "946",
+            "Active": "222",
+            "Recovered": "965",
             "Deceased": "2",
-            "Total": "1175",
-            "Change in last 24 hours": "31"
+            "Total": "1189",
+            "Change in last 24 hours": "14"
         },
         {
             "Location": "Hawke's Bay",
@@ -128,7 +128,7 @@
             "Recovered": "193",
             "Deceased": "2",
             "Total": "226",
-            "Change in last 24 hours": "3"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "Wairarapa",
@@ -140,11 +140,11 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "92",
-            "Recovered": "510",
+            "Active": "105",
+            "Recovered": "511",
             "Deceased": "5",
-            "Total": "607",
-            "Change in last 24 hours": "12"
+            "Total": "621",
+            "Change in last 24 hours": "14"
         },
         {
             "Location": "West Coast",
@@ -164,19 +164,19 @@
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "18",
-            "Recovered": "1282",
+            "Active": "17",
+            "Recovered": "1283",
             "Deceased": "1",
             "Total": "1301",
-            "Change in last 24 hours": "1"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "Total",
-            "Active": "456",
-            "Recovered": "4140",
+            "Active": "469",
+            "Recovered": "4162",
             "Deceased": "28",
-            "Total": "4624",
-            "Change in last 24 hours": "61"
+            "Total": "4659",
+            "Change in last 24 hours": "35"
         }
     ]
 }
