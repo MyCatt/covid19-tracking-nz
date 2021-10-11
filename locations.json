@@ -1,7 +1,31 @@
 {
-    "size": 369,
-    "added": "2021-10-11 03:02:13.735779",
+    "size": 356,
+    "added": "2021-10-11 03:20:41.159519",
     "body": [
+        {
+            "Location name": "Snap Printing Rosedale",
+            "Address": "8/65 Paul Matthews Road, Rosedale, Auckland 0632",
+            "Day": "Monday 4 October",
+            "Times": "10:45 am - 10:50 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Sylvia Park",
+            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Wednesday 6 October",
+            "Times": "9:00 am - 10:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Royal Oak",
+            "Address": "691 Manakau Road, Royal Oak, Auckland 1023",
+            "Day": "Monday 4 October",
+            "Times": "11:45 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 4:00 pm"
+        },
         {
             "Location name": "Pak'nSave Albany",
             "Address": "142 Don McKinnon Drive, Albany, Auckland 0632",
@@ -243,14 +267,6 @@
             "Updated": "10 Oct 7:00 pm"
         },
         {
-            "Location name": "Countdown Katikati",
-            "Address": "131 Main Road, Katikati, Katikati 3129",
-            "Day": "Friday 8 October",
-            "Times": "7:06 pm - 8:05 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 7:00 pm"
-        },
-        {
             "Location name": "Mobil Royal Heights",
             "Address": "130 Royal Road, Massey, Auckland 0614",
             "Day": "Thursday 7 October",
@@ -272,38 +288,6 @@
             "Day": "Tuesday 5 October",
             "Times": "10:57 am - 11:07 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Gull Pukekohe",
-            "Address": "50 Manukau Road, Pukekohe 2120",
-            "Day": "Saturday 9 October",
-            "Times": "6:50 am - 8:05 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 4:00 pm"
-        },
-        {
-            "Location name": "National Storage Pukekohe",
-            "Address": "518 Buckland Road, RD 2, Pukekohe 2677",
-            "Day": "Saturday 9 October",
-            "Times": "7:30 am - 9:00 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Streetwise Coffee Pukekohe",
-            "Address": "149 Manukau Road, Pukekohe, Pukekohe 2120",
-            "Day": "Saturday 9 October",
-            "Times": "7:00 am - 8:30 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Westside Superette Pukekohe",
-            "Address": "7 West Street, Pukekohe 2120",
-            "Day": "Friday 8 October",
-            "Times": "1:15 pm - 2:40 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "10 Oct 4:00 pm"
         },
         {
@@ -331,14 +315,6 @@
             "Updated": "10 Oct 2:00 pm"
         },
         {
-            "Location name": "National Storage Pukekohe",
-            "Address": "518 Buckland Road, Buckland, Pukekohe 2677",
-            "Day": "Friday 8 October",
-            "Times": "8:00 am - 9:30 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 2:00 pm"
-        },
-        {
             "Location name": "Surfside Church Office Back Shed Raglan",
             "Address": "34 Bow Street, Raglan 3225",
             "Day": "Wednesday 6 October",
@@ -353,14 +329,6 @@
             "Times": "1:30 pm - 3:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "10 Oct 2:00 pm"
-        },
-        {
-            "Location name": "Limited Edition on Main Katikati",
-            "Address": "10 Main Road, Katikati 3129",
-            "Day": "Thursday 7 October",
-            "Times": "10:55 am - 12:20 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 1:00 pm"
         },
         {
             "Location name": "The Herbal Dispensary",
@@ -391,30 +359,6 @@
             "Address": "33 Victoria Road, Devonport, Auckland 0624",
             "Day": "Tuesday 5 October",
             "Times": "9:01 am - 9:11 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Z Service Station Ngatea",
-            "Address": "77 Orchard West Road, Ngatea 3503",
-            "Day": "Saturday 9 October",
-            "Times": "10:50 am - 12:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Puke Hire",
-            "Address": "200 Manukau Road, Pukekohe, Pukekohe 2120",
-            "Day": "Friday 8 October",
-            "Times": "7:50 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Puke Hire",
-            "Address": "200 Manukau Road, Pukekohe, Pukekohe 2120",
-            "Day": "Saturday 9 October",
-            "Times": "7:45 am - 9:10 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "10 Oct 12:00 pm"
         },
@@ -459,14 +403,6 @@
             "Updated": "10 Oct 12:00 pm"
         },
         {
-            "Location name": "Z Ngatea",
-            "Address": "77 Orchard West Road, Ngatea, Ngatea 3503",
-            "Day": "Friday 8 October",
-            "Times": "6:15 am - 7:20 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 11:00 am"
-        },
-        {
             "Location name": "Train Southern Line Middlemore to Papakura",
             "Address": "Auckland",
             "Day": "Monday 4 October",
@@ -507,52 +443,12 @@
             "Updated": "10 Oct 10:00 am"
         },
         {
-            "Location name": "The Bottle-O Katikati",
-            "Address": "74 Main Road, katikati, Katikati 3129",
-            "Day": "Friday 8 October",
-            "Times": "7:15 pm - 8:45 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 10:00 am"
-        },
-        {
-            "Location name": "Katikati Antiques and Interiors Katikati",
-            "Address": "22 Main Road, Katikati 3129",
-            "Day": "Thursday 7 October",
-            "Times": "10:45 am - 12:15 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 10:00 am"
-        },
-        {
             "Location name": "Seoul Trading House Dairy Grafton",
             "Address": "6 Park Road, Grafton, Auckland 1023",
             "Day": "Tuesday 5 October",
             "Times": "9:25 am - 9:35 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "10 Oct 10:00 am"
-        },
-        {
-            "Location name": "Good Life Opportunity Shop Katikati",
-            "Address": "12 Main Road, Katikati 3129",
-            "Day": "Thursday 7 October",
-            "Times": "11:05 am - 12:25 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 9:00 am"
-        },
-        {
-            "Location name": "Hammer Hardware Katikati",
-            "Address": "58F Main Road, Katikati 3129",
-            "Day": "Thursday 7 October",
-            "Times": "10:00 am - 12:00 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 9:00 am"
-        },
-        {
-            "Location name": "Waipuna Hospice Shop Katikati",
-            "Address": "17 Main Road, Katikati, Katikati 3129",
-            "Day": "Thursday 7 October",
-            "Times": "11:15 am - 12:50 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "10 Oct 9:00 am"
         },
         {
             "Location name": "SuperValue Raglan",
