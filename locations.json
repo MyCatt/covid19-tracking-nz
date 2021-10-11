@@ -1,6 +1,6 @@
 {
-    "size": 363,
-    "added": "2021-10-11 19:01:43.385127",
+    "size": 356,
+    "added": "2021-10-11 19:20:38.119268",
     "body": [
         {
             "Location name": "Pak'nSave Royal Oak",
@@ -2243,14 +2243,6 @@
             "Updated": "3 Oct 9:00 pm"
         },
         {
-            "Location name": "Shosha Albany",
-            "Address": "329 Albany Highway, Albany, Auckland 0632",
-            "Day": "Friday 24 September",
-            "Times": "8:15 pm - 8:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Oct 9:00 pm"
-        },
-        {
             "Location name": "Crown Quality Food Bar",
             "Address": "235 Bush Road, Rosedale, Auckland 0632",
             "Day": "Tuesday 28 September",
@@ -2295,14 +2287,6 @@
             "Address": "287 Oteha Valley Road, Albany, Auckland 0632",
             "Day": "Sunday 26 September",
             "Times": "4:30 pm - 5:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Oct 9:00 pm"
-        },
-        {
-            "Location name": "Supervalue Avondale",
-            "Address": "2021 Great North Road, Avondale, Auckland 1026",
-            "Day": "Friday 24 September",
-            "Times": "12:00 pm - 6:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Oct 9:00 pm"
         },
@@ -2715,28 +2699,12 @@
             "Updated": "1 Oct 12:00 pm"
         },
         {
-            "Location name": "Sensational Chicken Mount St Auckland CBD",
-            "Address": "11A Mount Street, Auckland Central, Auckland 1010",
-            "Day": "Friday 24 September",
-            "Times": "7:22 pm - 8:02 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "1 Oct 12:00 pm"
-        },
-        {
             "Location name": "Meat World Onehunga",
             "Address": "14 Waiapu Lane, Onehunga, Auckland 1061",
             "Day": "Saturday 25 September",
             "Times": "1:44 pm - 3:00 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "1 Oct 10:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Glen Innes",
-            "Address": "182 Apirana Avenue, Glen Innes, Auckland 1072",
-            "Day": "Friday 24 September",
-            "Times": "4:45 pm - 6:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "30 Sep 6:00 pm"
         },
         {
             "Location name": "Hillsborough Dairy Hillsborough",
@@ -2769,14 +2737,6 @@
             "Times": "5:36 pm - 6:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "30 Sep 6:00 pm"
-        },
-        {
-            "Location name": "Cedar Park Superette Wattle Downs",
-            "Address": "99 Tington Avenue, Wattle Downs, Auckland 2103",
-            "Day": "Friday 24 September",
-            "Times": "6:00 pm - 7:00 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "30 Sep 4:00 pm"
         },
         {
             "Location name": "Pak'nSave Mt Albert",
@@ -2889,22 +2849,6 @@
             "Times": "2:00 pm - 2:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "29 Sep 12:00 pm"
-        },
-        {
-            "Location name": "Countdown Mangere Mall Mangere",
-            "Address": "Mangere Town Centre, Bader Drive, Mangere, Auckland 2022",
-            "Day": "Friday 24 September",
-            "Times": "11:58 am - 12:18 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "26 Sep 4:00 pm"
-        },
-        {
-            "Location name": "Chemist Warehouse Westfield Manukau",
-            "Address": "5 Putney Way, Manukau, Auckland 2104",
-            "Day": "Friday 24 September",
-            "Times": "1:13 pm - 1:43 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "26 Sep 9:00 am"
         }
     ]
 }
