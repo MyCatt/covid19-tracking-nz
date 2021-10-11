@@ -1,7 +1,23 @@
 {
-    "size": 370,
-    "added": "2021-10-11 01:02:22.130007",
+    "size": 369,
+    "added": "2021-10-11 01:21:08.641871",
     "body": [
+        {
+            "Location name": "Pak'nSave Albany",
+            "Address": "142 Don McKinnon Drive, Albany, Auckland 0632",
+            "Day": "Thursday 30 September",
+            "Times": "8:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Kumeu Laundromat",
+            "Address": "250B Main Road, Kumeu, Kumeu 0810",
+            "Day": "Thursday 7 October",
+            "Times": "12:00 am - 2:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Oct 2:00 pm"
+        },
         {
             "Location name": "Kingswood Manor Motel Whangarei",
             "Address": "260 Kamo Road, Whau Valley, Whangarei 0112",
@@ -15,14 +31,6 @@
             "Address": "80 Wairau Road, Wairau Valley, Auckland 0627",
             "Day": "Thursday 7 October",
             "Times": "3:10 pm - 4:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Kumeu Laundromat (07/10/21)",
-            "Address": "250B Main Road, Kumeu, Kumeu 0810",
-            "Day": "Thursday 7 October",
-            "Times": "12:00 am - 2:00 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "11 Oct 12:00 pm"
         },
@@ -63,14 +71,6 @@
             "Address": "37 Opaheke Road, Opaheke, Papakura 2113",
             "Day": "Wednesday 6 October",
             "Times": "3:20 pm - 3:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Thornlow Road Laundromat (08/10/21)",
-            "Address": "4/1 Glendene Street, Auckland 0602",
-            "Day": "Friday 8 October",
-            "Times": "12:00 am - 2:00 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "11 Oct 12:00 pm"
         },
@@ -2439,14 +2439,6 @@
             "Address": "533 State Highway 17, Lucas Heights, Auckland 0792",
             "Day": "Saturday 2 October",
             "Times": "12:15 pm - 12:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "3 Oct 6:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Albany",
-            "Address": "Don McKinnon Drive, Albany, Auckland 0632",
-            "Day": "Thursday 30 September",
-            "Times": "8:00 pm - 10:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "3 Oct 6:00 pm"
         },
