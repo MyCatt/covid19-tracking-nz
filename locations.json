@@ -1,14 +1,62 @@
 {
-    "size": 357,
-    "added": "2021-10-11 23:01:37.718679",
+    "size": 363,
+    "added": "2021-10-11 23:20:36.705795",
     "body": [
         {
-            "Location name": "Z Petrol Station Harris Road",
+            "Location name": "Z Petrol Station Harris Road 29/09",
             "Address": "142 Harris Road, East Tamaki, Auckland 2013",
             "Day": "Wednesday 29 September",
             "Times": "5:40 pm - 6:10 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Oct 10:00 am"
+            "Updated": "12 Oct 12:00 pm"
+        },
+        {
+            "Location name": "URBA Residences Freemans Bay",
+            "Address": "5 Howe Street, Freemans Bay, Auckland 1011",
+            "Day": "Tuesday 5 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 12:00 pm"
+        },
+        {
+            "Location name": "URBA Residences Freemans Bay",
+            "Address": "5 Howe Street, Freemans Bay, Auckland 1011",
+            "Day": "Saturday 2 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 12:00 pm"
+        },
+        {
+            "Location name": "URBA Residences Freemans Bay",
+            "Address": "5 Howe Street, Freemans Bay, Auckland 1011",
+            "Day": "Sunday 3 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 12:00 pm"
+        },
+        {
+            "Location name": "URBA Residences Freemans Bay",
+            "Address": "5 Howe Street, Freemans Bay, Auckland 1011",
+            "Day": "Monday 4 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 12:00 pm"
+        },
+        {
+            "Location name": "URBA Residences Freemans Bay",
+            "Address": "5 Howe Street, Freemans Bay, Auckland 1011",
+            "Day": "Wednesday 6 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 12:00 pm"
+        },
+        {
+            "Location name": "URBA Residences Freemans Bay",
+            "Address": "5 Howe Street, Freemans Bay, Auckland 1011",
+            "Day": "Thursday 7 October",
+            "Times": "12:00 am - 3:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 12:00 pm"
         },
         {
             "Location name": "Vinnies Clothing Frankton",
