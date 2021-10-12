@@ -1,7 +1,31 @@
 {
-    "size": 376,
-    "added": "2021-10-12 03:01:44.710680",
+    "size": 379,
+    "added": "2021-10-12 03:20:40.217609",
     "body": [
+        {
+            "Location name": "Kanji Food Mart Glenfield",
+            "Address": "112 Chivalry Road, Glenfield, Auckland 0629",
+            "Day": "Friday 8 October",
+            "Times": "8:15 pm - 8:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 4:00 pm"
+        },
+        {
+            "Location name": "College Superette Kelston",
+            "Address": "10B St Leonards Road, Kelston, Auckland 0602",
+            "Day": "Friday 8 October",
+            "Times": "7:00 pm - 7:05 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Village Wine & Spirits Te Atatu",
+            "Address": "571 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
+            "Day": "Friday 8 October",
+            "Times": "2:45 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 4:00 pm"
+        },
         {
             "Location name": "Unichem Pharmacy Harbour View",
             "Address": "3/382 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
