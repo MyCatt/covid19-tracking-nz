@@ -1,7 +1,95 @@
 {
-    "size": 383,
-    "added": "2021-10-12 21:01:33.188187",
+    "size": 394,
+    "added": "2021-10-12 21:20:34.662213",
     "body": [
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Saturday 2 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Friday 8 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Wednesday 6 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Lincoln Road Henderson",
+            "Address": "185 Universal Drive, Henderson, Auckland 0610",
+            "Day": "Tuesday 5 October",
+            "Times": "5:15 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Monday 4 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Friday 1 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Seasons Market Mt Wellington",
+            "Address": "295 Penrose Road, Mount Wellington, Auckland 1060",
+            "Day": "Wednesday 6 October",
+            "Times": "10:00 am - 11:05 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Thursday 30 September",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Tuesday 5 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Thursday 7 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
+        {
+            "Location name": "Porchester Road Superette Papakura",
+            "Address": "156 Porchester Road, Papakura, Auckland 2110",
+            "Day": "Sunday 3 October",
+            "Times": "3:45 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 10:00 am"
+        },
         {
             "Location name": "New World Devonport",
             "Address": "35 Bartley Terrace, Devonport, Auckland 0624",
