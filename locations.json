@@ -1,7 +1,23 @@
 {
     "size": 379,
-    "added": "2021-10-12 03:20:40.217609",
+    "added": "2021-10-12 03:40:24.181384",
     "body": [
+        {
+            "Location name": "New World Warkworth",
+            "Address": "6 Percy Street, Warkworth 0910",
+            "Day": "Thursday 7 October",
+            "Times": "1:30 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Tai Ping Asian Supermarket Mount Roskill",
+            "Address": "911 Dominion Road, Mount Roskill, Auckland 1041",
+            "Day": "Friday 8 October",
+            "Times": "3:00 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 4:00 pm"
+        },
         {
             "Location name": "Kanji Food Mart Glenfield",
             "Address": "112 Chivalry Road, Glenfield, Auckland 0629",
@@ -111,14 +127,6 @@
             "Address": "5 Howe Street, Freemans Bay, Auckland 1011",
             "Day": "Friday 1 October",
             "Times": "12:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Oct 2:00 pm"
-        },
-        {
-            "Location name": "Tai Ping Asian Supermarket Mount Roskill",
-            "Address": "911 Dominion Road, Mount Roskill, Auckland 1041",
-            "Day": "Friday 8 October",
-            "Times": "3:00 pm - 4:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "12 Oct 2:00 pm"
         },
@@ -583,14 +591,6 @@
             "Address": "34 Bow Street, Raglan 3225",
             "Day": "Wednesday 6 October",
             "Times": "11:30 am - 12:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Oct 2:00 pm"
-        },
-        {
-            "Location name": "New World Warkworth",
-            "Address": "6 Percy Street, Omaha, Warkworth 0910",
-            "Day": "Thursday 7 October",
-            "Times": "1:30 pm - 3:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "10 Oct 2:00 pm"
         },
