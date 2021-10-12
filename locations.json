@@ -1,7 +1,79 @@
 {
-    "size": 394,
-    "added": "2021-10-12 23:20:30.124833",
+    "size": 402,
+    "added": "2021-10-12 23:40:25.816643",
     "body": [
+        {
+            "Location name": "Seasons Market Mt Wellington",
+            "Address": "295 Penrose Road, Mount Wellington, Auckland 1060",
+            "Day": "Friday 8 October",
+            "Times": "10:45 am - 11:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Leabank Wholesale Meats Manurewa",
+            "Address": "108 Weymouth Road, Manurewa, Auckland 2102",
+            "Day": "Friday 8 October",
+            "Times": "2:37 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Lim Chhour Supermarket",
+            "Address": "184 Karangahape Road, Auckland Central, Auckland 1010",
+            "Day": "Wednesday 6 October",
+            "Times": "1:00 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Julie Ann Dairy",
+            "Address": "2 Avondale Road, Avondale, Auckland 1026",
+            "Day": "Sunday 10 October",
+            "Times": "2:05 pm - 2:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Joeys Lunch Bar Penrose",
+            "Address": "155 Station Road, Penrose, Auckland 1061",
+            "Day": "Wednesday 6 October",
+            "Times": "1:45 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Patel Brothers Indian Supermarket",
+            "Address": "520 Queen Street, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 5 October",
+            "Times": "12:30 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Mt Albert",
+            "Address": "1167 New North Road, Mount Albert, Auckland 1025",
+            "Day": "Friday 8 October",
+            "Times": "8:45 pm - 10:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Mr Meats Roscommon Rd Clendon Park",
+            "Address": "5/423 Roscommon Road, Clendon Park, Auckland 2103",
+            "Day": "Friday 8 October",
+            "Times": "2:20 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Z Service Station Pakuranga Half Moon Bay",
+            "Address": "470 Pakuranga Road, Half Moon Bay, Auckland 2012",
+            "Day": "Wednesday 6 October",
+            "Times": "4:30 pm - 4:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 12:00 pm"
+        },
         {
             "Location name": "Porchester Road Superette Papakura",
             "Address": "156 Porchester Road, Papakura, Auckland 2110",
@@ -175,14 +247,6 @@
             "Address": "3/32 Carr Road, Three Kings, Auckland 1042",
             "Day": "Friday 8 October",
             "Times": "1:45 pm - 3:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Oct 6:00 pm"
-        },
-        {
-            "Location name": "Seasons Market Mount Wellington",
-            "Address": "295 Penrose Road, Mount Wellington, Auckland 1060",
-            "Day": "Friday 8 October",
-            "Times": "10:45 am - 11:40 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "12 Oct 6:00 pm"
         },
