@@ -1,7 +1,31 @@
 {
-    "size": 379,
-    "added": "2021-10-12 05:02:07.523781",
+    "size": 382,
+    "added": "2021-10-12 05:20:33.906403",
     "body": [
+        {
+            "Location name": "Mount Roskill Fresh Three Kings",
+            "Address": "3/32 Carr Road, Three Kings, Auckland 1042",
+            "Day": "Friday 8 October",
+            "Times": "1:45 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Seasons Market Mount Wellington",
+            "Address": "295 Penrose Road, Mount Wellington, Auckland 1060",
+            "Day": "Friday 8 October",
+            "Times": "10:45 am - 11:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Henderson",
+            "Address": "1 Alderman Drive, Henderson, Auckland 0612",
+            "Day": "Saturday 2 October",
+            "Times": "2:30 pm - 4:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Oct 6:00 pm"
+        },
         {
             "Location name": "New World Warkworth",
             "Address": "6 Percy Street, Warkworth 0910",
