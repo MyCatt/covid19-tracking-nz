@@ -1,14 +1,46 @@
 {
-    "size": 403,
-    "added": "2021-10-13 03:01:47.228386",
+    "size": 407,
+    "added": "2021-10-13 03:20:36.715305",
     "body": [
         {
             "Location name": "AA Driver and Vehicle Licensing Kerikeri",
-            "Address": "92 Kerikeri Road, Kerikeri 0230",
+            "Address": "Fairway Drive, Kerikeri 0230",
             "Day": "Tuesday 5 October",
             "Times": "3:15 pm - 3:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Oct 2:00 pm"
+            "Updated": "13 Oct 4:00 pm"
+        },
+        {
+            "Location name": "New World Southmall",
+            "Address": "Shop 3, 185 Great South Road, Manurewa, Auckland 2102",
+            "Day": "Sunday 3 October",
+            "Times": "1:37 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Onehunga",
+            "Address": "cnr Church St and Selwyn St, Onehunga, Auckland 1061",
+            "Day": "Friday 8 October",
+            "Times": "8:30 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 4:00 pm"
+        },
+        {
+            "Location name": "SuperValue Palomino Henderson",
+            "Address": "4/138 Sturges Road, Henderson, Auckland 0612",
+            "Day": "Sunday 3 October",
+            "Times": "4:00 pm - 4:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Train Southern Line from Homai to Britomart",
+            "Address": "Auckland",
+            "Day": "Tuesday 12 October",
+            "Times": "4:00 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 4:00 pm"
         },
         {
             "Location name": "Seasons Market Mt Wellington",
