@@ -1,14 +1,14 @@
 {
     "size": 22,
-    "added": "2021-10-13 00:40:49.004448",
+    "added": "2021-10-13 01:01:56.918505",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "107",
+            "Active": "99",
             "Recovered": "431",
             "Deceased": "1",
-            "Total": "539",
-            "Change in last 24 hours": "8"
+            "Total": "531",
+            "Change in last 24 hours": "9"
         },
         {
             "Location": "Bay of Plenty",
@@ -16,7 +16,7 @@
             "Recovered": "48",
             "Deceased": "0",
             "Total": "48",
-            "Change in last 24 hours": "0"
+            "Change in last 24 hours": "-1"
         },
         {
             "Location": "Canterbury",
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "251",
-            "Recovered": "978",
+            "Active": "230",
+            "Recovered": "977",
             "Deceased": "2",
-            "Total": "1231",
-            "Change in last 24 hours": "22"
+            "Total": "1209",
+            "Change in last 24 hours": "20"
         },
         {
             "Location": "Hawke's Bay",
@@ -124,11 +124,11 @@
         },
         {
             "Location": "Waikato",
-            "Active": "36",
-            "Recovered": "194",
+            "Active": "35",
+            "Recovered": "193",
             "Deceased": "2",
-            "Total": "232",
-            "Change in last 24 hours": "2"
+            "Total": "230",
+            "Change in last 24 hours": "4"
         },
         {
             "Location": "Wairarapa",
@@ -140,11 +140,11 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "135",
+            "Active": "112",
             "Recovered": "514",
             "Deceased": "5",
-            "Total": "654",
-            "Change in last 24 hours": "23"
+            "Total": "631",
+            "Change in last 24 hours": "10"
         },
         {
             "Location": "West Coast",
@@ -168,15 +168,15 @@
             "Recovered": "1285",
             "Deceased": "1",
             "Total": "1304",
-            "Change in last 24 hours": "0"
+            "Change in last 24 hours": "3"
         },
         {
             "Location": "Total",
-            "Active": "547",
-            "Recovered": "4184",
+            "Active": "494",
+            "Recovered": "4182",
             "Deceased": "28",
-            "Total": "4759",
-            "Change in last 24 hours": "55"
+            "Total": "4704",
+            "Change in last 24 hours": "45"
         }
     ]
 }
