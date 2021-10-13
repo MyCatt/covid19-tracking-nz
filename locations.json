@@ -1,7 +1,39 @@
 {
-    "size": 407,
-    "added": "2021-10-13 05:01:55.537683",
+    "size": 411,
+    "added": "2021-10-13 05:20:35.036198",
     "body": [
+        {
+            "Location name": "Pak'nSave Clendon",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Tuesday 5 October",
+            "Times": "5:50 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Lawson Convenience Store",
+            "Address": "105 Victoria Street West, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 5 October",
+            "Times": "7:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Labtests Mairangi Bay Collection Centre Rosedale",
+            "Address": "119 Apollo Drive, Rosedale, Auckland 0632",
+            "Day": "Friday 8 October",
+            "Times": "12:00 pm - 1:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "13 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Old Wairoa Superette Papakura",
+            "Address": "48 Grove Road, Papakura, Papakura 2110",
+            "Day": "Tuesday 12 October",
+            "Times": "5:30 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Oct 6:00 pm"
+        },
         {
             "Location name": "AA Driver and Vehicle Licensing Kerikeri",
             "Address": "Fairway Drive, Kerikeri 0230",
