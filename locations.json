@@ -1,7 +1,71 @@
 {
-    "size": 405,
-    "added": "2021-10-13 21:20:33.317922",
+    "size": 413,
+    "added": "2021-10-13 21:40:26.670441",
     "body": [
+        {
+            "Location name": "Countdown Roselands",
+            "Address": "90 Great South Road, Papakura, Papakura 2110",
+            "Day": "Friday 8 October",
+            "Times": "3:10 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
+        {
+            "Location name": "Life Pharmacy Birkenhead",
+            "Address": "32 Mokoia Road, Birkenhead, Auckland 0626",
+            "Day": "Tuesday 5 October",
+            "Times": "2:29 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
+        {
+            "Location name": "Pak'nSave Lincoln Road Henderson",
+            "Address": "Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Sunday 10 October",
+            "Times": "4:30 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Onehunga",
+            "Address": "cnr Church St and Selwyn St, Onehunga, Auckland 1061",
+            "Day": "Tuesday 5 October",
+            "Times": "8:45 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Greenlane",
+            "Address": "326 Great South Road, Greenlane, Auckland 1051",
+            "Day": "Monday 11 October",
+            "Times": "6:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
+        {
+            "Location name": "Supervalue Parkwood Hamilton",
+            "Address": "4 Gordonton Road, Chartwell, Hamilton 3210",
+            "Day": "Wednesday 6 October",
+            "Times": "1:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Sunday 3 October",
+            "Times": "9:00 am - 12:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
+        {
+            "Location name": "Supervalue Parkwood Hamilton",
+            "Address": "4 Gordonton Road, Chartwell, Hamilton 3210",
+            "Day": "Saturday 9 October",
+            "Times": "1:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 10:00 am"
+        },
         {
             "Location name": "Hillpark Bakery Manurewa",
             "Address": "75 Grande Vue Road, Hillpark, Auckland 2102",
