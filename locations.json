@@ -1,7 +1,23 @@
 {
-    "size": 427,
-    "added": "2021-10-14 21:01:42.589933",
+    "size": 428,
+    "added": "2021-10-14 21:20:35.388434",
     "body": [
+        {
+            "Location name": "Super Value Raglan",
+            "Address": "18 Bow Street, Raglan 3225",
+            "Day": "Saturday 9 October",
+            "Times": "8:30 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 10:00 am"
+        },
+        {
+            "Location name": "Pak'nSave Clendon",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Monday 11 October",
+            "Times": "4:00 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 10:00 am"
+        },
         {
             "Location name": "Village Wine & Spirits Te Atatu",
             "Address": "571 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
@@ -104,14 +120,6 @@
             "Day": "Saturday 9 October",
             "Times": "7:45 am - 9:45 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "14 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Super Value Raglan",
-            "Address": "18 Bow Street, Raglan 3225",
-            "Day": "Saturday 9 October",
-            "Times": "8:30 am - 9:15 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "14 Oct 4:00 pm"
         },
         {
