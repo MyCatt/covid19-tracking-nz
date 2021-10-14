@@ -1,7 +1,23 @@
 {
     "size": 431,
-    "added": "2021-10-14 05:20:40.674153",
+    "added": "2021-10-14 05:40:30.310986",
     "body": [
+        {
+            "Location name": "SuperValue Raglan",
+            "Address": "16-18 Bow Street, Raglan 3225",
+            "Day": "Tuesday 5 October",
+            "Times": "11:30 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Night 'n Day Kingsland",
+            "Address": "384-392 New North Road, Kingsland, Auckland 1021",
+            "Day": "Wednesday 13 October",
+            "Times": "6:45 am - 8:15 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "14 Oct 6:00 pm"
+        },
         {
             "Location name": "Countdown Chartwell",
             "Address": "Chartwell, Hamilton 3210",
@@ -31,14 +47,6 @@
             "Address": "35 Melanesia Road, Kohimarama, Auckland 1071",
             "Day": "Sunday 10 October",
             "Times": "1:00 pm - 2:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "14 Oct 4:00 pm"
-        },
-        {
-            "Location name": "SuperValue Raglan",
-            "Address": "18 Bow Street, Raglan 3225",
-            "Day": "Tuesday 5 October",
-            "Times": "11:30 am - 12:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "14 Oct 4:00 pm"
         },
@@ -2103,14 +2111,6 @@
             "Address": "2021 Great North Road, Avondale, Auckland 1026",
             "Day": "Monday 4 October",
             "Times": "7:00 am - 10:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "8 Oct 2:00 pm"
-        },
-        {
-            "Location name": "Hilltop Dairy Orewa",
-            "Address": "180 Hibiscus Coast Highway, Orewa, Red Beach 0931",
-            "Day": "Wednesday 29 September",
-            "Times": "6:30 pm - 7:35 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "8 Oct 2:00 pm"
         },
