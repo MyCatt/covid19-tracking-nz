@@ -1,7 +1,95 @@
 {
-    "size": 413,
-    "added": "2021-10-13 23:40:28.057068",
+    "size": 422,
+    "added": "2021-10-14 00:03:42.261622",
     "body": [
+        {
+            "Location name": "Lawson Convenience Store",
+            "Address": "105-113 Victoria Street West, Auckland CBD, Auckland 1010",
+            "Day": "Tuesday 5 October",
+            "Times": "7:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Sunday 10 October",
+            "Times": "7:30 am - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Friday 8 October",
+            "Times": "7:30 am - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Wednesday 6 October",
+            "Times": "7:30 am - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Thursday 7 October",
+            "Times": "7:30 am - 8:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Monday 11 October",
+            "Times": "7:30 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Tuesday 5 October",
+            "Times": "7:30 am - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Saturday 9 October",
+            "Times": "7:30 am - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Monday 4 October",
+            "Times": "7:30 am - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Saturday 2 October",
+            "Times": "12:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Sandringham Superette Sandringham",
+            "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
+            "Day": "Sunday 3 October",
+            "Times": "7:30 am - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 12:00 pm"
+        },
         {
             "Location name": "Countdown Roselands",
             "Address": "90 Great South Road, Papakura, Papakura 2110",
@@ -47,14 +135,6 @@
             "Address": "4 Gordonton Road, Chartwell, Hamilton 3210",
             "Day": "Wednesday 6 October",
             "Times": "1:00 pm - 3:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "14 Oct 10:00 am"
-        },
-        {
-            "Location name": "Public Toilets Raglan",
-            "Address": "5A Cliff Street, Raglan 3225",
-            "Day": "Sunday 3 October",
-            "Times": "9:00 am - 12:00 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "14 Oct 10:00 am"
         },
@@ -111,14 +191,6 @@
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
             "Day": "Tuesday 5 October",
             "Times": "5:50 pm - 6:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Oct 6:00 pm"
-        },
-        {
-            "Location name": "Lawson Convenience Store",
-            "Address": "105 Victoria Street West, Auckland Central, Auckland 1010",
-            "Day": "Tuesday 5 October",
-            "Times": "7:00 pm - 8:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "13 Oct 6:00 pm"
         },
