@@ -1,7 +1,23 @@
 {
-    "size": 422,
-    "added": "2021-10-14 01:20:55.179149",
+    "size": 423,
+    "added": "2021-10-14 01:40:37.214560",
     "body": [
+        {
+            "Location name": "Leabank Superette Manurewa",
+            "Address": "106 Weymouth Road, Manurewa, Auckland 2102",
+            "Day": "Monday 11 October",
+            "Times": "12:30 pm - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Chartwell",
+            "Address": "Chartwell, Hamilton 3210",
+            "Day": "Sunday 10 October",
+            "Times": "5:00 pm - 6:15 pm",
+            "What to do": "",
+            "Updated": "14 Oct 2:00 pm"
+        },
         {
             "Location name": "Lawson Convenience Store",
             "Address": "105-113 Victoria Street West, Auckland CBD, Auckland 1010",
@@ -151,14 +167,6 @@
             "Address": "75 Grande Vue Road, Hillpark, Auckland 2102",
             "Day": "Sunday 10 October",
             "Times": "2:40 pm - 2:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "14 Oct 8:00 am"
-        },
-        {
-            "Location name": "Leabank Superette Manurewa",
-            "Address": "102-104 Weymouth Road, Manurewa, Auckland 2102",
-            "Day": "Monday 11 October",
-            "Times": "12:30 pm - 12:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "14 Oct 8:00 am"
         },
