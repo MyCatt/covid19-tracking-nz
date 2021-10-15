@@ -1,7 +1,47 @@
 {
-    "size": 446,
-    "added": "2021-10-15 23:02:00.249972",
+    "size": 451,
+    "added": "2021-10-15 23:20:36.514042",
     "body": [
+        {
+            "Location name": "The Dale Playground Manurewa",
+            "Address": "Coxhead Road, Manurewa, Auckland 2102",
+            "Day": "Saturday 9 October",
+            "Times": "8:45 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Royal Laundromat Takanini",
+            "Address": "1/230 Great South Road, Takanini 2112",
+            "Day": "Thursday 14 October",
+            "Times": "1:00 pm - 5:00 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "16 Oct 12:00 pm"
+        },
+        {
+            "Location name": "ChickHEN Republic Mount Wellington",
+            "Address": "200 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Monday 11 October",
+            "Times": "11:00 am - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 12:00 pm"
+        },
+        {
+            "Location name": "ChickHEN Republic Mount Wellington",
+            "Address": "200 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Sunday 10 October",
+            "Times": "11:00 am - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 12:00 pm"
+        },
+        {
+            "Location name": "ChickHEN Republic Mount Wellington",
+            "Address": "200 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Tuesday 12 October",
+            "Times": "11:00 am - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 12:00 pm"
+        },
         {
             "Location name": "Otara Unichem Pharmacy Otara",
             "Address": "1/120 East Tamaki Road, Otara, Auckland 2023",
