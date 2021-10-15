@@ -1,7 +1,55 @@
 {
-    "size": 441,
-    "added": "2021-10-15 03:02:21.315638",
+    "size": 447,
+    "added": "2021-10-15 03:20:42.587010",
     "body": [
+        {
+            "Location name": "West Liquor New Lynn Central",
+            "Address": "3044 Great North Road, New Lynn, Auckland 0600",
+            "Day": "Tuesday 12 October",
+            "Times": "1:15 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Tuesday 5 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Saturday 9 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Wednesday 6 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Thursday 7 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Friday 8 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 4:00 pm"
+        },
         {
             "Location name": "Pak'nSave Silverdale",
             "Address": "20 Hibiscus Coast Highway, Silverdale, Silverdale 0932",
