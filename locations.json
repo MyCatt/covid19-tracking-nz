@@ -1,7 +1,87 @@
 {
-    "size": 432,
-    "added": "2021-10-15 01:02:24.101520",
+    "size": 441,
+    "added": "2021-10-15 01:20:54.019339",
     "body": [
+        {
+            "Location name": "Pak'nSave Silverdale",
+            "Address": "20 Hibiscus Coast Highway, Silverdale, Silverdale 0932",
+            "Day": "Saturday 9 October",
+            "Times": "3:26 pm - 3:36 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "New World Birkenhead",
+            "Address": "180 Mokoia Road, Chatswood, Auckland 0626",
+            "Day": "Sunday 10 October",
+            "Times": "12:08 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Glenfield",
+            "Address": "Cnr Bentley Ave & Glenfield Road, Glenfield, Auckland 0629",
+            "Day": "Saturday 9 October",
+            "Times": "8:17 pm - 8:47 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Sunday 3 October",
+            "Times": "9:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Glen Innes",
+            "Address": "133 Apirana Avenue, Glen Innes, Auckland 1072",
+            "Day": "Sunday 10 October",
+            "Times": "7:30 pm - 7:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Ponsonby Grey Lynn",
+            "Address": "4 Williamson Avenue, Grey Lynn, Auckland 1021",
+            "Day": "Tuesday 12 October",
+            "Times": "5:30 pm - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Henderson",
+            "Address": "5 Vitasovich Avenue, Henderson, Auckland 0612",
+            "Day": "Monday 11 October",
+            "Times": "11:00 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Glen Eden",
+            "Address": "142 West Coast Road, Glen Eden, Auckland 0602",
+            "Day": "Monday 11 October",
+            "Times": "11:30 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "West Liquor Glendene",
+            "Address": "224 Great North Road, Glendene, Auckland 0612",
+            "Day": "Thursday 7 October",
+            "Times": "7:30 pm - 7:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Public Toilets Raglan",
+            "Address": "5A Cliff Street, Raglan 3225",
+            "Day": "Monday 4 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Oct 2:00 pm"
+        },
         {
             "Location name": "Sandringham Superette Sandringham",
             "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
@@ -231,14 +311,6 @@
             "Address": "3 Bankart Street, Raglan 3225",
             "Day": "Saturday 9 October",
             "Times": "7:45 am - 9:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "14 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Public Toilets Raglan",
-            "Address": "5A Cliff Street, Raglan 3225",
-            "Day": "Sunday 3 October",
-            "Times": "9:00 am - 12:00 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "14 Oct 4:00 pm"
         },
