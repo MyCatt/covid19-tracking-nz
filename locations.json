@@ -1,7 +1,47 @@
 {
-    "size": 466,
-    "added": "2021-10-16 05:02:09.474423",
+    "size": 471,
+    "added": "2021-10-16 05:20:39.317557",
     "body": [
+        {
+            "Location name": "PlaceMakers Takanini",
+            "Address": "354 Porchester Road, Takanini, Takanini 2105",
+            "Day": "Wednesday 13 October",
+            "Times": "7:30 am - 8:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Fuku Sushi Epsom",
+            "Address": "97 Manukau Road, Epsom, Auckland 1023",
+            "Day": "Monday 11 October",
+            "Times": "3:22 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 6:00 pm"
+        },
+        {
+            "Location name": "PlaceMakers Takanini",
+            "Address": "354 Porchester Road, Takanini, Takanini 2105",
+            "Day": "Tuesday 12 October",
+            "Times": "7:30 am - 8:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Bay Audiology Henderson The Boundary",
+            "Address": "5 Vitasovich Avenue, Henderson, Auckland 0612",
+            "Day": "Thursday 14 October",
+            "Times": "8:30 am - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Mt Wellington",
+            "Address": "Cnr Penrose Rd & Mt Wellington Highway, Mt Wellington, Auckland 1060",
+            "Day": "Wednesday 13 October",
+            "Times": "5:05 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 6:00 pm"
+        },
         {
             "Location name": "Browns Bay Playground",
             "Address": "15 Manly Esplanade, Browns Bay, Auckland 0630",
