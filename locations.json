@@ -1,7 +1,47 @@
 {
-    "size": 451,
-    "added": "2021-10-16 01:01:57.681424",
+    "size": 456,
+    "added": "2021-10-16 01:20:39.897815",
     "body": [
+        {
+            "Location name": "BP Rosedale",
+            "Address": "Cnr Rosedale & Apollo Drive, Rosedale, Auckland 0632",
+            "Day": "Monday 11 October",
+            "Times": "11:05 am - 11:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Four Square Glen Eden",
+            "Address": "27 Glenmall Place, Glen Eden, Auckland 0602",
+            "Day": "Wednesday 13 October",
+            "Times": "5:30 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 2:00 pm"
+        },
+        {
+            "Location name": "New World Green Bay",
+            "Address": "64 Godley Road, Green Bay, Auckland 0604",
+            "Day": "Monday 11 October",
+            "Times": "7:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Epsom Knights Inn Motel Epsom",
+            "Address": "234 Green Lane West, Epsom, Auckland 1051",
+            "Day": "Wednesday 13 October",
+            "Times": "12:00 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 2:00 pm"
+        },
+        {
+            "Location name": "New World Green Bay",
+            "Address": "64 Godley Road, Green Bay, Auckland 0604",
+            "Day": "Sunday 10 October",
+            "Times": "7:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "16 Oct 2:00 pm"
+        },
         {
             "Location name": "The Dale Playground Manurewa",
             "Address": "Coxhead Road, Manurewa, Auckland 2102",
