@@ -1,7 +1,55 @@
 {
-    "size": 447,
-    "added": "2021-10-16 23:01:40.899983",
+    "size": 453,
+    "added": "2021-10-16 23:20:39.048930",
     "body": [
+        {
+            "Location name": "Mr Meats Otara",
+            "Address": "19 Fair Mall, Otara, Auckland 2023",
+            "Day": "Monday 11 October",
+            "Times": "1:30 pm - 1:45 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "17 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Mr Meats Otara",
+            "Address": "19 Fair Mall, Otara, Auckland 2023",
+            "Day": "Wednesday 6 October",
+            "Times": "11:30 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Lim Chhour Supermarket",
+            "Address": "184 Karangahape Road, Auckland Central, Auckland 1010",
+            "Day": "Monday 11 October",
+            "Times": "9:00 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Parrs Bakery & Cafe Glen Eden",
+            "Address": "109 Parrs Cross Road, Glen Eden, Auckland 0612",
+            "Day": "Monday 11 October",
+            "Times": "11:15 am - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 12:00 pm"
+        },
+        {
+            "Location name": "The Warehouse St Lukes",
+            "Address": "7 Wagener Place, Mount Albert, Auckland 1025",
+            "Day": "Sunday 10 October",
+            "Times": "1:00 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Papakura",
+            "Address": "2 Averill Street, Papakura, Papakura 2110",
+            "Day": "Thursday 14 October",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 12:00 pm"
+        },
         {
             "Location name": "Sandringham Superette Sandringham",
             "Address": "504 Sandringham Road, Sandringham, Auckland 1025",
