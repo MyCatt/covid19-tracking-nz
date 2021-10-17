@@ -1,7 +1,87 @@
 {
-    "size": 446,
-    "added": "2021-10-17 21:01:55.722732",
+    "size": 455,
+    "added": "2021-10-17 21:20:38.804023",
     "body": [
+        {
+            "Location name": "Kiroms Convenience Store",
+            "Address": "592 New North Road, Morningside, Auckland 1021",
+            "Day": "Thursday 7 October",
+            "Times": "7:13 pm - 7:23 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "New World Southmall",
+            "Address": "185 Great South Road, Manurewa, Auckland 2102",
+            "Day": "Wednesday 13 October",
+            "Times": "11:15 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Manurewa",
+            "Address": "227 Browns Road, Manurewa, Auckland 2102",
+            "Day": "Wednesday 6 October",
+            "Times": "11:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Te Atatu Discount Superette",
+            "Address": "542 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
+            "Day": "Saturday 16 October",
+            "Times": "12:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Pukekohe",
+            "Address": "Corner Tobin Street and Seddon Street, Pukekohe, Auckland 2120",
+            "Day": "Thursday 14 October",
+            "Times": "1:26 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Highland Park",
+            "Address": "507 Pakuranga Road, Highland Park, Auckland 2010",
+            "Day": "Wednesday 13 October",
+            "Times": "6:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Seddon Foodmart",
+            "Address": "67 Seddon Street, Pukekohe, Auckland 2120",
+            "Day": "Thursday 14 October",
+            "Times": "9:25 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Danny's Kiwi Bakery Pukekoke",
+            "Address": "2/6 Harris Street, Pukekohe 2120",
+            "Day": "Thursday 14 October",
+            "Times": "1:43 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Pizza Hut Highland Park",
+            "Address": "2 Dunrobin Place, Highland Park, Auckland 2010",
+            "Day": "Wednesday 13 October",
+            "Times": "6:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Te Atatu",
+            "Address": "583 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
+            "Day": "Wednesday 13 October",
+            "Times": "4:30 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 10:00 am"
+        },
         {
             "Location name": "Washington Apartments Building Site Eden Terrace",
             "Address": "21 Virginia Avenue East, Eden Terrace, Auckland 1021",
@@ -943,14 +1023,6 @@
             "Address": "571 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
             "Day": "Sunday 10 October",
             "Times": "1:34 pm - 1:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "15 Oct 8:00 am"
-        },
-        {
-            "Location name": "Kiroms convenience store",
-            "Address": "588 New North Road, Morningside, Auckland 1021",
-            "Day": "Thursday 7 October",
-            "Times": "7:13 pm - 7:23 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "15 Oct 8:00 am"
         },
