@@ -1,7 +1,31 @@
 {
-    "size": 453,
-    "added": "2021-10-17 01:02:05.125269",
+    "size": 456,
+    "added": "2021-10-17 01:20:47.707669",
     "body": [
+        {
+            "Location name": "Glen Eden Laundromat Glen Eden",
+            "Address": "115 West Coast Road, Glen Eden, Auckland 0602",
+            "Day": "Wednesday 13 October",
+            "Times": "4:30 pm - 5:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "17 Oct 2:00 pm"
+        },
+        {
+            "Location name": "New World New Lynn",
+            "Address": "2/6 Crown Lynn Place, New Lynn, Auckland 0600",
+            "Day": "Friday 15 October",
+            "Times": "10:41 am - 11:56 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Flat Bush Laundromat Otara",
+            "Address": "1E Piako Street, Otara, Auckland 2023",
+            "Day": "Thursday 14 October",
+            "Times": "11:47 am - 11:51 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "17 Oct 2:00 pm"
+        },
         {
             "Location name": "Mr Meats Otara",
             "Address": "19 Fair Mall, Otara, Auckland 2023",
