@@ -1,21 +1,85 @@
 {
-    "size": 456,
-    "added": "2021-10-17 03:02:29.813594",
+    "size": 464,
+    "added": "2021-10-17 03:20:44.889728",
     "body": [
+        {
+            "Location name": "New World New Lynn",
+            "Address": "2/6 Crown Lynn Place, New Lynn, Auckland 0600",
+            "Day": "Friday 15 October",
+            "Times": "10:41 am - 11:56 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Fresh Choice Ranui",
+            "Address": "433 Swanson Road, Ranui, Auckland 0612",
+            "Day": "Wednesday 13 October",
+            "Times": "5:20 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Mt Roskill",
+            "Address": "112 Stoddard Road, Wesley, Auckland 1041",
+            "Day": "Saturday 16 October",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Flatbush Superette Otara",
+            "Address": "1B Piako Street, Otara, Auckland 2023",
+            "Day": "Thursday 14 October",
+            "Times": "11:30 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Noodle Canteen Westgate Shopping Centre",
+            "Address": "1 Fernhill Drive, Westgate, Auckland 0614",
+            "Day": "Tuesday 12 October",
+            "Times": "6:28 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Anytime Fitness Glen Eden",
+            "Address": "3 Glendale Road, Glen Eden, Auckland 0602",
+            "Day": "Thursday 14 October",
+            "Times": "5:00 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Anytime Fitness Glen Eden",
+            "Address": "3 Glendale Road, Glen Eden, Auckland 0602",
+            "Day": "Tuesday 12 October",
+            "Times": "5:00 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Anytime Fitness Glen Eden",
+            "Address": "3 Glendale Road, Glen Eden, Auckland 0602",
+            "Day": "Friday 15 October",
+            "Times": "10:00 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Anytime Fitness Glen Eden",
+            "Address": "3 Glendale Road, Glen Eden, Auckland 0602",
+            "Day": "Tuesday 12 October",
+            "Times": "6:00 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Oct 4:00 pm"
+        },
         {
             "Location name": "Glen Eden Laundromat Glen Eden",
             "Address": "115 West Coast Road, Glen Eden, Auckland 0602",
             "Day": "Wednesday 13 October",
             "Times": "4:30 pm - 5:30 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "17 Oct 2:00 pm"
-        },
-        {
-            "Location name": "New World New Lynn",
-            "Address": "2/6 Crown Lynn Place, New Lynn, Auckland 0600",
-            "Day": "Friday 15 October",
-            "Times": "10:41 am - 11:56 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Oct 2:00 pm"
         },
         {
