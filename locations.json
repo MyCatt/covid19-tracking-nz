@@ -1,7 +1,31 @@
 {
-    "size": 460,
-    "added": "2021-10-18 05:20:52.452150",
+    "size": 463,
+    "added": "2021-10-18 05:40:30.443945",
     "body": [
+        {
+            "Location name": "Mobil Glendene",
+            "Address": "218 Great North Road, Glendene, Auckland 0612",
+            "Day": "Saturday 9 October",
+            "Times": "8:00 pm - 8:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown lynnmall",
+            "Address": "Lynmall Shopping Centre, 3058 Great North Road, New Lynn, Auckland 0600",
+            "Day": "Saturday 9 October",
+            "Times": "1:00 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 6:00 pm"
+        },
+        {
+            "Location name": "PAK'nSAVE",
+            "Address": "117 Bader Drive, Mangere, Auckland 2022",
+            "Day": "Thursday 14 October",
+            "Times": "5:00 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 6:00 pm"
+        },
         {
             "Location name": "Anytime Fitness Outdoor Class Glen Eden",
             "Address": "3 Glendale Road, Glen Eden, Auckland 0602",
