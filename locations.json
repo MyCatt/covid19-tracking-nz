@@ -1,7 +1,39 @@
 {
-    "size": 464,
-    "added": "2021-10-18 00:41:41.228047",
+    "size": 468,
+    "added": "2021-10-18 01:23:31.661297",
     "body": [
+        {
+            "Location name": "Finlayson Liquor Shop Clendon Park",
+            "Address": "3/140 Finlayson Avenue, Clendon Park, Auckland 2103",
+            "Day": "Thursday 14 October",
+            "Times": "10:30 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Sal's Pizza Royal Oak",
+            "Address": "122 Symonds Street, Royal Oak, Auckland 1061",
+            "Day": "Monday 11 October",
+            "Times": "7:30 pm - 7:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Chatters Laundromat Manurewa",
+            "Address": "G/255A Browns Road, Manurewa, Auckland 2102",
+            "Day": "Saturday 16 October",
+            "Times": "9:30 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 2:00 pm"
+        },
+        {
+            "Location name": "New World Milford",
+            "Address": "141 Kitchener Road, Milford, Auckland 0620",
+            "Day": "Thursday 14 October",
+            "Times": "3:51 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Oct 2:00 pm"
+        },
         {
             "Location name": "Seddon Foodmart",
             "Address": "67 Seddon Street, Pukekohe, Pukekohe 2120",
