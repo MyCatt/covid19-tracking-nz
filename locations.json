@@ -1,7 +1,55 @@
 {
-    "size": 417,
-    "added": "2021-10-19 23:20:35.700275",
+    "size": 423,
+    "added": "2021-10-19 23:40:27.546169",
     "body": [
+        {
+            "Location name": "BP Connect Counties Pukekohe",
+            "Address": "76 Edinburgh Street, Pukekohe Hill, Auckland 2120",
+            "Day": "Saturday 16 October",
+            "Times": "9:00 am - 10:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Westside Superette Pukekohe",
+            "Address": "7 West Street, Pukekohe 2120",
+            "Day": "Saturday 16 October",
+            "Times": "9:15 am - 10:50 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 12:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Te Awamutu",
+            "Address": "39 Rewi Street, Te Awamutu 3800",
+            "Day": "Tuesday 12 October",
+            "Times": "6:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 12:00 pm"
+        },
+        {
+            "Location name": "College Superette Te Awamutu",
+            "Address": "943 Alexandra Street, Te Awamutu 3800",
+            "Day": "Wednesday 13 October",
+            "Times": "12:30 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 12:00 pm"
+        },
+        {
+            "Location name": "College Superette Te Awamutu",
+            "Address": "943 Alexandra Street, Te Awamutu 3800",
+            "Day": "Tuesday 12 October",
+            "Times": "12:30 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Westgate",
+            "Address": "Corner Westgate and Fernhill Drive, Massey, Auckland 0614",
+            "Day": "Thursday 14 October",
+            "Times": "2:00 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 12:00 pm"
+        },
         {
             "Location name": "Pak'nSave Mt Albert",
             "Address": "1173 New North Road, Mount Albert, Auckland 1025",
