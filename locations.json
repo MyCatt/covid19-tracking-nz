@@ -1,7 +1,39 @@
 {
-    "size": 440,
-    "added": "2021-10-19 01:02:27.421974",
+    "size": 443,
+    "added": "2021-10-19 01:20:53.929639",
     "body": [
+        {
+            "Location name": "Pizza Hut Highland Park",
+            "Address": "2 Dunrobin Place, Avonhead, Christchurch 8042",
+            "Day": "Wednesday 13 October",
+            "Times": "6:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
+        {
+            "Location name": "BP Birkenhead",
+            "Address": "172 Mokoia Road, Birkenhead, Auckland 0626",
+            "Day": "Friday 15 October",
+            "Times": "2:00 pm - 2:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Mount Eden",
+            "Address": "Cnr Valley & Dominion Roads, Mt Eden, Auckland 1024",
+            "Day": "Wednesday 13 October",
+            "Times": "4:48 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Kowloon Takeaways Henderson",
+            "Address": "3/138 Sturges Road, Henderson, Auckland 0612",
+            "Day": "Wednesday 13 October",
+            "Times": "6:00 pm - 6:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
         {
             "Location name": "SuperValue Palomino",
             "Address": "4/138 Sturges Road, Henderson, Auckland 0612",
@@ -343,14 +375,6 @@
             "Address": "2/6 Harris Street, Pukekohe 2120",
             "Day": "Thursday 14 October",
             "Times": "1:43 pm - 2:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "18 Oct 10:00 am"
-        },
-        {
-            "Location name": "Pizza Hut Highland Park",
-            "Address": "2 Dunrobin Place, Highland Park, Auckland 2010",
-            "Day": "Wednesday 13 October",
-            "Times": "6:30 pm - 7:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "18 Oct 10:00 am"
         },
