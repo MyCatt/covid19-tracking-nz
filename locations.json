@@ -1,12 +1,44 @@
 {
-    "size": 443,
-    "added": "2021-10-19 01:40:38.333905",
+    "size": 447,
+    "added": "2021-10-19 02:02:01.466514",
     "body": [
         {
             "Location name": "Pizza Hut Highland Park",
-            "Address": "2 Dunrobin Place, Avonhead, Christchurch 8042",
+            "Address": "2 Dunrobin Place, Half Moon Bay, Auckland 2010",
             "Day": "Wednesday 13 October",
             "Times": "6:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Westfield Manukau",
+            "Address": "Shop 99 Wiri Station Road Corner Great South Road, Manukau City Centre, Auckland 2104",
+            "Day": "Thursday 14 October",
+            "Times": "1:30 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Lincoln Road",
+            "Address": "185 Universal Drive, Henderson, Auckland 0610",
+            "Day": "Monday 18 October",
+            "Times": "12:35 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Westside Bakehouse Te Atatu South",
+            "Address": "147 Te Atatu Road, Te Atatu South, Auckland 0610",
+            "Day": "Thursday 14 October",
+            "Times": "11:11 am - 11:25 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Dunkin' Donuts Henderson",
+            "Address": "192 Universal Drive, Henderson, Auckland 0610",
+            "Day": "Monday 18 October",
+            "Times": "5:37 pm - 5:50 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "19 Oct 2:00 pm"
         },
