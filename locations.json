@@ -1,7 +1,87 @@
 {
-    "size": 451,
-    "added": "2021-10-19 05:02:25.817933",
+    "size": 461,
+    "added": "2021-10-19 05:20:46.444970",
     "body": [
+        {
+            "Location name": "Countdown Birkenhead",
+            "Address": "Corner Highbury Pass & Birkenhead Ave, Birkenhead, Auckland 0626",
+            "Day": "Saturday 16 October",
+            "Times": "9:32 am - 9:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Washington Apartments Eden Terrace",
+            "Address": "21 Virginia Avenue East, Eden Terrace, Auckland 1021",
+            "Day": "Thursday 14 October",
+            "Times": "12:45 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Shadbolt Park New Lynn",
+            "Address": "128 Portage Road, New Lynn, Auckland 0600",
+            "Day": "Friday 15 October",
+            "Times": "7:30 pm - 8:30 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Mobil Oteha Valley Fairview Heights",
+            "Address": "143 Oteha Valley Road, Fairview Heights, Auckland 0632",
+            "Day": "Sunday 17 October",
+            "Times": "9:30 pm - 9:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Albany",
+            "Address": "Don McKinnon Drive, Albany, Auckland 0632",
+            "Day": "Thursday 14 October",
+            "Times": "8:30 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Kelston",
+            "Address": "Cnr Great North & West Coast Road, Glen Eden, Auckland 0602",
+            "Day": "Wednesday 13 October",
+            "Times": "8:30 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Kawakawa Bay Store & Takeaways",
+            "Address": "1561 Clevedon-Kawakawa Road, RD 5, Papakura 2585",
+            "Day": "Friday 15 October",
+            "Times": "1:15 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Grey Lynn",
+            "Address": "271 Richmond Road, Grey Lynn, Auckland 1022",
+            "Day": "Wednesday 13 October",
+            "Times": "12:00 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Four Square Fair Price Henderson",
+            "Address": "264 Swanson Road, Henderson, Auckland 0610",
+            "Day": "Tuesday 12 October",
+            "Times": "5:20 pm - 5:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Lincoln Road Henderson",
+            "Address": "Lincoln Road, Shopping Centre, Henderson, Auckland 0610",
+            "Day": "Wednesday 13 October",
+            "Times": "3:00 pm - 3:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 6:00 pm"
+        },
         {
             "Location name": "Pizza Hut Highland Park",
             "Address": "2 Dunrobin Place, Half Moon Bay, Auckland 2010",
