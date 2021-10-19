@@ -1,14 +1,54 @@
 {
-    "size": 447,
-    "added": "2021-10-19 03:01:50.135654",
+    "size": 451,
+    "added": "2021-10-19 03:20:43.801627",
     "body": [
         {
             "Location name": "Pizza Hut Highland Park",
             "Address": "2 Dunrobin Place, Half Moon Bay, Auckland 2010",
-            "Day": "Wednesday 13 October",
+            "Day": "Tuesday 12 October",
             "Times": "6:30 pm - 7:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "19 Oct 2:00 pm"
+            "Updated": "19 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Highland Park",
+            "Address": "507 Pakuranga Road, Highland Park, Auckland 2010",
+            "Day": "Tuesday 12 October",
+            "Times": "6:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Clarks Beach Store Clarks Beach",
+            "Address": "14 Seaway Road, Clarks Beach, Clarks Beach 2122",
+            "Day": "Monday 18 October",
+            "Times": "11:45 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Unichem Pharmacy Te Atatu",
+            "Address": "382 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
+            "Day": "Friday 8 October",
+            "Times": "12:00 pm - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Te Atatu Butcher",
+            "Address": "1/1 Rhone Avenue, TE Atatu Peninsula, Auckland 0610",
+            "Day": "Friday 8 October",
+            "Times": "12:00 pm - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Te Atatu Village Wine & Spirits",
+            "Address": "571 Te Atatu Road, TE Atatu Peninsula, Auckland 0610",
+            "Day": "Friday 8 October",
+            "Times": "6:00 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Oct 4:00 pm"
         },
         {
             "Location name": "Countdown Westfield Manukau",
@@ -391,14 +431,6 @@
             "Address": "Corner Tobin Street and Seddon Street, Pukekohe, Auckland 2120",
             "Day": "Thursday 14 October",
             "Times": "1:26 pm - 1:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "18 Oct 10:00 am"
-        },
-        {
-            "Location name": "Countdown Highland Park",
-            "Address": "507 Pakuranga Road, Highland Park, Auckland 2010",
-            "Day": "Wednesday 13 October",
-            "Times": "6:30 pm - 7:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "18 Oct 10:00 am"
         },
