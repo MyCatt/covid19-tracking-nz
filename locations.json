@@ -1,7 +1,39 @@
 {
-    "size": 401,
-    "added": "2021-10-20 21:00:41.862486",
+    "size": 405,
+    "added": "2021-10-20 21:20:15.827625",
     "body": [
+        {
+            "Location name": "Countdown Roselands Papakura",
+            "Address": "90 Great South Road, Papakura 2110",
+            "Day": "Thursday 14 October",
+            "Times": "6:15 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 10:00 am"
+        },
+        {
+            "Location name": "Life Pharmacy Papakura",
+            "Address": "102 Great South Road, Papakura 2110",
+            "Day": "Friday 15 October",
+            "Times": "3:30 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Manukau",
+            "Address": "652 Great South Road, Manukau, Auckland 2104",
+            "Day": "Wednesday 20 October",
+            "Times": "10:38 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Manukau",
+            "Address": "652 Great South Road, Manukau, Auckland 2104",
+            "Day": "Monday 18 October",
+            "Times": "3:25 pm - 3:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 10:00 am"
+        },
         {
             "Location name": "Countdown Auckland Airport",
             "Address": "Cnr George Bolt Memorial & John Goulter Drive, Mangere, Auckland 2022",
