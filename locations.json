@@ -1,7 +1,71 @@
 {
-    "size": 434,
-    "added": "2021-10-20 05:01:58.125949",
+    "size": 442,
+    "added": "2021-10-20 05:20:44.228144",
     "body": [
+        {
+            "Location name": "Countdown Auckland Airport",
+            "Address": "Cnr George Bolt Memorial & John Goulter Drive, Mangere, Auckland 2022",
+            "Day": "Saturday 16 October",
+            "Times": "6:54 pm - 7:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Airport Superette Mangere",
+            "Address": "279 Kirkbride Road, Mangere, Auckland 2022",
+            "Day": "Saturday 16 October",
+            "Times": "6:46 pm - 6:48 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 6:00 pm"
+        },
+        {
+            "Location name": "West Liquor Lincoln Green Henderson",
+            "Address": "159 Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Thursday 14 October",
+            "Times": "12:00 pm - 12:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 6:00 pm"
+        },
+        {
+            "Location name": "BP Connect Howick",
+            "Address": "136 Ridge Road, Howick, Auckland 2014",
+            "Day": "Thursday 14 October",
+            "Times": "3:00 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 6:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Te Awamutu",
+            "Address": "39 Rewi Street, Te Awamutu 3800",
+            "Day": "Friday 15 October",
+            "Times": "12:15 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Te Awamutu",
+            "Address": "180 Sloane Street, Te Awamutu 3800",
+            "Day": "Friday 15 October",
+            "Times": "5:45 pm - 7:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Socials Laundromat Takanini",
+            "Address": "7 Tironui Road, Takanini, Takanini 2112",
+            "Day": "Saturday 16 October",
+            "Times": "7:00 pm - 9:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "20 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Mr Meats Plus Henderson",
+            "Address": "8/155 Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Thursday 14 October",
+            "Times": "12:30 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 6:00 pm"
+        },
         {
             "Location name": "Pak'nSave Clendon",
             "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
