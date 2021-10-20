@@ -1,7 +1,55 @@
 {
-    "size": 423,
-    "added": "2021-10-20 01:20:49.877145",
+    "size": 429,
+    "added": "2021-10-20 01:40:33.454079",
     "body": [
+        {
+            "Location name": "Countdown Papakura",
+            "Address": "2 Averill Street, Papakura, Papakura 2110",
+            "Day": "Wednesday 13 October",
+            "Times": "12:00 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 2:00 pm"
+        },
+        {
+            "Location name": "BP Opaheke",
+            "Address": "373 Great South Road, Opaheke, Papakura 2113",
+            "Day": "Monday 11 October",
+            "Times": "12:00 pm - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 2:00 pm"
+        },
+        {
+            "Location name": "BP Opaheke",
+            "Address": "373 Great South Road, Opaheke, Papakura 2113",
+            "Day": "Monday 18 October",
+            "Times": "10:45 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Princes St Foodmarket Pukekohe",
+            "Address": "59 Princes Street, Pukekohe 2120",
+            "Day": "Saturday 16 October",
+            "Times": "10:25 am - 11:05 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "20 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Papakura",
+            "Address": "2 Averill Street, Papakura, Papakura 2110",
+            "Day": "Friday 15 October",
+            "Times": "2:00 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 2:00 pm"
+        },
+        {
+            "Location name": "BP Opaheke",
+            "Address": "373 Great South Road, Opaheke, Papakura 2113",
+            "Day": "Tuesday 19 October",
+            "Times": "1:15 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 2:00 pm"
+        },
         {
             "Location name": "BP Connect Counties Pukekohe",
             "Address": "76 Edinburgh Street, Pukekohe Hill, Auckland 2120",
