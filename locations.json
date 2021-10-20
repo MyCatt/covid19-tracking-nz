@@ -1,7 +1,55 @@
 {
-    "size": 405,
-    "added": "2021-10-20 23:20:16.478317",
+    "size": 411,
+    "added": "2021-10-20 23:40:12.178137",
     "body": [
+        {
+            "Location name": "Bus 901 Fleet 90112 Constellation Station to Smales Farm via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "12:30 pm - 12:50 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "21 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 90111 Smales Farm to Constellation Station via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Monday 18 October",
+            "Times": "11:00 am - 11:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "21 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 90112 Constellation Station to Smales Farm via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Monday 18 October",
+            "Times": "10:30 am - 10:50 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "21 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 90111 Smales Farm to Constellation Station via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "11:00 am - 11:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "21 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 90112 Constellation Station to Smales Farm via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "8:30 am - 8:47 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "21 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 90111 Smales Farm to Constellation Station via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "9:00 am - 9:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "21 Oct 12:00 pm"
+        },
         {
             "Location name": "Countdown Roselands Papakura",
             "Address": "90 Great South Road, Papakura 2110",
