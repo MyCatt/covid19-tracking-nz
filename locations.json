@@ -1,7 +1,15 @@
 {
     "size": 434,
-    "added": "2021-10-20 03:20:44.209755",
+    "added": "2021-10-20 03:40:31.825941",
     "body": [
+        {
+            "Location name": "Pak'nSave Clendon",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Thursday 14 October",
+            "Times": "1:00 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 4:00 pm"
+        },
         {
             "Location name": "Chemist Warehouse Flat Bush",
             "Address": "37a/277 Te Irirangi Drive, Flat Bush, Auckland 2016",
@@ -15,14 +23,6 @@
             "Address": "116 Hobsonville Point Road, Hobsonville, Auckland 0616",
             "Day": "Wednesday 13 October",
             "Times": "9:09 am - 9:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "20 Oct 4:00 pm"
-        },
-        {
-            "Location name": "West Liquor Royal Heights Massey",
-            "Address": "11/138 Royal Road, Massey, Auckland 0614",
-            "Day": "Thursday 14 October",
-            "Times": "10:36 am - 10:45 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "20 Oct 4:00 pm"
         },
