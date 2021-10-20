@@ -1,7 +1,47 @@
 {
-    "size": 429,
-    "added": "2021-10-20 03:02:22.992761",
+    "size": 434,
+    "added": "2021-10-20 03:20:44.209755",
     "body": [
+        {
+            "Location name": "Chemist Warehouse Flat Bush",
+            "Address": "37a/277 Te Irirangi Drive, Flat Bush, Auckland 2016",
+            "Day": "Tuesday 12 October",
+            "Times": "5:31 pm - 5:41 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 4:00 pm"
+        },
+        {
+            "Location name": "BP Connect Hobsonville",
+            "Address": "116 Hobsonville Point Road, Hobsonville, Auckland 0616",
+            "Day": "Wednesday 13 October",
+            "Times": "9:09 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 4:00 pm"
+        },
+        {
+            "Location name": "West Liquor Royal Heights Massey",
+            "Address": "11/138 Royal Road, Massey, Auckland 0614",
+            "Day": "Thursday 14 October",
+            "Times": "10:36 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Wairau Road Wairau Valley",
+            "Address": "30 Wairau Road, Wairau Valley, Auckland 0627",
+            "Day": "Monday 18 October",
+            "Times": "10:40 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Papakura",
+            "Address": "2 Averill Street, Papakura, Papakura 2110",
+            "Day": "Sunday 17 October",
+            "Times": "6:30 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Oct 4:00 pm"
+        },
         {
             "Location name": "Countdown Papakura",
             "Address": "2 Averill Street, Papakura, Papakura 2110",
