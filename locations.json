@@ -1,7 +1,23 @@
 {
-    "size": 394,
-    "added": "2021-10-21 21:20:16.277521",
+    "size": 396,
+    "added": "2021-10-21 21:40:12.576512",
     "body": [
+        {
+            "Location name": "Mobil Wiri",
+            "Address": "62 Wiri Station Road, Wiri, Auckland 2104",
+            "Day": "Saturday 16 October",
+            "Times": "1:00 pm - 1:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Oct 10:00 am"
+        },
+        {
+            "Location name": "Inverell Superette Wiri",
+            "Address": "25 Inverell Avenue, Wiri, Auckland 2104",
+            "Day": "Sunday 17 October",
+            "Times": "3:00 pm - 3:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Oct 10:00 am"
+        },
         {
             "Location name": "Countdown Henderson",
             "Address": "7 Catherine Street, Henderson, Auckland 0612",
