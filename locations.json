@@ -1,7 +1,63 @@
 {
-    "size": 421,
-    "added": "2021-10-21 03:00:58.674087",
+    "size": 427,
+    "added": "2021-10-21 03:20:17.795427",
     "body": [
+        {
+            "Location name": "Countdown Lynnmall New Lynn",
+            "Address": "3058 Great North Road, New Lynn, Auckland 0600",
+            "Day": "Sunday 10 October",
+            "Times": "8:39 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 4:00 pm"
+        },
+        {
+            "Location name": "New World Victoria Park",
+            "Address": "2 College Hill, Freemans Bay, Auckland 1011",
+            "Day": "Sunday 17 October",
+            "Times": "5:00 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mobil Petrol Station Manurewa",
+            "Address": "8 Great South Road, Manurewa, Auckland 2102",
+            "Day": "Tuesday 19 October",
+            "Times": "6:15 am - 6:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Huckleberry New Lynn",
+            "Address": "34 Portage Road, New Lynn, Auckland 0600",
+            "Day": "Wednesday 13 October",
+            "Times": "5:26 pm - 5:36 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mobil Constallation Drive Rosedale",
+            "Address": "48 Constellation Drive, Rosedale, Auckland 0632",
+            "Day": "Sunday 17 October",
+            "Times": "4:15 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Z Service Station Albany",
+            "Address": "287 Oteha Valley Road, Albany, Auckland 0632",
+            "Day": "Thursday 14 October",
+            "Times": "1:30 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Burbank Superette Manurewa",
+            "Address": "57 Burbank Avenue, Manurewa, Auckland 2102",
+            "Day": "Sunday 17 October",
+            "Times": "10:00 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Oct 4:00 pm"
+        },
         {
             "Location name": "Countdown Hobsonville",
             "Address": "124 Hobsonville Point Road, Hobsonville, Auckland 0616",
@@ -63,14 +119,6 @@
             "Address": "26 Neville Street, Warkworth 0910",
             "Day": "Saturday 16 October",
             "Times": "4:00 pm - 5:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "21 Oct 2:00 pm"
-        },
-        {
-            "Location name": "Countdown Lynnmall New Lynn",
-            "Address": "Lynnmall Shopping Centre, 3058 Great North Road, New Lynn, Auckland 0600",
-            "Day": "Saturday 16 October",
-            "Times": "8:04 pm - 8:24 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "21 Oct 2:00 pm"
         },
