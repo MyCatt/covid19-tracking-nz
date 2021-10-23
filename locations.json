@@ -1,7 +1,23 @@
 {
-    "size": 370,
-    "added": "2021-10-23 21:20:21.977982",
+    "size": 372,
+    "added": "2021-10-23 21:40:16.059285",
     "body": [
+        {
+            "Location name": "SuperValue Titirangi",
+            "Address": "429 Titirangi Road, Titirangi, Auckland 0604",
+            "Day": "Monday 18 October",
+            "Times": "11:00 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 10:00 am"
+        },
+        {
+            "Location name": "Crafty Baker Titirangi",
+            "Address": "490 South Titirangi Road, Titirangi, Auckland 0604",
+            "Day": "Thursday 14 October",
+            "Times": "11:00 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 10:00 am"
+        },
         {
             "Location name": "Mobil St Lukes Mount Albert",
             "Address": "51 St Lukes Road, Mount Albert, Auckland 1025",
