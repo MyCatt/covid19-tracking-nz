@@ -1,14 +1,30 @@
 {
-    "size": 389,
-    "added": "2021-10-23 01:00:48.890045",
+    "size": 391,
+    "added": "2021-10-23 01:20:26.251066",
     "body": [
         {
-            "Location name": "Four Square Opononi",
-            "Address": "29 Hokianga Harbour Drive, Opononi 0473",
-            "Day": "Thursday 21 October",
-            "Times": "3:30 pm - 3:45 pm",
+            "Location name": "FreshChoice Te Awamutu",
+            "Address": "39 Rewi Street, Te Awamutu 3800",
+            "Day": "Wednesday 20 October",
+            "Times": "2:45 pm - 3:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "23 Oct 12:00 pm"
+            "Updated": "23 Oct 2:00 pm"
+        },
+        {
+            "Location name": "VTNZ Te Awamutu",
+            "Address": "1423 Alexandra Street, Te Awamutu 3800",
+            "Day": "Thursday 14 October",
+            "Times": "1:45 pm - 2:19 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Mobil Te Awamutu",
+            "Address": "133 Arawata Street, Te Awamutu 3800",
+            "Day": "Wednesday 20 October",
+            "Times": "4:15 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Oct 2:00 pm"
         },
         {
             "Location name": "The Warehouse Kaitaia",
