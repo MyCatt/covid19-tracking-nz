@@ -1,7 +1,71 @@
 {
-    "size": 384,
-    "added": "2021-10-24 03:20:20.651665",
+    "size": 392,
+    "added": "2021-10-24 03:40:16.458817",
     "body": [
+        {
+            "Location name": "Countdown Pakuranga",
+            "Address": "Pakuranga Town Centre, Pakuranga, Auckland 2010",
+            "Day": "Tuesday 19 October",
+            "Times": "7:30 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Marlborough Airport",
+            "Address": "1 Tancred Crescent, Woodbourne, Blenheim 7206",
+            "Day": "Thursday 21 October",
+            "Times": "9:20 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
+        {
+            "Location name": "The Warehouse, Kaikohe",
+            "Address": "17 Station Road, Kaikohe 0405",
+            "Day": "Friday 22 October",
+            "Times": "11:30 am - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mobil Kelston",
+            "Address": "Cnr Great North & West Coast Road, Kelston, Auckland 6020",
+            "Day": "Wednesday 20 October",
+            "Times": "2:00 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Mobil Newton",
+            "Address": "565 Karangahape Road, Auckland Central, Auckland 1010",
+            "Day": "Wednesday 20 October",
+            "Times": "5:30 am - 5:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Te Awamutu",
+            "Address": "670 Cambridge Road, Te Awamutu 3800",
+            "Day": "Wednesday 20 October",
+            "Times": "5:15 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Henderson",
+            "Address": "5 Vitasovich Avenue, Henderson, Auckland 0612",
+            "Day": "Wednesday 20 October",
+            "Times": "5:40 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Henderson",
+            "Address": "West City Waitakere, 7 Catherine Street, Henderson, Auckland 0612",
+            "Day": "Tuesday 19 October",
+            "Times": "5:41 pm - 5:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 4:00 pm"
+        },
         {
             "Location name": "Westmere Butchery Westmere",
             "Address": "131 West End Road, Westmere, Auckland 1022",
