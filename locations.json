@@ -1,7 +1,23 @@
 {
-    "size": 372,
-    "added": "2021-10-24 21:00:55.903538",
+    "size": 374,
+    "added": "2021-10-24 21:20:21.867825",
     "body": [
+        {
+            "Location name": "Gull Stoddard Road",
+            "Address": "156 Stoddard Road, Wesley, Auckland 1041",
+            "Day": "Thursday 21 October",
+            "Times": "2:32 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Beachlands",
+            "Address": "129 Beachlands Road, Beachlands, Auckland 2018",
+            "Day": "Thursday 21 October",
+            "Times": "11:30 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 10:00 am"
+        },
         {
             "Location name": "Highbury Shopping Centre Birkenhead",
             "Address": "1 Cnr Highbury Bypass & Birkenhead Avenue, Birkenhead, Auckland 0626",
