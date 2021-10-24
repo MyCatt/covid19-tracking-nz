@@ -1,7 +1,39 @@
 {
-    "size": 380,
-    "added": "2021-10-24 01:01:05.968334",
+    "size": 384,
+    "added": "2021-10-24 01:20:25.662358",
     "body": [
+        {
+            "Location name": "Westmere Butchery Westmere",
+            "Address": "131 West End Road, Westmere, Auckland 1022",
+            "Day": "Thursday 21 October",
+            "Times": "3:42 pm - 3:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Green Bay Fruit and Vegies Glen Eden",
+            "Address": "4059 Great North Road, Glen Eden, Auckland 0602",
+            "Day": "Tuesday 19 October",
+            "Times": "3:55 pm - 5:20 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "24 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Mobil Newton",
+            "Address": "565 Karangahape Road, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 19 October",
+            "Times": "5:30 am - 5:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Herne Bay Pharmacy Herne Bay",
+            "Address": "210 Jervois Road, Herne Bay, Auckland 1011",
+            "Day": "Tuesday 19 October",
+            "Times": "4:30 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 2:00 pm"
+        },
         {
             "Location name": "Countdown Glenfield",
             "Address": "Cnr Bentley Avenue and Glenfield Road, Glenfield, Auckland 0629",
