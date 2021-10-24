@@ -1,7 +1,71 @@
 {
-    "size": 372,
-    "added": "2021-10-23 23:40:20.505475",
+    "size": 380,
+    "added": "2021-10-24 00:01:48.295612",
     "body": [
+        {
+            "Location name": "Countdown Glenfield",
+            "Address": "Cnr Bentley Avenue and Glenfield Road, Glenfield, Auckland 0629",
+            "Day": "Tuesday 19 October",
+            "Times": "3:30 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Kiwi Superette Henderson",
+            "Address": "2 Parrs Cross Road, Henderson, Auckland 0612",
+            "Day": "Saturday 16 October",
+            "Times": "3:53 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 12:00 pm"
+        },
+        {
+            "Location name": "West City Waitakere Henderson",
+            "Address": "7 Catherine Street, Henderson, Auckland 0612",
+            "Day": "Tuesday 19 October",
+            "Times": "5:41 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 12:00 pm"
+        },
+        {
+            "Location name": "West Liquor Glen Eden",
+            "Address": "43 Glenmall Place, Glen Eden, Auckland 0602",
+            "Day": "Friday 15 October",
+            "Times": "6:02 pm - 6:20 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "24 Oct 12:00 pm"
+        },
+        {
+            "Location name": "West Liquor Glen Eden",
+            "Address": "43 Glenmall Place, Glen Eden, Auckland 0602",
+            "Day": "Saturday 16 October",
+            "Times": "9:44 pm - 10:05 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "24 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Wairau Road Wairau Valley",
+            "Address": "30 Wairau Road, Wairau Valley, Auckland 0627",
+            "Day": "Tuesday 19 October",
+            "Times": "2:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Caltex Super Service Station Te Awamutu",
+            "Address": "98 Ohaupo Road, Te Awamutu 3800",
+            "Day": "Wednesday 20 October",
+            "Times": "7:20 am - 7:50 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Mangamuka Dairy Mangamuka",
+            "Address": "4142 State Highway 1, RD 2, Mangamuka 0476",
+            "Day": "Monday 18 October",
+            "Times": "4:30 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Oct 12:00 pm"
+        },
         {
             "Location name": "SuperValue Titirangi",
             "Address": "429 Titirangi Road, Titirangi, Auckland 0604",
