@@ -1,7 +1,127 @@
 {
-    "size": 385,
-    "added": "2021-10-25 03:01:13.298962",
+    "size": 400,
+    "added": "2021-10-25 03:20:22.217738",
     "body": [
+        {
+            "Location name": "Countdown Kelston",
+            "Address": "Cnr Great North & West Road, Glen Eden, Auckland 0620",
+            "Day": "Saturday 23 October",
+            "Times": "10:47 am - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Mini mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Tuesday 19 October",
+            "Times": "10:00 am - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Life Pharmacy Takapuna",
+            "Address": "56 Anzac Street, Takapuna, Auckland 0622",
+            "Day": "Wednesday 20 October",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "McDonalds Otorohanga",
+            "Address": "117 Maniapoto Street, Otorohanga 3900",
+            "Day": "Thursday 21 October",
+            "Times": "6:00 pm - 7:25 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Te Awamutu",
+            "Address": "39 Rewi Street, Te Awamutu 3800",
+            "Day": "Thursday 21 October",
+            "Times": "11:30 am - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Mini mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Monday 18 October",
+            "Times": "10:00 am - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Life Pharmacy Takapuna",
+            "Address": "56 Anzac Street, Takapuna, Auckland 0622",
+            "Day": "Thursday 21 October",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Mini mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Wednesday 20 October",
+            "Times": "10:00 am - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Life Pharmacy Takapuna",
+            "Address": "56 Anzac Street, Takapuna, Auckland 0622",
+            "Day": "Friday 22 October",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Life Pharmacy Takapuna",
+            "Address": "56 Anzac Street, Takapuna, Auckland 0622",
+            "Day": "Tuesday 19 October",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Manurewa",
+            "Address": "227 Browns Road, Manurewa, Auckland 2102",
+            "Day": "Wednesday 13 October",
+            "Times": "10:30 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Henderson",
+            "Address": "7 Catherine Street, Henderson, Auckland 0612",
+            "Day": "Friday 22 October",
+            "Times": "2:36 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Mini mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Thursday 21 October",
+            "Times": "10:00 am - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Lynn Mall",
+            "Address": "3058 Great North Road, New Lynn, Auckland 0600",
+            "Day": "Saturday 23 October",
+            "Times": "2:39 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Mini mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Friday 22 October",
+            "Times": "10:00 am - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 4:00 pm"
+        },
         {
             "Location name": "Countdown Te Awamutu",
             "Address": "180 Sloane Street, Te Awamutu 3800",
