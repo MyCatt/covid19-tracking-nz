@@ -1,7 +1,23 @@
 {
-    "size": 383,
-    "added": "2021-10-25 01:01:45.050231",
+    "size": 385,
+    "added": "2021-10-25 01:20:36.695271",
     "body": [
+        {
+            "Location name": "Countdown Te Awamutu",
+            "Address": "180 Sloane Street, Te Awamutu 3800",
+            "Day": "Monday 18 October",
+            "Times": "9:00 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 2:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Otahuhu",
+            "Address": "33 Hall Avenue, Otahuhu, Auckland 1062",
+            "Day": "Thursday 21 October",
+            "Times": "11:00 am - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Oct 2:00 pm"
+        },
         {
             "Location name": "Bus 762, Glen Innes to Orakei",
             "Address": "Auckland",
