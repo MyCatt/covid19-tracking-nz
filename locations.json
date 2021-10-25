@@ -1,7 +1,47 @@
 {
-    "size": 387,
-    "added": "2021-10-25 21:40:12.429563",
+    "size": 388,
+    "added": "2021-10-25 22:00:37.628726",
     "body": [
+        {
+            "Location name": "Bus 762 Glen Innes to Orakei",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "6:00 pm - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 10:00 am"
+        },
+        {
+            "Location name": "Caltex Dominion Road",
+            "Address": "911 Dominion Road, Mount Roskill, Auckland 1041",
+            "Day": "Wednesday 20 October",
+            "Times": "10:15 am - 10:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 10:00 am"
+        },
+        {
+            "Location name": "Hillpark Bakery",
+            "Address": "75 Grande Vue Road, Hillpark, Auckland 2102",
+            "Day": "Wednesday 13 October",
+            "Times": "10:00 am - 10:10 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 10:00 am"
+        },
+        {
+            "Location name": "PlaceMakers Cook Street",
+            "Address": "106 Cook Street, Auckland Central, Auckland 1010",
+            "Day": "Friday 22 October",
+            "Times": "10:26 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 10:00 am"
+        },
+        {
+            "Location name": "Bus 762 Orakei to Glen Innes",
+            "Address": "Auckland",
+            "Day": "Friday 15 October",
+            "Times": "2:00 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 10:00 am"
+        },
         {
             "Location name": "Countdown Auckland Metro",
             "Address": "25 Victoria Street West, Auckland Central, Auckland 1010",
@@ -35,14 +75,6 @@
             "Updated": "25 Oct 6:00 pm"
         },
         {
-            "Location name": "Place Makers Cook Street",
-            "Address": "106 Cook Street, Auckland Central, Auckland 1010",
-            "Day": "Friday 22 October",
-            "Times": "10:26 am - 11:45 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 6:00 pm"
-        },
-        {
             "Location name": "PlaceMakers Cook Street",
             "Address": "106 Cook Street, Auckland Central, Auckland 1010",
             "Day": "Monday 18 October",
@@ -55,14 +87,6 @@
             "Address": "1 Avondale Road, Avondale, Auckland 1026",
             "Day": "Friday 22 October",
             "Times": "1:00 pm - 1:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 6:00 pm"
-        },
-        {
-            "Location name": "Hillpark Bakery",
-            "Address": "71 Grande Vue Road, Hillpark, Auckland 2102",
-            "Day": "Wednesday 13 October",
-            "Times": "10:00 am - 10:10 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Oct 6:00 pm"
         },
@@ -95,14 +119,6 @@
             "Address": "Corner Penrose Road and Mt Wellington Hwy, Mt Wellington, Auckland 1060",
             "Day": "Thursday 21 October",
             "Times": "8:47 pm - 10:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 6:00 pm"
-        },
-        {
-            "Location name": "Caltex Dominion Road",
-            "Address": "911 Dominion Road, Mount Roskill, Auckland 1041",
-            "Day": "Wednesday 20 October",
-            "Times": "10:15 am - 10:20 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Oct 6:00 pm"
         },
@@ -265,14 +281,6 @@
             "Times": "11:00 am - 5:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Oct 2:00 pm"
-        },
-        {
-            "Location name": "Bus 762, Glen Innes to Orakei",
-            "Address": "Auckland",
-            "Day": "Saturday 16 October",
-            "Times": "6:00 pm - 6:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 12:00 pm"
         },
         {
             "Location name": "Century Yuasa Batteries customers",
