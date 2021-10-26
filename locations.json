@@ -1,22 +1,38 @@
 {
-    "size": 393,
-    "added": "2021-10-26 23:20:16.721017",
+    "size": 395,
+    "added": "2021-10-26 23:40:13.358178",
     "body": [
         {
-            "Location name": "Countdown Kelston",
-            "Address": "Cnr Great North and West Coast Roads, Glen Eden, Auckland 0602",
-            "Day": "Sunday 24 October",
-            "Times": "9:00 am - 4:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 11:00 am"
-        },
-        {
-            "Location name": "Huapai Laundromat Kumeu",
+            "Location name": "Huapai Laundroma",
             "Address": "318 Main Road, Huapai, Kumeu 0810",
             "Day": "Thursday 21 October",
             "Times": "8:00 pm - 10:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 11:00 am"
+            "Updated": "27 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Kelston",
+            "Address": "Cnr Great North and West Coast Roads, Glen Eden, auckland 0602",
+            "Day": "Sunday 24 October",
+            "Times": "9:00 am - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Health Plus Pharmacy Manukau",
+            "Address": "578 Great South Road, Manukau, Auckland 2025",
+            "Day": "Wednesday 20 October",
+            "Times": "10:30 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Health New Lynn",
+            "Address": "1 McCrae Way, New Lynn, Auckland 0600",
+            "Day": "Friday 22 October",
+            "Times": "12:15 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 12:00 pm"
         },
         {
             "Location name": "Countdown Kelston",
