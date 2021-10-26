@@ -1,7 +1,55 @@
 {
-    "size": 388,
-    "added": "2021-10-26 01:20:23.333264",
+    "size": 394,
+    "added": "2021-10-26 01:40:16.733633",
     "body": [
+        {
+            "Location name": "Unichem Dawson Road Pharmacy Clover Park",
+            "Address": "124A Dawson Road, Clover Park, Auckland 2023",
+            "Day": "Friday 22 October",
+            "Times": "9:31 am - 10:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Butter Chicken House Clover Park",
+            "Address": "8/130 Dawson Road, Clover Park, Auckland 2023",
+            "Day": "Friday 22 October",
+            "Times": "9:37 am - 10:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 2:00 pm"
+        },
+        {
+            "Location name": "St Pierre's Sushi Mt Roskill",
+            "Address": "101/22 Stoddard Road, Wesley, Auckland 1041",
+            "Day": "Thursday 21 October",
+            "Times": "3:30 pm - 3:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Mobil Blockhouse Bay Avondale",
+            "Address": "262 Blockhouse Bay Road, Avondale, Auckland 0600",
+            "Day": "Monday 25 October",
+            "Times": "8:00 pm - 8:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Whangaparoa",
+            "Address": "Corner of Whangaparoa and Wade Drive, Whangaparoa, Auckland 0932",
+            "Day": "Friday 22 October",
+            "Times": "12:45 pm - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 2:00 pm"
+        },
+        {
+            "Location name": "New World Whangaparoa Stanmore Bay",
+            "Address": "580 Whangaparaoa Road, Stanmore Bay, Whangaparaoa 0932",
+            "Day": "Friday 22 October",
+            "Times": "12:30 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Oct 2:00 pm"
+        },
         {
             "Location name": "Bus 762 Glen Innes to Orakei",
             "Address": "Auckland",
