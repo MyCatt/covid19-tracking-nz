@@ -1,7 +1,87 @@
 {
-    "size": 400,
-    "added": "2021-10-27 03:00:39.557044",
+    "size": 410,
+    "added": "2021-10-27 03:20:18.604056",
     "body": [
+        {
+            "Location name": "Countdown Pt Chevalier",
+            "Address": "13 Point Chevalier Road, Point Chevalier, Auckland 1022",
+            "Day": "Tuesday 19 October",
+            "Times": "1:15 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Otahuhu",
+            "Address": "33 Hall Avenue, Otahuhu, Auckland 1062",
+            "Day": "Thursday 21 October",
+            "Times": "8:00 pm - 8:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "New World Eastridge",
+            "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
+            "Day": "Tuesday 19 October",
+            "Times": "8:15 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "New World Eastridge",
+            "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
+            "Day": "Sunday 24 October",
+            "Times": "4:30 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Sylvia Park",
+            "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+            "Day": "Monday 25 October",
+            "Times": "12:45 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Gull Henderson",
+            "Address": "150 Henderson Valley Road, Henderson, Auckland 0612",
+            "Day": "Tuesday 12 October",
+            "Times": "3:45 pm - 4:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Glen Eden",
+            "Address": "142 West Coast Road, Glen Eden, Auckland 0602",
+            "Day": "Saturday 23 October",
+            "Times": "7:00 pm - 7:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "GAS Chartwell",
+            "Address": "39 Chartwell Avenue, Glenfield, Auckland 0629",
+            "Day": "Wednesday 20 October",
+            "Times": "2:45 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Burger King Sunnybrae",
+            "Address": "3 Sunnybrae Road, Hillcrest, Auckland 0627",
+            "Day": "Wednesday 20 October",
+            "Times": "11:15 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
+        {
+            "Location name": "McDonalds Northcote",
+            "Address": "3 Akoranga Drive, Northcote, Auckland 0627",
+            "Day": "Thursday 21 October",
+            "Times": "11:15 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 4:00 pm"
+        },
         {
             "Location name": "Gull Petrol Henderson",
             "Address": "150 Henderson Valley Road, Henderson, Auckland 0612",
