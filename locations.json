@@ -1,7 +1,31 @@
 {
-    "size": 398,
-    "added": "2021-10-27 21:40:13.436832",
+    "size": 397,
+    "added": "2021-10-27 22:00:52.376341",
     "body": [
+        {
+            "Location name": "Chemist Warehouse Albany",
+            "Address": "140 Don McKinnon Drive, Albany, Auckland 0632",
+            "Day": "Friday 22 October",
+            "Times": "1:30 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 10:00 am"
+        },
+        {
+            "Location name": "Pak'nSave Clarence Street Hamilton Lake",
+            "Address": "Clarence Street, Hamilton Lake, Hamilton 3204",
+            "Day": "Thursday 21 October",
+            "Times": "9:30 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 10:00 am"
+        },
+        {
+            "Location name": "Countdown Grey Lynn",
+            "Address": "271 Richmond Road, Grey Lynn, Auckland 1022",
+            "Day": "Monday 25 October",
+            "Times": "10:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 10:00 am"
+        },
         {
             "Location name": "New World Eastridge",
             "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
@@ -75,14 +99,6 @@
             "Updated": "27 Oct 6:00 pm"
         },
         {
-            "Location name": "Chemist Warehouse Albany",
-            "Address": "Albany Mega Centre, 140 Don McKinnon Drive, Albany, Auckland 0632",
-            "Day": "Friday 22 October",
-            "Times": "1:30 pm - 2:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 6:00 pm"
-        },
-        {
             "Location name": "Countdown Pt Chevalier",
             "Address": "13 Point Chevalier Road, Point Chevalier, Auckland 1022",
             "Day": "Tuesday 19 October",
@@ -135,22 +151,6 @@
             "Address": "39 Chartwell Avenue, Glenfield, Auckland 0629",
             "Day": "Wednesday 20 October",
             "Times": "2:45 pm - 4:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Burger King Sunnybrae",
-            "Address": "3 Sunnybrae Road, Hillcrest, Auckland 0627",
-            "Day": "Wednesday 20 October",
-            "Times": "11:15 am - 12:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 4:00 pm"
-        },
-        {
-            "Location name": "McDonalds Northcote",
-            "Address": "3 Akoranga Drive, Northcote, Auckland 0627",
-            "Day": "Thursday 21 October",
-            "Times": "11:15 am - 1:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Oct 4:00 pm"
         },
@@ -375,14 +375,6 @@
             "Address": "423 Roscommon Road, Clendon Park, Auckland 2103",
             "Day": "Wednesday 20 October",
             "Times": "12:00 pm - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "26 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Unichem Te Awamutu",
-            "Address": "220 Bank Street, Te Awamutu 3800",
-            "Day": "Thursday 21 October",
-            "Times": "10:45 am - 11:35 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "26 Oct 4:00 pm"
         },
