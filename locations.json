@@ -1,7 +1,87 @@
 {
-    "size": 410,
-    "added": "2021-10-27 05:00:43.407963",
+    "size": 419,
+    "added": "2021-10-27 05:20:23.450686",
     "body": [
+        {
+            "Location name": "New World Eastridge",
+            "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
+            "Day": "Sunday 24 October",
+            "Times": "3:00 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "New World Remuera",
+            "Address": "10 Clonbern Road, Remuera, Auckland 1050",
+            "Day": "Sunday 24 October",
+            "Times": "2:45 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Royal Oak",
+            "Address": "691 Manukau Road, Royal Oak, Auckland 1023",
+            "Day": "Wednesday 20 October",
+            "Times": "6:00 pm - 7:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Westgate",
+            "Address": "17 Fred Taylor Drive, Westgate, Auckland 0814",
+            "Day": "Tuesday 19 October",
+            "Times": "10:30 am - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Henderson",
+            "Address": "Alderman Drive, Henderson, Auckland 0612",
+            "Day": "Thursday 21 October",
+            "Times": "6:00 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Train Eastern Line Fleet AMA103 from Orakei to Britomart",
+            "Address": "Auckland",
+            "Day": "Thursday 21 October",
+            "Times": "2:30 pm - 2:46 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Train Eastern Line Fleet AMP945 from Orakei to Britomart",
+            "Address": "Auckland",
+            "Day": "Wednesday 20 October",
+            "Times": "3:30 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Train Eastern Line Fleet AMT714 from Orakei to Britomart",
+            "Address": "Auckland",
+            "Day": "Friday 22 October",
+            "Times": "3:03 pm - 3:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Train Eastern Line Fleet AM945 Britomart to Orakei",
+            "Address": "Auckland",
+            "Day": "Wednesday 20 October",
+            "Times": "5:30 am - 5:41 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Albany",
+            "Address": "Albany Mega Centre, 140 Don McKinnon Drive, Albany, Auckland 0632",
+            "Day": "Friday 22 October",
+            "Times": "1:30 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 6:00 pm"
+        },
         {
             "Location name": "Countdown Pt Chevalier",
             "Address": "13 Point Chevalier Road, Point Chevalier, Auckland 1022",
@@ -23,14 +103,6 @@
             "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
             "Day": "Tuesday 19 October",
             "Times": "8:15 pm - 10:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 4:00 pm"
-        },
-        {
-            "Location name": "New World Eastridge",
-            "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
-            "Day": "Sunday 24 October",
-            "Times": "4:30 pm - 5:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Oct 4:00 pm"
         },
