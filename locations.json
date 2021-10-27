@@ -1,7 +1,47 @@
 {
-    "size": 395,
-    "added": "2021-10-27 01:00:59.592112",
+    "size": 400,
+    "added": "2021-10-27 01:20:25.845669",
     "body": [
+        {
+            "Location name": "Gull Petrol Henderson",
+            "Address": "150 Henderson Valley Road, Henderson, Auckland 0612",
+            "Day": "Sunday 17 October",
+            "Times": "10:00 am - 10:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Warehouse Stationery Lincoln Road",
+            "Address": "1/111 Lincoln Road, Henderson, Auckland 0610",
+            "Day": "Thursday 14 October",
+            "Times": "12:00 pm - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Wendy's Hamburgers Mount Eden",
+            "Address": "197 Dominion Road, Mount Eden, Auckland 1024",
+            "Day": "Tuesday 19 October",
+            "Times": "5:15 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Mobil St Lukes",
+            "Address": "51 St Lukes Road, Mount Albert, Auckland 1025",
+            "Day": "Wednesday 13 October",
+            "Times": "12:15 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Auckland Airport",
+            "Address": "Corner George Bolt Memorial Drive and John Goulter Drive, Mangere, Auckland 2022",
+            "Day": "Wednesday 20 October",
+            "Times": "3:00 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Oct 2:00 pm"
+        },
         {
             "Location name": "Huapai Laundroma",
             "Address": "318 Main Road, Huapai, Kumeu 0810",
