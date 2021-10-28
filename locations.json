@@ -1,7 +1,31 @@
 {
-    "size": 389,
-    "added": "2021-10-28 23:00:48.008274",
+    "size": 391,
+    "added": "2021-10-28 23:20:18.353656",
     "body": [
+        {
+            "Location name": "Bus 983 Hibiscus Coast Station To Gulf Harbour Via Vipond Rd",
+            "Address": "AD-19339240",
+            "Day": "Friday 22 October",
+            "Times": "12:54 pm - 12:57 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Glenfield",
+            "Address": "Cnr Bentley Ave &, Glenfield Road, Glenfield, Auckland 0629",
+            "Day": "Tuesday 19 October",
+            "Times": "11:00 am - 11:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Bus 982 Gulf Harbour to Hibiscus Coast Station",
+            "Address": "AD-19339240",
+            "Day": "Friday 22 October",
+            "Times": "1:10 pm - 1:40 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "29 Oct 12:00 pm"
+        },
         {
             "Location name": "New World Bishopdale",
             "Address": "41 Bishopdale Court, Bishopdale, Christchurch 8503",
@@ -175,14 +199,6 @@
             "Address": "385 Main South Road, Hornby, Christchurch 8042",
             "Day": "Monday 18 October",
             "Times": "12:45 pm - 1:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Waimairi Takeaway Bryndwr",
-            "Address": "255 Greers Road, Bryndwr, Christchurch 8053",
-            "Day": "Saturday 23 October",
-            "Times": "4:15 pm - 5:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "28 Oct 4:00 pm"
         },
