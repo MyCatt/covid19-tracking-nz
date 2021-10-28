@@ -1,7 +1,95 @@
 {
-    "size": 396,
-    "added": "2021-10-28 01:40:23.214522",
+    "size": 406,
+    "added": "2021-10-28 02:01:12.194899",
     "body": [
+        {
+            "Location name": "Train Eastern Line Fleet AM945 Britomart to Orakei",
+            "Address": "Auckland 2104",
+            "Day": "Wednesday 20 October",
+            "Times": "5:46 am - 5:52 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Kens Takeaways Bishopdale",
+            "Address": "245 Sawyers Arms Road, Bishopdale, Christchurch 8053",
+            "Day": "Wednesday 27 October",
+            "Times": "4:00 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Burger King Curletts Rd Sockburn",
+            "Address": "68 Curletts Road, Sockburn, Christchurch 8042",
+            "Day": "Monday 18 October",
+            "Times": "4:30 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "The Mad Dairy Hornby",
+            "Address": "389 Main South Road, Hornby, Christchurch 8042",
+            "Day": "Monday 18 October",
+            "Times": "12:45 pm - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Lynnmall New Lynn",
+            "Address": "1737 Great North Road, Avondale, Auckland 1026",
+            "Day": "Saturday 23 October",
+            "Times": "11:00 am - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Kims Corner Dairy Bryndwr",
+            "Address": "257 Greers Road, Bryndwr, Christchurch 8053",
+            "Day": "Saturday 23 October",
+            "Times": "4:30 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "New World Bishopdale",
+            "Address": "41 Bishopdale Court, Bishopdale, Christchurch 8053",
+            "Day": "Monday 25 October",
+            "Times": "11:30 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Caltex Blenheim Road Riccarton",
+            "Address": "149 Blenheim Road, Riccarton, Christchurch 8041",
+            "Day": "Wednesday 20 October",
+            "Times": "5:45 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Pannell Discounter Wainoni",
+            "Address": "22 Wainoni Road, Wainoni, Christchurch 8061",
+            "Day": "Friday 22 October",
+            "Times": "1:00 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Try's Bakery Islington",
+            "Address": "733 Main South Road, Islington, Christchurch 8042",
+            "Day": "Wednesday 20 October",
+            "Times": "7:30 am - 8:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Supervalue Fendalton Village",
+            "Address": "376 Ilam Road, Bryndwr, Christchurch 8053",
+            "Day": "Monday 18 October",
+            "Times": "6:45 pm - 7:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 2:00 pm"
+        },
         {
             "Location name": "New World Remuera",
             "Address": "10 Clonbern Road, Remuera, Auckland 1050",
@@ -79,14 +167,6 @@
             "Address": "Auckland 2104",
             "Day": "Monday 18 October",
             "Times": "12:30 pm - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Train Eastern Line Fleet AM945 Britomart to Orakei",
-            "Address": "Auckland 2104",
-            "Day": "Wednesday 20 October",
-            "Times": "5:30 am - 5:41 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "28 Oct 12:00 pm"
         },
