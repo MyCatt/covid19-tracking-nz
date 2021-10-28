@@ -1,14 +1,198 @@
 {
-    "size": 406,
-    "added": "2021-10-28 03:00:47.073525",
+    "size": 418,
+    "added": "2021-10-28 03:20:22.577450",
     "body": [
         {
+            "Location name": "Bus 901 Fleet 1340 Smales Farm to Constellation Station via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "11:00 am - 11:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 1344 Constellation Station to Smales Farm via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "8:30 am - 8:47 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 1332 Smales Farm to Constellation Station via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "9:00 am - 9:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 1346 Constellation Station to Smales Farm via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Saturday 16 October",
+            "Times": "12:30 pm - 12:50 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Train Southern Line from Homai to Britomart",
+            "Address": "Auckland",
+            "Day": "Tuesday 12 October",
+            "Times": "4:00 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 1349 Smales Farm to Constellation Station via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Monday 18 October",
+            "Times": "11:00 am - 11:20 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Bus 901 Fleet 1334 Constellation Station to Smales Farm via Wairau Road",
+            "Address": "Auckland",
+            "Day": "Monday 18 October",
+            "Times": "10:30 am - 10:50 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Bus 361 Westfield Manukau City to Otara Library",
+            "Address": "Auckland",
+            "Day": "Monday 18 October",
+            "Times": "12:30 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
             "Location name": "Train Eastern Line Fleet AM945 Britomart to Orakei",
-            "Address": "Auckland 2104",
+            "Address": "Auckland",
             "Day": "Wednesday 20 October",
             "Times": "5:46 am - 5:52 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 2:00 pm"
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Train Eastern Line Fleet AMA103 from Orakei to Britomart",
+            "Address": "Auckland",
+            "Day": "Thursday 21 October",
+            "Times": "2:30 pm - 2:46 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Train Eastern Line Fleet AMP945 from Orakei to Britomart",
+            "Address": "Auckland",
+            "Day": "Wednesday 20 October",
+            "Times": "3:30 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Train Eastern Line Fleet AMT714 from Orakei to Britomart",
+            "Address": "Auckland",
+            "Day": "Friday 22 October",
+            "Times": "3:03 pm - 3:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Z Curletts Rd Sockburn",
+            "Address": "68 Curletts Road, Sockburn, Christchurch 8042",
+            "Day": "Monday 18 October",
+            "Times": "5:00 pm - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Gloucester & Stanmore Corner Dairy Linwood",
+            "Address": "108D Stanmore Road, Linwood, Christchurch 8011",
+            "Day": "Wednesday 20 October",
+            "Times": "6:00 pm - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Pak n Save Mangere",
+            "Address": "44 Orly Avenue, Mangere, Auckland 2022",
+            "Day": "Wednesday 13 October",
+            "Times": "1:30 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "West Liquor Westside",
+            "Address": "264 Swanson Road, Henderson, Auckland 0610",
+            "Day": "Saturday 23 October",
+            "Times": "4:35 pm - 4:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Hepburn Superettee Glendene",
+            "Address": "2 Phelps Place, Glendene, Auckland 0602",
+            "Day": "Tuesday 26 October",
+            "Times": "3:05 pm - 3:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "West Liquor Glendene",
+            "Address": "224 Great North Road, Glendene, Auckland 0612",
+            "Day": "Tuesday 26 October",
+            "Times": "2:26 pm - 2:31 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Manhattan Superette Glendene",
+            "Address": "4/1 Thornlow Street, Glendene, Auckland 0602",
+            "Day": "Tuesday 26 October",
+            "Times": "2:59 pm - 3:05 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Hornby Chinese Takeaways",
+            "Address": "385 Main South Road, Hornby, Christchurch 8042",
+            "Day": "Monday 18 October",
+            "Times": "12:45 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Waimairi Takeaway Bryndwr",
+            "Address": "255 Greers Road, Bryndwr, Christchurch 8053",
+            "Day": "Saturday 23 October",
+            "Times": "4:15 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Lincoln Road",
+            "Address": "185 Universal Drive, Henderson, Auckland 0610",
+            "Day": "Tuesday 26 October",
+            "Times": "11:20 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "New World Eastridge Mission Bay",
+            "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
+            "Day": "Saturday 23 October",
+            "Times": "2:30 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere East",
+            "Address": "359 Massey Road, Mangere East, Auckland 2024",
+            "Day": "Saturday 16 October",
+            "Times": "6:40 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Oct 4:00 pm"
         },
         {
             "Location name": "Kens Takeaways Bishopdale",
@@ -107,98 +291,10 @@
             "Updated": "28 Oct 12:00 pm"
         },
         {
-            "Location name": "Bus 901 Fleet 1340 Smales Farm to Constellation Station via Wairau Road",
-            "Address": "Auckland 2104",
-            "Day": "Saturday 16 October",
-            "Times": "11:00 am - 11:20 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Bus 901 Fleet 1344 Constellation Station to Smales Farm via Wairau Road",
-            "Address": "Auckland 2104",
-            "Day": "Saturday 16 October",
-            "Times": "8:30 am - 8:47 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Bus 901 Fleet 1332 Smales Farm to Constellation Station via Wairau Road",
-            "Address": "Auckland 2104",
-            "Day": "Saturday 16 October",
-            "Times": "9:00 am - 9:20 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Bus 901 Fleet 1346 Constellation Station to Smales Farm via Wairau Road",
-            "Address": "Auckland 2104",
-            "Day": "Saturday 16 October",
-            "Times": "12:30 pm - 12:50 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Train Southern Line from Homai to Britomart",
-            "Address": "Auckland 2104",
-            "Day": "Tuesday 12 October",
-            "Times": "4:00 pm - 5:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Bus 901 Fleet 1349 Smales Farm to Constellation Station via Wairau Road",
-            "Address": "Auckland 2104",
-            "Day": "Monday 18 October",
-            "Times": "11:00 am - 11:20 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Bus 901 Fleet 1334 Constellation Station to Smales Farm via Wairau Road",
-            "Address": "Auckland 2104",
-            "Day": "Monday 18 October",
-            "Times": "10:30 am - 10:50 am",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Bus 361 Westfield Manukau City to Otara Library",
-            "Address": "Auckland 2104",
-            "Day": "Monday 18 October",
-            "Times": "12:30 pm - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
             "Location name": "Unichem Bairds Pharmacy Otara",
             "Address": "3 Watford Street, Otara, Auckland 2023",
             "Day": "Sunday 24 October",
             "Times": "8:15 pm - 8:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Train Eastern Line Fleet AMA103 from Orakei to Britomart",
-            "Address": "Auckland 2104",
-            "Day": "Thursday 21 October",
-            "Times": "2:30 pm - 2:46 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Train Eastern Line Fleet AMP945 from Orakei to Britomart",
-            "Address": "Auckland 2104",
-            "Day": "Wednesday 20 October",
-            "Times": "3:30 pm - 3:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "28 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Train Eastern Line Fleet AMT714 from Orakei to Britomart",
-            "Address": "Auckland 2104",
-            "Day": "Friday 22 October",
-            "Times": "3:03 pm - 3:20 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "28 Oct 12:00 pm"
         },
