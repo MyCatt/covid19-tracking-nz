@@ -1,14 +1,70 @@
 {
-    "size": 391,
-    "added": "2021-10-29 01:01:05.490956",
+    "size": 397,
+    "added": "2021-10-29 01:20:20.832565",
     "body": [
         {
             "Location name": "Bus 983 Hibiscus Coast Station To Gulf Harbour Via Vipond Rd",
             "Address": "Auckland",
             "Day": "Friday 22 October",
-            "Times": "12:54 pm - 1:00 pm",
+            "Times": "12:54 pm - 12:57 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "29 Oct 12:00 pm"
+            "Updated": "29 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Bus 982 Gulf Harbour to Hibiscus Coast Station",
+            "Address": "Auckland",
+            "Day": "Friday 22 October",
+            "Times": "1:10 pm - 1:40 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "29 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Mini Mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Tuesday 26 October",
+            "Times": "11:00 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Christchurch Bus Interchange",
+            "Address": "Cnr Lichfield St and Colombo Street, Christchurch Central City, Christchurch 8011",
+            "Day": "Wednesday 20 October",
+            "Times": "2:15 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 2:00 pm"
+        },
+        {
+            "Location name": "West Liquor Hobsonville",
+            "Address": "124 Hobsonville Road, Hobsonville, Auckland 0618",
+            "Day": "Saturday 23 October",
+            "Times": "9:35 am - 10:51 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Hobsonville",
+            "Address": "124 Hobsonville Road, Hobsonville, Auckland 0618",
+            "Day": "Saturday 23 October",
+            "Times": "8:55 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Apex Automotive Services Wairau Valley",
+            "Address": "6/27 Porana Road, Wairau Valley, Auckland 0627",
+            "Day": "Friday 22 October",
+            "Times": "3:30 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Gold Star Bakery Hillcrest",
+            "Address": "49 Sunnybrae Road, Hillcrest, Auckland 0627",
+            "Day": "Friday 22 October",
+            "Times": "11:15 am - 12:29 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Oct 2:00 pm"
         },
         {
             "Location name": "Countdown Glenfield",
@@ -16,14 +72,6 @@
             "Day": "Tuesday 19 October",
             "Times": "11:00 am - 11:40 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "29 Oct 12:00 pm"
-        },
-        {
-            "Location name": "Bus 982 Gulf Harbour to Hibiscus Coast Station",
-            "Address": "Auckland",
-            "Day": "Friday 22 October",
-            "Times": "1:10 pm - 1:45 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "29 Oct 12:00 pm"
         },
         {
