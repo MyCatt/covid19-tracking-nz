@@ -1,7 +1,31 @@
 {
-    "size": 412,
-    "added": "2021-10-29 23:00:49.201157",
+    "size": 414,
+    "added": "2021-10-29 23:20:24.487840",
     "body": [
+        {
+            "Location name": "Kawakawa Bay Boat Ramp Kawakawa Bay",
+            "Address": "86 Kawakawa Bay Coast Road, RD 5, Papakura 2585",
+            "Day": "Monday 25 October",
+            "Times": "5:30 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 12:00 pm"
+        },
+        {
+            "Location name": "FreshChoice Ranui",
+            "Address": "433 Swanson Road, Ranui, Auckland 0612",
+            "Day": "Monday 25 October",
+            "Times": "12:00 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 12:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Te Awamutu",
+            "Address": "670 Cambridge Road, Te Awamutu 3800",
+            "Day": "Sunday 24 October",
+            "Times": "6:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 12:00 pm"
+        },
         {
             "Location name": "Taiping Asian Supermarket Flat Bush",
             "Address": "16 Bishop Dunn Place, Flat Bush, Auckland 2013",
@@ -207,14 +231,6 @@
             "Address": "243 Manukau Road, Pukekohe 2120",
             "Day": "Friday 22 October",
             "Times": "9:00 am - 6:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "29 Oct 5:00 pm"
-        },
-        {
-            "Location name": "Kawakawa Bay Kawakawa",
-            "Address": "86 Kawakawa Bay Coast Road, RD 5, Papakura 2585",
-            "Day": "Monday 25 October",
-            "Times": "5:30 am - 11:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "29 Oct 5:00 pm"
         },
