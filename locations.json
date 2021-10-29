@@ -1,12 +1,12 @@
 {
     "size": 391,
-    "added": "2021-10-29 00:01:01.084775",
+    "added": "2021-10-29 00:20:19.933851",
     "body": [
         {
             "Location name": "Bus 983 Hibiscus Coast Station To Gulf Harbour Via Vipond Rd",
-            "Address": "AD-19339240",
+            "Address": "Auckland",
             "Day": "Friday 22 October",
-            "Times": "12:54 pm - 12:57 pm",
+            "Times": "12:54 pm - 1:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "29 Oct 12:00 pm"
         },
@@ -20,9 +20,9 @@
         },
         {
             "Location name": "Bus 982 Gulf Harbour to Hibiscus Coast Station",
-            "Address": "AD-19339240",
+            "Address": "Auckland",
             "Day": "Friday 22 October",
-            "Times": "1:10 pm - 1:40 pm",
+            "Times": "1:10 pm - 1:45 pm",
             "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
             "Updated": "29 Oct 12:00 pm"
         },
