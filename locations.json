@@ -1,7 +1,15 @@
 {
     "size": 414,
-    "added": "2021-10-29 23:20:24.487840",
+    "added": "2021-10-29 23:40:16.584537",
     "body": [
+        {
+            "Location name": "Thai Heng Fresh Market Papakura",
+            "Address": "36 O'Shannessey Street, Papakura, Papakura 2110",
+            "Day": "Wednesday 27 October",
+            "Times": "3:00 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 12:00 pm"
+        },
         {
             "Location name": "Kawakawa Bay Boat Ramp Kawakawa Bay",
             "Address": "86 Kawakawa Bay Coast Road, RD 5, Papakura 2585",
@@ -31,14 +39,6 @@
             "Address": "16 Bishop Dunn Place, Flat Bush, Auckland 2013",
             "Day": "Monday 25 October",
             "Times": "10:10 am - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "30 Oct 10:00 am"
-        },
-        {
-            "Location name": "Thai Heng Fresh Market Papakura",
-            "Address": "36 O'Shannessey Street, Papakura, Papakura 2110",
-            "Day": "Monday 27 September",
-            "Times": "3:00 pm - 3:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "30 Oct 10:00 am"
         },
