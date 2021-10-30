@@ -1,7 +1,47 @@
 {
-    "size": 434,
-    "added": "2021-10-30 05:00:50.986896",
+    "size": 439,
+    "added": "2021-10-30 05:20:28.915740",
     "body": [
+        {
+            "Location name": "Z Te Awamutu",
+            "Address": "601 Sloane Street, Te Awamutu 3800",
+            "Day": "Friday 22 October",
+            "Times": "7:00 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 6:00 pm"
+        },
+        {
+            "Location name": "J Swap Osterns Quarry Otorohanga",
+            "Address": "890 Otorohanga Road, RD 3, Te Awamutu 3873",
+            "Day": "Tuesday 26 October",
+            "Times": "12:00 pm - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Kaiwaka Food Mart Kaiwaka",
+            "Address": "1919 State Highway 1, RD 2, Kaiwaka 0573",
+            "Day": "Tuesday 26 October",
+            "Times": "7:11 am - 8:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Whangarei",
+            "Address": "Whangarei Retail Centre Okara Drive, Whangarei, Whangarei 0110",
+            "Day": "Wednesday 20 October",
+            "Times": "10:22 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 6:00 pm"
+        },
+        {
+            "Location name": "Mangawhai Beach School Office Mangawhai",
+            "Address": "34 Insley Street, Mangawhai 0505",
+            "Day": "Thursday 21 October",
+            "Times": "1:51 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Oct 6:00 pm"
+        },
         {
             "Location name": "Socials Coffee Takanini",
             "Address": "7 Tironui Road, Takanini, Takanini 2112",
