@@ -1,7 +1,47 @@
 {
-    "size": 403,
-    "added": "2021-10-30 21:00:47.980483",
+    "size": 408,
+    "added": "2021-10-30 21:20:17.016129",
     "body": [
+        {
+            "Location name": "Four Square Fairfield",
+            "Address": "1030 Heaphy Terrace, Fairfield, Hamilton 3214",
+            "Day": "Wednesday 27 October",
+            "Times": "9:00 am - 9:25 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 10:00 am"
+        },
+        {
+            "Location name": "Four Square Hillcrest",
+            "Address": "271 Clyde Street, Hamilton East, Hamilton 3216",
+            "Day": "Monday 25 October",
+            "Times": "2:20 pm - 2:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 10:00 am"
+        },
+        {
+            "Location name": "Four Square Fairfield",
+            "Address": "1030 Heaphy Terrace, Fairfield, Hamilton 3214",
+            "Day": "Monday 25 October",
+            "Times": "2:30 pm - 2:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 10:00 am"
+        },
+        {
+            "Location name": "J Swap Osterns Quarry Otorohanga",
+            "Address": "890 Otorohanga Road, RD 3, Te Awamutu 3873",
+            "Day": "Tuesday 26 October",
+            "Times": "10:45 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 10:00 am"
+        },
+        {
+            "Location name": "Otorohanga Mini Mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Sunday 24 October",
+            "Times": "11:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 10:00 am"
+        },
         {
             "Location name": "Z Te Awamutu",
             "Address": "601 Sloane Street, Te Awamutu 3800",
