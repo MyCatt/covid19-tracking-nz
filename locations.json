@@ -1,7 +1,87 @@
 {
-    "size": 377,
-    "added": "2021-10-31 21:00:48.578700",
+    "size": 387,
+    "added": "2021-10-31 21:20:16.857323",
     "body": [
+        {
+            "Location name": "Kawhia General Store",
+            "Address": "29 Jervois Street, RD 1, Kawhia 3889",
+            "Day": "Saturday 23 October",
+            "Times": "7:00 am - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Kawhia Hotel",
+            "Address": "811 Pouewe Street, RD 1, Kawhia 3889",
+            "Day": "Monday 25 October",
+            "Times": "4:00 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "SuperValue Ngaruawahia",
+            "Address": "150 Great South Road, Ngaruawahia 3720",
+            "Day": "Saturday 30 October",
+            "Times": "5:30 pm - 7:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Pak'nSave Clendon Clendon Park",
+            "Address": "16 Robert Ross Place, Clendon Park, Auckland 2103",
+            "Day": "Wednesday 27 October",
+            "Times": "10:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Nawton",
+            "Address": "Cnr Grandview Drive & Hyde Avenue, Hamilton, Hamilton 3200",
+            "Day": "Saturday 23 October",
+            "Times": "4:37 pm - 5:53 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Melville Price Cutter",
+            "Address": "17 Bader Street, Bader, Hamilton 3206",
+            "Day": "Thursday 28 October",
+            "Times": "11:50 am - 12:29 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Kiwi Fresh Hamilton",
+            "Address": "15 Bader Street, Bader, Hamilton 3206",
+            "Day": "Thursday 28 October",
+            "Times": "11:16 am - 11:55 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Nawton",
+            "Address": "Cnr Grandview Drive & Hyde Avenue, Hamilton, Hamilton 3200",
+            "Day": "Thursday 28 October",
+            "Times": "4:49 pm - 5:49 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Kawhia Motors",
+            "Address": "709 Pouewe Street, RD 1, Kawhia 3889",
+            "Day": "Friday 22 October",
+            "Times": "7:00 am - 11:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
+        {
+            "Location name": "Oparau Roadhouse",
+            "Address": "4370 Kawhia Road, RD 8, Te Awamutu 3878",
+            "Day": "Sunday 24 October",
+            "Times": "7:00 am - 11:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 10:00 am"
+        },
         {
             "Location name": "Sonny's Takeaways Otorohanga",
             "Address": "76 Maniapoto Street, Otorohanga 3900",
