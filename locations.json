@@ -1,7 +1,39 @@
 {
-    "size": 408,
-    "added": "2021-10-31 01:00:51.436820",
+    "size": 412,
+    "added": "2021-10-31 01:20:24.516124",
     "body": [
+        {
+            "Location name": "Sonny's Takeaways Otorohanga",
+            "Address": "76 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "6:45 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Jaques Four Square Kaiwaka",
+            "Address": "1 Kaiwaka-Mangawhai Road, RD 5, Wellsford 0975",
+            "Day": "Tuesday 19 October",
+            "Times": "8:45 am - 10:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 2:00 pm"
+        },
+        {
+            "Location name": "Wash and Save Laundromat Ranui",
+            "Address": "419 Swanson Road, Ranui, Auckland 0612",
+            "Day": "Sunday 24 October",
+            "Times": "3:00 pm - 5:00 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "31 Oct 2:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Whangarei",
+            "Address": "42 Port Road, Whangarei, Whangarei 0110",
+            "Day": "Wednesday 20 October",
+            "Times": "9:05 am - 10:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "31 Oct 2:00 pm"
+        },
         {
             "Location name": "Four Square Fairfield",
             "Address": "1030 Heaphy Terrace, Fairfield, Hamilton 3214",
