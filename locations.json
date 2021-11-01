@@ -1,7 +1,15 @@
 {
     "size": 388,
-    "added": "2021-11-01 05:00:53.744437",
+    "added": "2021-11-01 05:20:21.111179",
     "body": [
+        {
+            "Location name": "Countdown Lynnmall New Lynn",
+            "Address": "32/3058 Great North Road, New Lynn, Auckland 0600",
+            "Day": "Saturday 16 October",
+            "Times": "8:04 pm - 8:24 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 6:00 pm"
+        },
         {
             "Location name": "Flying Horse Chinese Takeaway and Noodles",
             "Address": "87 Maniapoto Street, Otorohanga 3900",
@@ -2641,14 +2649,6 @@
             "Times": "1:54 pm - 2:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "21 Oct 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Lynnmall New Lynn",
-            "Address": "3058 Great North Road, New Lynn, Auckland 0600",
-            "Day": "Sunday 10 October",
-            "Times": "8:39 pm - 9:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "21 Oct 4:00 pm"
         },
         {
             "Location name": "New World Victoria Park",
