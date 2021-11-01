@@ -1,7 +1,15 @@
 {
     "size": 388,
-    "added": "2021-11-01 03:00:44.500386",
+    "added": "2021-11-01 03:20:21.481545",
     "body": [
+        {
+            "Location name": "Flying Horse Chinese Takeaway and Noodles",
+            "Address": "87 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "7:00 pm - 7:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 4:00 pm"
+        },
         {
             "Location name": "Ngaruawahia Pharmacy",
             "Address": "23 Jesmond Street, Ngaruawahia 3720",
@@ -89,14 +97,6 @@
             "Times": "7:00 am - 11:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "1 Nov 10:00 am"
-        },
-        {
-            "Location name": "Sonny's Takeaways Otorohanga",
-            "Address": "76 Maniapoto Street, Otorohanga 3900",
-            "Day": "Wednesday 27 October",
-            "Times": "6:45 pm - 7:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "31 Oct 2:00 pm"
         },
         {
             "Location name": "Jaques Four Square Kaiwaka",
