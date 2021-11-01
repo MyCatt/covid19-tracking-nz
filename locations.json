@@ -1,7 +1,15 @@
 {
-    "size": 360,
-    "added": "2021-11-01 23:20:21.310062",
+    "size": 361,
+    "added": "2021-11-01 23:40:18.724200",
     "body": [
+        {
+            "Location name": "Countdown Nawton",
+            "Address": "Cnr Grandview Drive & Hyde Avenue, Nawton, Hamilton 3200",
+            "Day": "Tuesday 26 October",
+            "Times": "6:15 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 12:00 pm"
+        },
         {
             "Location name": "Pak'nSave Manukau",
             "Address": "6 Cavendish Drive, Manukau, Auckland 2104",
