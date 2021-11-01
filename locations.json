@@ -1,7 +1,15 @@
 {
-    "size": 387,
-    "added": "2021-11-01 01:00:55.008452",
+    "size": 388,
+    "added": "2021-11-01 01:20:29.886387",
     "body": [
+        {
+            "Location name": "Ngaruawahia Pharmacy",
+            "Address": "23 Jesmond Street, Ngaruawahia 3720",
+            "Day": "Friday 29 October",
+            "Times": "3:10 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Nov 2:00 pm"
+        },
         {
             "Location name": "Kawhia General Store",
             "Address": "29 Jervois Street, RD 1, Kawhia 3889",
