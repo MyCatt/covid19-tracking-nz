@@ -1,7 +1,31 @@
 {
-    "size": 361,
-    "added": "2021-11-02 01:01:23.222379",
+    "size": 364,
+    "added": "2021-11-02 01:20:31.537494",
     "body": [
+        {
+            "Location name": "The Awanui Hotel Awanui",
+            "Address": "Corner Collard St and State Highway 1, Awanui, 0486",
+            "Day": "Sunday 31 October",
+            "Times": "5:30 pm - 7:30 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "2 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Farmers Kaitaia",
+            "Address": "115 Commerce Street, Kaitaia 0410",
+            "Day": "Friday 29 October",
+            "Times": "12:21 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Bells Produce Kaitaia",
+            "Address": "77 North Road, Kaitaia 0410",
+            "Day": "Saturday 30 October",
+            "Times": "11:55 am - 12:05 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 2:00 pm"
+        },
         {
             "Location name": "Countdown Nawton",
             "Address": "Cnr Grandview Drive & Hyde Avenue, Nawton, Hamilton 3200",
