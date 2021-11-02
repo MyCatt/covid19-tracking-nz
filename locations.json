@@ -1,7 +1,31 @@
 {
-    "size": 370,
-    "added": "2021-11-02 05:01:06.488258",
+    "size": 373,
+    "added": "2021-11-02 05:20:22.199157",
     "body": [
+        {
+            "Location name": "Wendy's Hamburgers Frankton",
+            "Address": "10 Greenwood Street, Frankton, Hamilton 3204",
+            "Day": "Saturday 23 October",
+            "Times": "2:15 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Manaaki on 25 Cafe Kaitaia",
+            "Address": "25 Commerce Street, Kaitaia 0410",
+            "Day": "Friday 29 October",
+            "Times": "8:00 am - 8:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Butchery & Home Kill Service",
+            "Address": "15 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "12:45 pm - 12:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 6:00 pm"
+        },
         {
             "Location name": "Bells Produce Kaitaia",
             "Address": "77 North Road, Kaitaia 0410",
