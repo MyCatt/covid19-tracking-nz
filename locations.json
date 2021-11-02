@@ -1,7 +1,63 @@
 {
-    "size": 364,
-    "added": "2021-11-02 03:20:23.425420",
+    "size": 370,
+    "added": "2021-11-02 03:40:16.457377",
     "body": [
+        {
+            "Location name": "Bells Produce Kaitaia",
+            "Address": "77 North Road, Kaitaia 0410",
+            "Day": "Saturday 30 October",
+            "Times": "10:45 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Village Green Bakery & Cafe",
+            "Address": "44 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "12:40 pm - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Bunnings Silverdale",
+            "Address": "18 Hibiscus Coast Highway, Silverdale, Silverdale 0932",
+            "Day": "Thursday 28 October",
+            "Times": "8:15 am - 9:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Four Square Parakai",
+            "Address": "137 Parkhurst Road, Parakai 0830",
+            "Day": "Friday 29 October",
+            "Times": "7:45 am - 8:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Otorohanga",
+            "Address": "119 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "3:00 pm - 3:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Otorohanga",
+            "Address": "119 Maniapoto Street, Otorohanga 3900",
+            "Day": "Sunday 24 October",
+            "Times": "8:15 am - 8:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Country & Fresh Fruits Vege Market",
+            "Address": "73 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "12:35 pm - 12:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "2 Nov 4:00 pm"
+        },
         {
             "Location name": "The Awanui Hotel Awanui",
             "Address": "Corner Collard St and State Highway 1, Awanui, 0486",
@@ -15,14 +71,6 @@
             "Address": "115 Commerce Street, Kaitaia 0410",
             "Day": "Friday 29 October",
             "Times": "12:21 pm - 1:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Nov 2:00 pm"
-        },
-        {
-            "Location name": "Bells Produce Kaitaia",
-            "Address": "77 North Road, Kaitaia 0410",
-            "Day": "Saturday 30 October",
-            "Times": "11:55 am - 12:05 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Nov 2:00 pm"
         },
