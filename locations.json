@@ -1,7 +1,63 @@
 {
-    "size": 337,
-    "added": "2021-11-03 05:00:44.406726",
+    "size": 344,
+    "added": "2021-11-03 05:20:24.391616",
     "body": [
+        {
+            "Location name": "Pak'nSave Te Awamutu",
+            "Address": "650 Cambridge Road, Te Awamutu 3800",
+            "Day": "Friday 29 October",
+            "Times": "5:15 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Chatsfield Superette Te Awamutu",
+            "Address": "1117 Te Rahu Road, Te Awamutu 3800",
+            "Day": "Thursday 28 October",
+            "Times": "10:00 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Te Awamutu",
+            "Address": "180 Sloane Street, Te Awamutu, Te Awamutu 3800",
+            "Day": "Sunday 31 October",
+            "Times": "11:20 am - 12:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Dinsdale Hamilton",
+            "Address": "47 Whatawhata Road, Dinsdale, Hamilton 3204",
+            "Day": "Monday 1 November",
+            "Times": "8:08 am - 9:08 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Nov 6:00 pm"
+        },
+        {
+            "Location name": "College Superette Te Awamutu",
+            "Address": "943 Alexandra Street, Te Awamutu 3800",
+            "Day": "Sunday 31 October",
+            "Times": "8:20 am - 9:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Hautapu Country Store Lotto & Postal Services Tamahere",
+            "Address": "17A Hautapu Road, RD 1, Cambridge 3493",
+            "Day": "Wednesday 27 October",
+            "Times": "1:45 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Dinsdale Hamilton",
+            "Address": "47 Whatawhata Road, Dinsdale, Hamilton 3204",
+            "Day": "Saturday 30 October",
+            "Times": "8:00 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "3 Nov 6:00 pm"
+        },
         {
             "Location name": "Urlich Ave Dairy Hamilton",
             "Address": "16 Urlich Avenue, Melville, Hamilton 3206",
