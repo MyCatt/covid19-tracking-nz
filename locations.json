@@ -1,7 +1,47 @@
 {
-    "size": 326,
-    "added": "2021-11-04 05:00:50.242945",
+    "size": 331,
+    "added": "2021-11-04 05:20:24.583418",
     "body": [
+        {
+            "Location name": "BP Rosedale",
+            "Address": "52 Rosedale Road, Rosedale, Auckland 0632",
+            "Day": "Wednesday 3 November",
+            "Times": "3:15 am - 3:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Mobil Kaitaia",
+            "Address": "3 South Road, Kaitaia 0410",
+            "Day": "Monday 1 November",
+            "Times": "8:30 am - 9:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve",
+            "Updated": "4 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere Mall",
+            "Address": "Bader Drive, Mangere, Auckland 2022",
+            "Day": "Wednesday 27 October",
+            "Times": "11:30 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Pak n Save Whangarei",
+            "Address": "Walton Street, Whangarei 0110",
+            "Day": "Monday 1 November",
+            "Times": "11:45 am - 1:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Liquor Land Whangarei Central",
+            "Address": "2/18 Carruth Street, Whangarei 0110",
+            "Day": "Monday 1 November",
+            "Times": "12:00 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "4 Nov 6:00 pm"
+        },
         {
             "Location name": "Quick 'N' Clean Laundromat",
             "Address": "16 Princess Street, Takanini 2112",
