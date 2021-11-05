@@ -1,14 +1,118 @@
 {
-    "size": 297,
-    "added": "2021-11-05 01:20:35.407897",
+    "size": 307,
+    "added": "2021-11-05 01:40:21.984458",
     "body": [
+        {
+            "Location name": "The Awanui Hotel Awanui",
+            "Address": "Corner Collard St and State Highway 1, Awanui, 0486",
+            "Day": "Sunday 31 October",
+            "Times": "5:30 pm - 7:30 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Mangere Mall",
+            "Address": "Bader Drive, Mangere, Auckland 2022",
+            "Day": "Wednesday 27 October",
+            "Times": "10:30 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Pak n Save Whangarei",
+            "Address": "Walton Street, Whangarei 0110",
+            "Day": "Monday 1 November",
+            "Times": "10:45 am - 1:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
         {
             "Location name": "Jins NZ Ltd (Fruit and vege store inside H-Mart)",
             "Address": "42 Paramount Drive, Henderson, Auckland 0610",
             "Day": "Saturday 30 October",
+            "Times": "9:30 am - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Jins NZ Ltd (Fruit and vege store inside H-Mart)",
+            "Address": "42 Paramount Drive, Henderson, Auckland 0610",
+            "Day": "Wednesday 3 November",
             "Times": "9:30 am - 12:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "5 Nov 10:00 am"
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Cambridge Apartments",
+            "Address": "43 Anzac Avenue, Auckland Central, Auckland 1010",
+            "Day": "Sunday 31 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Cambridge Apartments",
+            "Address": "43 Anzac Avenue, Auckland Central, Auckland 1010",
+            "Day": "Tuesday 2 November",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Cambridge Apartments",
+            "Address": "43 Anzac Avenue, Auckland Central, Auckland 1010",
+            "Day": "Monday 1 November",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Cambridge Apartments",
+            "Address": "43 Anzac Avenue, Auckland Central, Auckland 1010",
+            "Day": "Friday 29 October",
+            "Times": "9:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "GAS Avalon Drive Hamilton",
+            "Address": "34 Avalon Drive, Nawton, Hamilton 3200",
+            "Day": "Saturday 30 October",
+            "Times": "7:45 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Jins NZ Ltd (Fruit and vege store inside H-Mart)",
+            "Address": "42 Paramount Drive, Henderson, Auckland 0610",
+            "Day": "Tuesday 2 November",
+            "Times": "9:30 am - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Jins NZ Ltd (Fruit and vege store inside H-Mart)",
+            "Address": "42 Paramount Drive, Henderson, Auckland 0610",
+            "Day": "Monday 1 November",
+            "Times": "9:30 am - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Cambridge Apartments",
+            "Address": "43 Anzac Avenue, Auckland Central, Auckland 1010",
+            "Day": "Saturday 30 October",
+            "Times": "12:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Cambridge Apartments",
+            "Address": "43 Anzac Avenue, Auckland Central, Auckland 1010",
+            "Day": "Wednesday 3 November",
+            "Times": "12:00 am - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 2:00 pm"
         },
         {
             "Location name": "BP Rosedale",
@@ -24,22 +128,6 @@
             "Day": "Monday 1 November",
             "Times": "8:30 am - 9:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve",
-            "Updated": "4 Nov 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Mangere Mall",
-            "Address": "Bader Drive, Mangere, Auckland 2022",
-            "Day": "Wednesday 27 October",
-            "Times": "11:30 am - 1:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "4 Nov 6:00 pm"
-        },
-        {
-            "Location name": "Pak n Save Whangarei",
-            "Address": "Walton Street, Whangarei 0110",
-            "Day": "Monday 1 November",
-            "Times": "11:45 am - 1:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "4 Nov 6:00 pm"
         },
         {
@@ -233,14 +321,6 @@
             "Times": "12:35 pm - 12:40 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Nov 4:00 pm"
-        },
-        {
-            "Location name": "The Awanui Hotel Awanui",
-            "Address": "Corner Collard St and State Highway 1, Awanui, 0486",
-            "Day": "Sunday 31 October",
-            "Times": "5:30 pm - 7:30 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "2 Nov 2:00 pm"
         },
         {
             "Location name": "Farmers Kaitaia",
