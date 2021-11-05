@@ -1,7 +1,23 @@
 {
-    "size": 307,
-    "added": "2021-11-05 05:00:53.040226",
+    "size": 309,
+    "added": "2021-11-05 05:20:21.060087",
     "body": [
+        {
+            "Location name": "Countdown Te Awamutu",
+            "Address": "180 Sloane Street, Te Awamutu 3800",
+            "Day": "Sunday 31 October",
+            "Times": "2:45 pm - 3:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Pak N Save Te Awamutu",
+            "Address": "670 Cambridge Road, Te Awamutu 3800",
+            "Day": "Sunday 31 October",
+            "Times": "1:45 pm - 3:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "5 Nov 6:00 pm"
+        },
         {
             "Location name": "The Awanui Hotel Awanui",
             "Address": "Corner Collard St and State Highway 1, Awanui, 0486",
