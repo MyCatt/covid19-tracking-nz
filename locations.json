@@ -1,7 +1,15 @@
 {
-    "size": 267,
-    "added": "2021-11-06 03:00:49.398227",
+    "size": 268,
+    "added": "2021-11-06 03:20:23.184380",
     "body": [
+        {
+            "Location name": "Chemist Warehouse The Base Te Rapa",
+            "Address": "Cnr Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Sunday 31 October",
+            "Times": "2:20 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "6 Nov 4:00 pm"
+        },
         {
             "Location name": "Countdown Te Awamutu",
             "Address": "180 Sloane Street, Te Awamutu 3800",
