@@ -1,7 +1,39 @@
 {
-    "size": 223,
-    "added": "2021-11-07 03:00:51.382195",
+    "size": 227,
+    "added": "2021-11-07 03:20:23.010055",
     "body": [
+        {
+            "Location name": "Pak'nSave Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Monday 1 November",
+            "Times": "12:45 pm - 10:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Hamilton Lake",
+            "Address": "85 Clarence Street, Hamilton Lake, Hamilton 3204",
+            "Day": "Friday 5 November",
+            "Times": "2:15 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Wednesday 3 November",
+            "Times": "10:45 am - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Tuesday 2 November",
+            "Times": "10:45 am - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 4:00 pm"
+        },
         {
             "Location name": "Omni Tech The Base",
             "Address": "Shop K12, The Base, Te Rapa Road, Northgate, Hamilton 3200",
