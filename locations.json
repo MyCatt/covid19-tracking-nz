@@ -1,7 +1,15 @@
 {
     "size": 227,
-    "added": "2021-11-07 05:00:57.092685",
+    "added": "2021-11-07 05:20:22.372649",
     "body": [
+        {
+            "Location name": "Pak'nSave Hamilton Lake",
+            "Address": "85 Clarence Street, Hamilton Lake, Hamilton 3204",
+            "Day": "Friday 5 November",
+            "Times": "8:00 pm - 9:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 6:00 pm"
+        },
         {
             "Location name": "Pak'nSave Whitiora",
             "Address": "17 Mill Street, Whitiora, Hamilton 3200",
@@ -391,14 +399,6 @@
             "Address": "137 Parkhurst Road, Parakai 0830",
             "Day": "Friday 29 October",
             "Times": "7:45 am - 8:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Nov 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Otorohanga",
-            "Address": "119 Maniapoto Street, Otorohanga 3900",
-            "Day": "Wednesday 27 October",
-            "Times": "3:00 pm - 3:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Nov 4:00 pm"
         },
