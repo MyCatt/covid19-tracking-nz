@@ -1,7 +1,47 @@
 {
-    "size": 218,
-    "added": "2021-11-07 01:01:01.683132",
+    "size": 223,
+    "added": "2021-11-07 01:20:27.563180",
     "body": [
+        {
+            "Location name": "Omni Tech The Base",
+            "Address": "Shop K12, The Base, Te Rapa Road, Northgate, Hamilton 3200",
+            "Day": "Friday 5 November",
+            "Times": "11:30 am - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 2:00 pm"
+        },
+        {
+            "Location name": "PAK'nSAVE Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Sunday 31 October",
+            "Times": "10:45 am - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 2:00 pm"
+        },
+        {
+            "Location name": "HappyTel The Base",
+            "Address": "K-08B The Base Shopping Centre Cnr Te Rapa Road & Wairere Drive, Northgate, Hamilton 3200",
+            "Day": "Friday 5 November",
+            "Times": "11:45 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 2:00 pm"
+        },
+        {
+            "Location name": "EB Games The Base",
+            "Address": "Shop S102A, The Base, The Base Parade, Hamilton 3200",
+            "Day": "Friday 5 November",
+            "Times": "12:10 pm - 1:25 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Typo The Base",
+            "Address": "Shop R23 Te Awa The Base, Te Rapa Road & Wairere Drive, Hamilton 3200",
+            "Day": "Friday 5 November",
+            "Times": "11:30 am - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "7 Nov 2:00 pm"
+        },
         {
             "Location name": "Chemist Warehouse The Base Te Rapa",
             "Address": "Cnr Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
