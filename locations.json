@@ -1,7 +1,15 @@
 {
-    "size": 187,
-    "added": "2021-11-08 05:00:57.788564",
+    "size": 188,
+    "added": "2021-11-08 05:20:21.052400",
     "body": [
+        {
+            "Location name": "Warehouse Stationery Whangarei",
+            "Address": "42 Port Road, Whangarei 0110",
+            "Day": "Thursday 4 November",
+            "Times": "2:40 pm - 2:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Nov 6:00 pm"
+        },
         {
             "Location name": "Chemist Warehouse Westgate",
             "Address": "32 Maki Street, Westgate, Auckland 0814",
