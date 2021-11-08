@@ -1,7 +1,47 @@
 {
-    "size": 193,
-    "added": "2021-11-08 01:40:22.412195",
+    "size": 187,
+    "added": "2021-11-08 02:01:09.895536",
     "body": [
+        {
+            "Location name": "Chemist Warehouse Westgate",
+            "Address": "32 Maki Street, Westgate, Auckland 0814",
+            "Day": "Tuesday 2 November",
+            "Times": "12:30 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Westgate",
+            "Address": "32 Maki Street, Westgate, Auckland 0814",
+            "Day": "Thursday 4 November",
+            "Times": "10:00 am - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Katsubi The Base Shopping Centre Hamilton",
+            "Address": "Te Rapa Road &, Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Friday 5 November",
+            "Times": "2:35 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Nov 2:00 pm"
+        },
+        {
+            "Location name": "EB Games The Base",
+            "Address": "Cnr Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Friday 5 November",
+            "Times": "3:00 pm - 4:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Westgate",
+            "Address": "32 Maki Street, Westgate, Auckland 0814",
+            "Day": "Wednesday 3 November",
+            "Times": "12:30 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "8 Nov 2:00 pm"
+        },
         {
             "Location name": "Inspire45 Bootcamp Henderson",
             "Address": "7 Catherine Street, Henderson, Auckland 0612",
@@ -803,14 +843,6 @@
             "Updated": "30 Oct 10:00 am"
         },
         {
-            "Location name": "Drivesure Vehicle Testing Cascades Pakuranga",
-            "Address": "139 Cascades Road, Pakuranga Heights, Auckland 2010",
-            "Day": "Tuesday 26 October",
-            "Times": "3:55 pm - 4:05 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "30 Oct 10:00 am"
-        },
-        {
             "Location name": "Cracka Jack Dairy Glen Innes",
             "Address": "129 Line Road, Glen Innes, Auckland 1072",
             "Day": "Monday 25 October",
@@ -1051,22 +1083,6 @@
             "Updated": "29 Oct 5:00 pm"
         },
         {
-            "Location name": "Bus 983 Hibiscus Coast Station To Gulf Harbour Via Vipond Rd",
-            "Address": "Auckland",
-            "Day": "Friday 22 October",
-            "Times": "12:54 pm - 12:57 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "29 Oct 2:00 pm"
-        },
-        {
-            "Location name": "Bus 982 Gulf Harbour to Hibiscus Coast Station",
-            "Address": "Auckland",
-            "Day": "Friday 22 October",
-            "Times": "1:10 pm - 1:40 pm",
-            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
-            "Updated": "29 Oct 2:00 pm"
-        },
-        {
             "Location name": "Otorohanga Mini Mart",
             "Address": "24 Turongo Street, Otorohanga 3900",
             "Day": "Tuesday 26 October",
@@ -1219,14 +1235,6 @@
             "Updated": "28 Oct 10:00 am"
         },
         {
-            "Location name": "New World Eastridge",
-            "Address": "209 Kepa Road, Mission Bay, Auckland 1071",
-            "Day": "Sunday 24 October",
-            "Times": "3:00 pm - 5:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 6:00 pm"
-        },
-        {
             "Location name": "Pak'nSave Sylvia Park",
             "Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
             "Day": "Monday 25 October",
@@ -1241,14 +1249,6 @@
             "Times": "7:00 pm - 7:10 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "27 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Kelston",
-            "Address": "Cnr Great North and West Coast Roads, Glen Eden, auckland 0602",
-            "Day": "Sunday 24 October",
-            "Times": "9:00 am - 4:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Oct 12:00 pm"
         },
         {
             "Location name": "Health New Lynn",
@@ -1273,22 +1273,6 @@
             "Times": "8:56 am - 9:15 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "26 Oct 6:00 pm"
-        },
-        {
-            "Location name": "New World Whangaparaoa Stanmore Bay",
-            "Address": "580 Whangaparaoa Road, Stanmore Bay, Whangaparaoa 0932",
-            "Day": "Friday 22 October",
-            "Times": "12:30 pm - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "26 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Whangaparaoa",
-            "Address": "Corner of Whangaparoa and Wade Drive, Whangaparaoa, Auckland 0932",
-            "Day": "Friday 22 October",
-            "Times": "12:45 pm - 1:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "26 Oct 4:00 pm"
         },
         {
             "Location name": "Countdown Blockhouse Bay",
@@ -1371,14 +1355,6 @@
             "Updated": "25 Oct 6:00 pm"
         },
         {
-            "Location name": "Avondale Superette",
-            "Address": "1 Avondale Road, Avondale, Auckland 1026",
-            "Day": "Friday 22 October",
-            "Times": "1:00 pm - 1:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 6:00 pm"
-        },
-        {
             "Location name": "Lim Chhour Supermarket",
             "Address": "184 Karangahape Road, Auckland Central, Auckland 1010",
             "Day": "Friday 22 October",
@@ -1395,34 +1371,10 @@
             "Updated": "25 Oct 6:00 pm"
         },
         {
-            "Location name": "Countdown Kelston",
-            "Address": "Cnr Great North & West Road, Glen Eden, Auckland 0620",
-            "Day": "Saturday 23 October",
-            "Times": "10:47 am - 12:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 4:00 pm"
-        },
-        {
             "Location name": "Life Pharmacy Takapuna",
             "Address": "56 Anzac Street, Takapuna, Auckland 0622",
             "Day": "Friday 22 October",
             "Times": "9:00 am - 10:00 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Henderson",
-            "Address": "7 Catherine Street, Henderson, Auckland 0612",
-            "Day": "Friday 22 October",
-            "Times": "2:36 pm - 4:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Oct 4:00 pm"
-        },
-        {
-            "Location name": "Chemist Warehouse Lynn Mall",
-            "Address": "3058 Great North Road, New Lynn, Auckland 0600",
-            "Day": "Saturday 23 October",
-            "Times": "2:39 pm - 4:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "25 Oct 4:00 pm"
         },
