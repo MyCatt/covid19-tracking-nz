@@ -1,7 +1,23 @@
 {
-    "size": 134,
-    "added": "2021-11-10 03:01:03.054456",
+    "size": 136,
+    "added": "2021-11-10 03:20:21.523774",
     "body": [
+        {
+            "Location name": "Mitre 10 Mega Te Awamutu",
+            "Address": "14/670 Cambridge Road, Te Awamutu, Te Awamutu 3800",
+            "Day": "Thursday 4 November",
+            "Times": "2:35 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Paper Plus & Toyworld Te Awamutu",
+            "Address": "55 Arawata Street, Te Awamutu 3800",
+            "Day": "Thursday 4 November",
+            "Times": "3:30 pm - 4:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Nov 4:00 pm"
+        },
         {
             "Location name": "Pak'nSave Te Awamutu",
             "Address": "670 Cambridge Road, Te Awamutu 3800",
