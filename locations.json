@@ -1,7 +1,15 @@
 {
-    "size": 133,
-    "added": "2021-11-10 01:01:05.936528",
+    "size": 134,
+    "added": "2021-11-10 01:20:24.035736",
     "body": [
+        {
+            "Location name": "Pak'nSave Te Awamutu",
+            "Address": "670 Cambridge Road, Te Awamutu 3800",
+            "Day": "Monday 8 November",
+            "Times": "10:20 am - 11:50 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "10 Nov 2:00 pm"
+        },
         {
             "Location name": "Countdown Otorohanga",
             "Address": "123 Maniapoto Street, Otorohanga 3900",
