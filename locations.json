@@ -1,7 +1,87 @@
 {
-    "size": 127,
-    "added": "2021-11-10 21:00:39.670539",
+    "size": 136,
+    "added": "2021-11-10 21:20:16.287113",
     "body": [
+        {
+            "Location name": "NZ Farmers Livestock Ltd Te Kuiti",
+            "Address": "8 Cotter Street, Te Kuiti 3910",
+            "Day": "Friday 29 October",
+            "Times": "11:08 am - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Ahipara Superette, Kaitaia",
+            "Address": "4 Takahe Road, RD 1, Kaitaia 0481",
+            "Day": "Monday 8 November",
+            "Times": "3:29 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Pak'nSave Kaitaia",
+            "Address": "111 North Road, Kaitaia, Kaitaia 0410",
+            "Day": "Monday 8 November",
+            "Times": "11:58 am - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Otorohanga",
+            "Address": "119 Maniapoto Street, Otorohanga, Otorohanga 3900",
+            "Day": "Thursday 4 November",
+            "Times": "6:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Otorohanga",
+            "Address": "119 Maniapoto Street, Otorohanga, Otorohanga 3900",
+            "Day": "Sunday 7 November",
+            "Times": "3:30 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Otorohanga",
+            "Address": "119 Maniapoto Street, Otorohanga, Otorohanga 3900",
+            "Day": "Thursday 4 November",
+            "Times": "2:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Otorohanga",
+            "Address": "119 Maniapoto Street, Otorohanga, Otorohanga 3900",
+            "Day": "Thursday 4 November",
+            "Times": "5:45 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown St James Hamilton",
+            "Address": "Cnr Hukunui & Thomas Rds, Rototuna, Hamilton 3210",
+            "Day": "Sunday 7 November",
+            "Times": "3:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "Shackleton's Kaitaia Pharmacy, Kaitaia",
+            "Address": "91 Commerce Street, Kaitaia 0410",
+            "Day": "Monday 8 November",
+            "Times": "12:09 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
+        {
+            "Location name": "The Warehouse, Dargaville",
+            "Address": "149 Victoria Street, Dargaville 0310",
+            "Day": "Friday 5 November",
+            "Times": "11:00 am - 12:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 10:00 am"
+        },
         {
             "Location name": "Countdown St James Hamilton",
             "Address": "Cnr Hukunui & Thomas Rds, Rototuna, Hamilton 3210, New Zealand, Rototuna, Hamilton 3210",
@@ -23,14 +103,6 @@
             "Address": "220 Bank Street, Te Awamutu 3800",
             "Day": "Tuesday 2 November",
             "Times": "2:10 pm - 2:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Nov 6:00 pm"
-        },
-        {
-            "Location name": "NZ Farmers Livestock Ltd Te Kuiti",
-            "Address": "43 Cotter Street, Te Kuiti 3910",
-            "Day": "Friday 29 October",
-            "Times": "11:08 am - 3:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "10 Nov 6:00 pm"
         },
