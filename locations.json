@@ -1,7 +1,15 @@
 {
-    "size": 136,
-    "added": "2021-11-11 01:01:18.753636",
+    "size": 137,
+    "added": "2021-11-11 01:20:31.481920",
     "body": [
+        {
+            "Location name": "Countdown Dargaville, Dargaville Plaza",
+            "Address": "Dargaville Plaza, Victoria Street, Dargaville, 0310",
+            "Day": "Friday 5 November",
+            "Times": "12:00 pm - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 2:00 pm"
+        },
         {
             "Location name": "NZ Farmers Livestock Ltd Te Kuiti",
             "Address": "8 Cotter Street, Te Kuiti 3910",
