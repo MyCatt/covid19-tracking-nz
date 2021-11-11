@@ -1,7 +1,31 @@
 {
-    "size": 137,
-    "added": "2021-11-11 05:00:45.482791",
+    "size": 140,
+    "added": "2021-11-11 05:20:22.067931",
     "body": [
+        {
+            "Location name": "Fairfield Pharmacy",
+            "Address": "1007 Heaphy Terrace, Fairfield, Hamilton 3214",
+            "Day": "Monday 1 November",
+            "Times": "3:45 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Unichem Takanini Pharmacy",
+            "Address": "3/226 Great South Road, Takanini, Takanini 2112",
+            "Day": "Sunday 7 November",
+            "Times": "12:52 pm - 1:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Thirsty Liquor Otorohanga",
+            "Address": "144 Maniapoto Street, Otorohanga 3900",
+            "Day": "Thursday 4 November",
+            "Times": "6:45 pm - 7:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 6:00 pm"
+        },
         {
             "Location name": "Flying Horse Chinese Takeaway and Noodles, Otorohanga",
             "Address": "87 Maniapoto Street, Otorohanga 3900",
