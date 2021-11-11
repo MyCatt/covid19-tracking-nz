@@ -1,7 +1,15 @@
 {
-    "size": 122,
-    "added": "2021-11-11 21:00:40.037236",
+    "size": 123,
+    "added": "2021-11-11 21:20:17.778236",
     "body": [
+        {
+            "Location name": "Kmart Te Rapa",
+            "Address": "11 -19 Karewa Place, Pukete, Hamilton 3200",
+            "Day": "Wednesday 3 November",
+            "Times": "3:15 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 10:00 am"
+        },
         {
             "Location name": "Fairfield Pharmacy",
             "Address": "1007 Heaphy Terrace, Fairfield, Hamilton 3214",
