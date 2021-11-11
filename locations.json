@@ -1,7 +1,31 @@
 {
     "size": 137,
-    "added": "2021-11-11 03:20:19.315275",
+    "added": "2021-11-11 03:40:17.964728",
     "body": [
+        {
+            "Location name": "Flying Horse Chinese Takeaway and Noodles, Otorohanga",
+            "Address": "87 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "7:00 pm - 7:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Village Green Bakery & Cafe, Otorohanga",
+            "Address": "44 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 27 October",
+            "Times": "12:40 pm - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Supa Choice Bakery, Takanaki",
+            "Address": "31 Manuroa Road, Takanini 2112",
+            "Day": "Wednesday 3 November",
+            "Times": "12:00 pm - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "11 Nov 4:00 pm"
+        },
         {
             "Location name": "Countdown Dargaville, Dargaville Plaza",
             "Address": "Dargaville Plaza, Victoria Street, Dargaville, 0310",
@@ -491,14 +515,6 @@
             "Updated": "4 Nov 12:00 pm"
         },
         {
-            "Location name": "Supa Choice Bakery",
-            "Address": "31 Manuroa Road, Takanini 2112",
-            "Day": "Wednesday 3 November",
-            "Times": "12:00 pm - 12:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "4 Nov 12:00 pm"
-        },
-        {
             "Location name": "Pak'nSave Te Awamutu",
             "Address": "670 Cambridge Road, Te Awamutu 3800",
             "Day": "Tuesday 2 November",
@@ -603,14 +619,6 @@
             "Updated": "2 Nov 4:00 pm"
         },
         {
-            "Location name": "Village Green Bakery & Cafe",
-            "Address": "44 Maniapoto Street, Otorohanga 3900",
-            "Day": "Wednesday 27 October",
-            "Times": "12:40 pm - 12:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "2 Nov 4:00 pm"
-        },
-        {
             "Location name": "Bunnings Silverdale",
             "Address": "18 Hibiscus Coast Highway, Silverdale, Silverdale 0932",
             "Day": "Thursday 28 October",
@@ -657,14 +665,6 @@
             "Times": "10:00 am - 6:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "2 Nov 10:00 am"
-        },
-        {
-            "Location name": "Flying Horse Chinese Takeaway and Noodles",
-            "Address": "87 Maniapoto Street, Otorohanga 3900",
-            "Day": "Wednesday 27 October",
-            "Times": "7:00 pm - 7:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "1 Nov 4:00 pm"
         },
         {
             "Location name": "Ngaruawahia Pharmacy",
