@@ -1,7 +1,55 @@
 {
-    "size": 130,
-    "added": "2021-11-12 01:01:06.864842",
+    "size": 136,
+    "added": "2021-11-12 01:20:35.504586",
     "body": [
+        {
+            "Location name": "Best Value Urlich Ave Dairy",
+            "Address": "6 Urlich Avenue, Melville, Hamilton 3206",
+            "Day": "Friday 5 November",
+            "Times": "1:45 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 2:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Hawera",
+            "Address": "275 High Street, Hawera 4610",
+            "Day": "Saturday 30 October",
+            "Times": "12:00 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Best Value Urlich Ave Dairy Melville",
+            "Address": "6 Urlich Avenue, Melville, Hamilton 3206",
+            "Day": "Wednesday 10 November",
+            "Times": "5:30 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 2:00 pm"
+        },
+        {
+            "Location name": "New World Stratford",
+            "Address": "124 Regan Street, Stratford 4332",
+            "Day": "Wednesday 3 November",
+            "Times": "9:00 am - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Stratford",
+            "Address": "21A Broadway, Stratford 4332",
+            "Day": "Wednesday 3 November",
+            "Times": "9:00 am - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Unichem Mackays Pharmacy Stratford",
+            "Address": "289 Broadway, Stratford 4332",
+            "Day": "Wednesday 3 November",
+            "Times": "9:00 am - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 2:00 pm"
+        },
         {
             "Location name": "Bunnings Warehouse Hawera",
             "Address": "175 Glover Road, Hawera 4610",
