@@ -1,7 +1,15 @@
 {
-    "size": 137,
-    "added": "2021-11-12 05:01:01.333774",
+    "size": 138,
+    "added": "2021-11-12 05:20:23.059744",
     "body": [
+        {
+            "Location name": "Pak'nSave Kaitaia",
+            "Address": "111 North Road, Kaitaia 0410",
+            "Day": "Monday 8 November",
+            "Times": "11:30 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 6:00 pm"
+        },
         {
             "Location name": "Pak'nSave Whitiora",
             "Address": "17 Mill Street, Whitiora, Hamilton 3200",
