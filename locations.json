@@ -1,7 +1,15 @@
 {
-    "size": 136,
-    "added": "2021-11-12 03:00:56.764827",
+    "size": 137,
+    "added": "2021-11-12 03:20:23.082022",
     "body": [
+        {
+            "Location name": "Pak'nSave Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Monday 8 November",
+            "Times": "11:00 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "12 Nov 4:00 pm"
+        },
         {
             "Location name": "Best Value Urlich Ave Dairy",
             "Address": "6 Urlich Avenue, Melville, Hamilton 3206",
