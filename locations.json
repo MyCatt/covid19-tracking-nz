@@ -1,7 +1,63 @@
 {
-    "size": 120,
-    "added": "2021-11-12 23:00:52.519908",
+    "size": 127,
+    "added": "2021-11-12 23:20:23.053169",
     "body": [
+        {
+            "Location name": "Katsubi The Base Te Rapa",
+            "Address": "Te Awa The Base, Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Saturday 6 November",
+            "Times": "11:00 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Stirling Sports Northgate",
+            "Address": "Te Awa The Base, 1 Maahanga Drive, Northgate, Hamilton 3200",
+            "Day": "Saturday 6 November",
+            "Times": "11:00 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Postie Westfield Manukau",
+            "Address": "Westfield Manukau City, 1 Leyton Way, Manukau, Auckland 2104",
+            "Day": "Wednesday 10 November",
+            "Times": "2:00 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Pagani Manukau",
+            "Address": "Westfield Manukau City, 1 Leyton Way, Manukau, Auckland 2104",
+            "Day": "Wednesday 10 November",
+            "Times": "2:30 pm - 4:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Glassons Te Rapa",
+            "Address": "Te Awa The Base, Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Saturday 6 November",
+            "Times": "11:00 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse The Base Te Rapa",
+            "Address": "Te Awa The Base, Te Rapa Road & Wairere Drive, Hamilton 3200",
+            "Day": "Saturday 6 November",
+            "Times": "11:00 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Foot Locker Te Rapa",
+            "Address": "Te Awa The Base, Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Saturday 6 November",
+            "Times": "11:00 am - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 12:00 pm"
+        },
         {
             "Location name": "North Beach Te Awa Mall Hamilton",
             "Address": "Corner Avalon Drive and Te Rapa Road, Te Rapa, Hamilton 3200",
