@@ -1,7 +1,23 @@
 {
-    "size": 127,
-    "added": "2021-11-13 01:40:18.456867",
+    "size": 129,
+    "added": "2021-11-13 02:00:55.059514",
     "body": [
+        {
+            "Location name": "Countdown Otorohanga",
+            "Address": "119 Maniapoto Street, Otorohanga, Otorohanga 3900",
+            "Day": "Tuesday 9 November",
+            "Times": "11:35 am - 12:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Unichem Pharmacy Otorohanga",
+            "Address": "55 Maniapoto Street, Otorohanga 3900",
+            "Day": "Monday 8 November",
+            "Times": "9:42 am - 10:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 2:00 pm"
+        },
         {
             "Location name": "Katsubi The Base Te Rapa",
             "Address": "Te Awa The Base, Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
