@@ -1,7 +1,87 @@
 {
-    "size": 133,
-    "added": "2021-11-13 07:00:53.383841",
+    "size": 143,
+    "added": "2021-11-13 07:20:21.880294",
     "body": [
+        {
+            "Location name": "Master Fried Chicken Lunch Bar Kuripuni",
+            "Address": "227 Chapel Street, Kuripuni, Masterton 5810",
+            "Day": "Sunday 7 November",
+            "Times": "7:45 am - 9:15 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Gull Petrol Taupo",
+            "Address": "106 Rifle Range Road, Taupo 3330",
+            "Day": "Sunday 7 November",
+            "Times": "7:00 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Challenge Petrol Station Greytown",
+            "Address": "230 Main Street, Greytown 5712",
+            "Day": "Saturday 6 November",
+            "Times": "1:55 pm - 4:10 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Masterton",
+            "Address": "Cnr Chapel and Russell Street, Masterton 5810",
+            "Day": "Saturday 6 November",
+            "Times": "8:00 am - 9:30 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "McDonalds Masterton",
+            "Address": "60 Chapel Street, Masterton 5810",
+            "Day": "Sunday 7 November",
+            "Times": "10:30 am - 12:45 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Sin City Taupo Strippers",
+            "Address": "18 Tuwharetoa Street, Taupo 3330",
+            "Day": "Thursday 11 November",
+            "Times": "8:00 pm - 11:59 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Pub and Grub Taupo",
+            "Address": "4 Roberts Street, Taupo 3330",
+            "Day": "Thursday 11 November",
+            "Times": "5:30 pm - 11:59 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Dbar Taupo",
+            "Address": "22 Tuwharetoa Street, Taupo 3330",
+            "Day": "Thursday 11 November",
+            "Times": "10:00 pm - 11:59 pm",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Sin City Taupo Strippers",
+            "Address": "18 Tuwharetoa Street, Taupo 3330",
+            "Day": "Friday 12 November",
+            "Times": "12:00 am - 3:30 am",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "13 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Dbar Taupo",
+            "Address": "22 Tuwharetoa Street, Taupo 3330",
+            "Day": "Friday 12 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate for 14 days after you were exposed at this location of interest. Test immediately, and 5 & 12 days after you were exposed.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "13 Nov 8:00 pm"
+        },
         {
             "Location name": "Otorohanga Minimart",
             "Address": "24 Turongo Street, Otorohanga 3900",
