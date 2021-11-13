@@ -1,7 +1,23 @@
 {
-    "size": 125,
-    "added": "2021-11-13 23:00:54.724911",
+    "size": 127,
+    "added": "2021-11-13 23:20:18.621516",
     "body": [
+        {
+            "Location name": "Pita Pitt Taupo",
+            "Address": "37 Horomatangi Street, Taupo 3330",
+            "Day": "Friday 12 November",
+            "Times": "11:45 am - 1:10 pm",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "14 Nov 12:00 pm"
+        },
+        {
+            "Location name": "McDonalds Otorohanga",
+            "Address": "117 Maniapoto Street, Otorohanga 3900",
+            "Day": "Wednesday 3 November",
+            "Times": "8:10 am - 9:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Nov 12:00 pm"
+        },
         {
             "Location name": "Master Fried Chicken Lunch Bar Kuripuni",
             "Address": "227 Chapel Street, Kuripuni, Masterton 5810",
