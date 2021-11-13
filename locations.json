@@ -1,7 +1,39 @@
 {
-    "size": 129,
-    "added": "2021-11-13 05:00:48.595955",
+    "size": 133,
+    "added": "2021-11-13 05:20:18.869917",
     "body": [
+        {
+            "Location name": "Otorohanga Minimart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Sunday 7 November",
+            "Times": "1:30 pm - 2:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Saturday 13 November",
+            "Times": "8:03 am - 9:05 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 6:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Te Kuiti",
+            "Address": "31 Rora Street, Te Kuiti 3910",
+            "Day": "Saturday 6 November",
+            "Times": "4:00 pm - 5:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 6:00 pm"
+        },
+        {
+            "Location name": "BP Connect Whitiora",
+            "Address": "Corner of Victoria Street & Ulster Street, Whitiora, Hamilton 3200",
+            "Day": "Saturday 13 November",
+            "Times": "7:40 am - 8:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "13 Nov 6:00 pm"
+        },
         {
             "Location name": "Countdown Otorohanga",
             "Address": "119 Maniapoto Street, Otorohanga, Otorohanga 3900",
