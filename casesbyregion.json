@@ -1,14 +1,14 @@
 {
     "size": 22,
-    "added": "2021-11-14 01:40:20.598937",
+    "added": "2021-11-14 02:00:59.061410",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "736",
-            "Recovered": "599",
+            "Active": "775",
+            "Recovered": "610",
             "Deceased": "3",
-            "Total": "1338",
-            "Change in last 24 hours": "42"
+            "Total": "1388",
+            "Change in last 24 hours": "50"
         },
         {
             "Location": "Bay of Plenty",
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "1229",
-            "Recovered": "1301",
+            "Active": "1283",
+            "Recovered": "1323",
             "Deceased": "3",
-            "Total": "2533",
-            "Change in last 24 hours": "87"
+            "Total": "2609",
+            "Change in last 24 hours": "76"
         },
         {
             "Location": "Hawke's Bay",
@@ -60,19 +60,19 @@
         },
         {
             "Location": "Lakes",
-            "Active": "1",
+            "Active": "5",
             "Recovered": "16",
             "Deceased": "0",
-            "Total": "17",
-            "Change in last 24 hours": "1"
+            "Total": "21",
+            "Change in last 24 hours": "4"
         },
         {
             "Location": "Mid Central",
-            "Active": "0",
+            "Active": "2",
             "Recovered": "33",
             "Deceased": "0",
-            "Total": "33",
-            "Change in last 24 hours": "0"
+            "Total": "35",
+            "Change in last 24 hours": "2"
         },
         {
             "Location": "Nelson Marlborough",
@@ -84,11 +84,11 @@
         },
         {
             "Location": "Northland",
-            "Active": "32",
+            "Active": "35",
             "Recovered": "37",
             "Deceased": "0",
-            "Total": "69",
-            "Change in last 24 hours": "2"
+            "Total": "72",
+            "Change in last 24 hours": "3"
         },
         {
             "Location": "South Canterbury",
@@ -116,19 +116,19 @@
         },
         {
             "Location": "Taranaki",
-            "Active": "6**",
+            "Active": "6",
             "Recovered": "16",
             "Deceased": "0",
             "Total": "22",
-            "Change in last 24 hours": "5"
+            "Change in last 24 hours": "0"
         },
         {
             "Location": "Waikato",
-            "Active": "144",
+            "Active": "151",
             "Recovered": "275",
             "Deceased": "2",
-            "Total": "421",
-            "Change in last 24 hours": "8"
+            "Total": "428",
+            "Change in last 24 hours": "7"
         },
         {
             "Location": "Wairarapa",
@@ -140,11 +140,11 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "1224",
-            "Recovered": "732",
+            "Active": "1277",
+            "Recovered": "744",
             "Deceased": "7",
-            "Total": "1963",
-            "Change in last 24 hours": "30"
+            "Total": "2028",
+            "Change in last 24 hours": "65"
         },
         {
             "Location": "West Coast",
@@ -164,19 +164,19 @@
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "33",
-            "Recovered": "1341",
+            "Active": "34",
+            "Recovered": "1343",
             "Deceased": "1",
-            "Total": "1375",
-            "Change in last 24 hours": "1"
+            "Total": "1378",
+            "Change in last 24 hours": "3"
         },
         {
             "Location": "Total",
-            "Active": "3406",
-            "Recovered": "5043",
+            "Active": "3569",
+            "Recovered": "5090",
             "Deceased": "33",
-            "Total": "8482",
-            "Change in last 24 hours": "176"
+            "Total": "8692",
+            "Change in last 24 hours": "210"
         }
     ]
 }
