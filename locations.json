@@ -1,7 +1,23 @@
 {
-    "size": 132,
-    "added": "2021-11-14 05:00:42.196458",
+    "size": 134,
+    "added": "2021-11-14 05:20:23.033443",
     "body": [
+        {
+            "Location name": "Otorohanga Mini Mart",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Thursday 11 November",
+            "Times": "2:54 pm - 4:04 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Sacred Heart Dargaville Parish",
+            "Address": "104 Hokianga Road, Dargaville 0310",
+            "Day": "Sunday 7 November",
+            "Times": "9:00 am - 10:30 am",
+            "What to do": "Stay at home, test immediately as well as 5 days after you were exposed at this location of interest. Please continue to stay at home until you receive a negative day 5 test result.",
+            "Updated": "14 Nov 6:00 pm"
+        },
         {
             "Location name": "The Warehouse Te Kuiti",
             "Address": "31 Rora Street, Te Kuiti 3910",
