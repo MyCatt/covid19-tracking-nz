@@ -1,7 +1,15 @@
 {
-    "size": 131,
-    "added": "2021-11-14 03:00:52.734191",
+    "size": 132,
+    "added": "2021-11-14 03:20:22.698056",
     "body": [
+        {
+            "Location name": "The Warehouse Te Kuiti",
+            "Address": "31 Rora Street, Te Kuiti 3910",
+            "Day": "Friday 5 November",
+            "Times": "6:39 pm - 7:21 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "14 Nov 4:00 pm"
+        },
         {
             "Location name": "Challenge Petrol Station Greytown",
             "Address": "230 Main Street, Greytown 5712",
