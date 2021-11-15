@@ -1,29 +1,29 @@
 {
     "size": 99,
-    "added": "2021-11-15 05:00:44.056065",
+    "added": "2021-11-15 05:20:19.681293",
     "body": [
+        {
+            "Location name": "Chemist Warehouse Ronwood Centre Manukau",
+            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
+            "Day": "Tuesday 9 November",
+            "Times": "10:00 am - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Chemist Warehouse Ronwood Centre Manukau",
+            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
+            "Day": "Wednesday 10 November",
+            "Times": "10:00 am - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "15 Nov 6:00 pm"
+        },
         {
             "Location name": "Main Entrance Waiting Area Rotorua Hospital",
             "Address": "Corner Arawa Street and Pukeroa Road, Rotorua 3010",
             "Day": "Saturday 13 November",
             "Times": "5:25 pm - 7:25 pm",
             "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "15 Nov 2:00 pm"
-        },
-        {
-            "Location name": "Chemist Warehouse Manukau",
-            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
-            "Day": "Tuesday 9 November",
-            "Times": "10:00 am - 6:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "15 Nov 2:00 pm"
-        },
-        {
-            "Location name": "Chemist Warehouse Manukau",
-            "Address": "5 Ronwood Avenue, Manukau, Auckland 2104",
-            "Day": "Wednesday 10 November",
-            "Times": "10:00 am - 2:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "15 Nov 2:00 pm"
         },
         {
