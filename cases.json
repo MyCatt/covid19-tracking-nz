@@ -1,13 +1,13 @@
 {
     "size": 1,
-    "added": "2021-11-16 00:00:51.496413",
+    "added": "2021-11-16 00:20:20.910210",
     "body": [
         {
-            "New cases reported during the past 24 hours": "174",
+            "New cases reported during the past 24 hours": "222",
             "At the border": "34",
-            "In the community": "3622",
+            "In the community": "3837",
             "Under investigation/other": "0",
-            "Total": "3656"
+            "Total": "3871"
         }
     ]
 }
