@@ -1,7 +1,15 @@
 {
-    "size": 90,
-    "added": "2021-11-18 23:00:52.515061",
+    "size": 91,
+    "added": "2021-11-18 23:20:22.377339",
     "body": [
+        {
+            "Location name": "Caltex Dargaville",
+            "Address": "Cnr Normanby Street & Victoria Street, Dargaville 0310",
+            "Day": "Monday 15 November",
+            "Times": "7:00 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Nov 12:00 pm"
+        },
         {
             "Location name": "Bus 3 Fleet 2976 Christchurch Airport to Bus Interchange (Platform A)",
             "Address": "Christchurch",
