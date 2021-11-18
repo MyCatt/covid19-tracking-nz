@@ -1,7 +1,15 @@
 {
-    "size": 102,
-    "added": "2021-11-18 05:00:42.973623",
+    "size": 103,
+    "added": "2021-11-18 05:20:19.547427",
     "body": [
+        {
+            "Location name": "Countdown Cambridge",
+            "Address": "Cnr Queen & Empire Street, Cambridge 3434",
+            "Day": "Tuesday 16 November",
+            "Times": "11:45 am - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "18 Nov 6:00 pm"
+        },
         {
             "Location name": "Countdown Huntly",
             "Address": "16 Tumate Mahuta Drive, Huntly 3700",
