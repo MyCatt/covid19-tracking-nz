@@ -1,7 +1,47 @@
 {
-    "size": 91,
-    "added": "2021-11-19 21:00:41.041283",
+    "size": 96,
+    "added": "2021-11-19 21:20:18.205338",
     "body": [
+        {
+            "Location name": "Harvey Norman Whangarei",
+            "Address": "5 Gumdigger Place, Raumanga, Whangarei 0110",
+            "Day": "Tuesday 16 November",
+            "Times": "12:00 pm - 12:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Claudelands Hamilton East",
+            "Address": "160 Peachgrove Road, Hamilton East, Hamilton 3216",
+            "Day": "Thursday 11 November",
+            "Times": "12:00 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 10:00 am"
+        },
+        {
+            "Location name": "Kmart Te Rapa",
+            "Address": "11 Karewa Place, Pukete, Hamilton 3200",
+            "Day": "Wednesday 17 November",
+            "Times": "6:30 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Cable Car Lane Wellington Central",
+            "Address": "280 Lambton Quay, Wellington Central, Wellington 6011",
+            "Day": "Tuesday 16 November",
+            "Times": "7:12 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 10:00 am"
+        },
+        {
+            "Location name": "Countdown Huntly",
+            "Address": "16 Tumate Mahuta Drive, Huntly 3700",
+            "Day": "Tuesday 16 November",
+            "Times": "12:00 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 10:00 am"
+        },
         {
             "Location name": "Your Pharmacy Mt Maunganui",
             "Address": "42 Girven Road, Mount Maunganui 3116",
@@ -35,22 +75,6 @@
             "Updated": "19 Nov 6:00 pm"
         },
         {
-            "Location name": "The Doctors Bayfair",
-            "Address": "42 Girven Road, Mount Maunganui 3116",
-            "Day": "Thursday 11 November",
-            "Times": "9:15 am - 3:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "19 Nov 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Bethlehem",
-            "Address": "19 Bethlehem Road, Bethlehem, Tauranga 3110",
-            "Day": "Tuesday 9 November",
-            "Times": "3:05 pm - 4:50 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "19 Nov 4:00 pm"
-        },
-        {
             "Location name": "Furnace Steakhouse Hamilton",
             "Address": "150 Victoria Street, Hamilton Central, Hamilton 3204",
             "Day": "Wednesday 17 November",
@@ -59,10 +83,10 @@
             "Updated": "19 Nov 4:00 pm"
         },
         {
-            "Location name": "BP Connect Te Puna",
-            "Address": "620 State Highway 2, RD 4, Tauranga 3174",
-            "Day": "Friday 12 November",
-            "Times": "8:15 am - 9:30 am",
+            "Location name": "Pak'nSave Whitiora",
+            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
+            "Day": "Wednesday 17 November",
+            "Times": "9:30 am - 11:30 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "19 Nov 4:00 pm"
         },
@@ -75,10 +99,26 @@
             "Updated": "19 Nov 4:00 pm"
         },
         {
-            "Location name": "Pak'nSave Whitiora",
-            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
-            "Day": "Wednesday 17 November",
-            "Times": "9:30 am - 11:30 am",
+            "Location name": "BP Connect Te Puna",
+            "Address": "620 State Highway 2, RD 4, Tauranga 3174",
+            "Day": "Friday 12 November",
+            "Times": "8:15 am - 9:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Bethlehem",
+            "Address": "19 Bethlehem Road, Bethlehem, Tauranga 3110",
+            "Day": "Tuesday 9 November",
+            "Times": "3:05 pm - 4:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "19 Nov 4:00 pm"
+        },
+        {
+            "Location name": "The Doctors Bayfair",
+            "Address": "42 Girven Road, Mount Maunganui 3116",
+            "Day": "Thursday 11 November",
+            "Times": "9:15 am - 3:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "19 Nov 4:00 pm"
         },
@@ -155,34 +195,10 @@
             "Updated": "18 Nov 12:00 pm"
         },
         {
-            "Location name": "Z Te Kuiti",
-            "Address": "20 Te Kumi Road, Te Kuiti, Te Kuiti 3910",
-            "Day": "Thursday 11 November",
-            "Times": "3:15 pm - 3:55 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Nov 8:00 pm"
-        },
-        {
-            "Location name": "New World Te Kuiti",
-            "Address": "39 Rora Street, Te Kuiti 3910",
+            "Location name": "Christchurch Airport",
+            "Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
             "Day": "Saturday 13 November",
-            "Times": "11:20 am - 12:25 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Nov 8:00 pm"
-        },
-        {
-            "Location name": "Mitre 10 Te Kuiti",
-            "Address": "57 Taupiri Street, Te Kuiti 3910",
-            "Day": "Thursday 11 November",
-            "Times": "2:00 pm - 2:40 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Nov 8:00 pm"
-        },
-        {
-            "Location name": "PAK'nSAVE Clarence Street",
-            "Address": "85 Clarence Street, Hamilton Lake, Hamilton 3204",
-            "Day": "Tuesday 16 November",
-            "Times": "12:30 pm - 2:30 pm",
+            "Times": "1:30 pm - 2:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Nov 8:00 pm"
         },
@@ -195,10 +211,34 @@
             "Updated": "17 Nov 8:00 pm"
         },
         {
-            "Location name": "Christchurch Airport",
-            "Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+            "Location name": "PAK'nSAVE Clarence Street",
+            "Address": "85 Clarence Street, Hamilton Lake, Hamilton 3204",
+            "Day": "Tuesday 16 November",
+            "Times": "12:30 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Z Te Kuiti",
+            "Address": "20 Te Kumi Road, Te Kuiti, Te Kuiti 3910",
+            "Day": "Thursday 11 November",
+            "Times": "3:15 pm - 3:55 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Nov 8:00 pm"
+        },
+        {
+            "Location name": "Mitre 10 Te Kuiti",
+            "Address": "57 Taupiri Street, Te Kuiti 3910",
+            "Day": "Thursday 11 November",
+            "Times": "2:00 pm - 2:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Nov 8:00 pm"
+        },
+        {
+            "Location name": "New World Te Kuiti",
+            "Address": "39 Rora Street, Te Kuiti 3910",
             "Day": "Saturday 13 November",
-            "Times": "1:30 pm - 2:30 pm",
+            "Times": "11:20 am - 12:25 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Nov 8:00 pm"
         },
@@ -219,18 +259,10 @@
             "Updated": "17 Nov 4:00 pm"
         },
         {
-            "Location name": "Eastgate Shopping Centre",
-            "Address": "20 Buckleys Road, Linwood, Christchurch 8062",
-            "Day": "Monday 15 November",
-            "Times": "11:30 am - 12:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Nov 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Eastgate Christchurch",
-            "Address": "6 Buckleys Road, Linwood, Christchurch 8062",
-            "Day": "Monday 15 November",
-            "Times": "11:30 am - 12:00 pm",
+            "Location name": "Fresh Choice Te Awamutu",
+            "Address": "39 Rewi Street, Te Awamutu 3800",
+            "Day": "Wednesday 10 November",
+            "Times": "4:06 pm - 4:20 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Nov 4:00 pm"
         },
@@ -243,10 +275,26 @@
             "Updated": "17 Nov 4:00 pm"
         },
         {
-            "Location name": "Fresh Choice Te Awamutu",
-            "Address": "39 Rewi Street, Te Awamutu 3800",
+            "Location name": "Countdown Eastgate Christchurch",
+            "Address": "6 Buckleys Road, Linwood, Christchurch 8062",
+            "Day": "Monday 15 November",
+            "Times": "11:30 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Eastgate Shopping Centre",
+            "Address": "20 Buckleys Road, Linwood, Christchurch 8062",
+            "Day": "Monday 15 November",
+            "Times": "11:30 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Te Awamutu",
+            "Address": "180 Sloane Street, Te Awamutu, Te Awamutu 3800",
             "Day": "Wednesday 10 November",
-            "Times": "4:06 pm - 4:20 pm",
+            "Times": "3:57 pm - 4:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Nov 4:00 pm"
         },
@@ -259,10 +307,10 @@
             "Updated": "17 Nov 4:00 pm"
         },
         {
-            "Location name": "The Warehouse Te Kuiti",
-            "Address": "27 Rora Street, Te Kuiti, Te Kuiti 3910",
-            "Day": "Saturday 13 November",
-            "Times": "11:45 am - 12:20 pm",
+            "Location name": "New World Te Kuiti",
+            "Address": "39 Rora Street, Te Kuiti 3910",
+            "Day": "Wednesday 10 November",
+            "Times": "7:10 pm - 8:35 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Nov 4:00 pm"
         },
@@ -275,18 +323,10 @@
             "Updated": "17 Nov 4:00 pm"
         },
         {
-            "Location name": "New World Te Kuiti",
-            "Address": "39 Rora Street, Te Kuiti 3910",
-            "Day": "Wednesday 10 November",
-            "Times": "7:10 pm - 8:35 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Nov 4:00 pm"
-        },
-        {
-            "Location name": "Countdown Te Awamutu",
-            "Address": "180 Sloane Street, Te Awamutu, Te Awamutu 3800",
-            "Day": "Wednesday 10 November",
-            "Times": "3:57 pm - 4:15 pm",
+            "Location name": "The Warehouse Te Kuiti",
+            "Address": "27 Rora Street, Te Kuiti, Te Kuiti 3910",
+            "Day": "Saturday 13 November",
+            "Times": "11:45 am - 12:20 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Nov 4:00 pm"
         },
@@ -331,18 +371,18 @@
             "Updated": "17 Nov 4:00 pm"
         },
         {
-            "Location name": "The Warehouse Dargaville",
-            "Address": "149 Victoria Street, Dargaville 0310",
-            "Day": "Sunday 14 November",
-            "Times": "10:47 am - 11:50 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "17 Nov 2:00 pm"
-        },
-        {
             "Location name": "Bunnings Warehouse Te Rapa",
             "Address": "446 Te Rapa Road, Te Rapa, Hamilton 3200",
             "Day": "Thursday 11 November",
             "Times": "11:00 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "17 Nov 2:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Dargaville",
+            "Address": "149 Victoria Street, Dargaville 0310",
+            "Day": "Sunday 14 November",
+            "Times": "10:47 am - 11:50 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "17 Nov 2:00 pm"
         },
@@ -435,6 +475,14 @@
             "Updated": "15 Nov 2:00 pm"
         },
         {
+            "Location name": "Emergency Department Waiting Room Rotorua Hospital",
+            "Address": "Corner Arawa and Pukeroa Street, Rotorua",
+            "Day": "Saturday 13 November",
+            "Times": "5:25 pm - 7:25 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "15 Nov 2:00 pm"
+        },
+        {
             "Location name": "Taupo Darts Club Tauhara",
             "Address": "27 AC Baths Avenue, Tauhara, Taupo 3330",
             "Day": "Thursday 11 November",
@@ -448,14 +496,6 @@
             "Day": "Monday 8 November",
             "Times": "2:15 pm - 2:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "15 Nov 2:00 pm"
-        },
-        {
-            "Location name": "Emergency Department Waiting Room Rotorua Hospital",
-            "Address": "Corner Arawa and Pukeroa Street, Rotorua",
-            "Day": "Saturday 13 November",
-            "Times": "5:25 pm - 7:25 pm",
-            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "15 Nov 2:00 pm"
         },
         {
@@ -523,10 +563,10 @@
             "Updated": "13 Nov 8:00 pm"
         },
         {
-            "Location name": "Dbar Taupo",
-            "Address": "22 Tuwharetoa Street, Taupo 3330",
-            "Day": "Thursday 11 November",
-            "Times": "10:00 pm - 11:59 pm",
+            "Location name": "Sin City Taupo Strippers",
+            "Address": "18 Tuwharetoa Street, Taupo 3330",
+            "Day": "Friday 12 November",
+            "Times": "12:00 am - 3:30 am",
             "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "13 Nov 8:00 pm"
         },
@@ -547,10 +587,10 @@
             "Updated": "13 Nov 8:00 pm"
         },
         {
-            "Location name": "Sin City Taupo Strippers",
-            "Address": "18 Tuwharetoa Street, Taupo 3330",
-            "Day": "Friday 12 November",
-            "Times": "12:00 am - 3:30 am",
+            "Location name": "Dbar Taupo",
+            "Address": "22 Tuwharetoa Street, Taupo 3330",
+            "Day": "Thursday 11 November",
+            "Times": "10:00 pm - 11:59 pm",
             "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "13 Nov 8:00 pm"
         },
