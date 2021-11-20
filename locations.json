@@ -1,7 +1,39 @@
 {
-    "size": 120,
-    "added": "2021-11-20 23:00:55.424739",
+    "size": 124,
+    "added": "2021-11-20 23:20:21.285722",
     "body": [
+        {
+            "Location name": "Mount Mellick Bar, Mount Maunganui",
+            "Address": "317 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Friday 12 November",
+            "Times": "9:45 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "21 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Jaid Beauty Salon, Rotorua",
+            "Address": "1144 Hinemoa Street, Rotorua, Rotorua 3010",
+            "Day": "Tuesday 16 November",
+            "Times": "4:15 pm - 6:00 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "21 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Mount Mellick Bar, Mount Maunganui",
+            "Address": "317 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Saturday 13 November",
+            "Times": "12:00 am - 1:30 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "21 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Subway Kerikeri",
+            "Address": "9 Cobham Road, Kerikeri 0230",
+            "Day": "Friday 12 November",
+            "Times": "12:00 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 12:00 pm"
+        },
         {
             "Location name": "Four Square Koutu",
             "Address": "48 Koutu Road, Koutu, Rotorua 3010",
