@@ -1,7 +1,15 @@
 {
-    "size": 119,
-    "added": "2021-11-20 21:00:37.325822",
+    "size": 120,
+    "added": "2021-11-20 21:20:19.849139",
     "body": [
+        {
+            "Location name": "Four Square Koutu",
+            "Address": "48 Koutu Road, Koutu, Rotorua 3010",
+            "Day": "Friday 19 November",
+            "Times": "1:30 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 10:00 am"
+        },
         {
             "Location name": "Countdown Huntly",
             "Address": "16 Tumate Mahuta Drive, Huntly 3700",
