@@ -1,7 +1,63 @@
 {
-    "size": 108,
-    "added": "2021-11-20 03:00:48.813938",
+    "size": 115,
+    "added": "2021-11-20 03:20:23.584329",
     "body": [
+        {
+            "Location name": "Northern Wairoa Golf Club Dargaville",
+            "Address": "819 Baylys Coast Road, RD 7, Dargaville 0377",
+            "Day": "Sunday 14 November",
+            "Times": "10:00 am - 5:00 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "20 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Caltex Kawakawa",
+            "Address": "Cnr Station Road and SH 1, Kawakawa 0210",
+            "Day": "Friday 12 November",
+            "Times": "12:00 am - 6:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Mitre 10 MEGA Te Awamutu",
+            "Address": "670 Cambridge Road, Te Awamutu 3800",
+            "Day": "Tuesday 16 November",
+            "Times": "1:15 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Hallenstein Brothers Te Rapa",
+            "Address": "Te Awa, Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Monday 15 November",
+            "Times": "12:59 pm - 1:35 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Caltex Kawakawa",
+            "Address": "Cnr Station Road and SH 1, Kawakawa 0210",
+            "Day": "Thursday 11 November",
+            "Times": "10:00 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Farmers The Base Te Rapa",
+            "Address": "Te AWA, Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Monday 15 November",
+            "Times": "1:10 pm - 2:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Countdown Dargaville",
+            "Address": "Dargaville Plaza, Victoria Street, Dargaville 0310",
+            "Day": "Thursday 18 November",
+            "Times": "11:45 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 4:00 pm"
+        },
         {
             "Location name": "Rebel Sport Te Rapa",
             "Address": "The Base, Te Rapa Road & Wairere Drive, Hamilton 3200",
