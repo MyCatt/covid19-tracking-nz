@@ -1,6 +1,6 @@
 {
-    "size": 126,
-    "added": "2021-11-20 19:00:50.549973",
+    "size": 119,
+    "added": "2021-11-20 19:20:21.040757",
     "body": [
         {
             "Location name": "Countdown Huntly",
@@ -747,14 +747,6 @@
             "Updated": "14 Nov 6:00 pm"
         },
         {
-            "Location name": "Sacred Heart Dargaville Parish",
-            "Address": "104 Hokianga Road, Dargaville 0310",
-            "Day": "Sunday 7 November",
-            "Times": "9:00 am - 10:30 am",
-            "What to do": "Stay at home and test immediately. Please continue to stay at home until you receive a negative test result.",
-            "Updated": "14 Nov 6:00 pm"
-        },
-        {
             "Location name": "Pita Pit Taupo",
             "Address": "37 Horomatangi Street, Taupo 3330",
             "Day": "Friday 12 November",
@@ -785,22 +777,6 @@
             "Times": "6:15 pm - 9:30 pm",
             "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "14 Nov 8:00 am"
-        },
-        {
-            "Location name": "Gull Petrol Taupo",
-            "Address": "106 Rifle Range Road, Taupo 3330",
-            "Day": "Sunday 7 November",
-            "Times": "7:00 pm - 8:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Nov 8:00 pm"
-        },
-        {
-            "Location name": "McDonalds Masterton",
-            "Address": "60 Chapel Street, Masterton 5810",
-            "Day": "Sunday 7 November",
-            "Times": "10:30 am - 12:45 pm",
-            "What to do": "Stay at home and test immediately. Please continue to stay at home until you receive a negative test result.",
-            "Updated": "13 Nov 8:00 pm"
         },
         {
             "Location name": "Sin City Taupo Strippers",
@@ -841,14 +817,6 @@
             "Times": "12:00 am - 1:00 am",
             "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "13 Nov 8:00 pm"
-        },
-        {
-            "Location name": "Otorohanga Minimart",
-            "Address": "24 Turongo Street, Otorohanga 3900",
-            "Day": "Sunday 7 November",
-            "Times": "1:30 pm - 2:40 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Nov 6:00 pm"
         },
         {
             "Location name": "Pak'nSave Whitiora",
@@ -969,30 +937,6 @@
             "Times": "9:45 am - 10:45 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "12 Nov 12:00 pm"
-        },
-        {
-            "Location name": "Unichem Takanini Pharmacy",
-            "Address": "3/226 Great South Road, Takanini, Takanini 2112",
-            "Day": "Sunday 7 November",
-            "Times": "12:52 pm - 1:10 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Nov 6:00 pm"
-        },
-        {
-            "Location name": "Countdown Otorohanga",
-            "Address": "119 Maniapoto Street, Otorohanga, Otorohanga 3900",
-            "Day": "Sunday 7 November",
-            "Times": "3:30 pm - 4:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Nov 10:00 am"
-        },
-        {
-            "Location name": "Countdown St James Hamilton",
-            "Address": "Cnr Hukunui & Thomas Rds, Rototuna, Hamilton 3210",
-            "Day": "Sunday 7 November",
-            "Times": "3:00 pm - 10:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "11 Nov 10:00 am"
         },
         {
             "Location name": "Pak'nSave Te Awamutu",
