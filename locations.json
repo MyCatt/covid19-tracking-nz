@@ -1,7 +1,103 @@
 {
-    "size": 115,
-    "added": "2021-11-20 05:00:46.773900",
+    "size": 126,
+    "added": "2021-11-20 05:20:19.795109",
     "body": [
+        {
+            "Location name": "Countdown Huntly",
+            "Address": "16 Tumate Mahuta Drive, Huntly 3700",
+            "Day": "Tuesday 16 November",
+            "Times": "12:00 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Platypus Shoes The Base Te Rapa",
+            "Address": "The Base, Te Rapa Road & Wairere Drive, Te Rapa, Hamilton 3200",
+            "Day": "Monday 15 November",
+            "Times": "12:44 pm - 1:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "IKandi Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Saturday 13 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Astrolabe Brew Bar Mount Maunganui",
+            "Address": "82 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Saturday 13 November",
+            "Times": "12:00 am - 1:30 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Fairy Springs",
+            "Address": "54 Fairy Springs Road, Fairy Springs, Rotorua 3015",
+            "Day": "Monday 15 November",
+            "Times": "6:00 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Yoyoso The Base Te Rapa",
+            "Address": "The Base, Te Rapa Road & Wairere Drive, Hamilton 3200",
+            "Day": "Monday 15 November",
+            "Times": "12:38 pm - 1:13 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "PAK'nSAVE Te Awamutu",
+            "Address": "670 Cambridge Road, Te Awamutu 3800",
+            "Day": "Tuesday 16 November",
+            "Times": "1:30 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "New World Turangi",
+            "Address": "19 Ohuanga Road, Turangi 3334",
+            "Day": "Friday 19 November",
+            "Times": "4:00 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Gas Pokeno",
+            "Address": "62 Great South Road, Pokeno 2402",
+            "Day": "Tuesday 16 November",
+            "Times": "12:30 pm - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Faded Barbershop Tauranga",
+            "Address": "194 Cameron Road, Tauranga 3110",
+            "Day": "Friday 12 November",
+            "Times": "1:30 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Astrolabe Brew Bar Mount Maunganui",
+            "Address": "82 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Friday 12 November",
+            "Times": "8:00 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "20 Nov 6:00 pm"
+        },
+        {
+            "Location name": "New World Turangi",
+            "Address": "19 Ohuanga Road, Turangi 3334",
+            "Day": "Tuesday 16 November",
+            "Times": "11:15 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 6:00 pm"
+        },
         {
             "Location name": "Northern Wairoa Golf Club Dargaville",
             "Address": "819 Baylys Coast Road, RD 7, Dargaville 0377",
@@ -153,14 +249,6 @@
             "Times": "11:20 am - 12:20 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "20 Nov 12:00 pm"
-        },
-        {
-            "Location name": "Countdown Huntly",
-            "Address": "16 Tumate Mahuta Drive, Huntly 3700",
-            "Day": "Tuesday 16 November",
-            "Times": "12:00 pm - 2:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "20 Nov 10:00 am"
         },
         {
             "Location name": "Countdown Cable Car Lane Wellington Central",
