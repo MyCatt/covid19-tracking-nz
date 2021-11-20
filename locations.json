@@ -1,7 +1,23 @@
 {
-    "size": 107,
-    "added": "2021-11-20 02:01:00.171774",
+    "size": 108,
+    "added": "2021-11-20 02:20:17.696806",
     "body": [
+        {
+            "Location name": "Rebel Sport Te Rapa",
+            "Address": "The Base, Te Rapa Road & Wairere Drive, Hamilton 3200",
+            "Day": "Monday 15 November",
+            "Times": "2:25 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 3:00 pm"
+        },
+        {
+            "Location name": "North Beach The Base Te Rapa",
+            "Address": "The Base, Te Rapa Road &, Wairere Drive, Te Rapa, Hamilton 3288",
+            "Day": "Monday 15 November",
+            "Times": "2:08 pm - 3:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "20 Nov 3:00 pm"
+        },
         {
             "Location name": "Four Square Waipu",
             "Address": "43 The Centre, Waipu 0510",
@@ -47,14 +63,6 @@
             "Address": "10 Weka Pass Road, Waikari 7420",
             "Day": "Tuesday 16 November",
             "Times": "8:00 pm - 9:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "20 Nov 2:00 pm"
-        },
-        {
-            "Location name": "Salvation Army Family Store Manukau",
-            "Address": "12E Sharkey Street, Manukau, Auckland 2104",
-            "Day": "Tuesday 16 November",
-            "Times": "1:09 pm - 1:19 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "20 Nov 2:00 pm"
         },
