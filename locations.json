@@ -1,7 +1,127 @@
 {
-    "size": 131,
-    "added": "2021-11-21 03:01:00.490413",
+    "size": 146,
+    "added": "2021-11-21 03:20:33.237531",
     "body": [
+        {
+            "Location name": "SuperValue, Te Kuiti",
+            "Address": "95 Rora Street, Te Kuiti 3910",
+            "Day": "Monday 15 November",
+            "Times": "1:30 pm - 9:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Tauranga Hospital Tauranga South",
+            "Address": "829 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Sunday 14 November",
+            "Times": "6:00 am - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Tauranga Hospital, Tauranga South",
+            "Address": "829 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Thursday 18 November",
+            "Times": "6:00 am - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "SuperValue, Te Kuiti",
+            "Address": "95 Rora Street, Te Kuiti 3910",
+            "Day": "Sunday 14 November",
+            "Times": "1:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "The Coffee Club, Mount Maunganui",
+            "Address": "1 Marine Parade, Mount Maunganui 3116",
+            "Day": "Thursday 18 November",
+            "Times": "10:15 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Le Chat Noir, Tauranga",
+            "Address": "144 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "10:15 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Tauranga Hospital Tauranga South",
+            "Address": "829 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Monday 15 November",
+            "Times": "6:00 am - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Tauranga Hospital Tauranga South",
+            "Address": "829 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Tuesday 16 November",
+            "Times": "6:00 am - 11:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "SuperValue, Te Kuiti",
+            "Address": "95 Rora Street, Te Kuiti 3910",
+            "Day": "Wednesday 17 November",
+            "Times": "1:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "SuperValue, Te Kuiti",
+            "Address": "95 Rora Street, Te Kuiti 3910",
+            "Day": "Tuesday 16 November",
+            "Times": "1:30 pm - 9:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "KY Fast Food, Turangi",
+            "Address": "18 Turangi Town Centre, Turangi 3334",
+            "Day": "Friday 19 November",
+            "Times": "4:15 pm - 5:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Mustard Seed Cafe, Turangi",
+            "Address": "160 Te Rangitautahanga Road, Turangi 3334",
+            "Day": "Tuesday 16 November",
+            "Times": "12:05 pm - 1:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Red Cross Shop, Greerton",
+            "Address": "199 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "8:45 am - 10:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Freddy's Coffee Cart, Mount Manganui",
+            "Address": "cnr Sandhurst and Gloucester Streets, Mount Maunganui,",
+            "Day": "Tuesday 16 November",
+            "Times": "9:30 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Baker Bobs Bakery Cafe Tauranga",
+            "Address": "135 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "10:05 am - 11:25 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "21 Nov 4:00 pm"
+        },
         {
             "Location name": "Four Square, Te Puna",
             "Address": "626 State Highway 2, RD 6, Tauranga 3176",
