@@ -1,6 +1,6 @@
 {
-    "size": 154,
-    "added": "2021-11-21 19:20:17.952023",
+    "size": 148,
+    "added": "2021-11-21 19:40:11.176292",
     "body": [
         {
             "Location name": "St Pierre's Sushi Rotorua",
@@ -1003,14 +1003,6 @@
             "Updated": "15 Nov 2:00 pm"
         },
         {
-            "Location name": "Unichem Mackays Pharmacy Stratford",
-            "Address": "289 Broadway, Stratford 4332",
-            "Day": "Monday 8 November",
-            "Times": "2:15 pm - 2:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "15 Nov 2:00 pm"
-        },
-        {
             "Location name": "Emergency Department Waiting Room Rotorua Hospital",
             "Address": "Corner Arawa and Pukeroa Street, Rotorua",
             "Day": "Saturday 13 November",
@@ -1123,14 +1115,6 @@
             "Updated": "13 Nov 2:00 pm"
         },
         {
-            "Location name": "Unichem Pharmacy Otorohanga",
-            "Address": "55 Maniapoto Street, Otorohanga 3900",
-            "Day": "Monday 8 November",
-            "Times": "9:42 am - 10:15 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Nov 2:00 pm"
-        },
-        {
             "Location name": "Postie Westfield Manukau",
             "Address": "Westfield Manukau City, 1 Leyton Way, Manukau, Auckland 2104",
             "Day": "Wednesday 10 November",
@@ -1153,30 +1137,6 @@
             "Times": "8:15 am - 6:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "13 Nov 8:00 am"
-        },
-        {
-            "Location name": "North Beach Te Awa Mall Hamilton",
-            "Address": "Corner Avalon Drive and Te Rapa Road, Te Rapa, Hamilton 3200",
-            "Day": "Monday 8 November",
-            "Times": "8:15 am - 6:15 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "13 Nov 8:00 am"
-        },
-        {
-            "Location name": "Pak'nSave Kaitaia",
-            "Address": "111 North Road, Kaitaia 0410",
-            "Day": "Monday 8 November",
-            "Times": "11:30 am - 12:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Nov 6:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Whitiora",
-            "Address": "17 Mill Street, Whitiora, Hamilton 3200",
-            "Day": "Monday 8 November",
-            "Times": "11:00 am - 1:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "12 Nov 4:00 pm"
         },
         {
             "Location name": "Best Value Urlich Ave Dairy Melville",
@@ -1217,14 +1177,6 @@
             "Times": "9:45 am - 10:45 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "12 Nov 12:00 pm"
-        },
-        {
-            "Location name": "Pak'nSave Te Awamutu",
-            "Address": "670 Cambridge Road, Te Awamutu 3800",
-            "Day": "Monday 8 November",
-            "Times": "10:20 am - 11:50 am",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "10 Nov 2:00 pm"
         },
         {
             "Location name": "Countdown Otorohanga",
