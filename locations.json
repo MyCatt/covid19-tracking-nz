@@ -1,7 +1,15 @@
 {
-    "size": 148,
-    "added": "2021-11-21 21:00:44.288134",
+    "size": 149,
+    "added": "2021-11-21 21:20:18.183166",
     "body": [
+        {
+            "Location name": "PAKnSAVE Rotorua",
+            "Address": "1042 Amohau Street, Rotorua, Rotorua 3010",
+            "Day": "Monday 15 November",
+            "Times": "4:30 pm - 7:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 10:00 am"
+        },
         {
             "Location name": "St Pierre's Sushi Rotorua",
             "Address": "1490 Amohau Street, Rotorua, Rotorua 3010",
