@@ -1,7 +1,71 @@
 {
-    "size": 146,
-    "added": "2021-11-21 19:00:42.662010",
+    "size": 154,
+    "added": "2021-11-21 19:20:17.952023",
     "body": [
+        {
+            "Location name": "St Pierre's Sushi Rotorua",
+            "Address": "1490 Amohau Street, Rotorua, Rotorua 3010",
+            "Day": "Monday 15 November",
+            "Times": "3:20 pm - 4:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 14 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 8:00 am"
+        },
+        {
+            "Location name": "Zest Bakery and Cafe Greerton",
+            "Address": "187 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Wednesday 17 November",
+            "Times": "12:15 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 8:00 am"
+        },
+        {
+            "Location name": "Buff Hair and Beauty, Tauranga South",
+            "Address": "575 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Thursday 18 November",
+            "Times": "12:30 pm - 2:30 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "22 Nov 8:00 am"
+        },
+        {
+            "Location name": "Bakehouse Cafe and Roast, Turangi",
+            "Address": "40 Turangi Town Centre, Turangi, 3334",
+            "Day": "Tuesday 16 November",
+            "Times": "1:15 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 8:00 am"
+        },
+        {
+            "Location name": "Zest Bakery and Cafe Greerton",
+            "Address": "187 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Thursday 18 November",
+            "Times": "2:45 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 8:00 am"
+        },
+        {
+            "Location name": "McDonalds, Tauranga",
+            "Address": "549 Cameron Road, Tauranga South, Tauranga 3110",
+            "Day": "Sunday 14 November",
+            "Times": "6:30 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 8:00 am"
+        },
+        {
+            "Location name": "Bayview Roast and Fish and Chips Shop, Tauranga",
+            "Address": "19 Bethlehem Road, Bethlehem, Tauranga 3110",
+            "Day": "Wednesday 17 November",
+            "Times": "5:00 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 8:00 am"
+        },
+        {
+            "Location name": "Welcome Sushi, Tauranga",
+            "Address": "252 Welcome Bay Road, Welcome Bay, Tauranga 3112",
+            "Day": "Thursday 18 November",
+            "Times": "9:00 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 8:00 am"
+        },
         {
             "Location name": "SuperValue, Te Kuiti",
             "Address": "95 Rora Street, Te Kuiti 3910",
