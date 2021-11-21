@@ -1,7 +1,55 @@
 {
-    "size": 149,
-    "added": "2021-11-21 23:00:43.412468",
+    "size": 155,
+    "added": "2021-11-21 23:20:18.803966",
     "body": [
+        {
+            "Location name": "BP Connect, Mount Maunganui",
+            "Address": "570 Maunganui Road, Mt Maunganui, Mount Maunganui 3116",
+            "Day": "Friday 19 November",
+            "Times": "9:51 am - 11:08 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 12:00 pm"
+        },
+        {
+            "Location name": "The Bakehouse Cafe, Tokoroa",
+            "Address": "227 Leith Place, Tokoroa, Tokoroa 3420",
+            "Day": "Thursday 18 November",
+            "Times": "11:05 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Putaruru Mini Mart, Putaruru",
+            "Address": "40 Tirau Street, Putaruru 3411",
+            "Day": "Thursday 18 November",
+            "Times": "11:30 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Coupland's Bakeries, Rotorua",
+            "Address": "110 Lake Road, Koutu, Rotorua 3010",
+            "Day": "Wednesday 17 November",
+            "Times": "12:25 pm - 1:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Countdown Bayfair, Mount Manganui",
+            "Address": "19 Girven Road, Mount Maunganui, Mount Maunganui 3116",
+            "Day": "Thursday 18 November",
+            "Times": "4:04 pm - 5:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Kmart Rotorua",
+            "Address": "1490 Amohau Street, Rotorua, Rotorua 3010",
+            "Day": "Wednesday 17 November",
+            "Times": "1:15 pm - 3:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 12:00 pm"
+        },
         {
             "Location name": "PAKnSAVE Rotorua",
             "Address": "1042 Amohau Street, Rotorua, Rotorua 3010",
