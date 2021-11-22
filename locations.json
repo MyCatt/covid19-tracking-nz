@@ -1,20 +1,28 @@
 {
-    "size": 158,
-    "added": "2021-11-22 03:00:54.929993",
+    "size": 159,
+    "added": "2021-11-22 03:20:22.230380",
     "body": [
+        {
+            "Location name": "PAKnSAVE, Papamoa",
+            "Address": "42 Domain Road, Papamoa Beach, Papamoa 3118",
+            "Day": "Friday 19 November",
+            "Times": "10:56 am - 12:21 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Z 15th Ave Petrol Station Tauranga South",
+            "Address": "18 Fifteenth Avenue, Tauranga South, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "9:45 pm - 11:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 4:00 pm"
+        },
         {
             "Location name": "Welcome Bay Pharmacy",
             "Address": "252 Welcome Bay Road, Welcome Bay, Tauranga 3112",
             "Day": "Tuesday 16 November",
             "Times": "11:45 am - 1:00 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "22 Nov 2:00 pm"
-        },
-        {
-            "Location name": "Pak?n Save, Papamoa",
-            "Address": "42 Domain Road, Papamoa Beach, Papamoa 3118",
-            "Day": "Friday 19 November",
-            "Times": "10:56 am - 12:21 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "22 Nov 2:00 pm"
         },
