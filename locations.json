@@ -1,7 +1,31 @@
 {
-    "size": 155,
-    "added": "2021-11-22 01:00:59.459907",
+    "size": 158,
+    "added": "2021-11-22 01:20:26.209444",
     "body": [
+        {
+            "Location name": "Welcome Bay Pharmacy",
+            "Address": "252 Welcome Bay Road, Welcome Bay, Tauranga 3112",
+            "Day": "Tuesday 16 November",
+            "Times": "11:45 am - 1:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Pak?n Save, Papamoa",
+            "Address": "42 Domain Road, Papamoa Beach, Papamoa 3118",
+            "Day": "Friday 19 November",
+            "Times": "10:56 am - 12:21 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 2:00 pm"
+        },
+        {
+            "Location name": "BP Connect, Tokoroa",
+            "Address": "32-34 Main Rd, State Highway 1, Tokoroa 3420",
+            "Day": "Thursday 18 November",
+            "Times": "10:52 am - 1:24 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 2:00 pm"
+        },
         {
             "Location name": "BP Connect, Mount Maunganui",
             "Address": "570 Maunganui Road, Mt Maunganui, Mount Maunganui 3116",
