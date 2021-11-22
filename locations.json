@@ -1,7 +1,39 @@
 {
-    "size": 159,
-    "added": "2021-11-22 04:40:12.916415",
+    "size": 163,
+    "added": "2021-11-22 05:00:50.193185",
     "body": [
+        {
+            "Location name": "Paper Plus, Napier",
+            "Address": "180 Hastings Street, Napier South, Napier 4110",
+            "Day": "Monday 15 November",
+            "Times": "3:30 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Big Barrel Napier",
+            "Address": "70 Carlyle Street, Napier South, Napier 4110",
+            "Day": "Monday 15 November",
+            "Times": "6:00 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Huntly",
+            "Address": "16 Tumate Mahuta Drive, Huntly 3700",
+            "Day": "Wednesday 17 November",
+            "Times": "12:30 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Four Square Freds, Huntly",
+            "Address": "101 Gordon Road, Huntly 3700",
+            "Day": "Thursday 18 November",
+            "Times": "11:45 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "22 Nov 6:00 pm"
+        },
         {
             "Location name": "PAKnSAVE, Papamoa",
             "Address": "42 Domain Road, Papamoa Beach, Papamoa 3118",
