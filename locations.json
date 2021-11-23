@@ -1,7 +1,39 @@
 {
-    "size": 154,
-    "added": "2021-11-23 01:01:22.690083",
+    "size": 158,
+    "added": "2021-11-23 01:20:36.250498",
     "body": [
+        {
+            "Location name": "Unichem Pharmacy Whangarei",
+            "Address": "32 Reyburn Street, Whangarei 0110",
+            "Day": "Thursday 18 November",
+            "Times": "9:15 am - 9:25 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Unichem Pharmacy Whangarei",
+            "Address": "32 Reyburn Street, Whangarei 0110",
+            "Day": "Thursday 18 November",
+            "Times": "3:00 pm - 3:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 2:00 pm"
+        },
+        {
+            "Location name": "My Pharmacy Te Puke",
+            "Address": "96 Jellicoe Street, Te Puke 3119",
+            "Day": "Monday 22 November",
+            "Times": "10:20 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Unichem Pharmacy Te Kuiti",
+            "Address": "105 Rora Street, Te Kuiti 3910",
+            "Day": "Friday 19 November",
+            "Times": "1:15 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 2:00 pm"
+        },
         {
             "Location name": "Paper Plus, Napier",
             "Address": "180 Hastings Street, Napier South, Napier 4110",
