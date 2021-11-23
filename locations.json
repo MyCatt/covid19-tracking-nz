@@ -1,7 +1,87 @@
 {
-    "size": 162,
-    "added": "2021-11-23 23:00:43.735449",
+    "size": 172,
+    "added": "2021-11-23 23:20:25.830208",
     "body": [
+        {
+            "Location name": "iKandy Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Wednesday 17 November",
+            "Times": "8:45 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "iKandy Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Thursday 18 November",
+            "Times": "8:45 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Caltex Bayfair",
+            "Address": "21 Girven Road, Mount Maunganui 3116",
+            "Day": "Tuesday 16 November",
+            "Times": "7:45 am - 9:10 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Chadwick Road Dairy Tauranga",
+            "Address": "117 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "10:08 am - 11:25 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "iKandy Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Saturday 20 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "iKandy Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Friday 19 November",
+            "Times": "8:45 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Uppercrust Bakery Mt Maunganui",
+            "Address": "504 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Wednesday 17 November",
+            "Times": "9:04 am - 10:24 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "EasyPuff Vape Store Mount Maunganui",
+            "Address": "509 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Wednesday 17 November",
+            "Times": "8:55 am - 10:21 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "iKandy Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Thursday 18 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 12:00 pm"
+        },
+        {
+            "Location name": "iKandy Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Friday 19 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 12:00 pm"
+        },
         {
             "Location name": "Far North Pharmacy Ltd Kaitaia",
             "Address": "53 Commerce Street, Kaitaia 0410",
