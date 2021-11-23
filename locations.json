@@ -1,7 +1,47 @@
 {
-    "size": 167,
-    "added": "2021-11-23 05:00:48.729522",
+    "size": 172,
+    "added": "2021-11-23 05:20:21.652693",
     "body": [
+        {
+            "Location name": "Far North Pharmacy Ltd Kaitaia",
+            "Address": "53 Commerce Street, Kaitaia 0410",
+            "Day": "Friday 19 November",
+            "Times": "8:35 am - 8:55 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Paengaroa Country Store Te Puke",
+            "Address": "5 Old Coach Road, RD 9, Te Puke 3189",
+            "Day": "Thursday 18 November",
+            "Times": "7:15 am - 9:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Paengaroa Country Store Te Puke",
+            "Address": "5 Old Coach Road, RD 9, Te Puke 3189",
+            "Day": "Friday 19 November",
+            "Times": "7:15 am - 9:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Paengaroa Country Store Te Puke",
+            "Address": "5 Old Coach Road, RD 9, Te Puke 3189",
+            "Day": "Wednesday 17 November",
+            "Times": "7:15 am - 9:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Paengaroa Country Store Te Puke",
+            "Address": "5 Old Coach Road, RD 9, Te Puke 3189",
+            "Day": "Saturday 20 November",
+            "Times": "7:15 am - 9:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "23 Nov 6:00 pm"
+        },
         {
             "Location name": "Paengaroa Bakery & Lunch Bar Te Puke",
             "Address": "7 Old Coach Road, RD 9, Te Puke 3189",
