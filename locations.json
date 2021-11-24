@@ -1,7 +1,39 @@
 {
-    "size": 177,
-    "added": "2021-11-24 03:00:48.803671",
+    "size": 181,
+    "added": "2021-11-24 03:20:18.255979",
     "body": [
+        {
+            "Location name": "Baker Bob's Bakery and Cafe Tauranga",
+            "Address": "135 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "10:05 am - 11:27 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 4:00 pm"
+        },
+        {
+            "Location name": "New World Brookfield",
+            "Address": "89 Bellevue Road, Brookfield, Tauranga 3110",
+            "Day": "Friday 19 November",
+            "Times": "12:00 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Unichem Greerton",
+            "Address": "221 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Monday 15 November",
+            "Times": "3:45 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Caltex Petrol Station Western Hills",
+            "Address": "307 Western Hills Drive, Avenues, Whangarei 0110",
+            "Day": "Tuesday 23 November",
+            "Times": "10:15 am - 10:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 4:00 pm"
+        },
         {
             "Location name": "iKandi Mount Maunganui",
             "Address": "313 Maunganui Road, Mount Maunganui 3116",
