@@ -1,22 +1,94 @@
 {
-    "size": 172,
-    "added": "2021-11-24 01:01:05.339955",
+    "size": 177,
+    "added": "2021-11-24 01:20:26.565551",
     "body": [
         {
-            "Location name": "iKandy Mount Maunganui",
-            "Address": "313 Maunganui Road, Mount Maunganui 3116",
-            "Day": "Wednesday 17 November",
-            "Times": "8:45 pm - 11:59 pm",
-            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "24 Nov 12:00 pm"
-        },
-        {
-            "Location name": "iKandy Mount Maunganui",
+            "Location name": "iKandi Mount Maunganui",
             "Address": "313 Maunganui Road, Mount Maunganui 3116",
             "Day": "Thursday 18 November",
             "Times": "8:45 pm - 11:59 pm",
             "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "24 Nov 12:00 pm"
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "iKandi Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Saturday 20 November",
+            "Times": "12:00 am - 2:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "iKandi Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Friday 19 November",
+            "Times": "8:45 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "iKandi Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Thursday 18 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "iKandi Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Friday 19 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "iKandi Mount Maunganui",
+            "Address": "313 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Wednesday 17 November",
+            "Times": "8:45 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Caltex Bayfair Mount Maunganui",
+            "Address": "21 Girven Road, Mount Maunganui 3116",
+            "Day": "Friday 19 November",
+            "Times": "6:05 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Bayfair Mount Maunganui",
+            "Address": "1-19 Girven Road, Mount Maunganui 3116",
+            "Day": "Wednesday 17 November",
+            "Times": "5:45 pm - 7:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Gengy's BBQ Buffet Restaurant Tauranga",
+            "Address": "159 Durham Street, Tauranga 3110",
+            "Day": "Tuesday 16 November",
+            "Times": "7:10 pm - 10:15 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Pie Boy Pies Tauranga",
+            "Address": "Papamoa Beach/Parton Road Roundabout, Papamoa Beach Road, Papamoa Beach, Tauranga 3118,",
+            "Day": "Friday 19 November",
+            "Times": "10:38 am - 11:53 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Countdown Regent Whangarei",
+            "Address": "11 Kamo Road, Regent, Whangarei 0112",
+            "Day": "Saturday 20 November",
+            "Times": "4:15 pm - 4:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 2:00 pm"
         },
         {
             "Location name": "Caltex Bayfair",
@@ -35,22 +107,6 @@
             "Updated": "24 Nov 12:00 pm"
         },
         {
-            "Location name": "iKandy Mount Maunganui",
-            "Address": "313 Maunganui Road, Mount Maunganui 3116",
-            "Day": "Saturday 20 November",
-            "Times": "12:00 am - 1:00 am",
-            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "24 Nov 12:00 pm"
-        },
-        {
-            "Location name": "iKandy Mount Maunganui",
-            "Address": "313 Maunganui Road, Mount Maunganui 3116",
-            "Day": "Friday 19 November",
-            "Times": "8:45 pm - 11:59 pm",
-            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "24 Nov 12:00 pm"
-        },
-        {
             "Location name": "Uppercrust Bakery Mt Maunganui",
             "Address": "504 Maunganui Road, Mount Maunganui 3116",
             "Day": "Wednesday 17 November",
@@ -64,22 +120,6 @@
             "Day": "Wednesday 17 November",
             "Times": "8:55 am - 10:21 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "24 Nov 12:00 pm"
-        },
-        {
-            "Location name": "iKandy Mount Maunganui",
-            "Address": "313 Maunganui Road, Mount Maunganui 3116",
-            "Day": "Thursday 18 November",
-            "Times": "12:00 am - 1:00 am",
-            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
-            "Updated": "24 Nov 12:00 pm"
-        },
-        {
-            "Location name": "iKandy Mount Maunganui",
-            "Address": "313 Maunganui Road, Mount Maunganui 3116",
-            "Day": "Friday 19 November",
-            "Times": "12:00 am - 1:00 am",
-            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "24 Nov 12:00 pm"
         },
         {
