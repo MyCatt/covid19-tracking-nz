@@ -1,7 +1,31 @@
 {
-    "size": 181,
-    "added": "2021-11-24 05:00:44.447706",
+    "size": 184,
+    "added": "2021-11-24 05:20:16.893306",
     "body": [
+        {
+            "Location name": "Unichem Pharmacy Greerton",
+            "Address": "221 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "1:45 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Dominoes Pizza Greerton",
+            "Address": "1292 Cameron Road, Gate Pa, Tauranga 3112",
+            "Day": "Saturday 20 November",
+            "Times": "12:05 pm - 1:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 6:00 pm"
+        },
+        {
+            "Location name": "BP Gas Station Gate Pa Tauranga",
+            "Address": "1058 Cameron Road, Gate Pa, Tauranga 3112",
+            "Day": "Saturday 20 November",
+            "Times": "1:15 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "24 Nov 6:00 pm"
+        },
         {
             "Location name": "Baker Bob's Bakery and Cafe Tauranga",
             "Address": "135 Chadwick Road, Greerton, Tauranga 3112",
