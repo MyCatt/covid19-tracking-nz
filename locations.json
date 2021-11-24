@@ -1,7 +1,71 @@
 {
-    "size": 171,
-    "added": "2021-11-24 23:00:46.057619",
+    "size": 179,
+    "added": "2021-11-24 23:20:20.639946",
     "body": [
+        {
+            "Location name": "Noel Leeming Palmerston North",
+            "Address": "245 Rangitikei Street, Palmerston North, Palmerston North 4410",
+            "Day": "Thursday 18 November",
+            "Times": "10:55 am - 11:05 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
+        {
+            "Location name": "The Plaza Shopping Centre Palmerston North",
+            "Address": "84 The Square, Palmerston North, Palmerston North 4410",
+            "Day": "Thursday 18 November",
+            "Times": "12:13 pm - 1:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Matangi Takeaways, Hamilton",
+            "Address": "453 Tauwhare Road, RD 4, Hamilton 3284",
+            "Day": "Sunday 21 November",
+            "Times": "12:55 pm - 3:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
+        {
+            "Location name": "New World Pahiatua",
+            "Address": "103 Main Street, Pahiatua, Pahiatua 4910",
+            "Day": "Wednesday 17 November",
+            "Times": "6:08 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
+        {
+            "Location name": "New World Pahiatua",
+            "Address": "103 Main Street, Pahiatua, Pahiatua 4910",
+            "Day": "Friday 19 November",
+            "Times": "10:15 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Palmerston North",
+            "Address": "171 Church Street, West End, Palmerston North 4412",
+            "Day": "Monday 22 November",
+            "Times": "10:18 am - 11:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Palmerston North",
+            "Address": "171 Church Street, West End, Palmerston North 4412",
+            "Day": "Thursday 18 November",
+            "Times": "11:09 am - 12:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Kmart, Palmerston North",
+            "Address": "84 The Square, Palmerston North, Palmerston North 4410",
+            "Day": "Thursday 18 November",
+            "Times": "12:45 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 12:00 pm"
+        },
         {
             "Location name": "The RnM Sports Bar & Grill, Rotorua",
             "Address": "1279 Amohia Street, City, Rotorua 3010",
