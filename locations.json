@@ -1,14 +1,30 @@
 {
-    "size": 169,
-    "added": "2021-11-24 22:00:41.559632",
+    "size": 171,
+    "added": "2021-11-24 22:20:19.610555",
     "body": [
         {
-            "Location name": "Ruck n Maul Rotorua",
+            "Location name": "The RnM Sports Bar & Grill, Rotorua",
             "Address": "1279 Amohia Street, City, Rotorua 3010",
             "Day": "Tuesday 16 November",
             "Times": "5:30 pm - 8:30 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "25 Nov 11:00 am"
+        },
+        {
+            "Location name": "Ebbett Toyota Hamilton",
+            "Address": "5 Kahu Crescent, Te Rapa Park, Hamilton 3200",
+            "Day": "Friday 19 November",
+            "Times": "7:00 am - 5:00 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "25 Nov 10:00 am"
+            "Updated": "25 Nov 11:00 am"
+        },
+        {
+            "Location name": "Z 15th Ave Petrol Station Tauranga",
+            "Address": "Fifteenth Avenue, Tauranga South, Tauranga 3112",
+            "Day": "Saturday 20 November",
+            "Times": "9:55 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 11:00 am"
         },
         {
             "Location name": "New World Gate Pa",
