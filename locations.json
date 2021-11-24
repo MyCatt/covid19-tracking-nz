@@ -1,7 +1,23 @@
 {
-    "size": 167,
-    "added": "2021-11-24 21:00:49.760475",
+    "size": 169,
+    "added": "2021-11-24 21:20:18.077958",
     "body": [
+        {
+            "Location name": "Ruck n Maul Rotorua",
+            "Address": "1279 Amohia Street, City, Rotorua 3010",
+            "Day": "Tuesday 16 November",
+            "Times": "5:30 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 10:00 am"
+        },
+        {
+            "Location name": "New World Gate Pa",
+            "Address": "948 Cameron Road, Gate Pa, Tauranga 3112",
+            "Day": "Sunday 21 November",
+            "Times": "6:30 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 10:00 am"
+        },
         {
             "Location name": "Unichem Pharmacy Greerton",
             "Address": "221 Chadwick Road, Greerton, Tauranga 3112",
