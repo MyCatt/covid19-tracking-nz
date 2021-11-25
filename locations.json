@@ -1,7 +1,31 @@
 {
-    "size": 181,
-    "added": "2021-11-25 23:20:23.365926",
+    "size": 184,
+    "added": "2021-11-25 23:40:15.514204",
     "body": [
+        {
+            "Location name": "Pied Piper Ice Cream Truck Memorial Park Tauranga",
+            "Address": "Eleventh Avenue, Parkvale, Tauranga 3110",
+            "Day": "Saturday 20 November",
+            "Times": "2:40 pm - 3:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Tauranga Hospital Emergency Department",
+            "Address": "829 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Sunday 21 November",
+            "Times": "12:00 am - 1:10 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "26 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Tauranga Hospital Emergency Department",
+            "Address": "829 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Saturday 20 November",
+            "Times": "8:42 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "26 Nov 12:00 pm"
+        },
         {
             "Location name": "Kaitaia Town Swimming Pool",
             "Address": "5 Eden Terrace, Kaitaia 0410",
