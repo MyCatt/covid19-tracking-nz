@@ -1,7 +1,15 @@
 {
-    "size": 180,
-    "added": "2021-11-25 21:00:41.933907",
+    "size": 181,
+    "added": "2021-11-25 21:20:17.872055",
     "body": [
+        {
+            "Location name": "Kaitaia Town Swimming Pool",
+            "Address": "5 Eden Terrace, Kaitaia 0410",
+            "Day": "Tuesday 16 November",
+            "Times": "3:30 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 10:00 am"
+        },
         {
             "Location name": "Fresh Choice Ruakaka",
             "Address": "24/378 Marsden Point Road, Ruakaka 0116",
