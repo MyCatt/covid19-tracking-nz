@@ -1,7 +1,47 @@
 {
-    "size": 192,
-    "added": "2021-11-25 04:40:17.310582",
+    "size": 197,
+    "added": "2021-11-25 05:01:01.215449",
     "body": [
+        {
+            "Location name": "Ruakaka Liquor Centre, Ruakaka",
+            "Address": "328 Marsden Point Rd, Ruakaka, 0116",
+            "Day": "Saturday 20 November",
+            "Times": "12:15 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Fresh Choice, Ruakaka",
+            "Address": "24/378 Marsden Point Road, Ruakaka 0116",
+            "Day": "Saturday 20 November",
+            "Times": "12:35 pm - 12:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Huntly West Pricecutter Huntly",
+            "Address": "5 Bridge Street, Huntly 3700",
+            "Day": "Tuesday 23 November",
+            "Times": "1:40 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Eastside Tavern and TAB, Hamilton East",
+            "Address": "Corner Of Grey Street & Cook St,, Hamilton East, Hamilton 3216",
+            "Day": "Friday 19 November",
+            "Times": "4:15 pm - 6:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Huntly Golden Bakery and Cafe, Huntly",
+            "Address": "117 Main Street, Huntly 3700",
+            "Day": "Tuesday 23 November",
+            "Times": "9:45 am - 10:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "25 Nov 6:00 pm"
+        },
         {
             "Location name": "Cambridge Heights Foodmarket, Bethlehem",
             "Address": "158 Cambridge Road, Bethlehem, Tauranga 3110",
