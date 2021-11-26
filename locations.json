@@ -1,7 +1,31 @@
 {
-    "size": 185,
-    "added": "2021-11-26 03:00:56.116244",
+    "size": 188,
+    "added": "2021-11-26 03:20:17.051986",
     "body": [
+        {
+            "Location name": "Goldstar Bakery, Old Taupo Road Rotorua",
+            "Address": "89 Old Taupo Road, Mangakakahi, Rotorua 3015",
+            "Day": "Monday 22 November",
+            "Times": "6:21 am - 7:46 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 4:00 pm"
+        },
+        {
+            "Location name": "PAKnSAVE Rotorua",
+            "Address": "1042 Amohau Street, Rotorua 3010",
+            "Day": "Wednesday 24 November",
+            "Times": "4:45 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 4:00 pm"
+        },
+        {
+            "Location name": "KFC Amohau Street, Rotorua",
+            "Address": "1265 Amohau Street, Rotorua 3010",
+            "Day": "Friday 19 November",
+            "Times": "8:22 pm - 9:37 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 4:00 pm"
+        },
         {
             "Location name": "Mobil Te Ngae",
             "Address": "238 Te Ngae Road, Ngapuna, Rotorua 3010",
