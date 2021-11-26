@@ -1,7 +1,55 @@
 {
-    "size": 188,
-    "added": "2021-11-26 05:00:54.485812",
+    "size": 194,
+    "added": "2021-11-26 05:20:19.809555",
     "body": [
+        {
+            "Location name": "Whakatane Acute Care Unit",
+            "Address": "Stewart Street and Garaway Street, Whakatane 3120",
+            "Day": "Sunday 21 November",
+            "Times": "5:00 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "26 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Westpac ATM New World Westend Rotorua",
+            "Address": "247 Old Taupo Road, Hillcrest, Rotorua 3015",
+            "Day": "Monday 22 November",
+            "Times": "7:24 am - 8:39 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Four Square Coopers Beach",
+            "Address": "9 Coopers Drive, Coopers Beach, Coopers Beach 0420",
+            "Day": "Wednesday 24 November",
+            "Times": "11:15 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Unichem Cherrywood Pharmacy Otumoetai",
+            "Address": "54 Cherrywood Drive, Otumoetai, Tauranga 3110",
+            "Day": "Monday 22 November",
+            "Times": "4:00 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "26 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Whakatane Hospital Emergency Department",
+            "Address": "Stewart Street and Garaway Street, Whakatane 3120",
+            "Day": "Sunday 21 November",
+            "Times": "2:00 pm - 6:15 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "26 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Whakatane Acute Care Unit",
+            "Address": "Stewart Street and Garaway Street, Whakatane 3120",
+            "Day": "Monday 22 November",
+            "Times": "12:00 am - 2:00 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "26 Nov 6:00 pm"
+        },
         {
             "Location name": "Goldstar Bakery, Old Taupo Road Rotorua",
             "Address": "89 Old Taupo Road, Mangakakahi, Rotorua 3015",
