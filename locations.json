@@ -1,14 +1,38 @@
 {
-    "size": 175,
-    "added": "2021-11-27 01:00:47.721144",
+    "size": 178,
+    "added": "2021-11-27 01:20:22.708225",
     "body": [
         {
-            "Location name": "Gold Star Bakery Patrick's pies Mangakakahi",
+            "Location name": "Gold Star Bakery Patrick's Pies Mangakakahi",
             "Address": "89 Old Taupo Road, Mangakakahi, Rotorua 3015",
             "Day": "Thursday 18 November",
             "Times": "6:03 am - 7:28 am",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "27 Nov 12:00 pm"
+            "Updated": "27 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Paengaroa Liquor Store",
+            "Address": "5 Old Coach Road, RD 9, Te Puke 3189",
+            "Day": "Friday 19 November",
+            "Times": "6:30 pm - 7:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Nov 2:00 pm"
+        },
+        {
+            "Location name": "McDonalds Te Ngae",
+            "Address": "2 Robinson Avenue, Owhata, Rotorua 3010",
+            "Day": "Friday 19 November",
+            "Times": "7:00 am - 8:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Warehouse Fraser Cove",
+            "Address": "1/229 Fraser Street, Tauranga South, Tauranga 3112",
+            "Day": "Friday 19 November",
+            "Times": "10:15 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Nov 2:00 pm"
         },
         {
             "Location name": "Whakatane Acute Care Unit",
