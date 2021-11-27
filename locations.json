@@ -1,7 +1,39 @@
 {
-    "size": 185,
-    "added": "2021-11-27 05:00:51.113831",
+    "size": 189,
+    "added": "2021-11-27 05:20:19.279964",
     "body": [
+        {
+            "Location name": "Kmart Bethlehem",
+            "Address": "19 Bethlehem Road, Bethlehem, Tauranga 3110",
+            "Day": "Saturday 20 November",
+            "Times": "10:45 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Snap Fitness 24/7 Hamilton North",
+            "Address": "6/697 Wairere Drive, Chartwell, Hamilton 3210",
+            "Day": "Thursday 25 November",
+            "Times": "1:15 pm - 3:45 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "27 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Mount Maunganui Toy Library Incorporated",
+            "Address": "62 Golf Road, Mount Maunganui, Mount Maunganui 3116",
+            "Day": "Saturday 20 November",
+            "Times": "10:05 am - 11:20 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Nov 6:00 pm"
+        },
+        {
+            "Location name": "BP Bethlehem",
+            "Address": "19 Bethlehem Road, Bethlehem, Tauranga 3110",
+            "Day": "Saturday 20 November",
+            "Times": "10:45 am - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "27 Nov 6:00 pm"
+        },
         {
             "Location name": "Farmers Bayfair",
             "Address": "Bayfair Shopping Centre, 19 Girven Road, Bayfair, Mount Maunganui 3116",
