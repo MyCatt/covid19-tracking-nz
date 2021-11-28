@@ -1,7 +1,31 @@
 {
-    "size": 183,
-    "added": "2021-11-27 23:40:16.666176",
+    "size": 186,
+    "added": "2021-11-28 00:01:12.088691",
     "body": [
+        {
+            "Location name": "Lick this Ice Cream Parlour Napier",
+            "Address": "290 Marine Parade, Napier South, Napier 4110",
+            "Day": "Sunday 21 November",
+            "Times": "2:00 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Nov 12:00 pm"
+        },
+        {
+            "Location name": "Unichem Stortford Lodge Pharmacy Hastings",
+            "Address": "1107 Heretaunga Street West, Saint Leonards, Hastings 4120",
+            "Day": "Saturday 27 November",
+            "Times": "4:15 pm - 5:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Nov 12:00 pm"
+        },
+        {
+            "Location name": "PAK'nSAVE Napier",
+            "Address": "25 Munroe Street, Napier South, Napier 4110",
+            "Day": "Thursday 25 November",
+            "Times": "8:30 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Nov 12:00 pm"
+        },
         {
             "Location name": "Dixie Browns Taupo",
             "Address": "38 Roberts Street, Taupo 3330",
