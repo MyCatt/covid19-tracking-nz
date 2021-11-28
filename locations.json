@@ -1,7 +1,15 @@
 {
-    "size": 163,
-    "added": "2021-11-28 23:20:25.020735",
+    "size": 164,
+    "added": "2021-11-28 23:40:16.758044",
     "body": [
+        {
+            "Location name": "Whakatane Hospital Emergency Department",
+            "Address": "Stewart Street and Garaway Street, Whakatane 3120",
+            "Day": "Sunday 21 November",
+            "Times": "2:00 pm - 6:15 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "29 Nov 12:00 pm"
+        },
         {
             "Location name": "Flex Fitness 24 Hour Gym Hastings",
             "Address": "203 Eastbourne Street West, Hastings 4122",
