@@ -1,7 +1,15 @@
 {
     "size": 186,
-    "added": "2021-11-28 03:00:41.597184",
+    "added": "2021-11-28 03:20:22.138173",
     "body": [
+        {
+            "Location name": "Flex Fitness 24 Hour Gym Hastings",
+            "Address": "203 Eastbourne Street West, Hastings 4122",
+            "Day": "Tuesday 23 November",
+            "Times": "6:00 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "28 Nov 4:00 pm"
+        },
         {
             "Location name": "Lick this Ice Cream Parlour Napier",
             "Address": "290 Marine Parade, Napier South, Napier 4110",
@@ -184,14 +192,6 @@
             "Day": "Monday 22 November",
             "Times": "4:00 pm - 5:45 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "26 Nov 6:00 pm"
-        },
-        {
-            "Location name": "Whakatane Hospital Emergency Department",
-            "Address": "Stewart Street and Garaway Street, Whakatane 3120",
-            "Day": "Sunday 21 November",
-            "Times": "2:00 pm - 6:15 pm",
-            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "26 Nov 6:00 pm"
         },
         {
