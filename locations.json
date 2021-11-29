@@ -1,7 +1,111 @@
 {
-    "size": 167,
-    "added": "2021-11-29 05:00:45.654344",
+    "size": 180,
+    "added": "2021-11-29 05:20:22.677283",
     "body": [
+        {
+            "Location name": "Ewing Poultry Hope",
+            "Address": "83 Main Road Hope, Hope, Richmond 7020",
+            "Day": "Saturday 27 November",
+            "Times": "10:30 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Lone Star Nelson, Nelson",
+            "Address": "90 Hardy Street, Nelson 7010",
+            "Day": "Friday 19 November",
+            "Times": "8:15 pm - 8:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Richmond Liquid Laundromat, Nelson",
+            "Address": "11 Croucher Street, Richmond, Nelson 7020",
+            "Day": "Friday 19 November",
+            "Times": "4:45 pm - 6:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Z Rutherford Service Station, Nelson",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Saturday 20 November",
+            "Times": "5:00 am - 5:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Z Richmond Service Station, Richmond",
+            "Address": "8 Gladstone Road, Richmond 7020",
+            "Day": "Saturday 27 November",
+            "Times": "10:45 am - 11:10 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Richmond Liquid Laundromat, Nelson",
+            "Address": "11 Croucher Street, Richmond, Nelson 7020",
+            "Day": "Thursday 25 November",
+            "Times": "6:15 pm - 8:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "PAK n SAVE Richmond Mall Richmond",
+            "Address": "Corner Queen, Croucher and, Talbot Street, Richmond, Nelson 7020",
+            "Day": "Saturday 27 November",
+            "Times": "1:40 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Richmond Mall, Nelson",
+            "Address": "Corner Queen, Croucher and, Talbot Street, Richmond, Nelson 7020",
+            "Day": "Saturday 27 November",
+            "Times": "1:30 pm - 2:40 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "McDonald's Nelson",
+            "Address": "111 Rutherford Street, Nelson 7010",
+            "Day": "Saturday 20 November",
+            "Times": "5:00 am - 5:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Hey Sushi Richmond Mall Food Court, Richmond",
+            "Address": "Corner Queen, Croucher and Talbot Street, Richmond, Nelson 7020",
+            "Day": "Saturday 27 November",
+            "Times": "2:15 pm - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Z Richmond Service Station, Richmond",
+            "Address": "8 Gladstone Road, Richmond 7020",
+            "Day": "Saturday 27 November",
+            "Times": "2:35 pm - 2:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Four Square Mapua",
+            "Address": "64 Aranui Road, Mapua 7005",
+            "Day": "Saturday 20 November",
+            "Times": "4:00 pm - 5:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Z Rutherford Service Station, Nelson",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Friday 19 November",
+            "Times": "8:30 pm - 9:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 6:00 pm"
+        },
         {
             "Location name": "Waterworld Hamilton",
             "Address": "61 Garnett Avenue, Forest Lake, Hamilton 3200",
