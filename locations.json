@@ -1,7 +1,23 @@
 {
-    "size": 165,
-    "added": "2021-11-29 03:01:04.600636",
+    "size": 167,
+    "added": "2021-11-29 03:20:32.870615",
     "body": [
+        {
+            "Location name": "Waterworld Hamilton",
+            "Address": "61 Garnett Avenue, Forest Lake, Hamilton 3200",
+            "Day": "Thursday 25 November",
+            "Times": "9:30 am - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Waterworld Hamilton",
+            "Address": "61 Garnett Avenue, Forest Lake, Hamilton 3200",
+            "Day": "Friday 26 November",
+            "Times": "12:00 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "29 Nov 4:00 pm"
+        },
         {
             "Location name": "Flex Fitness 24 Hour Gym Hastings",
             "Address": "201/203 Eastbourne Street West, Hastings 4122",
