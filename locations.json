@@ -1,7 +1,15 @@
 {
-    "size": 158,
-    "added": "2021-11-30 23:00:47.301695",
+    "size": 159,
+    "added": "2021-11-30 23:20:20.423461",
     "body": [
+        {
+            "Location name": "Z Service Station  Rutherford",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Saturday 27 November",
+            "Times": "12:30 pm - 12:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 12:00 pm"
+        },
         {
             "Location name": "Secrets Gentlemen's Club Nelson",
             "Address": "106 Hardy Street, Nelson Central, Nelson 7010",
