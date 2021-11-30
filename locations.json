@@ -1,7 +1,31 @@
 {
-    "size": 155,
-    "added": "2021-11-30 21:00:47.044203",
+    "size": 158,
+    "added": "2021-11-30 21:20:18.776765",
     "body": [
+        {
+            "Location name": "Secrets Gentlemen's Club Nelson",
+            "Address": "106 Hardy Street, Nelson Central, Nelson 7010",
+            "Day": "Saturday 27 November",
+            "Times": "5:30 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "1 Dec 10:00 am"
+        },
+        {
+            "Location name": "Hardy's Bar & TAB Nelson",
+            "Address": "135 Hardy Street, Nelson 7010",
+            "Day": "Sunday 28 November",
+            "Times": "4:00 pm - 4:15 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "1 Dec 10:00 am"
+        },
+        {
+            "Location name": "Secrets Gentlemen's Club Nelson",
+            "Address": "106 Hardy Street, Nelson Central, Nelson 7010",
+            "Day": "Sunday 28 November",
+            "Times": "12:00 am - 3:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "1 Dec 10:00 am"
+        },
         {
             "Location name": "Z Rutherford Service Station Nelson",
             "Address": "106 Rutherford Street, Nelson 7010",
