@@ -1,7 +1,71 @@
 {
-    "size": 154,
-    "added": "2021-11-30 03:20:19.144942",
+    "size": 162,
+    "added": "2021-11-30 03:40:13.769814",
     "body": [
+        {
+            "Location name": "Raeward Fresh Wholesale Richmond",
+            "Address": "41 McGlashen Avenue, Richmond 7020",
+            "Day": "Tuesday 23 November",
+            "Times": "5:30 pm - 5:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Z Rutherford Service Station Nelson",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Tuesday 23 November",
+            "Times": "4:30 pm - 4:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Z Rutherford Service Station Nelson",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Thursday 25 November",
+            "Times": "11:40 pm - 11:50 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Skyline Rotorua",
+            "Address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
+            "Day": "Wednesday 24 November",
+            "Times": "11:04 am - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Pak'nSave Kaitaia",
+            "Address": "111 North Road, Kaitaia, Kaitaia 0410",
+            "Day": "Saturday 27 November",
+            "Times": "10:08 am - 10:40 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Big Barrel Liquor Store Nelson",
+            "Address": "36 Gloucester Street, Nelson 7010",
+            "Day": "Tuesday 23 November",
+            "Times": "2:45 pm - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 4:00 pm"
+        },
+        {
+            "Location name": "The Martial Arts Academy Papamoa",
+            "Address": "29 Reynolds Place, Papamoa Beach, Papamoa 3118",
+            "Day": "Monday 22 November",
+            "Times": "3:45 pm - 4:30 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "30 Nov 4:00 pm"
+        },
+        {
+            "Location name": "Mapua Fruit and Vege",
+            "Address": "151 Aranui Road, Mapua 7005",
+            "Day": "Wednesday 24 November",
+            "Times": "3:45 pm - 4:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 4:00 pm"
+        },
         {
             "Location name": "Brentwood Hotel Kilbirnie",
             "Address": "16 Kemp Street, Kilbirnie, Wellington 6022",
