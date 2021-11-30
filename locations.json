@@ -1,7 +1,15 @@
 {
     "size": 152,
-    "added": "2021-11-30 01:01:13.580951",
+    "added": "2021-11-30 01:20:34.729423",
     "body": [
+        {
+            "Location name": "Z Rutherford Service Station, Nelson",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Saturday 20 November",
+            "Times": "5:00 am - 5:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 2:00 pm"
+        },
         {
             "Location name": "Ewing Poultry Hope",
             "Address": "83 Main Road Hope, Hope, Richmond 7020",
@@ -23,14 +31,6 @@
             "Address": "11 Croucher Street, Richmond, Nelson 7020",
             "Day": "Friday 19 November",
             "Times": "4:45 pm - 6:30 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "29 Nov 6:00 pm"
-        },
-        {
-            "Location name": "Z Rutherford Service Station, Nelson",
-            "Address": "106 Rutherford Street, Nelson 7010",
-            "Day": "Saturday 20 November",
-            "Times": "5:00 am - 5:30 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "29 Nov 6:00 pm"
         },
