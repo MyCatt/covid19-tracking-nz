@@ -1,7 +1,55 @@
 {
-    "size": 169,
-    "added": "2021-11-30 05:00:40.051365",
+    "size": 175,
+    "added": "2021-11-30 05:20:17.815717",
     "body": [
+        {
+            "Location name": "Z Rutherford Service Station Nelson",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Sunday 28 November",
+            "Times": "4:30 pm - 4:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 6:00 pm"
+        },
+        {
+            "Location name": "623 In The City Nelson",
+            "Address": "223 Hardy Street, Nelson 7010",
+            "Day": "Friday 19 November",
+            "Times": "1:15 pm - 2:30 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "30 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Hardy's Bar & TAB Nelson",
+            "Address": "135 Hardy Street, Nelson 7010",
+            "Day": "Friday 19 November",
+            "Times": "2:30 pm - 3:00 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "30 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Hardy's Bar & TAB Nelson",
+            "Address": "135 Hardy Street, Nelson 7010",
+            "Day": "Thursday 25 November",
+            "Times": "5:50 pm - 6:10 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "30 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Fresh Choice Nelson",
+            "Address": "69 Collingwood Street, Nelson 7010",
+            "Day": "Saturday 27 November",
+            "Times": "3:00 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 6:00 pm"
+        },
+        {
+            "Location name": "Z Rutherford Service Station Nelson",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Saturday 27 November",
+            "Times": "11:30 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 6:00 pm"
+        },
         {
             "Location name": "The Martial Arts Academy Papamoa",
             "Address": "29 Reynolds Place, Papamoa Beach, Papamoa 3118",
