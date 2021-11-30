@@ -1,7 +1,23 @@
 {
-    "size": 152,
-    "added": "2021-11-30 01:20:34.729423",
+    "size": 154,
+    "added": "2021-11-30 01:40:22.054814",
     "body": [
+        {
+            "Location name": "Brentwood Hotel Kilbirnie",
+            "Address": "16 Kemp Street, Kilbirnie, Wellington 6022",
+            "Day": "Monday 22 November",
+            "Times": "8:00 am - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 2:00 pm"
+        },
+        {
+            "Location name": "Brentwood Hotel Kilbirnie",
+            "Address": "16 Kemp Street, Kilbirnie, Wellington 6022",
+            "Day": "Tuesday 23 November",
+            "Times": "12:00 am - 7:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "30 Nov 2:00 pm"
+        },
         {
             "Location name": "Z Rutherford Service Station, Nelson",
             "Address": "106 Rutherford Street, Nelson 7010",
