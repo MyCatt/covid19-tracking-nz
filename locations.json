@@ -1,7 +1,31 @@
 {
-    "size": 166,
-    "added": "2021-12-01 05:00:39.538464",
+    "size": 168,
+    "added": "2021-12-01 05:20:19.277141",
     "body": [
+        {
+            "Location name": "Brentwood Hotel Kilbirnie",
+            "Address": "16 Kemp Street, Kilbirnie, Wellington 6022",
+            "Day": "Monday 22 November",
+            "Times": "7:30 pm - 11:59 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 6:00 pm"
+        },
+        {
+            "Location name": "PAK'nSAVE Cameron Road Tauranga",
+            "Address": "476 Cameron Road, Tauranga, Tauranga 3110",
+            "Day": "Sunday 28 November",
+            "Times": "4:45 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "1 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Martys Pool Bar Tauranga",
+            "Address": "9 Elizabeth Street, Tauranga 3110",
+            "Day": "Wednesday 24 November",
+            "Times": "7:45 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "1 Dec 6:00 pm"
+        },
         {
             "Location name": "The Warehouse Kaitaia",
             "Address": "2 North Park Drive, Kaitaia, Kaitaia 0410",
@@ -257,14 +281,6 @@
             "Times": "3:45 pm - 4:15 pm",
             "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
             "Updated": "30 Nov 4:00 pm"
-        },
-        {
-            "Location name": "Brentwood Hotel Kilbirnie",
-            "Address": "16 Kemp Street, Kilbirnie, Wellington 6022",
-            "Day": "Monday 22 November",
-            "Times": "8:00 am - 11:59 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "30 Nov 2:00 pm"
         },
         {
             "Location name": "Brentwood Hotel Kilbirnie",
