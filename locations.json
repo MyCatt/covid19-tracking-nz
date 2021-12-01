@@ -1,7 +1,103 @@
 {
-    "size": 151,
-    "added": "2021-12-01 23:00:58.261176",
+    "size": 163,
+    "added": "2021-12-01 23:20:19.204696",
     "body": [
+        {
+            "Location name": "Subway 12th Avenue Tauranga",
+            "Address": "602 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Saturday 27 November",
+            "Times": "12:51 pm - 2:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Kiwi Bakery Nelson",
+            "Address": "2/9 Nayland Road, Stoke, Nelson 7011",
+            "Day": "Friday 26 November",
+            "Times": "12:05 pm - 12:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "City Sports Bar Tauranga",
+            "Address": "20 Hamilton Street, Tauranga 3110",
+            "Day": "Wednesday 24 November",
+            "Times": "8:45 pm - 11:59 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Z Hewletts Road Mount Maunganui",
+            "Address": "81 Hewletts Road, Mount Maunganui 3116",
+            "Day": "Thursday 25 November",
+            "Times": "4:45 am - 7:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Kiwi Bakery Nelson",
+            "Address": "9 Nayland Road, Stoke, Nelson 7011",
+            "Day": "Monday 29 November",
+            "Times": "12:05 pm - 12:20 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Turkish To Go Greerton",
+            "Address": "171 Chadwick Road, Greerton, Tauranga 3112",
+            "Day": "Wednesday 24 November",
+            "Times": "7:41 pm - 8:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Super Liquor Greerton",
+            "Address": "1235 Cameron Road, Gate Pa, Tauranga 3112",
+            "Day": "Saturday 27 November",
+            "Times": "7:02 pm - 8:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Z Central Parade Mount Maunganui",
+            "Address": "500 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Tuesday 23 November",
+            "Times": "4:45 am - 7:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Z Central Parade Mount Maunganui",
+            "Address": "500 Maunganui Road, Mount Maunganui 3116",
+            "Day": "Wednesday 24 November",
+            "Times": "4:45 am - 7:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Tauranga Library Tauranga",
+            "Address": "91 Willow Street, Tauranga 3110",
+            "Day": "Thursday 25 November",
+            "Times": "11:30 am - 2:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "Ground Level Public Computers at Tauranga Library",
+            "Address": "91 Willow Street, Tauranga 3110",
+            "Day": "Thursday 25 November",
+            "Times": "11:30 am - 2:30 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Dec 12:00 pm"
+        },
+        {
+            "Location name": "City Sports Bar Tauranga",
+            "Address": "20 Hamilton Street, Tauranga 3110",
+            "Day": "Thursday 25 November",
+            "Times": "12:00 am - 1:00 am",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Dec 12:00 pm"
+        },
         {
             "Location name": "Countdown Fraser Cove",
             "Address": "229 Fraser Street, Tauranga South, Tauranga 3112",
