@@ -1,7 +1,39 @@
 {
-    "size": 159,
-    "added": "2021-12-01 01:01:16.659529",
+    "size": 162,
+    "added": "2021-12-01 01:20:27.910596",
     "body": [
+        {
+            "Location name": "Z Service Station, Rutherford",
+            "Address": "106 Rutherford Street, Nelson 7010",
+            "Day": "Sunday 28 November",
+            "Times": "4:30 pm - 4:45 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 2:00 pm"
+        },
+        {
+            "Location name": "Papamoa Sports Tennis Club",
+            "Address": "80 Alice Lane, Papamoa Beach, Papamoa 3118",
+            "Day": "Friday 26 November",
+            "Times": "4:30 pm - 6:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 2:00 pm"
+        },
+        {
+            "Location name": "Two Dollar Things Nelson",
+            "Address": "199 Hardy Street, Nelson 7010",
+            "Day": "Saturday 27 November",
+            "Times": "4:00 pm - 4:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 2:00 pm"
+        },
+        {
+            "Location name": "Rattle n Hum Bar Nelson",
+            "Address": "141 Bridge Street, Nelson 7010",
+            "Day": "Saturday 27 November",
+            "Times": "3:00 pm - 3:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 2:00 pm"
+        },
         {
             "Location name": "Z Service Station  Rutherford",
             "Address": "106 Rutherford Street, Nelson 7010",
@@ -33,14 +65,6 @@
             "Times": "12:00 am - 3:00 am",
             "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
             "Updated": "1 Dec 10:00 am"
-        },
-        {
-            "Location name": "Z Rutherford Service Station Nelson",
-            "Address": "106 Rutherford Street, Nelson 7010",
-            "Day": "Sunday 28 November",
-            "Times": "4:30 pm - 4:45 pm",
-            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
-            "Updated": "30 Nov 6:00 pm"
         },
         {
             "Location name": "623 In The City Nelson",
