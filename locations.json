@@ -1,7 +1,39 @@
 {
-    "size": 162,
-    "added": "2021-12-01 03:00:48.157184",
+    "size": 166,
+    "added": "2021-12-01 03:20:18.420888",
     "body": [
+        {
+            "Location name": "The Warehouse Kaitaia",
+            "Address": "2 North Park Drive, Kaitaia, Kaitaia 0410",
+            "Day": "Saturday 27 November",
+            "Times": "10:44 am - 10:54 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 4:00 pm"
+        },
+        {
+            "Location name": "Farmers Kilbirnie",
+            "Address": "46-54 Bay Road, Kilbirnie, Wellington 6022",
+            "Day": "Friday 26 November",
+            "Times": "9:00 am - 9:10 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 4:00 pm"
+        },
+        {
+            "Location name": "Z Service Station Turangi",
+            "Address": "Cnr State Highway One and Pihanga Road, Turangi 3334",
+            "Day": "Monday 29 November",
+            "Times": "6:00 am - 6:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 4:00 pm"
+        },
+        {
+            "Location name": "Rosebowl Bakery & Cafe, Feilding",
+            "Address": "56 Kimbolton Road, Feilding 4702",
+            "Day": "Monday 29 November",
+            "Times": "9:30 am - 9:45 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed at this location of interest. If symptoms develop, get a test and stay at home until you get a negative test result AND until 24 hours after symptoms resolve.",
+            "Updated": "1 Dec 4:00 pm"
+        },
         {
             "Location name": "Z Service Station, Rutherford",
             "Address": "106 Rutherford Street, Nelson 7010",
