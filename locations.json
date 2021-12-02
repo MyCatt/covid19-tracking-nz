@@ -1,7 +1,23 @@
 {
-    "size": 163,
-    "added": "2021-12-02 01:01:04.962630",
+    "size": 165,
+    "added": "2021-12-02 01:20:32.624557",
     "body": [
+        {
+            "Location name": "Westpac Tauranga Centre Branch",
+            "Address": "573-591 Cameron Road, Tauranga South, Tauranga 3112",
+            "Day": "Saturday 27 November",
+            "Times": "12:23 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 2:00 pm"
+        },
+        {
+            "Location name": "Kiwi Barber Tauranga",
+            "Address": "431 Cameron Road, Tauranga South, Tauranga 3110",
+            "Day": "Saturday 27 November",
+            "Times": "12:15 pm - 1:45 pm",
+            "What to do": "Self-isolate, test immediately and on day 5 after you were exposed at this location of interest. Further isolation and testing requirements will be provided by Public Health.Record your visit online or call Healthline so our contact tracers can get in touch.",
+            "Updated": "2 Dec 2:00 pm"
+        },
         {
             "Location name": "Subway 12th Avenue Tauranga",
             "Address": "602 Cameron Road, Tauranga South, Tauranga 3112",
