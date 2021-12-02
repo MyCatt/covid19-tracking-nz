@@ -1,7 +1,31 @@
 {
-    "size": 138,
-    "added": "2021-12-02 21:20:19.402638",
+    "size": 141,
+    "added": "2021-12-02 21:40:14.420100",
     "body": [
+        {
+            "Location name": "WOF and REGO Centre Vehicle Testing Taupo",
+            "Address": "10 Fleet Street, Tauhara, Taupo 3330",
+            "Day": "Monday 29 November",
+            "Times": "3:30 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "3 Dec 10:00 am"
+        },
+        {
+            "Location name": "Bridgestone Tyre Centre Taupo",
+            "Address": "44 Miro Street, RD 2, Taupo 3378",
+            "Day": "Monday 29 November",
+            "Times": "12:30 pm - 1:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "3 Dec 10:00 am"
+        },
+        {
+            "Location name": "WOF and REGO Centre Vehicle Testing, Taupo",
+            "Address": "10 Fleet Street, Tauhara, Taupo 3330",
+            "Day": "Tuesday 30 November",
+            "Times": "11:00 am - 12:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "3 Dec 10:00 am"
+        },
         {
             "Location name": "Thirsty Liquor, Otorohanga",
             "Address": "144 Maniapoto Street, Otorohanga 3900",
