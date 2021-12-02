@@ -1,7 +1,55 @@
 {
-    "size": 165,
-    "added": "2021-12-02 03:00:50.807697",
+    "size": 171,
+    "added": "2021-12-02 03:20:19.000650",
     "body": [
+        {
+            "Location name": "Warehouse Stationery Nelson",
+            "Address": "83/87 Bridge Street, Nelson, Nelson 7010",
+            "Day": "Monday 29 November",
+            "Times": "10:30 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 4:00 pm"
+        },
+        {
+            "Location name": "KFC Colombo Street Christchurch",
+            "Address": "258 Colombo Street, Sydenham, Christchurch 8023",
+            "Day": "Sunday 28 November",
+            "Times": "4:00 pm - 4:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 4:00 pm"
+        },
+        {
+            "Location name": "Hikurangi Hotel, Hikurangi",
+            "Address": "18 King Street, Hikurangi 0114",
+            "Day": "Friday 19 November",
+            "Times": "5:00 pm - 10:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 4:00 pm"
+        },
+        {
+            "Location name": "Bridgestone Tyre Centre Taupo",
+            "Address": "44 Miro Street, RD 2, Taupo 3378",
+            "Day": "Tuesday 30 November",
+            "Times": "11:00 am - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 4:00 pm"
+        },
+        {
+            "Location name": "McDonalds Taupo",
+            "Address": "48 Roberts Street, Taupo 3330",
+            "Day": "Tuesday 30 November",
+            "Times": "11:00 am - 3:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 4:00 pm"
+        },
+        {
+            "Location name": "The Warehouse Nelson",
+            "Address": "23 St Vincent Street, Nelson, Nelson 7010",
+            "Day": "Monday 29 November",
+            "Times": "11:10 am - 11:30 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 4:00 pm"
+        },
         {
             "Location name": "Westpac Tauranga Centre Branch",
             "Address": "573-591 Cameron Road, Tauranga South, Tauranga 3112",
