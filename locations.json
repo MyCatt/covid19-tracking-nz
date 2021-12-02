@@ -1,7 +1,79 @@
 {
-    "size": 171,
-    "added": "2021-12-02 05:00:38.313845",
+    "size": 180,
+    "added": "2021-12-02 05:20:16.932490",
     "body": [
+        {
+            "Location name": "Thirsty Liquor, Otorohanga",
+            "Address": "144 Maniapoto Street, Otorohanga 3900",
+            "Day": "Saturday 27 November",
+            "Times": "5:30 pm - 7:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "BP Connect Russley Road Christchurch",
+            "Address": "661 Russley Road, Harewood, Christchurch 8051",
+            "Day": "Sunday 28 November",
+            "Times": "6:00 pm - 6:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Blagdon Hot Bread Bakery, New Plymouth",
+            "Address": "555 Devon Street West, Blagdon, New Plymouth 4310",
+            "Day": "Thursday 25 November",
+            "Times": "9:00 am - 11:00 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Unichem Mainstreet Pharmacy Taupo",
+            "Address": "51 Tongariro Street, Taupo 3330",
+            "Day": "Monday 29 November",
+            "Times": "3:00 pm - 4:00 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Countdown Stoke Nelson",
+            "Address": "Cnr Putaitai Street & Main Road, Putaitai Street, Stoke, Nelson 7011",
+            "Day": "Saturday 27 November",
+            "Times": "12:10 pm - 12:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Pak?n Save Richmond",
+            "Address": "Corner of Talbot Street and Croucher Street, Richmond, Nelson 7020",
+            "Day": "Sunday 28 November",
+            "Times": "11:02 am - 11:15 am",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Taharepa Bakehouse and Cafe, Taupo",
+            "Address": "155 Taharepa Road, Tauhara, Taupo 3330",
+            "Day": "Monday 29 November",
+            "Times": "2:15 pm - 3:10 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Otorohanga Mini-mart, Otorohanga",
+            "Address": "24 Turongo Street, Otorohanga 3900",
+            "Day": "Saturday 27 November",
+            "Times": "5:30 pm - 7:30 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
+        {
+            "Location name": "Mad Butcher Stoke Nelson",
+            "Address": "201 Songer Street, Stoke, Nelson 7011",
+            "Day": "Saturday 27 November",
+            "Times": "12:00 pm - 12:15 pm",
+            "What to do": "Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.",
+            "Updated": "2 Dec 6:00 pm"
+        },
         {
             "Location name": "Warehouse Stationery Nelson",
             "Address": "83/87 Bridge Street, Nelson, Nelson 7010",
