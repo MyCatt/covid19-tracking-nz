@@ -1,21 +1,21 @@
 {
     "size": 22,
-    "added": "2022-01-23 00:40:23.527070",
+    "added": "2022-01-23 01:01:09.308273",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "109",
-            "Recovered": "2410",
+            "Active": "108",
+            "Recovered": "2418",
             "Deceased": "8",
-            "Total": "2527",
-            "Change in last 24 hours*": "2"
+            "Total": "2534",
+            "Change in last 24 hours*": "7"
         },
         {
             "Location": "Bay of Plenty",
-            "Active": "45",
-            "Recovered": "331",
+            "Active": "41",
+            "Recovered": "336",
             "Deceased": "1",
-            "Total": "377",
+            "Total": "378",
             "Change in last 24 hours*": "0"
         },
         {
@@ -36,11 +36,11 @@
         },
         {
             "Location": "Counties Manukau",
-            "Active": "105",
-            "Recovered": "5081",
+            "Active": "91",
+            "Recovered": "5100",
             "Deceased": "8",
-            "Total": "5194",
-            "Change in last 24 hours*": "14"
+            "Total": "5199",
+            "Change in last 24 hours*": "5"
         },
         {
             "Location": "Hawke's Bay",
@@ -48,7 +48,7 @@
             "Recovered": "49",
             "Deceased": "0",
             "Total": "64",
-            "Change in last 24 hours*": "6"
+            "Change in last 24 hours*": "0"
         },
         {
             "Location": "Hutt Valley",
@@ -60,10 +60,10 @@
         },
         {
             "Location": "Lakes",
-            "Active": "72",
+            "Active": "76",
             "Recovered": "104",
             "Deceased": "0",
-            "Total": "176",
+            "Total": "180",
             "Change in last 24 hours*": "5"
         },
         {
@@ -80,15 +80,15 @@
             "Recovered": "73",
             "Deceased": "0",
             "Total": "82",
-            "Change in last 24 hours*": "8"
+            "Change in last 24 hours*": "0"
         },
         {
             "Location": "Northland",
-            "Active": "5",
+            "Active": "7",
             "Recovered": "136",
             "Deceased": "0",
-            "Total": "141",
-            "Change in last 24 hours*": "0"
+            "Total": "143",
+            "Change in last 24 hours*": "2"
         },
         {
             "Location": "South Canterbury",
@@ -124,11 +124,11 @@
         },
         {
             "Location": "Waikato",
-            "Active": "23",
+            "Active": "24",
             "Recovered": "928",
             "Deceased": "2",
-            "Total": "953",
-            "Change in last 24 hours*": "4"
+            "Total": "954",
+            "Change in last 24 hours*": "1"
         },
         {
             "Location": "Wairarapa",
@@ -141,10 +141,10 @@
         {
             "Location": "Waitemat\u0101",
             "Active": "82",
-            "Recovered": "2866",
+            "Recovered": "2870",
             "Deceased": "14",
-            "Total": "2962",
-            "Change in last 24 hours*": "3"
+            "Total": "2966",
+            "Change in last 24 hours*": "4"
         },
         {
             "Location": "West Coast",
@@ -164,19 +164,19 @@
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "590",
-            "Recovered": "1686",
+            "Active": "630",
+            "Recovered": "1693",
             "Deceased": "2",
-            "Total": "2278",
-            "Change in last 24 hours*": "36"
+            "Total": "2325",
+            "Change in last 24 hours*": "47"
         },
         {
             "Location": "Total",
-            "Active": "1068",
-            "Recovered": "14359",
+            "Active": "1096",
+            "Recovered": "14402",
             "Deceased": "52",
-            "Total": "15479",
-            "Change in last 24 hours*": "78*"
+            "Total": "15550",
+            "Change in last 24 hours*": "71*"
         }
     ]
 }
