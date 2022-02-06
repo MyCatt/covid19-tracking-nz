@@ -1,22 +1,22 @@
 {
     "size": 22,
-    "added": "2022-02-06 00:01:06.210408",
+    "added": "2022-02-06 00:20:57.234430",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "225",
-            "Recovered": "2490",
+            "Active": "242",
+            "Recovered": "2494",
             "Deceased": "8",
-            "Total": "2723",
-            "Change in last 24 hours*": "32"
+            "Total": "2744",
+            "Change in last 24 hours*": "21"
         },
         {
             "Location": "Bay of Plenty",
-            "Active": "78",
-            "Recovered": "376",
+            "Active": "87",
+            "Recovered": "378",
             "Deceased": "1",
-            "Total": "455",
-            "Change in last 24 hours*": "4"
+            "Total": "466",
+            "Change in last 24 hours*": "11"
         },
         {
             "Location": "Canterbury",
@@ -28,27 +28,27 @@
         },
         {
             "Location": "Capital and Coast",
-            "Active": "9",
+            "Active": "12",
             "Recovered": "118",
             "Deceased": "2",
-            "Total": "129",
-            "Change in last 24 hours*": "2"
+            "Total": "132",
+            "Change in last 24 hours*": "3"
         },
         {
             "Location": "Counties Manukau",
-            "Active": "564",
-            "Recovered": "5156",
+            "Active": "652",
+            "Recovered": "5159",
             "Deceased": "8",
-            "Total": "5728",
-            "Change in last 24 hours*": "105"
+            "Total": "5819",
+            "Change in last 24 hours*": "91"
         },
         {
             "Location": "Hawke's Bay",
-            "Active": "35",
-            "Recovered": "66",
+            "Active": "37",
+            "Recovered": "69",
             "Deceased": "0",
-            "Total": "101",
-            "Change in last 24 hours*": "6"
+            "Total": "106",
+            "Change in last 24 hours*": "5"
         },
         {
             "Location": "Hutt Valley",
@@ -60,10 +60,10 @@
         },
         {
             "Location": "Lakes",
-            "Active": "102",
-            "Recovered": "146",
+            "Active": "96",
+            "Recovered": "153",
             "Deceased": "0",
-            "Total": "248",
+            "Total": "249",
             "Change in last 24 hours*": "1"
         },
         {
@@ -76,27 +76,27 @@
         },
         {
             "Location": "Nelson Marlborough",
-            "Active": "17",
-            "Recovered": "80",
+            "Active": "14",
+            "Recovered": "86",
             "Deceased": "0",
-            "Total": "97",
+            "Total": "100",
             "Change in last 24 hours*": "3"
         },
         {
             "Location": "Northland",
-            "Active": "85",
+            "Active": "92",
             "Recovered": "143",
             "Deceased": "0",
-            "Total": "228",
-            "Change in last 24 hours*": "21"
+            "Total": "235",
+            "Change in last 24 hours*": "7"
         },
         {
             "Location": "South Canterbury",
-            "Active": "0",
+            "Active": "1",
             "Recovered": "18",
             "Deceased": "0",
-            "Total": "18",
-            "Change in last 24 hours*": "0"
+            "Total": "19",
+            "Change in last 24 hours*": "1"
         },
         {
             "Location": "Southern",
@@ -112,7 +112,7 @@
             "Recovered": "7",
             "Deceased": "0",
             "Total": "23",
-            "Change in last 24 hours*": "3"
+            "Change in last 24 hours*": "0"
         },
         {
             "Location": "Taranaki",
@@ -124,11 +124,11 @@
         },
         {
             "Location": "Waikato",
-            "Active": "187",
-            "Recovered": "954",
+            "Active": "234",
+            "Recovered": "955",
             "Deceased": "2",
-            "Total": "1143",
-            "Change in last 24 hours*": "34"
+            "Total": "1191",
+            "Change in last 24 hours*": "48"
         },
         {
             "Location": "Wairarapa",
@@ -140,11 +140,11 @@
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "170",
-            "Recovered": "2925",
+            "Active": "178",
+            "Recovered": "2933",
             "Deceased": "15",
-            "Total": "3110",
-            "Change in last 24 hours*": "27"
+            "Total": "3126",
+            "Change in last 24 hours*": "16"
         },
         {
             "Location": "West Coast",
@@ -156,27 +156,27 @@
         },
         {
             "Location": "Whanganui",
-            "Active": "1",
+            "Active": "2",
             "Recovered": "10",
             "Deceased": "0",
-            "Total": "11",
+            "Total": "12",
             "Change in last 24 hours*": "1"
         },
         {
             "Location": "Managed Isolation & Quarantine",
-            "Active": "876",
-            "Recovered": "2063",
+            "Active": "833",
+            "Recovered": "2125",
             "Deceased": "2",
-            "Total": "2941",
-            "Change in last 24 hours*": "30"
+            "Total": "2960",
+            "Change in last 24 hours*": "19"
         },
         {
             "Location": "Total",
-            "Active": "2388",
-            "Recovered": "15105",
+            "Active": "2519",
+            "Recovered": "15201",
             "Deceased": "53",
-            "Total": "17546",
-            "Change in last 24 hours*": "269*"
+            "Total": "17773",
+            "Change in last 24 hours*": "227*"
         }
     ]
 }
