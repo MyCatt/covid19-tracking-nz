@@ -1,6 +1,6 @@
 {
     "size": 5,
-    "added": "2022-02-07 23:40:14.670187",
+    "added": "2022-02-08 00:01:10.909381",
     "body": [
         {
             "Category": "4",
@@ -23,14 +23,14 @@
         {
             "Category": "1",
             "Vaccinations yesterday": ",",
-            "Cumulative total": "5",
-            "Vaccinated or booked": "8"
+            "Cumulative total": "6",
+            "Vaccinated or booked": "0"
         },
         {
             "Category": "9",
             "Vaccinations yesterday": ",",
             "Cumulative total": "5",
-            "Vaccinated or booked": "6"
+            "Vaccinated or booked": "8"
         }
     ]
 }
