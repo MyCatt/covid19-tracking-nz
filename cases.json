@@ -1,13 +1,13 @@
 {
     "size": 1,
-    "added": "2022-03-20 00:01:20.874689",
+    "added": "2022-03-20 00:20:19.873871",
     "body": [
         {
-            "New cases reported during the past 24 hours": "18559",
-            "At the border": "186",
-            "In the community": "123479",
+            "New cases reported during the past 24 hours": "12046",
+            "At the border": "193",
+            "In the community": "120941",
             "Under investigation/other": "0",
-            "Total": "123665"
+            "Total": "121134"
         }
     ]
 }
