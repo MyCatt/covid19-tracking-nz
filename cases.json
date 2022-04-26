@@ -1,13 +1,13 @@
 {
     "size": 1,
-    "added": "2022-04-26 00:40:19.762855",
+    "added": "2022-04-26 01:00:51.800124",
     "body": [
         {
-            "New cases reported during the past 24 hours": "5747",
-            "At the border": "385",
-            "In the community": "58453",
+            "New cases reported during the past 24 hours": "6442",
+            "At the border": "413",
+            "In the community": "56570",
             "Under investigation/other": "0",
-            "Total": "58838"
+            "Total": "56983"
         }
     ]
 }
