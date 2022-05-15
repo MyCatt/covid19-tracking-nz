@@ -1,13 +1,13 @@
 {
     "size": 1,
-    "added": "2022-05-15 01:01:04.857995",
+    "added": "2022-05-15 01:20:27.744028",
     "body": [
         {
-            "New cases reported during the past 24 hours": "7130",
-            "At the border": "515",
-            "In the community": "53145",
+            "New cases reported during the past 24 hours": "5819",
+            "At the border": "517",
+            "In the community": "53238",
             "Under investigation/other": "0",
-            "Total": "53660"
+            "Total": "53755"
         }
     ]
 }
