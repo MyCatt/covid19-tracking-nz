@@ -1,1 +1,1 @@
-### New cases reported during the past 24 hours: 7965<br/>In the community: 48544<br/>At the border: 520<br/>Total: 49064
+### New cases reported during the past 24 hours: 6301<br/>In the community: 47933<br/>At the border: 501<br/>Total: 48434
