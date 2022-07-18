@@ -1,174 +1,174 @@
 {
     "size": 21,
-    "added": "2022-07-18 01:01:03.960555",
+    "added": "2022-07-18 01:20:25.477736",
     "body": [
         {
             "Location": "Auckland",
-            "Active": "6456",
-            "Recovered": "135241",
+            "Active": "6271",
+            "Recovered": "136082",
             "Deceased": "131",
-            "Total": "141828",
-            "New cases in last 24 hours": "590"
+            "Total": "142484",
+            "New cases in last 24 hours": "658"
         },
         {
             "Location": "Bay of Plenty",
-            "Active": "2923",
-            "Recovered": "67182",
-            "Deceased": "108",
-            "Total": "70213",
-            "New cases in last 24 hours": "266"
+            "Active": "2949",
+            "Recovered": "67495",
+            "Deceased": "109",
+            "Total": "70553",
+            "New cases in last 24 hours": "340"
         },
         {
             "Location": "Canterbury/West Coast*",
-            "Active": "10446",
-            "Recovered": "197263",
-            "Deceased": "268",
-            "Total": "207977",
-            "New cases in last 24 hours": "1005"
+            "Active": "10416",
+            "Recovered": "198549",
+            "Deceased": "274",
+            "Total": "209239",
+            "New cases in last 24 hours": "1263"
         },
         {
             "Location": "Capital & Coast/Hutt**",
-            "Active": "7629",
-            "Recovered": "146661",
-            "Deceased": "152",
-            "Total": "154442",
-            "New cases in last 24 hours": "702"
+            "Active": "7477",
+            "Recovered": "147671",
+            "Deceased": "156",
+            "Total": "155304",
+            "New cases in last 24 hours": "862"
         },
         {
             "Location": "Counties Manukau",
-            "Active": "6325",
-            "Recovered": "169096",
-            "Deceased": "167",
-            "Total": "175588",
-            "New cases in last 24 hours": "552"
+            "Active": "6205",
+            "Recovered": "169920",
+            "Deceased": "170",
+            "Total": "176295",
+            "New cases in last 24 hours": "705"
         },
         {
             "Location": "Hawke's Bay",
-            "Active": "3264",
-            "Recovered": "50028",
+            "Active": "3192",
+            "Recovered": "50452",
             "Deceased": "54",
-            "Total": "53346",
-            "New cases in last 24 hours": "277"
+            "Total": "53698",
+            "New cases in last 24 hours": "352"
         },
         {
             "Location": "Lakes",
-            "Active": "1387",
-            "Recovered": "29532",
+            "Active": "1406",
+            "Recovered": "29683",
             "Deceased": "41",
-            "Total": "30960",
-            "New cases in last 24 hours": "128"
+            "Total": "31130",
+            "New cases in last 24 hours": "169"
         },
         {
             "Location": "Mid Central",
-            "Active": "2762",
-            "Recovered": "50076",
-            "Deceased": "75",
-            "Total": "52913",
-            "New cases in last 24 hours": "247"
+            "Active": "2753",
+            "Recovered": "50391",
+            "Deceased": "77",
+            "Total": "53221",
+            "New cases in last 24 hours": "308"
         },
         {
             "Location": "Nelson Marlborough",
-            "Active": "2057",
-            "Recovered": "42826",
+            "Active": "2046",
+            "Recovered": "43060",
             "Deceased": "39",
-            "Total": "44922",
-            "New cases in last 24 hours": "196"
+            "Total": "45145",
+            "New cases in last 24 hours": "222"
         },
         {
             "Location": "Northland",
-            "Active": "1541",
-            "Recovered": "43881",
+            "Active": "1532",
+            "Recovered": "44050",
             "Deceased": "62",
-            "Total": "45484",
-            "New cases in last 24 hours": "127"
+            "Total": "45644",
+            "New cases in last 24 hours": "162"
         },
         {
             "Location": "South Canterbury",
-            "Active": "909",
-            "Recovered": "18689",
+            "Active": "896",
+            "Recovered": "18793",
             "Deceased": "29",
-            "Total": "19627",
-            "New cases in last 24 hours": "99"
+            "Total": "19718",
+            "New cases in last 24 hours": "91"
         },
         {
             "Location": "Southern",
-            "Active": "5824",
-            "Recovered": "105317",
+            "Active": "5934",
+            "Recovered": "105901",
             "Deceased": "138",
-            "Total": "111279",
-            "New cases in last 24 hours": "577"
+            "Total": "111973",
+            "New cases in last 24 hours": "694"
         },
         {
             "Location": "Tair\u0101whiti",
-            "Active": "490",
-            "Recovered": "14990",
+            "Active": "480",
+            "Recovered": "15055",
             "Deceased": "17",
-            "Total": "15497",
-            "New cases in last 24 hours": "31"
+            "Total": "15552",
+            "New cases in last 24 hours": "55"
         },
         {
             "Location": "Taranaki",
-            "Active": "1449",
-            "Recovered": "37328",
+            "Active": "1430",
+            "Recovered": "37498",
             "Deceased": "60",
-            "Total": "38837",
-            "New cases in last 24 hours": "124"
+            "Total": "38988",
+            "New cases in last 24 hours": "151"
         },
         {
             "Location": "Unknown",
-            "Active": "39",
-            "Recovered": "639",
+            "Active": "37",
+            "Recovered": "643",
             "Deceased": "1",
-            "Total": "679",
-            "New cases in last 24 hours": "1"
+            "Total": "681",
+            "New cases in last 24 hours": "3"
         },
         {
             "Location": "Waikato",
-            "Active": "4434",
-            "Recovered": "114170",
-            "Deceased": "171",
-            "Total": "118775",
-            "New cases in last 24 hours": "398"
+            "Active": "4362",
+            "Recovered": "114711",
+            "Deceased": "173",
+            "Total": "119246",
+            "New cases in last 24 hours": "472"
         },
         {
             "Location": "Wairarapa",
-            "Active": "872",
-            "Recovered": "13311",
+            "Active": "877",
+            "Recovered": "13427",
             "Deceased": "30",
-            "Total": "14213",
-            "New cases in last 24 hours": "82"
+            "Total": "14334",
+            "New cases in last 24 hours": "121"
         },
         {
             "Location": "Waitemat\u0101",
-            "Active": "8643",
-            "Recovered": "160370",
-            "Deceased": "186",
-            "Total": "169199",
-            "New cases in last 24 hours": "716"
+            "Active": "8421",
+            "Recovered": "161475",
+            "Deceased": "188",
+            "Total": "170084",
+            "New cases in last 24 hours": "885"
         },
         {
             "Location": "Whanganui",
-            "Active": "1125",
-            "Recovered": "17994",
-            "Deceased": "29",
-            "Total": "19148",
-            "New cases in last 24 hours": "105"
+            "Active": "1090",
+            "Recovered": "18127",
+            "Deceased": "30",
+            "Total": "19247",
+            "New cases in last 24 hours": "99"
         },
         {
             "Location": "At the Border",
-            "Active": "2187",
-            "Recovered": "13635",
+            "Active": "2266",
+            "Recovered": "13921",
             "Deceased": "5",
-            "Total": "15827",
-            "New cases in last 24 hours": "270"
+            "Total": "16192",
+            "New cases in last 24 hours": "363"
         },
         {
             "Location": "Total",
-            "Active": "70762",
-            "Recovered": "1428229",
-            "Deceased": "1763",
-            "Total": "1500754",
-            "New cases in last 24 hours": "6493"
+            "Active": "70040",
+            "Recovered": "1436904",
+            "Deceased": "1784",
+            "Total": "1508728",
+            "New cases in last 24 hours": "7975"
         }
     ]
 }
