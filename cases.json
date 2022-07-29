@@ -1,13 +1,13 @@
 {
     "size": 1,
-    "added": "2022-07-29 00:40:25.725080",
+    "added": "2022-07-29 01:01:04.488512",
     "body": [
         {
-            "In the last 24 hours": "7939",
-            "Reinfections (< 90 days)": "456",
-            "Total since first New Zealand case": "106",
-            "Cases reported": "1597516",
-            "Reinfections": "22149"
+            "In the last 24 hours": "7918",
+            "Reinfections (< 90 days)": "493",
+            "Total since first New Zealand case": "117",
+            "Cases reported": "1605416",
+            "Reinfections": "22638"
         }
     ]
 }
